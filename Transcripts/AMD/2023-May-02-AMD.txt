@@ -1,0 +1,898 @@
+Advanced Micro Devices (AMD) Q1 2023 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Advanced Micro Devices, Inc. (AMD)
+NASDAQ: AMD · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+476.15
+-9.24 (-1.90%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+472.12
+-4.03 (-0.85%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q1 2023
+May 2, 2023
+Quarterly report
+Slides
+Earnings release
+Play Audio
+Download Transcript
+Operator
+Hello, and welcome to the AMD first quarter 2023 earnings conference call.
+If anyone should require operator assistance, please press star zero on your telephone keypad.
+A question-and-answer session will follow the formal presentation.
+As a reminder, this conference is being recorded.
+It's now my pleasure to turn the call over to Ruth Cotter.
+Please go ahead, Ruth.
+Ruth Cotter
+SVP and Chief Administrative Officer, AMD
+Thank you, welcome to AMD's first-quarter 2023 financial results conference call.
+By now, you should have had the opportunity to review a copy of our earnings press release and accompanying slideware.
+If you've not reviewed these documents, they can be found on the investor relations page of amd.com.
+We will refer primarily to non-GAAP financial measures during this call.
+The full non-GAAP to GAAP reconciliations are available in today's press release and slides posted on our website.
+Participants on today's conference call are Dr. Lisa Su, our Chair and Chief Executive Officer, and Jean Hu, our Executive Vice President, Chief Financial Officer, and Treasurer.
+This is a live call and will be replayed via webcast on our website.
+Before we begin today's call, we would like to note that Jean Hu will attend the JPMorgan Annual Technology, Media, & Communications Conference on Tuesday, May 23rd.
+Dan McNamara, Senior Vice President and General Manager, Server Business Unit, will attend the Bank of America Global Technology Conference on Tuesday, June sixth.
+Our second quarter 2023 quiet time is expected to begin at the close of business on Friday, June 16th.
+Today's discussion contains forward-looking statements based on current beliefs, assumptions, and expectations, speak only as of today, and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+Please refer to the cautionary statement in our press release for more information on factors that could cause actual results to differ materially.
+With that, I'll hand the call over to Lisa.
+Lisa?
+Lisa Su
+Chair and CEO, AMD
+Thank you, Ruth.
+Good afternoon to all those listening in today.
+We executed very well in the first quarter as we delivered better than expected revenue and earnings in a mixed demand environment, launched multiple leadership products across our businesses, and made significant progress accelerating our AI roadmap and customer engagements across our portfolio.
+First quarter revenue was $5.4 billion, a decrease of 9% year-over-year.
+Sales of our data center and embedded products contributed more than 50% of overall revenue in the quarter as cloud and embedded revenue grew significantly year-over-year.
+Looking at the first quarter business results, data center segment revenue of $1.3 billion was flat year-over-year, with higher cloud sales offset by lower enterprise sales.
+In cloud, the quarter played out largely as we expected.
+EPYC CPU sales grew by a strong double-digit % year-over-year, but declined sequentially as elevated in-inventory levels with some MDC customers resulted in a lower sell-in TAM for the quarter.
+Against this backdrop, we were pleased that the largest cloud providers further expanded their AMD deployments in the quarter to power a larger portion of their internal workloads and public instances. 28 new AMD instances launched in the first quarter, including multiple confidential computing offerings from Microsoft Azure, Google Cloud, and Oracle Cloud that take advantage of the unique security features of our EPYC processors.
+In total, we now have more than 640 AMD-powered public instances available.
+Enterprise sales declined year-over-year and sequentially as end customer demand softened due to near-term macroeconomic uncertainty.
+We continued growing our enterprise pipeline and closed multiple wins with Fortune 500 automotive, technology, and financial companies in the quarter.
+We made strong progress in the quarter ramping our Zen 4 EPYC CPU portfolio.
+All of our large cloud customers have Genoa running in their data centers and are on track to begin broad deployments to power their internal workloads and public instances in the second quarter.
+For the enterprise, Dell, HPE, Lenovo, Supermicro, and other leading providers entered production on new Genoa server platforms that complement their existing 3rd Gen EPYC platforms.
+We are on track to launch Bergamo, our first cloud-native server CPU, Genoa-X, our 4th Gen EPYC processor with 3D chiplets for leadership and technical computing workloads later this quarter.
+Although we expect server demand to remain mixed in the second quarter, we are well-positioned to grow our cloud and enterprise footprint in the second half of the year based on the strong customer response to the performance and TCO advantages of Genoa, Bergamo, and Genoa-X.
+Looking at our broader data center business, in networking, Microsoft Azure launched their first instance powered by our Pensando DPU and software stack that can significantly increase application performance for networking-intensive workloads by enabling 10x more connections per second compared to non-accelerated instances.
+We expanded our data center product portfolio with the launch of our first ASIC-based Alveo Data Center Media Accelerator that supports 4x the number of simultaneous video streams compared to our prior generation.
+In supercomputing, the Max Planck Society announced plans to build the first supercomputer in the EU powered by 4th Gen EPYC CPUs and Instinct MI300 accelerators that is expected to deliver a three times increase in application performance and significant TCO improvements compared to their current system.
+Our AI activities increased significantly in the first quarter, driven by expanded engagements with a broad set of data center and embedded customers. We expanded the software ecosystem support for our Instinct GPUs in the first quarter, highlighted by the launch of the widely used PyTorch 2.0 framework, which now offers native support for our ROCm software.
+In early April, researchers announced they used the LUMI supercomputer, powered by 3rd Gen EPYC CPUs and Instinct MI250 accelerators, to train the largest Finnish language model to date.
+Customer interest has increased significantly for our next generation Instinct MI300 GPUs for both AI training and inference of large language models.
+We made excellent progress achieving key MI300 silicon and software readiness milestones in the quarter, and we're on track to launch MI300 later this year to support the El Capitan exascale supercomputer win at Lawrence Livermore National Laboratory and large cloud AI customers.
+To execute our broad AI strategy and significantly accelerate this key part of our business, we brought together multiple AI teams from across the company into a single organization under Victor Peng.
+The new AI group has responsibility for owning our end-to-end AI hardware strategy and driving development of a complete software ecosystem, including optimized libraries, models, and frameworks spanning our full product portfolio.
+Turning to our client segment.
+Revenue declined 65% year-over-year to $739 million as we shipped significantly below consumption to reduce downstream inventory.
+As we stated on our last earnings call, we believe the first quarter was the bottom for our client processor business.
+We expanded our leadership desktop and notebook processor portfolio significantly in the quarter.
+In desktops, we launched the industry's fastest gaming processors with our Ryzen 7000 X3D series CPUs that combine our Zen 4 core with industry-leading 3D chiplet packaging technology.
+In mobile, the first notebooks powered by our Dragon Range CPUs launched a strong demand, with multiple third-party reviews highlighting how our 16-core Ryzen 9 7945HX CPU is now the fastest mobile processor available.
+We also ramped production of our Zen 4-based Phoenix Ryzen 7040 Series CPUs in the first quarter for ultrathin and gaming notebooks to support the more than 250 ultrathin gaming and commercial notebook design wins on track to launch this year from Acer, Asus, Dell, HP, and Lenovo.
+Looking at the year, we continue to expect the PC TAM to be down approximately 10% for 2023 to approximately 260 million units.
+Based on the strength of our product portfolio, we expect our client CPU sales to grow in the second quarter and in the seasonally stronger second half of the year.
+Now turning to our gaming segment.
+Revenue declined 6% year-over-year to $1.8 billion as higher semi-custom revenue was offset by lower gaming graphic sales.
+Semi-custom SoC revenue grew year-over-year as demand for premium consoles remained strong following the holiday cycle.
+In gaming graphics, channel sell-through of our Radeon RX 6000 and Radeon RX 7000 series GPUs increased sequentially.
+We saw strong sales of our high-end Radeon RX 7900 XTX GPUs in the first quarter.
+We're on track to expand our RDNA 3 GPU portfolio with the launch of new mainstream Radeon RX 7000 series GPUs this quarter.
+Looking at our embedded segment, revenue increased significantly year-over-year to a record $1.6 billion.
+We saw strength across the majority of our embedded markets, led by increased demand from industrial, vision and healthcare, test and emulation, communications, aerospace and defense, and automotive customers.
+Demand for our adaptive computing solutions continues to grow as industrial vision and healthcare customers actively work to add more advanced compute capabilities across their product lines.
+We also released new Vitis AI software libraries to enable advanced visualization and AI capabilities for our medical customers and launched our next-generation Kria platform that provides a turnkey solution to deploy our leadership adaptive computing capabilities for smart camera, industrial, and machine vision applications.
+In communications, we saw strength with wired customers as new infrastructure design wins ramped into production.
+We also launched Zynq RFSoC products to accelerate 4G and 5G radio deployments in cost-sensitive markets and formed our first telco solutions lab to validate end-to-end solutions based on AMD CPUs, adaptive SoCs, FPGAs, DPUs, and software.
+In automotive, deployments of our adaptive silicon solutions for high-end ADAS and AI features grew in the quarter, highlighted by Subaru rolling out its AMD-based EyeSight 4 platform across their full range of vehicles.
+In addition, we expanded our embedded processor portfolio with the launches of Ryzen 5000 and EPYC 9000 embedded series processors with leadership performance and efficiency as we focus on growing share in the security, storage, edge server, and networking markets.
+Looking more broadly across our embedded business, we are making great progress in bringing together our expanded portfolio and scale to drive deeper engagements with our largest embedded customers.
+In summary, I'm pleased with our operational and financial performance in the first quarter.
+In the near term, we continue to see a mixed demand environment based on the uncertainties in the macro environment.
+Based on customer demand signals, we expect second quarter revenue will be flattish sequentially, with growth in our client and data center segments offset by modest declines in our gaming and embedded segments. We remain confident in our ability to grow in the second half of the year, driven by adoption of our Zen 4 product portfolio, improving demand trends in our client business, and the early ramp of our Instinct MI300 accelerators for HPC and AI.
+Looking longer term, we have significant growth opportunities ahead based on successfully delivering our roadmaps and executing our strategic data center and embedded property priorities, led by accelerating adoption of our AI products.
+We are in the very early stages of the AI computing era, the rate of adoption and growth is faster than any other technology in recent history.
+As the recent interest in generative AI highlights, bringing the benefits of large language models and other AI capabilities to cloud, edge, and endpoints requires significant increases in compute performance.
+AMD is very well positioned to capitalize on this increased demand for compute based on our broad portfolio of high performance and adaptive compute engines, the deep relationships we have established with customers across a diverse set of large markets, and our expanding software capabilities.
+We are very excited about our opportunity in AI.
+This is our number one strategic priority, and we are engaging deeply across our customer set to bring joint solutions to the market, led by our upcoming Instinct MI300 GPUs, Ryzen 7040 Series CPUs with Ryzen AI, Zynq UltraScale+ MPSoCs, Alveo V70 data center inference accelerators, and Versal AI adaptive data center and edge SoCs.
+I look forward to sharing more about our AI progress over the coming quarters as we broaden our portfolio and grow this strategic part of our business.
+I'd like to turn the call over to Jean to provide some additional color on our first quarter results.
+Jean?
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Thank you, Lisa.
+Good afternoon, everyone.
+I'll start with the review of our financial results for the first quarter and then provide our current outlook for the second quarter of fiscal 2023.
+As a reminder, for comparative purposes, first quarter 2022 results included only partial quarter financial results from the acquisition of Xilinx, which closed in February 2022.
+Revenue in the first quarter was $5.4 billion, a decrease of 9% year-over-year, as embedded segment strength was offset by lower client segment revenue.
+Gross margin was 50%, down 2.7 percentage points from a year ago, primarily impacted by client segment performance.
+Operating expenses were $1.6 billion, increasing 18% year-over-year, primarily due to inclusion of a full quarter of expenses from Xilinx and the Pensando acquisitions.
+Operating income was $1.1 billion, down $739 million year-over-year, and the operating margin was 21%.
+Interest expense, taxes, and other was $128 million.
+For the first quarter, diluted earning per share was $0.60 due to better-than-expected revenue and operating expenses.
+Turning to our reportable segment for the first quarter.
+Starting with the data center segment, revenue was $1.3 billion, flat year-over-year, driven primarily by higher sales of EPYC processors to cloud customers, offset by lower enterprise server processor sales.
+Data center segment operating income was $148 million, or 11% of revenue, compared to $427 million or 33% a year ago.
+Lower operating income was primarily due to product mix and increased R&D investments to address larger opportunities ahead of us.
+Client segment revenue was $739 million, down 65% year-over-year as we shipped significantly below consumption to reduce downstream inventory.
+We expect improvement in second quarter client segment revenue and a seasonally stronger second half.
+Client segment operating loss was $172 million, compared to operating income of $692 million a year ago, primarily due to lower revenue.
+Gaming segment revenue was $1.8 billion, down 6% year-over-year.
+Semi customer revenue grew double-digit percentage year-over-year, which was more than offset by lower gaming graphics revenue.
+Gaming segment operating income was $314 million, or 18% of revenue, compared to $358 million or 19% a year ago.
+The decrease was primarily due to lower gaming graphics revenue.
+Embedded segment revenue was $1.6 billion, up $967 million year-over-year, primarily due to full quarter of Xilinx revenue and a strong performance across multiple end market.
+Embedded segment operating income was $798 million or 51% of revenue, compared to $277 million or 46% a year ago, primarily driven by the inclusion of a full quarter of Xilinx.
+Turning to the balance sheet and the cash flow.
+During the quarter, we generated $486 million in cash from operations, reflecting our strong financial model despite the mixed demand environment.
+Free cash flow was $328 million.
+In the first quarter, we increased inventory by $464 million, primarily in anticipation of the ramp of new data center and the client's product in advanced process node. At the end of the quarter, cash equivalents, and short-term investment were $5.9 billion.
+We returned $241 million to shareholders through share repurchases.
+We have $6.3 billion in remaining authorization for share repurchases.
+In summary, in an uncertain macroeconomic environment, the AMD team executed very well, delivering better than expected top-line revenue and earnings.
+Turning to our second quarter 2023 outlook.
+We expect revenue to be approximately $5.3 billion ±$300 million, a decrease of approximately 19% year-over-year, approximately flat sequentially.
+Year-over-year, we expect the client, gaming, and data center segments to decline, partially offset by embedded segment growth.
+Sequentially, we expect client and data center segment growth to be offset by modest gaming and embedded segment declines.
+In addition, we expect non-GAAP growth margin to be approximately 50%, non-GAAP operating expenses to be approximately $1.6 billion, effective tax rate to be 13%, and the diluted share count is expected to be approximately 1.62 billion shares.
+In closing, I'm pleased with our strong top line and bottom line execution.
+We have a very strong financial model, and we'll continue to invest in our long-term strategic priorities, including accelerating our AI offerings to drive sustainable value creation over the long term.
+With that, I'll turn it back to Ruth for Q&A session.
+Ruth Cotter
+SVP and Chief Administrative Officer, AMD
+Thank you, Jean and Kevin.
+We're happy to poll the audience for questions.
+Operator
+Thank you.
+We'll now be conducting a question and answer session.
+We ask you please ask one question, one follow-up, then return to the queue.
+If you'd like to be placed in the question queue, please press star one at this time.
+A confirmation tone will indicate your line is in the question queue.
+You may press star two if you'd like to remove your question from the queue.
+One moment please while we poll for questions.
+Our first question today is coming from Vivek Arya from Bank of America.
+Your line is now live.
+Vivek Arya
+Managing Director and Senior Analyst, Bank of America Securities
+Thanks for the question.
+For my first one, Lisa, when I look at your full year data center outlook, for some growth, that implicitly suggests data center, right, could be up 30% in the second half versus the first half, right?
+I'm curious, what is your confidence and visibility and some of the assumptions that go into that view?
+Is it, you know, you think there is a, you know, much bigger ramp in the new products?
+Is it enterprise recovery?
+Is it pricing?
+Just give us a sense for how we should think about the confidence and visibility of the strong ramp that is implied in your second half data center outlook.
+Lisa Su
+Chair and CEO, AMD
+Right.
+Vivek, thanks for the question.
+Maybe let me, you know, give you some context on what's going on in the data center right now.
+You know, first of all, we have said that it's a mixed environment in the data center.
+The first half of the year, there are some of the larger cloud customers that are working through some inventory and optimization, as well as a weaker enterprise.
+As we go into the second half of the year, we see a couple things.
+You know, first, you know, our roadmap is very strong.
+You know, the feedback that we're getting, working with our customers on, you know, Genoa, it's ramping well.
+It is, you know, very differentiated in terms of TCO and overall performance, we think it's very well-positioned.
+Much of the work that we've done in the first half of the year, in the first quarter and here in the second quarter, is to ensure that we, complete all of that work such that we can ramp across a broader set of workloads, as we go into the second half of the year.
+I would say, from an overall market standpoint, I think enterprise will still be mixed with the notion that we expect some improvement.
+Depends a little bit on the macro situation.
+As we go into the second half of the year, in addition to Genoa, we're also ramping up Bergamo.
+That's on track to launch here in the second quarter, and we'll ramp in the second half of the year.
+As we get towards the end of the year, we also have our GPU ramp of MI300.
+You know, with that, we start the ramp in the fourth quarter of our supercomputing wins as well as our early cloud AI wins.
+Those are all the, you know, factors.
+Of course, we'll have to see how the year plays out, but we feel very good about how we're positioned from an overall, you know, product and roadmap standpoint for data center.
+Vivek Arya
+Managing Director and Senior Analyst, Bank of America Securities
+All right.
+For my, follow-up, Lisa, how do you see the market share, evolve in the data center in the second half?
+Do you think that the competitive gap between your and your competitors' products, has that narrowed, or you still think that in the second half you have a chance to, gain, market share in the data center?
+Lisa Su
+Chair and CEO, AMD
+Yeah, absolutely, Vivek.
+Well, I mean, we've gained share nicely, you know, over the last four years.
+When you look at our data center progression, it's actually been pretty steady.
+As we go into the second half of this year, I think we continue to believe that we have a very strong competitive position, so we do think that positions us well to gain share.
+You know, in the conversations that we're having with customers, I think they're enthusiastic about Zen 4 and what it can bring into, you know, cloud workloads as well as enterprise workloads.
+I think actually Genoa is extremely well-positioned for enterprise, where we have been underrepresented.
+We feel good about the roadmap.
+I mean, obviously it's competitive, but we feel very good about our ability to continue to gain share.
+Vivek Arya
+Managing Director and Senior Analyst, Bank of America Securities
+Thank you, Lisa.
+Operator
+Thank you.
+Next question is coming from Toshiya Hari from Goldman Sachs.
+Your line is now live.
+Toshiya Hari
+Managing Director, Goldman Sachs
+Hi.
+Good afternoon.
+Thank You so much for taking the question.
+Lisa, I wanted to ask about the embedded business.
+It's been a really strong business for you since the acquisition of Xilinx.
+You're guiding the business down sequentially in Q2.
+Is this sort of the macro, you know, slash cycle kicking in, or is it something supply related?
+If you can kind of expand on, you know, the Q2 outlook there and your expectations for the second half, that would be helpful.
+Thanks.
+Lisa Su
+Chair and CEO, AMD
+Yeah, absolutely, Toshiya.
+First, thanks for the question.
+I mean, I think the embedded business has performed extremely well over the last four or five quarters.
+You know, Q1 was another record for the embedded business.
+When we look underneath it, there is a broad set of market segments that we have exposure to, and the majority of them are actually doing very well.
+Our thought process for, you know, sort of modest modest decline into Q2 is that, you know, we did have a bunch of backlog that we're in the process of clearing, and that backlog will clear in Q2, and then we expect that the growth will moderate a bit.
+We still very much like the positioning of, sort of our aerospace and defense, our industrial, our test and emulation business, our automotive business.
+We expect, you know, wireless trends to be a little bit weaker, as well as consumer trends.
+Those are kind of the puts and takes in the market.
+I would say, you know, the business has performed well above our expectations.
+Toshiya Hari
+Managing Director, Goldman Sachs
+That's helpful.
+Thank you.
+As my follow-up, maybe one for Jean on the gross margin, you know, side of things.
+In your slide deck, I think you're guiding gross margins up half over half in the second half.
+Can you maybe speak to the puts and takes and, you know, the drivers, as you think about gross margins over the next six to nine months?
+Thank you.
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Yeah.
+Thank you for the question.
+Our gross margin is primarily driven by mix.
+If you look at the first half, first quarter performance and second quarter guide, we are very pleased with the strong gross margin performance in both the data center and the embedded segment.
+We have been seeing headwinds from client segment impacting our gross margin.
+Going to the second half, we do expect gross margin improvement because the data center is going up and the embedded continue to be relatively strong.
+The pace of improvement in the second half actually will be largely depend on the client segment.
+We think the client segment gross margin is also going to improve.
+Overall, it's going to be below corporate average.
+The pace of improvement of gross margin, could be dependent on the pace of the client business recovery in second half.
+In the longer term, right, when we look at our business opportunities, the largest incremental revenue opportunities are going to come from data center and the embedded segment.
+We are feeling very good about longer-term gross margin going up continuously.
+Toshiya Hari
+Managing Director, Goldman Sachs
+Very helpful.
+Thank you.
+Operator
+Thank you.
+Next question is coming from Aaron Rakers from Wells Fargo.
+Your line is now live.
+Aaron Rakers
+Managing Director and Technology Analyst, Wells Fargo Se
+Yeah, thanks for taking the question.
+I've got two as well.
+I guess the first question going back on just, like, the cadence of the server CPU cycle with Genoa and Bergamo, I think it's great to hear that you guys are on track to launch Bergamo here.
+You know, there's been some discussion here throughout this last quarter around some DDR5, you know, challenges.
+I think there's PMIC issues.
+I'm just curious of how you know, if those issues have presented themself or how you would characterize the cadence of the ramp cycle of Genoa at this point?
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Aaron.
+Yeah, look, I think Genoa, you know, we always said as we launched it that it would be a little bit more of a longer transition compared to Milan because it is a new platform.
+It is the new DDR5, it's PCIe Gen 5.
+For many of our top customers, they're also doing other things other than upgrading the CPUs.
+From that standpoint, I would say the ramp is going about as we expected.
+We've seen, you know, a lot of interest, a lot of, you know, customer engineering work that we're doing together in the data centers with our customers.
+You know, we feel great about the set of workloads and, you know, we see expansion in the workloads going forward.
+You know, overall, you know, our expectation is, particularly as we go into the second half, we'll see Genoa ramp more broadly.
+Genoa and Milan are gonna coexist, you know, throughout the year, just given, you know, sort of the breadth of platforms that we have.
+Aaron Rakers
+Managing Director and Technology Analyst, Wells Fargo Se
+Anything specific on the DDR5 questions that come up?
+Then I'm curious, my second question, just real quick is the MI300.
+You know, if we look out beyond just the El Capitan deployment through the course of this year, how do you guys think about success in that data center GPU market as we think about, you know, beyond just El Capitan?
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Aaron.
+Back to the DDR5 question.
+We haven't seen anything specific on DDR5.
+You know, it's just normal platform bring up that we're seeing.
+Now as it relates to your question about MI300, look, we're really excited about the AI opportunity.
+I think that is success for us, is having a, you know, significant part of the AI overall opportunity.
+You know, AI for us is broader than cloud.
+I mean, it also includes what we're doing in client and embedded.
+Specifically as it relates to MI300, you know, MI300 is actually very well positioned for both, you know, HPC, sort of supercomputing workloads, as well as for AI workloads.
+With the recent interest in generative AI, I would say the pipeline for MI300 has expanded considerably here over, you know, the last few months, and we're excited about that.
+You know, we're putting a lot more resources, I mentioned on the prepared remarks, the work that we're doing, sort of taking our Xilinx and, you know, sort of the overall, you know, AMD AI efforts and collapsing them into one organization.
+That's primarily to accelerate our AI software work as well as platform work.
+Success for MI300 is for sure a significant part of, you know, sort of the growth in AI in the cloud.
+You know, I think we feel good about how we're positioned there.
+Aaron Rakers
+Managing Director and Technology Analyst, Wells Fargo Se
+That's great.
+Thank you.
+Operator
+Thank you.
+Next question is coming from Matt Ramsay from TD Cowen.
+Your line is now live.
+Matt Ramsay
+Managing Director and Senior Semiconductor Analyst, TD Cowen
+Oh, yes.
+Thank you.
+Good afternoon, everybody.
+Lisa, for my first question, I think just the way the business has trended, right, with enterprise and with China in the data center market being a bit softer recently, and it seems like that's kind of continuing into the second quarter.
+It occurs to me that a big percentage of your data center business, particularly in server in the second half of the year, is gonna be driven by US hyperscale.
+I guess my question is the level of visibility you have to unit volumes, to pricing, to timing of ramps.
+If you could walk us through that a little bit, given it's customer concentrated, I imagine you'd have some level of visibility.
+You mentioned growth for the year in data center.
+If you could be a little bit more precise there, that's.
+I understand there's market dynamics, but it's a bit of a vague comment, and folks have just pushed me to ask about quantifying the growth for the year.
+Thanks.
+Lisa Su
+Chair and CEO, AMD
+Sure.
+Matt, thanks for the question.
+Look, I think, as we, you know, work with our largest cloud customers, in the data center segments, particularly with our EPYC CPUs, we have very good conversations in terms of what their ramp plans are, what their qualification plans are, you know, which workloads, which instances.
+I feel, you know, that we have good visibility.
+You know, obviously, you know, some of this is still dependent on overall, you know, macro situation and overall demand.
+Our, you know, our view is that there is, you know, a lot of good progress in the data center.
+Now in terms of, you know, quantification, as I said, there's a lot of puts and takes.
+You know, my view is that enterprise will improve as we go into the second half, and we're even seeing, I would say some very early signs of, you know, some improvement in, you know, China as well.
+You know, our view is, I think, double-digit data center growth is, you know, is what we currently see.
+You know, certainly, we would like to, you know, ramp, you know, Genoa and Bergamo as, you know, a large piece.
+You know, given the strength of those products, you know, we'd like to see them, you know, grow share here over the next couple of quarters.
+Matt Ramsay
+Managing Director and Senior Semiconductor Analyst, TD Cowen
+Thank you for that, Lisa.
+That's, that's helpful.
+For my follow-up question, I think in the prepared scripts, we're obviously under shipping sell-through to clear the channel in the client business in the first half of the year.
+I think the language that was used was seasonal improvements in the second half.
+Are you guys expecting to come back to shipping in line with sell-through, so to stop under shipping demand and then for on top of that seasonal improvements in the market?
+If you could just kind of help me think about the magnitudes and the moving pieces in client for the second half.
+Thanks.
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+You know, we've been under shipping sort of consumption in the client business for about three quarters now.
+You know, certainly our goal has been to normalize the inventory and the supply chain so that, you know, shipments would be closer to consumption.
+We expect that that will happen in the second half of the year, and that's what the comment meant that, you know, we believe that there will be improvements in the overall inventory positioning.
+We also believe that the client market is stabilizing.
+You know, Q1 was the bottom for our business as well as for the overall market.
+you know, from what we see, although it'll be a gradual, you know, set of improvements, we do see that, you know, the overall market, should be better in the second half of the year.
+We like our product portfolio a lot. you know, I'm excited about, you know, having AI enabled, on our, you know, Ryzen 7000 series.
+We have leadership notebook platforms with Dragon Range. you know, our desktop, roadmap is, also, quite strong with our, you know, new launch of the Ryzen 7000 X3D products.
+I think, you know, here in the second quarter, we'll still under ship, consumption a bit.
+By the second half of the year, we should be more normalized between, shipments and consumption.
+you know, we expect some seasonal improvement into the second half.
+Matt Ramsay
+Managing Director and Senior Semiconductor Analyst, TD Cowen
+Thanks, Lisa.
+Operator
+Thank you.
+Next question is coming from Joe Moore from Morgan Stanley.
+Your line is now live.
+Joseph Moore
+Managing Director and Head of US Semiconductors, Morgan Stanley
+Thank you.
+Yeah, I guess same question in terms of the cloud business.
+You mentioned some combination of kind of digestion of spending and inventory reduction.
+Can you give us a sense of, you know, how much inventory was there in hyperscale?
+How much has it come down?
+You know, how much are you sort of maybe under shipping demand in that segment?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+I think, Joe, this is a bit harder because every customer is different.
+What we're seeing is, you know, different customers are at, you know, a different place in their, you know, sort of overall cycle.
+Let me say it this way, though.
+I think we have, you know, good visibility with all of our large customers in terms of what they're trying to do, you know, for the quarter, for the year.
+Obviously, you know, some of that will depend on how the macro plays out.
+From our, you know, viewpoint, I think we're also going through a product transition between, you know, Milan and Genoa in some of these workloads.
+You know, if you put all those things into, you know, into the conversation, you know, that's why our comment was that we do believe that the second quarter will grow modestly, and then there'll be more growth in the second half of the year as it relates to the data center business.
+You know, there are lots of puts and takes.
+Every customer's in a bit of a different cycle.
+Overall, the number of workloads that they're gonna be using AMD on, we believe will expand as we go through the next few quarters.
+Joseph Moore
+Managing Director and Head of US Semiconductors, Morgan Stanley
+Great.
+Then for my follow-up, I mean, you mentioned interest in MI300 around generative AI.
+Can you talk to, you know, is that right now kind of a revenue pipeline with major hyperscalers, or is that sort of more indication of interest level?
+I'm just trying to figure out, you know, where you are in terms of establishing yourself in that market.
+Lisa Su
+Chair and CEO, AMD
+Yeah, I would say, Joe, you know, we've been, you know, at this for quite some time.
+AI has been very much a strategic priority for AMD for quite some time.
+With MI250, we've actually made strong progress.
+You know, we mentioned the prepared remarks, some of the work that was done on the LUMI supercomputer, with generative AI models.
+We've continued to do quite a bit of library optimization, with MI250 and software optimization, to really ensure that we could, you know, increase the overall performance and capabilities.
+MI300 looks really good.
+I think from everything that we see, you know, the workloads have also, you know, changed a bit in terms of whereas a year ago, you know, much of the conversation was primarily focused on training, you know, today, that has, you know, migrated to sort of large language model inferencing, which is particularly good for GPUs.
+I think from a MI300 standpoint, we do believe that we will start ramping revenue in the fourth quarter with, you know, cloud AI customers, and then it'll be more meaningful in 2024.
+Joseph Moore
+Managing Director and Head of US Semiconductors, Morgan Stanley
+Thank you.
+Operator
+Thank you.
+Next question is coming from Harlan Sur from  JPMorgan.
+Your line is now live.
+Harlan Sur
+Executive Director and Equity Research, JP Morgan
+Hi, good afternoon.
+Thanks for taking my question. good to see the strong dynamics in Embedded, you know, very diverse end markets. given their strong market share position here, the Xilinx team is in a really good position to catalyze EPYC attach or Ryzen attached to their FPGA and adaptive compute solutions, right?
+I think Embedded x86 is like a $6 billion-$8 billion per year market opportunity.
+Lisa, given a year with Xilinx in the portfolio, can you just give us an update on the synergy unlock and driving higher AMD compute attached to Xilinx sockets?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Thanks, Harlan.
+It's a great question.
+You know, the Xilinx portfolio has done extremely well with us, you know, very strong.
+I would say, you know, we continue to, you know, get more content attached to the FPGAs and the adaptive SoCs.
+We have seen the beginnings of, you know, good traction with the cross-selling, and that is, you know, opportunity to take, you know, both Ryzen and EPYC CPUs into the broader embedded market.
+I think the customers are very open to that.
+I think we have a, you know, a sales force and a go-to-market capability across this customer set that is very, you know, very helpful for that.
+I do believe that this is a long-term opportunity for us to continue to grow our embedded business.
+We've already seen some design wins as a result of the combination of, you know, the Xilinx portfolio and the AMD portfolio.
+I think we'll see a lot more of that going forward.
+Harlan Sur
+Executive Director and Equity Research, JP Morgan
+Great.
+Thanks for that.
+In terms of other opportunities, you know, there appears to be this trend towards more of your cloud and hyperscale customers opting to do their own silicon solutions around accelerated compute or AI offload engines, right?
+If I look at it, right, there are less than a handful of the world's semiconductor companies that have the compute, graphics, connectivity, IP portfolio that you guys have, as well as the capabilities to design these very complex offload SoCs, right?
+Does the team have a strategy to try and go after some of these semi-custom or full-blown ASIC-based hyperscale programs?
+Lisa Su
+Chair and CEO, AMD
+We do, Harlan, and I would put it more broadly.
+The broader point is I think we have a very complete IP portfolio across, you know, CPUs, GPUs, FPGAs, adaptive SoCs, DPUs, and a very capable, you know, semi-custom, you know, team.
+Beyond, you know, hyperscalers, I think, when we look at, you know, sort of higher volume opportunities, we think there are higher volume opportunities beyond game consoles that there are custom opportunities available.
+I think that combination of IP is very helpful.
+I think it's a long-term opportunity, you know, for us, and it's one of the areas where we think we can add value to our largest customers.
+Harlan Sur
+Executive Director and Equity Research, JP Morgan
+Perfect.
+Thank you, Lisa.
+Lisa Su
+Chair and CEO, AMD
+Thanks.
+Operator
+Thank you.
+Next question is coming from Ross Seymore from Deutsche Bank.
+Your line is now live.
+Ross Seymore
+Managing Director, Deutsche Bank
+Hi.
+Thanks for letting me ask a question.
+Lisa, I just wanna talk about the pricing environment in a general sense.
+You guys have done a great job of increasing the benefits to your customers and being able to raise prices, pass along cost increases, those sorts of things.
+The competitive intensity and the weakness in the market, at least currently, seems that it could work against that.
+In the near term, and then perhaps exiting this year into the next couple of years, can you just talk about where you think pricing is gonna go across both your data center market, most importantly, but then also in your client market?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+I think, Ross, what I would say is a couple things.
+You know, I think in the data center market, you know, the pricing is relatively stable.
+What that comes from is, you know, our goal is to add more capability, right?
+So it's a TCO equation where, you know, as we're going from, you know, Milan to Genoa, we are adding more cores, more performance, and the performance per dollar that we offer to our customers is one where it's advantageous, you know, for them to adopt.
+Our, you know, our technologies and our solutions, so I expect that.
+I think in the client, you know, business, you know, given some of the inventory conditions in there, I think that, you know, there's it's more a competitive environment.
+you know, we're all, you know, from my standpoint, we're focused on normalizing the inventory levels and, you know, with that normalization, the most important thing is to ensure that we get the shipments more in line with consumption because I think that's a healthier business environment overall.
+Then again, it's back to, you know, product values, right?
+We have to ensure that, you know, our products continue to offer, you know, superior, you know, performance per dollar, performance per watt, you know, capabilities in the market.
+Ross Seymore
+Managing Director, Deutsche Bank
+Thanks for that.
+Pivoting for my follow-up onto the AI side and MI300, I just wanted to know what you would describe as your competitive advantages.
+Everybody knows it's a market that's exploding right now.
+There's tons of demand.
+You guys have all the IP to be able to attack it, but there's a very large incumbent in that space as well.
+When you think about what AMD can bring to the market, whether it's hardware, software, heterogeneity of the products you can bring, et cetera, what do you think is the core competitive advantage that can allow you to penetrate that market successfully?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+There's a couple of aspects, Ross, and, you know, since we haven't yet announced MI300, all of the specifications, you know, we'll so some of those will come over the coming quarters.
+You know, MI300 is the first solution that has, you know, both the CPU and GPU, you know, together, and that and that has been, you know, very positive for the supercomputing market.
+I think as it relates to generative AI, and we think we have, you know, very strong value proposition from both, you know, a hardware and again, it's a performance per dollar, you know, conversation.
+I think there's a lot of demand in the market, and there's also, you know, I think given our deep customer relationships, on the EPYC side, there's actually a lot of synergy between the customer set, between the EPYC CPUs and the, you know, MI, you know, sort of, 300, you know, GPU customers.
+I think, you know, when we look at all of these together, you know, our view is that, you know, demand is strong for AI, and I think our position is also very strong given, there are very, very few, you know, sort of products that can really satisfy these large language model, you know, sort of needs.
+I think we feel confident that we can do that.
+Ross Seymore
+Managing Director, Deutsche Bank
+Thank you.
+Operator
+Thank you.
+Next question is coming from Timothy Arcuri from UBS.
+Your line is now live.
+Timothy Arcuri
+Managing Director, UBS
+Thanks a lot.
+Lisa, there was, you know, a lot more talk on this call about AI and, you know, obviously PyTorch 2.0 now, you know, supporting ROCm is a, you know, great step forward.
+How much would you say software is gonna dictate how, you know, how successful you can be for these workloads?
+You had mentioned that you're forming this new group, this new AI group.
+Do you have the internal software capabilities to be successful in AI?
+Lisa Su
+Chair and CEO, AMD
+Tim, I think the answer is yes.
+I think we have made significant progress even over the last year in terms of our software capabilities.
+You know, the way you should think about our AI portfolio is, it's really a broad AI portfolio across client, you know, sort of edge as well as cloud.
+With that, I think the Xilinx team brings a lot of, you know, background and capability, especially in inference.
+We've added significant talent in our AI software as well.
+You know, the beauty of particularly the cloud opportunity is it's not that many customers, and it's not that many workloads.
+When you have, you know, sort of, you know, very clear, you know, customer targets, we're working very, very closely with our customers on optimizing for a handful of workloads that generate significant volume.
+That gives us, you know, a, you know, very clear, target for, you know, what winning is in the market.
+We feel good about our opportunities in AI and, you know, I'd like to say that it's a multiyear journey.
+This is the beginning of what we think is, you know, a very significant market opportunity for us over the next three to five years.
+Timothy Arcuri
+Managing Director, UBS
+Thanks a lot.
+I guess as my follow-up, can you just give us a sense of sort of the overall, you know, profile that you see for revenue into the back half?
+I know you said that data center and embedded will be up this year.
+It sounds like data center, you know, probably up double digits.
+I also wanted to confirm that you think that total revenues also will be up this year-over-year?
+Lisa Su
+Chair and CEO, AMD
+Right, Tim.
+I think, you know, as we said, we're not guiding the full year just given all the puts and takes.
+We see Q2 as flattish and a second half return to growth.
+We'll have to, you know, see exactly how the macro plays out, across, you know, PCs and enterprise.
+Yes, we feel, you know, good about, you know, growth in embedded, growth in data center, you know, on the data center side, double-digit growth, sort of half the, year-over-year.
+Then, you know, we'll see how the rest of the, segments play out.
+Timothy Arcuri
+Managing Director, UBS
+Thank you.
+Operator
+Thank you.
+Next question is coming from Ambrish Srivastava from BMO Capital Markets.
+Your line is now live.
+Ambrish Srivastava
+Senior Research Analyst, BMO Capital Markets
+Hi.
+Excuse me.
+Thank you very much, Lisa.
+Actually wanted to come back to the first quarter for data center.
+That's a pretty big gap between on a Q over Q basis on your business versus Intel and, I think almost 2x.
+This is the first time you would have lost share on a Q over Q basis in a long time.
+Could you please address that?
+I acknowledge that quarters can be pretty volatile, but it seems to be a pretty large gap.
+For my follow-up, just remind us again, please, for the full year growth for data center, kind of what's embedded in the assumptions for cloud as well as enterprise?
+Thank you.
+Lisa Su
+Chair and CEO, AMD
+Yeah, let me make sure I get your question, Ambrish.
+You're asking about Q1 data center and whether we think we've lost share on a sequential basis?
+Ambrish Srivastava
+Senior Research Analyst, BMO Capital Markets
+Right.
+If I look at just your report versus what Intel reported on a Q over Q basis.
+Clearly on a year-over-year basis, you have gained share.
+I'm just comparing, you know, down 14 versus what you reported, and so that would imply that you had a share loss versus them.
+Unless the data center GPU and the Xilinx business was down significantly also on a Q over Q basis.
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Yeah.
+Ambrish, maybe I'll give you a little bit of color.
+Definitely, in Q1, the other networking business, including GPU, have been down.
+That definitely is the case.
+From share perspective, when we look at the overall Q1 reported revenue from both side, and analyze the data, we don't believe we lost a share.
+Lisa Su
+Chair and CEO, AMD
+That's right, Ambrish.
+I think you just have to go through each of the pieces.
+You know, I think from an EPYC or a server standpoint, we don't believe we lost share.
+You know, if anything, we might have, you know, gained a little bit.
+I think overall, I wouldn't look at it, you know, so closely on a quarter-by-quarter basis 'cause there are puts and takes.
+From what we see overall, you know, we believe that, you know, we have a good overall share progression as we go through the year.
+Ambrish Srivastava
+Senior Research Analyst, BMO Capital Markets
+The underlying assumptions for full year for data center?
+Lisa Su
+Chair and CEO, AMD
+Underlying assumptions for the full year.
+I think the key pieces that I talked about are, you know, Q2, let's call it modest growth.
+Still expect some cloud optimization to be happening.
+As we go into the second half of the year, we'll see a stronger ramp of Genoa and the beginnings of the ramp of Bergamo.
+We think enterprise is still more dependent on macro, but we do believe that that improves as we go into the second half of the year.
+Then we'll have the beginnings of our MI300 ramped in the fourth quarter for both, you know, supercomputing and some early AI workloads.
+Ambrish Srivastava
+Senior Research Analyst, BMO Capital Markets
+Got it.
+Thank you very much.
+Lisa Su
+Chair and CEO, AMD
+Sure.
+Operator
+Thank you.
+Next question is coming from Stacy Rasgon from Bernstein Research.
+Your line is now live.
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein Research
+Hi, guys.
+Thanks for taking my questions.
+For my first one, Lisa, can you just, like, clarify this explicitly for me?
+You said double digit data center.
+Was that a full year statement, or was that a second half year-over-year statement, or was that a half-over-half statement for data center?
+Lisa Su
+Chair and CEO, AMD
+Yeah, let me be clear.
+That was a year-over-year statement, so double-digit-
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein Research
+For the-
+Lisa Su
+Chair and CEO, AMD
+Data center growth for the full year of 2023 versus 2022.
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein Research
+Got it.
+Just given what you did in Q1 and sort of are implying for Q2, need something like 50% year-over-year growth in the second half to get there.
+You're endorsing that now?
+Lisa Su
+Chair and CEO, AMD
+I
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Yeah, your math is right.
+Lisa Su
+Chair and CEO, AMD
+Yes.
+Yes.
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein Research
+The math is right.
+Okay.
+Thank you.
+For my second question, Jean, you made a comment on gross margins where you said the increase of gross margins in the second half was dependent on gross margins in client getting better.
+I just wanna make sure, did I hear that right?
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Yes.
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein Research
+Why should I expect client margins would get better, especially given, you know, what Intel has been doing in that space to protect everything?
+Like, why is that something that's going to happen?
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Yes, Stacy, that's a good question.
+The way to think about it is if you look at our Q1 gross margin and the Q2 guide around 50%, and, as you know, both our data center and embedded have a very strong gross margin performance.
+What's the headwind that impact our gross margin is really PC client side, which as we talk about it, is we are shipping significantly under the consumption and also to digest inventory in the downstream supply chain.
+You know, typically, that's the time you get significant pressure on the ASP side and on the funding side.
+That's why our gross margin in the client segment has been challenged.
+In second half, we know it's going to be normalized.
+That's a very important fact, is when you normalize the demand and the supply.
+We continue to plan a very competitive environment.
+Don't get us wrong on that front.
+It will be better because you're not digesting the inventory, the channel funding, everything.
+Those kind of price reduction will be much less.
+We do think, second half client side gross margin will be better than first half.
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein Research
+Got it.
+Thank you.
+I apologize, I misspoke as well. 50% half-over-half in data center, not year-over-year.
+We're all doing it.
+Thank you very much.
+Appreciate it.
+Ruth Cotter
+SVP and Chief Administrative Officer, AMD
+Operator, we'll take two more questions, please.
+Operator
+Certainly.
+Our next question is coming from Blayne Curtis from Barclays.
+Your line is now live.
+Blayne Curtis
+Managing Director, Barclays
+Hey, thanks.
+My question I had two, maybe just start with following on Stacy's prior question.
+Could you just comment on what client ASPs did in the March quarter?
+I mean, I assume they're down a decent amount, your competitor was down, any color you could provide on what the environment was in March?
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure.
+Blayne.
+The ASPs were down quite a bit on a year-over-year basis, if you're, if you're talking about, you know, the overall client business.
+You know, what that is that's also the client ASPs were higher in the first half of 2022, if you just think about what the supply environment was or the demand environment was in that.
+You know, given that we're under shipping in the first quarter, you know, the ASPs are lower.
+Blayne Curtis
+Managing Director, Barclays
+Gotcha.
+I just wanted to ask you on the data center business, the operating profit's down a ton sequentially.
+I know you talked about, you know, enterprise being down.
+I think that's part of it, but it's a big drop, and it looks like gross margin probably is down a bunch too.
+Can you just comment on why that drop in profitability in data center?
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Blayne, that's a good question.
+I think when you look at it year-over-year, you're absolutely right.
+Revenue is largely flattish, operating margin dropped significantly.
+There are two major drivers.
+The first is that we have increased the investment significantly, especially in networking and AI.
+As you may recall, we closed Pensando last May or June, this is the full quarter of Pensando expenses versus last year.
+We also increased a GPU investment and the AI investment.
+That's all under the data center bucket.
+Secondly, I mentioned about product mix.
+You know, Lisa said year-over-year, cloud sales grow double-digit significantly, and enterprise actually declined.
+In Q1, our revenue in data center is heavily indexed to the cloud market versus last year in Q1.
+Typically, cloud gross margin is lower than enterprise.
+We do expect even in Q2 it will be balanced, more balanced, going forward, we do think the enterprise side will come back.
+Blayne Curtis
+Managing Director, Barclays
+Thanks.
+I guess the big decline was sequential, I'm assuming cloud was down sequentially.
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Sequential.
+Yeah, sequential, it's revenue.
+If you look at the revenue, it was down very significantly, right?
+The mix also is a little bit more indexed to cloud sequentially too.
+Lisa Su
+Chair and CEO, AMD
+Yeah, it's the same factors, Blayne.
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Yeah.
+Lisa Su
+Chair and CEO, AMD
+Both the mix to cloud as well as the R&D, you know, expense has increased just given the large opportunities that we have, across the data center and especially AI.
+Blayne Curtis
+Managing Director, Barclays
+Okay, thank you.
+Operator
+Thank you.
+Our final question today is coming from Harsh Kumar from Piper Sandler.
+Your line is now live.
+Harsh Kumar
+Managing Director and Senior Research Analyst, Piper Sandler
+Hey, guys.
+Thank you for squeezing me in.
+Lisa, I had a question.
+I wanted to ask you about your views on the inferencing market for generative AI 3+.
+Specifically wanted to ask 'cause I think there's some crosscurrents going on.
+We're hearing that CPUs are the best way to do inferencing, but then we're hearing the timeliness of CPUs is not there as a function to be able to enable these kind of instances.
+I was curious what you guys think, and then I had a follow-up.
+Lisa Su
+Chair and CEO, AMD
+I think, Harsh, if you're saying, I mean, I think today inference is used a lot.
+CPUs are used a lot for inference.
+Now, where the demand is highest right now is, you know, for generative AI and large language model inferencing.
+You need GPUs to have, you know, the horsepower to train sort of the most, you know, sophisticated, you know, models.
+I think those are the two, as you say, crosscurrents.
+I think inference becomes a much more important workload just given the adoption rate of AI across the board, and I think we'll see that for smaller, you know, tasks on CPUs, but for the larger tasks on GPUs.
+Harsh Kumar
+Managing Director and Senior Research Analyst, Piper Sandler
+It still defers back to GPUs for those.
+Similar question on the MI300 series.
+I know that you talked a lot about success in the HPC side.
+But specifically, I was curious if you could talk about any wins or any kind of successes or success stories you might have on the generative AI side with the MI300 or 250 series.
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+As we said earlier, we've done some really good work on MI250 with AI and large language models.
+The example that is public is what we've done with LUMI and the training of some of the Finnish models.
+We're doing quite a bit of work with large customers on MI300.
+What we're seeing is very positive results, so we think MI300 is very competitive for generative AI.
+You know, we'll be talking, you know, more about sort of that, you know, customer and revenue evolution as we go over the next couple of quarters.
+Harsh Kumar
+Managing Director and Senior Research Analyst, Piper Sandler
+Thank you, Lisa.
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Great.
+Operator
+Thank you.
+Jean Hu
+EVP, CFO and Treasurer, AMD
+Operator, that concludes today's call.
+Thank you to everyone for joining us.
+Operator
+Thank you.
+You may now disconnect and have a wonderful day.
+Data Source:
+Quartr
+Last updated:
+May 2, 2023
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (16)
+Quarterly report
+Slides
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

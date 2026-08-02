@@ -1,0 +1,842 @@
+Advanced Micro Devices (AMD) Q1 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Advanced Micro Devices, Inc. (AMD)
+NASDAQ: AMD · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+476.15
+-9.24 (-1.90%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+472.12
+-4.03 (-0.85%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q1 2022
+May 3, 2022
+Quarterly report
+Earnings release
+Slides
+Play Audio
+Download Transcript
+Operator
+Hello, and welcome to the AMD first quarter 2022 earnings call.
+At this time, all participants are in a listen-only mode.
+A question-and-answer session will follow the formal presentation.
+If anyone should require operator assistance, please press star zero on your telephone keypad.
+As a reminder, this conference is being recorded.
+It's now my pleasure to turn the call over to Laura Graves, Corporate Vice President, Investor Relations.
+Laura, please go ahead.
+Laura Graves
+Corporate VP of Investor Relations, AMD
+Thank you and welcome to AMD's first quarter 2022 financial results conference call.
+By now you should have had the opportunity to review a copy of our earnings press release and accompanying slides.
+If you have not reviewed these documents, they can be found on the investor relations page of amd.com.
+Today, we will discuss AMD first quarter results, including partial quarter contributions from the acquisition of Xilinx, which closed on February 14th, 2022.
+We will also discuss AMD results on a standalone basis for the first quarter of 2022.
+We will refer primarily to non-GAAP financial measures during this call.
+The full non-GAAP to GAAP reconciliations are available in today's press release and in the slides posted on our website.
+Participants on today's conference call are Dr.
+Lisa Su, our Chair and Chief Executive Officer, and Devinder Kumar, our Executive Vice President, Chief Financial Officer, and Treasurer.
+Victor Peng, President of AMD's Adaptive and Embedded Computing Group, will also join us for Q&A.
+This is a live call and will be replayed via webcast on our website.
+Before we begin, I would like to note AMD will host its 2022 Financial Analyst Day on Thursday, June 9th, and our second quarter quiet period is expected to begin at the close of business on Friday, June 17th.
+Today's discussion contains forward-looking statements based on current beliefs, assumptions, and expectations, speak only as of today, and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+Please refer to the cautionary statement in our press release for more information on factors that could cause actual results to differ.
+With that, I would like to turn the call over to Lisa Su.
+Lisa?
+Lisa Su
+Chair and CEO, AMD
+Thank you, Laura, and good afternoon to all those listening in today.
+For the last several years, we have been on a journey to both scale and transform AMD.
+We have consistently executed our strategy, expanded our portfolio of leadership products, and diversified our business, all while driving best-in-class growth.
+We reached a significant inflection point in our journey during the first few months of 2022 as we took several major steps that fundamentally reshape our business.
+In addition to delivering record financial results, we closed our strategic acquisition of Xilinx and announced our plans to acquire Pensando.
+The strategic importance of the Xilinx acquisition to our long-term goals cannot be overstated.
+As the industry's number one provider of FPGA and adaptive computing solutions, Xilinx significantly expands our technology and product portfolio.
+Xilinx also adds multiple high-margin, long-term revenue streams spanning a new set of markets and customers, further strengthening and diversifying our business model.
+Importantly, Xilinx has successfully executed its own growth strategy in recent years with the increased adoption of adaptive silicon across data center, communications, automotive, and other large embedded markets.
+With Pensando, we will further expand our data center solutions capabilities.
+Pensando will add a proven team that has developed an industry-leading DPU and software stack already deployed with key customers, including IBM, HPE, Microsoft, Oracle, and Goldman Sachs.
+Pensando's differentiated technology further expands our product portfolio and will enable AMD to innovate at the silicon, software, and platform levels to deliver leadership solutions for our cloud, enterprise, and edge customers.
+Now turning to our first quarter financial performance.
+We started the year very strong with record quarterly revenue and net income.
+First quarter revenue, including the contributions from six weeks of Xilinx, grew 71% year-over-year to a record $5.9 billion.
+We expanded gross margin seven percentage points to 53% and more than doubled both operating and net income year-over-year.
+Excluding Xilinx, revenue grew 55% year-over-year to a record $5.3 billion.
+Gross margin expanded five percentage points to 51%, and operating income more than doubled to a record $1.6 billion.
+Turning to our computing and graphics segment, revenue increased 33% year-over-year to $2.8 billion, driven primarily by the ramp of our latest Ryzen and Radeon products.
+Client compute revenue grew by a strong double-digit percentage year-over-year based on higher Ryzen mobile and desktop processor sales.
+As a result, we believe we gained client processor revenue share for the 8th straight quarter.
+In desktop, we expanded our processor portfolio with the introduction of seven new Ryzen CPUs, including the Ryzen 5800X3D CPU, which is the industry's fastest gaming CPU and first desktop processor featuring 3D stack chiplets.
+In notebooks, record mobile processor revenue was driven by the launch of our Rembrandt Ryzen 6000 mobile processors that extend the leadership, compute, gaming, and battery life capabilities of our mobile processors.
+In commercial, we recently introduced our latest Ryzen 6000 PRO processors with leadership performance and battery life and modern security and manageability features. We are well positioned to accelerate our growth in commercial notebooks in 2022 based on the expanded number of design wins on track to launch.
+Although the PC market is experiencing some softness coming off multiple quarters of near record unit shipments, our focus remains on the premium gaming and commercial portions of the market where we see strong growth opportunities and we expect to continue gaining overall client revenue share.
+In graphics, revenue grew by a strong double-digit percentage year-over-year with record desktop graphics channel sales.
+Desktop GPU sales nearly doubled year-over-year as sales of our Radeon 6000 series graphics cards were strong.
+In mobile, the first notebooks featuring our latest Radeon 6000 mobile GPUs launched in the quarter, and we expect sales to ramp over the coming quarters.
+Data center graphics revenue was flat year-over-year as we launched our Instinct MI210 accelerators.
+We expanded our engagements with large cloud customers in the quarter and launched our ROCm 5 software suite targeting exascale-class HPC and AI applications.
+Turning to our enterprise Embedded and Semi-Custom segment, revenue increased 88% year-over-year to $2.5 billion, driven by record server, semi-custom, and embedded processor sales.
+Semi-custom sales grew by a significant double-digit percentage year-over-year based on strong demand for Sony and Microsoft consoles as well as Valve's new Steam Deck.
+Sales for this game console generation continued to outpace all prior generations, and we expect 2022 to be a record year for our semi-custom business.
+Turning to our Embedded business, revenue more than doubled year-over-year, led by growth in automotive.
+We also secured multiple design wins in next-generation security and firewall devices from tier one networking providers.
+Turning to server, we had another record quarter as revenue more than doubled year-over-year and increased by a double-digit percentage sequentially.
+We have more than doubled server processor revenue year-over-year in eight of the last 10 quarters, highlighting the growing demand for our EPYC processors with cloud, enterprise, and HPC customers.
+Cloud revenue more than doubled year-over-year as hyperscalers expanded their internal infrastructure deployments and 70 new AMD-powered instances launched from Alibaba, Amazon, Baidu Cloud, Microsoft Azure, Google, and others.
+There are now more than 460 AMD-based cloud instances available from the largest hyperscalers, with additional instances on track to launch in the coming quarters.
+In enterprise, revenue more than doubled year-over-year with strong growth in key verticals, including IT infrastructure, financial services, and database applications.
+Our sales pipeline continues to be very strong, and we saw our win rate grow in the first quarter across a broad set of enterprise end customers.
+We launched our first EPYC processors with 3D stacked chiplets in the quarter.
+This technology extends our performance leadership in technical computing workloads by up to 66% compared to our prior generation.
+Atos, Cisco, Dell, HPE, Lenovo, and Supermicro all launched servers featuring the new CPUs in the quarter.
+Excitement for our next generation Genoa server processors continues to grow as we expanded customer and partnering sampling in the quarter.
+We expect Genoa will be the industry's highest performance general purpose server CPU, further extending the performance, energy efficiency, and TCO advantages of our EPYC processors.
+We remain on track to launch Genoa in the second half of the year and expect to continue our share gain trajectory based on expanded cloud, enterprise, and HPC customer adoption.
+In addition, development of our higher core count Bergamo processors optimized for high throughput cloud workloads continues to progress well, with shipments on track to begin in the first half of 2023.
+Turning to the Xilinx business, for the six weeks following acquisition close, Xilinx revenue was $559 million.
+On a pro forma basis for the full quarter, Xilinx delivered its fourth straight quarter of greater than 20% year-over-year revenue growth and the second straight quarter of greater than $1 billion of revenue.
+In data center, first quarter demand was led by expanded FPGA as a service and SmartNIC deployments at tier one hyperscalers, as well as low latency networking solutions with fintech companies.
+We saw strength in communications led by wired demand in access and optical transport.
+In wireless, Versal-based 5G deployments continue ramping in multiple regions, and we secured a strategic design win with a tier one communications equipment provider to power their next gen baseband solutions with the Versal ACAP solution.
+We saw strong demand across the Xilinx embedded markets led by record pro forma full quarter revenue in automotive, industrial, vision and healthcare, and consumer.
+Looking forward, we see very strong demand across all of the Xilinx end markets and are focused on increasing supply.
+Turning to our integration work.
+In the first few months since close, we have seen tremendous excitement from our customers, partners, and employees, and we expect to see significant product and revenue synergies.
+We now have the best portfolio of high performance and adaptive computing engines in the industry, and we see multiple opportunities to leverage our expanded technology portfolio to deliver even stronger products.
+As one example, we're integrating Xilinx's differentiated AI engine across our CPU product portfolio to enable industry-leading inference capabilities with the first products expected in 2023.
+We have also identified significant additional revenue synergy opportunities with some of our largest customers, as we can now address a larger portion of their compute needs with our expanded product portfolio.
+In summary, the start of 2022 is a significant inflection point for AMD, marked by record top and bottom line financial results driven by our leadership product portfolio and strong execution and the close of our Xilinx acquisition.
+We have now delivered greater than 45% year-over-year revenue growth for seven straight quarters and increased net income by more than 60% year-over-year for the last 10 quarters.
+Based on higher AMD organic growth, as well as the addition of Xilinx with strong demand across multiple end markets, we now expect annual revenue to grow by approximately 60% year-over-year, up from approximately 31% growth we guided at the beginning of the year.
+Longer term, I'm incredibly excited about our additional growth opportunities as we add the Xilinx and Pensando teams.
+We now see a significantly larger TAM opportunity for AMD across a diverse set of end markets based on our broader portfolio of leadership compute engines and expanded solutions capabilities.
+I look forward to sharing more about the products and technologies that will enable the next stage of our growth journey at Financial Analyst Day in June.
+Now I'd like to turn the call over to Devinder to provide some additional color on our first quarter financial performance.
+Devinder?
+Devinder Kumar
+EVP, CFO, and Treasurer, AMD
+Thank you, Lisa, and good afternoon, everyone.
+The first quarter was an excellent start to the year with strong demand for our leadership products, resulting in record quarterly revenue, continued gross margin expansion, record profitability, and record cash flow generation.
+In addition, we are very pleased to have closed the Xilinx transaction and announced our intention to acquire Pensando.
+First quarter consolidated revenue was $5.9 billion, up 71% from a year ago, driven by significant growth across all businesses and the inclusion of Xilinx revenue for the partial period.
+Excluding the Xilinx contribution, AMD revenue was $5.3 billion, up 55% from a year ago, with data center revenue doubling year-over-year.
+Gross margin was 53%, up 660 basis points from a year ago, driven by higher server processor revenue and high-margin Xilinx revenue.
+Gross margin for AMD, excluding Xilinx, was 51%, up 480 basis points year-over-year, primarily driven by higher server processor revenue.
+Operating expenses were $1.3 billion, compared to $830 million a year ago, as we increase investments in our long-term product roadmaps to support the future growth of our business.
+Operating income more than doubled from a year ago to a record $1.8 billion, up $1.1 billion, primarily driven by significant revenue growth and higher gross margin.
+Operating margin was 31%, up from 22% a year ago.
+Net income was a record $1.6 billion, up $947 million from a year ago.
+Diluted earnings per share was $1.13 per share, compared to $0.52 per share a year ago.
+Now turning to first quarter business segment results.
+Computing and graphics segment revenue was $2.8 billion, up 33% year-over-year, driven by higher client and graphics processor revenue.
+Computing and graphics segment operating income was $723 million or 26% of revenue compared to $485 million or 23% of revenue a year ago.
+The increase in operating income was driven primarily by higher revenue, partially offset by higher operating expenses.
+Enterprise, embedded, and semi-custom segment revenue was $2.5 billion, up 88% from $1.3 billion in the prior year.
+The strong revenue increase was driven by higher server, semi-custom, and embedded revenue.
+EESC segment operating income grew significantly to $881 million or 35% of revenue compared to $277 million or 21% of revenue a year ago.
+The higher operating income and margin were driven by increased revenue, richer product mix, and an $83 million licensing gain.
+Xilinx revenue for the partial quarter was $559 million, with operating income of $233 million or 42% of revenue.
+On a pro forma basis for the full quarter, Xilinx generated over $1 billion of revenue, up 22% compared to a year ago, with growth across all Xilinx major end market categories.
+We are on track to achieve our cost synergy goals for the acquisition and expect the addition of Xilinx to be accretive to non-GAAP earnings per share for 2022.
+Turning to the balance sheet, cash equivalents, and short-term investments were $6.5 billion at the end of the first quarter.
+We deployed $1.9 billion to repurchase common stock in the first quarter.
+To date, we have utilized $3.7 billion of our initial $4 billion stock repurchase program.
+We also announced a new $8 billion share repurchase program during the quarter.
+In total, we had $8.3 billion in remaining authorization at the end of the first quarter. Quarterly free cash flow was a record $924 million compared to $832 million in the same quarter last year, and $736 million in the prior quarter.
+We successfully executed a five-year, $3 billion sustainability-linked credit facility to replace our existing $500 million facility.
+This further demonstrates our commitment to our corporate ESG goals.
+Inventory was $2.4 billion, up $476 million from the prior quarter due to the addition of Xilinx inventory.
+Before I turn to our financial outlook, let me cover our financial segment reporting.
+Beginning with the second quarter of fiscal 2022, we plan to change our segment reporting to the following four segments: data center, client, gaming, and embedded, which will align our financial reporting with our strategic end markets.
+I look forward to sharing further details with you at our Financial Analyst Day.
+Today's outlook is based on current expectations and contemplates the current global supply environment and customer demand signals.
+For the second quarter of 2022, we expect revenue to be approximately $6.5 billion, ± $200 million, an increase of approximately 69% year-over-year and approximately 10% quarter-over-quarter.
+The year-over-year increase is expected to be driven by the addition of Xilinx revenue plus higher server, semi-custom, and client revenue.
+The quarter-over-quarter increase is expected to be primarily driven by Xilinx revenue plus higher server revenue.
+In addition, for Q2 2022, we expect non-GAAP gross margin to be approximately 54%, non-GAAP operating expenses to be approximately $1.56 billion or 24% of revenue, non-GAAP interest expense, taxes and other to be approximately $270 million based on the 13% effective tax rate and the diluted share count to be approximately 1.64 billion shares.
+For the full year 2022, we now expect revenue to be approximately $26.3 billion, an increase of approximately 60% driven by Xilinx and higher server and semi-custom revenue.
+We expect non-GAAP gross margin to be approximately 54%, non-GAAP operating expenses to be approximately 24% of revenue, non-GAAP effective tax rate to be 13% and non-GAAP cash tax rate to be approximately 10%, due primarily to U.S. tax requirement to capitalize R&D and the full utilization of our U.S. net operating losses and tax credits in 2022.
+Fiscal year 2022 will be a 53-week year and include an additional week in the fourth quarter.
+In closing, we had an excellent start to 2022 with strong revenue growth across all businesses.
+We are pleased to have completed the Xilinx acquisition, which strengthens our business model with revenue diversification, accretive gross margin, and increased cash generation.
+We are very delighted to welcome the Xilinx team to AMD.
+Looking ahead, AMD is very well positioned for long-term growth, margin expansion and cash generation driven by our leadership products and roadmaps.
+With that, I will turn the call back over to Laura to begin the Q&A portion of our call.
+Laura?
+Laura Graves
+Corporate VP of Investor Relations, AMD
+Thank you very much, Devinder.
+Operator, we're ready to go ahead and begin our first question.
+Operator
+Thank you.
+As a reminder, if you'd like to be placed into question queue, please press star one on your telephone keypad.
+We ask you please ask one question, one follow-up, then return to the queue.
+Our first question today is coming from Matt Ramsay from Cowen.
+Your line is now live.
+Matt Ramsay
+Managing Director and Semiconductors Research Analyst, Cowen
+Thank you very much, everybody.
+Good afternoon.
+Congratulations, Lisa on obviously getting Xilinx closed and the strong results.
+I guess there's a lot going on from a macro perspective, in the markets that you serve and in the supply chains, Lisa.
+I mean, the first half of the year, I think you're doing, I don't know, 54%-55% organic growth in the first quarter.
+Maybe you could talk me through a bit the puts and takes in the quarter.
+I think there's a perception that you have additional supply coming online.
+There's obviously supply constraints and lockdowns in China.
+Your server business doing extraordinarily well in the numbers that you just printed, and then maybe some perception of a softening in the PC market.
+There's a lot going on, and I'd kinda love you to walk me through the puts and takes of the quarter if you could.
+Thank you.
+Lisa Su
+Chair and CEO, AMD
+Yeah, absolutely, Matt.
+Thanks for the question.
+We did have a very strong first quarter.
+There is a lot going on without a doubt in the business.
+I would say, you know, if you look at the strength in our business in the first quarter, it was really broad-based, very, very strong server results.
+We continue to gain share.
+We continue to bring more supply online.
+There also very strong results in our semi-custom or game console business as well as in the client and graphics businesses.
+You know, there is some softness in the PC market, but you know, we had for the last number of quarters actually been shifting our mix to the higher end or the more premium segments of the PC market.
+So that's where more of our exposure is.
+We actually saw a significant growth in our PC business sequentially as we started ramping our Ryzen 6000 notebooks.
+You know, that resulted in you know, strong ASP growth as well as just you know, our key market segments of premium, commercial and gaming being covered there.
+You know, as we go forward, obviously all of the things that you talked about are in play.
+That being the case, I think we've, you know, managed through the supply situations, you know, very well.
+We continue to work with our customers and ensure that, you know, we're optimizing, you know, our builds to their builds.
+With the addition of Xilinx, we also have another set of end markets that have very strong demand, that are all additive to our business.
+Matt Ramsay
+Managing Director and Semiconductors Research Analyst, Cowen
+Thank you for that, Lisa.
+I appreciate all the color.
+I guess as my follow-up question, I wanted to examine the full year guidance that you've given.
+Obviously it includes Xilinx, so it's a little bit apples and oranges from last year.
+I think in the press release, you guys mentioned that you expect some upside from the original 31% organic growth guidance.
+If you have any comments on magnitudes there, that would be helpful.
+I think just what investors would love to hear from you is maybe your view on the data center CapEx spending environment and also on the PC market.
+I think you guys have been maybe a bit more conservative than some of your competition in your market commentary about PCs maybe being flattish coming into this year.
+I imagine there's some new puts and takes to that.
+Just some thoughts on how you guys constructed the guidance for the year, especially relative to the original 31% would be really helpful.
+Thank you very much.
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Lots of questions in there, Matt, so let me try to go through them.
+First on the full-year 2022 guide, you know, it is a significant increase in guidance up 60%.
+There are a couple pieces to that.
+On the organic side of the AMD business, we originally guided up 31% based on what we saw in the market in January.
+As we look at the market now and our own, you know, sort of customer and supply situation, we see that organic growth higher into the mid-30s.
+That's primarily driven by, you know, very strong demand in our server business, very strong demand in our console or semi-custom business, additional supply coming online.
+We have taken a bit more of a conservative perspective on the PC market.
+Again, I think the softness is in certain parts of the market.
+It's not in all parts of the market.
+You know, our focus is on where we add the most value in the market, and that is in the premium segments.
+In terms of the Xilinx piece of it, the full year addition of, you know, 3.5 quarters of Xilinx is a significant add.
+On a pro forma basis, the Xilinx business is also growing very well, and it's growing, you know, sort of like in the low 20s, if you consider, you know, full year compared to a calendar year 2021.
+Overall, I think we have a broad-based set of growth drivers and multiple levers for growth as we go through the year.
+You know, we continue to work with our customers on, you know, where the demand is and ensuring that we're satisfying that demand.
+Matt Ramsay
+Managing Director and Semiconductors Research Analyst, Cowen
+Really appreciate the color, Lisa.
+Thank you.
+Operator
+Thank you.
+Our next question is coming from Toshiya Hari from Goldman Sachs.
+Your line is now live.
+Toshiya Hari
+Research Analyst for U.S. Semiconductor and Semiconductor Capital Equipment, Goldman Sachs
+Thank you for taking the question, and congrats on the strong results and completing the acquisition as well.
+I had two questions myself.
+I guess first on the supply chain situation, Lisa.
+Obviously there's a lot going on in terms of wafer supply and substrates and now the China lockdowns.
+What are some of the bigger pain points for you and to the extent the China lockdowns are impacting your business directly or indirectly, are you assuming any impact to revenue and profitability in the second quarter?
+Lisa Su
+Chair and CEO, AMD
+Sure, Toshiya.
+Thanks for the question.
+On the supply environment, you know, we've been working on this really for the last 18 months.
+We've made a lot of progress on both the wafer side and significant investments on the substrates.
+I would say that, you know, we continue to get you know, sort of very good support from our suppliers.
+That's one of the reasons we can increase our guidance the way it is.
+From a overall, you mentioned the China COVID situation.
+From our standpoint, we haven't had any significant impact on our own shipments in our own supply chain.
+We have been working with some customers that have had some, you know, customer build delays and, you know, that is contemplated in our second quarter guidance.
+We're gonna continue to work on supply optimization.
+You know, with the addition of Xilinx, you know, some of the, let's call it more mature nodes, 16 nm and above, wafer supply is still, somewhat constrained.
+We're working with sort of the larger scale of AMD to try to bring more supply on board there, as well as continuing, you know, to ramp, you know, our overall, capacity to support, a very strong, you know, sort of, you know, next few quarters.
+Hopefully that answered your supply questions.
+Toshiya Hari
+Research Analyst for U.S. Semiconductor and Semiconductor Capital Equipment, Goldman Sachs
+Yeah, for sure.
+Thank you.
+And then my second question, my follow-up question was on the data center business.
+It's great to hear that you've decided to re-segment your business, so thank you for that.
+Curious how meaningful data center was as a percentage of revenue in the quarter, server CPU, data center GPU, and now FPGAs from Xilinx.
+I guess more importantly, how are you thinking about the medium to long-term opportunity in both your classic data center GPU business as well as the FPGA business?
+I think in data center GPU, you mentioned that it was flat in the quarter, but you also talked about being engaged with more cloud customers, so curious what you're seeing there.
+Then on the FPGA side, I think Victor and team, you know, prior to the deal announcement, was pretty vocal about the long-term growth opportunity there as well.
+Any update from your perspective would be great.
+Thank you.
+Lisa Su
+Chair and CEO, AMD
+Right.
+Okay.
+Again, a few pieces to that.
+Let me try to give you some color and then maybe Victor will add on on the FPGA side.
+In terms of yes, we are gonna change our segment reporting, as Devinder said, as of the second quarter to be to give you more alignment to the markets.
+In terms of this quarter, for the pieces that you mentioned on higher revenue, the data center for those pieces was let's call it low 20s percentage of our overall revenue.
+In terms of the longer term, you know, data center picture, we are incredibly excited about the opportunity in data center.
+When you look at the pieces we have now, I mean, the CPU franchise is a very strong, you know, continuing to get stronger.
+We're excited with how Genoa looks and how Bergamo looks and sort of the engagements with customers there.
+We're excited about the GPU portfolio as well.
+You know, GPUs for us are a longer-term, you know, sort of roadmap, similar to what we did on the CPU side.
+We had been more focused on, let's call it supercomputing and HPC.
+That was strong for us last year, and that's why we're flattish year on year.
+We're very engaged on the AI front now, continuing our investments in our software stack and working with cloud guys to optimize our software stack.
+Then moving on to FPGAs and then also our adaptive SoCs and then the Pensando acquisition.
+I think what we now have is just an incredibly strong portfolio when we're dealing with, you know, whether you're talking about the largest cloud hyperscalers or you're talking about enterprise, and then with Pensando and Xilinx, it also gives us exposure to the edge as well.
+Between, you know, we have all the compute engines and are able to optimize that.
+I think you should expect to hear a lot more from us in the data center, certainly at our Financial Analyst Day.
+You know, really strong opportunities there.
+Maybe Victor you wanna add on some-
+Victor Peng
+President of Adaptive and Embedded Computing Group, AMD
+Yeah.
+I think you covered well.
+The only thing I would add is just, again, I think not only do we have a really broad portfolio of all the compute engines, but we're doubling down on the networking side, right?
+Since we had strength in that and SmartNIC and then with Pensando, you know, the kind of solutions that we could provide to customers in the overall infrastructure, right?
+It's not about point things, it's about the total solution.
+As you probably know, scale out in just a lot of these applications, you could be throttled by the network, so we really can optimize all this.
+The customers really want optimized, customized solutions.
+I think that's what we could do with both the former Xilinx SmartNIC as well as Pensando even going further.
+Toshiya Hari
+Research Analyst for U.S. Semiconductor and Semiconductor Capital Equipment, Goldman Sachs
+Thank you for all the details.
+Lisa Su
+Chair and CEO, AMD
+Thank you.
+Operator
+Thank you.
+Next question is coming from Vivek Arya from Bank of America.
+Your line is now live.
+Vivek Arya
+Managing Director, Bank of America
+Thanks for taking my question.
+Lisa, my first one is on the server market.
+You know, Milan helped you take and continues to help you take a lot of share in the market.
+I'm curious, what's the state of play in front of the next gen Genoa versus the Sapphire Rapids server cycle from two perspectives.
+It's just from the industry adoption of DDR5, you know, can that be a bottleneck to adoption of these next generation servers?
+Second perspective is that, you know, you will have two different flavors of Genoa with the cloud optimized version coming later.
+Just give us your sense of, you know, how this next generation cycle plays out versus the very strong success you had with Milan so far.
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Absolutely, Vivek.
+The way to think about it is the data center market and particularly in servers, people are getting much more optimized for workloads, and so there are different flavors.
+We see that even in Milan today with Milan and our Milan-X, X3D, sort of the X3D we introduced.
+I think it's natural for these solutions to sit side by side.
+I think as you go into Genoa, the next generation, the next generation platform, we would expect, again, the adoption.
+There's a lot of excitement on Genoa, and there's a lot of customer demand for Genoa.
+I do expect that Genoa will sit, you know, again, side by side with Milan for quite some time because, you know, you're not gonna move the infrastructure instantaneously over.
+When you think about Bergamo, which is the cloud optimized, I think that will be more specific for specific large hyperscalers who have the need for, let's call it a more performance per dollar, performance per watt solution.
+The way to think about this, Vivek, is as our business has grown, we can invest more broadly and that'll give us, you know, just a more optimized solution for our customers' TAMs.
+Vivek Arya
+Managing Director, Bank of America
+Very helpful.
+Then, Lisa, my second question, kind of two or three interrelated question on the PC market.
+So what is your new sense of what the PC TAM can be this year versus what you thought before?
+Then I think as part of that, your competitors have mentioned several times that they're back in the market with Alder Lake, and they're taking a lot of shares.
+So I'm wondering what you have seen there.
+Then finally, what's your share in the commercial market today versus what it was last year?
+So just something on TAM, you know, competition and commercial exposure.
+Thank you.
+Lisa Su
+Chair and CEO, AMD
+Sure.
+Vivek, when we, you know, kind of started the year, we were thinking that the PC TAM could be flat to, you know, let's call it down, let's call it, you know, low- to mid-single digits.
+I think given, you know, sort of how we've started this year and then some of the other things in the market, we're taking a more conservative approach to the PC TAM.
+For our modeling for the full year guidance, we're modeling something like down high-single digits.
+Now, you know, a lot of things can happen between now and then, so I would say that I think that's a good place for us to model.
+Within that, we've always been very focused on, you know, where we can add the most value and the premium segments.
+You know, Ryzen 6000, our Rembrandt product, is extremely well-positioned from a battery life or performance standpoint.
+We have a number of commercial, you know, very good systems that are in the process of being launched.
+I think we're excited about that.
+You know, to your question about commercial share, we're still underrepresented in the commercial market, and we know that, and that's a focus area for us.
+I think overall from a market share standpoint, you know, we believe we're focused in the right segments.
+Even under the backdrop of, let's call it, a softer PC market that we can continue to expect to gain revenue share in the process.
+You know, that's sort of our overall strategy.
+I think the other piece of it is, you know, we have so many levers in the business now as we go forward.
+I think the you know the strength in the business is, you know, really, you know, looking at the overall, you know, data center portfolio, the PC portfolio, the gaming portfolio, and the Xilinx portfolio together, there are lots of levers for growth.
+As we go through this year, you know, we see that being a very, very helpful.
+Vivek Arya
+Managing Director, Bank of America
+Thank you, Lisa.
+Operator
+Thank you.
+Our next question today is coming from Stacy Rasgon from Bernstein Research.
+Your line is now live.
+Stacy Rasgon
+Senior Analyst, Bernstein Research
+Hi, guys.
+Thanks for taking my questions.
+My first one, I wanted to ask about data centers.
+It more than doubled last year and more than doubled again this quarter.
+Do you guys have the supply available to double that business again for the full year?
+Like, if you can get the—and I guess if the supply is there, like, do you think it can be fulfilled?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Stacy, I think the data center business, particularly the server CPU business, continues to be very strong for us.
+You know, I'm not gonna proclaim a certain, you know, will it double every quarter?
+I will say that we expect to grow very strongly over the next few quarters.
+We are continuing to bring on additional supply to do that.
+The demand is there, and it really is, you know, about continuing to work with our customers on that.
+I think our, you know, confidence level in data center growth is very high.
+Stacy Rasgon
+Senior Analyst, Bernstein Research
+Thank you.
+For my follow-up, I wanted to ask just a quick question on PC.
+In the context of a PC market TAM that you see down or modeling down high single digits, given your mix shifts and your share gains, do you think you can actually grow your client revenues year-over-year in 2022 for the full year?
+Lisa Su
+Chair and CEO, AMD
+Yes, Stacy.
+We are expecting that we will grow client revenues on a year-over-year basis in that time environment.
+You know, we continue to mix shift to, let's call it, the more premium segments.
+You know, it's a revenue share statement.
+Stacy Rasgon
+Senior Analyst, Bernstein Research
+Mm-hmm.
+Got it.
+Fair to say much more of the year-over-year revenue growth is things like servers and putting Xilinx aside for a minute, data center and servers and consoles more than client?
+Lisa Su
+Chair and CEO, AMD
+Yes.
+That is true.
+Our expectation though is, you know, again, we have a number of growth drivers in the business.
+You know, in terms of what has allowed us to increase the full year guide, from an organic standpoint, it is, you know, a strong visibility in server, strong visibility on the console side, strong visibility, you know, just from a, you know, overall, you know, supply and demand perspective.
+Stacy Rasgon
+Senior Analyst, Bernstein Research
+Got it.
+Thank you so much.
+Operator
+Thank you.
+Next question is coming from Aaron Rakers from Wells Fargo.
+Your line is now live.
+Aaron Rakers
+Senior IT Infrastructure and Communications Equipment and Semiconductor Analyst, Wells Fargo
+Yeah.
+Thanks for taking the questions.
+I'll stick to two if I can.
+I guess my first question is we think about the server market and your share gains, but more importantly, we also think about the proliferation or expansion of the product portfolio.
+I'm curious of just what you're seeing from a competitive perspective and your thoughts around continuing to mix higher in terms of the server market, you know, thinking about the blended ASP trends in your server business.
+How should we think about that as we think about Milan-X, Genoa, you know, I guess Bergamo thereafter, just that trend looking forward?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+You know, Aaron, obviously, it depends on the mix between cloud and enterprise.
+In general, as we offer more value, you know, let's call it more performance, more capability, you know, we would expect our ASPs to mix up.
+You know, in any given quarter, it's more of a, you know, what is the cloud versus enterprise mix.
+Look, I'm very pleased with the fact that we're growing both cloud and enterprise, you know, very substantially.
+I think that tells you that we're growing across the entire server market.
+You know, we're gonna continue to, let's call it optimize products so that, you know, one, our customers get more capability and we get more value for our technology.
+Aaron Rakers
+Senior IT Infrastructure and Communications Equipment and Semiconductor Analyst, Wells Fargo
+Yep.
+Then the second quick question is, you know, on the capacity discussion, I'm curious as you bring Xilinx into the model, you know, you scale the business, you know, going forward, how could we think about, you know, flexibility from a perspective of capacity?
+You know, if PCs slow down, can your capacity be fungible and move that capacity over to servers or even Xilinx capacity into server CPUs?
+I'm just curious of how we should think about that ability to mix across product segments as you think about your wafer capacity, you know, agreements.
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Aaron, the way to think about that is, you know, both the Xilinx portfolio and, you know, sort of the organic AMD portfolio do use TSMC.
+We are complementary there as our primary wafer supplier.
+We use very similar substrate suppliers as well.
+You know, the Xilinx portfolio tends to be on more mature nodes, although there is some 7 nm, the majority of the portfolio is on 16 nm and above.
+I would say there's not that much fungibility there.
+However, on the back end, on the substrate side, there is very good fungibility across the portfolio.
+You know, from the standpoint of overall supply, I think you've, you know, heard it from Devinder.
+I mean, we have invested significantly over the last 18 months in, you know, sort of securing the supply and capacity, and we're seeing it come online, and that's, you know, again, you know, what I'd like to do is, you know, as you see it come online, that's when, you know, it'll go into our revenue forecast.
+I feel very good about the progress that we're making, and, you know, we're continuing to dimension the company for just a much larger business.
+It's a lot of supply that we're bringing online.
+We're working very much with Victor and his team as well, because he has, you know, strong backlog and strong demand, and we're looking to use all of the AMD assets to also accelerate, you know, some of his builds.
+Aaron Rakers
+Senior IT Infrastructure and Communications Equipment and Semiconductor Analyst, Wells Fargo
+Thank you.
+Operator
+Thank you.
+Our next question today is coming from Harlan Sur from JP Morgan.
+Your line is now live.
+Harlan Sur
+Executive Director of Equity Research, JPMorgan
+Good afternoon, and congratulations on the solid results in closing the acquisition.
+Lisa, you know, the team has done a great job of supporting all the major enterprise workloads on your latest generation EPYC and driving strong wins on the enterprise side with all of the OEM server guys out there.
+I'm just wondering, how much of the strength in the server business is being driven by the strong enterprise design win traction?
+Given your pipeline of wins and orders, how big will enterprise be as a percent of your server business maybe exiting this year?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Harlan, thanks.
+We've made great progress on the cloud side, you know, so we have strong adoption on internal as well as external-facing workloads.
+We've also made strong progress on the enterprise.
+I mean, as you said, all major OEMs have EPYC throughout the portfolio.
+In this past quarter, and in general, we've grown the enterprise business about at the same pace as the cloud business.
+We're still cloud-weighted, but I you know I believe that you know it's gonna be fairly balanced growth across both portfolios.
+Harlan Sur
+Executive Director of Equity Research, JPMorgan
+Perfect.
+Then maybe a question for you or for Victor.
+You know, when I think about the embedded markets, auto, industrial, aerospace and defense, comm, infrastructure, consumer, just given the strong market position here by Xilinx, I mean, they're in a good position to catalyze EPYC attached, to catalyze Ryzen attached to their FPGA solution.
+Maybe Victor can help us understand, like, what percentage of Xilinx FPGA solutions in the embedded market sits next to either an x86 or high-performance Arm processor?
+Because I think that the processor opportunity in embedded is much larger than the FPGA opportunity, and I believe that embedded is a pretty small percentage of overall business for AMD, so pretty big opportunity, but wanted to get your views.
+Victor Peng
+President of Adaptive and Embedded Computing Group, AMD
+Yeah, maybe I'll take this one.
+I agree with you, actually.
+You know, one of the things that many things that's really exciting since we joined AMD is we've done some customer visits, and they're really excited about exactly that point.
+You know, we have a broader portfolio and, you know, on processors and even in some areas, you know, GPUs, it's also great interest.
+The embedded business at AMD has been selling APU and embedded versions of both the server as well as the client kind of products.
+Now with the FPGAs and adaptive SoCs we have, we really can give a much more complete solution.
+That is definitely on the menu of things in terms of revenue synergies, which we'll discuss more at the financial analyst day.
+Yeah, we're really excited about what we have even with the existing products.
+You know, we're already working on our roadmap for, you know, creating more value going forward.
+It's great observation.
+Harlan Sur
+Executive Director of Equity Research, JPMorgan
+Great.
+Thank you.
+Lisa Su
+Chair and CEO, AMD
+Thanks, Harlan.
+Operator
+Thank you.
+Our next question today is coming from Mark Lipacis from Jefferies.
+Your line is now live.
+Mark Lipacis
+Equity Analyst, Jefferies
+Hi.
+Thanks for taking my question.
+Lisa, I think, you know, maybe an easier way for investors who have thought about AMD historically, particularly more recently, is, you know, you've been successful in delivering, you know, server CPUs for data processing in the data center.
+I think people, or at least I have thought about Xilinx historically doing, you know, networking and communications solutions for base stations as well as data centers, and they've kind of moved into this adaptive computing mode where they're doing more data processing also.
+I wonder, you know, I, you know, you've seen other companies with general purpose computing solutions, you know, kind of add a communications capability.
+I'm wondering, is there an opportunity for more data processing at the network edge, like, say, at the base station where Xilinx has historically been really strong?
+Do you think the solutions, the architecture that you would have at the base station for, you know, the combination of data and communications network processing, do you think that ultimately it looks very similar to what you see, you know, deep in the hyperscale data centers, deep in the cloud?
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Mark.
+I think the answer is yes, and maybe I'll generalize it a bit more.
+You know, we're a big believer.
+I mean, the whole strategy behind AMD is to have the best sort of compute engines and then put them together, you know, in solutions for specific end markets.
+You know, I think our CPUs, GPUs, the FPGAs, the adaptive SoCs, and then the DPU that we're adding from Pensando give us just a tremendous range of capability.
+To your specific question, you know, in sort of comms infrastructure, I definitely think there's a strong opportunity there.
+You know, as Victor mentioned, we've been to a number of, you know, our joint large customers, and there is absolute interest in trying to put these solutions together.
+You know, more broadly, though, you know, I think what we see in terms of growth going forward, there will be more customization around solutions for these large customers, whether it's cloud customers or large telcos, or even some edge opportunities.
+Having these compute engines will allow us to basically optimize those solutions together.
+You know, we look forward to telling you know, sort of a lot more about, you know, sort of how we're thinking about these roadmaps, as we go into our Financial Analyst Day, in June.
+Mark Lipacis
+Equity Analyst, Jefferies
+I'll follow up, if I may.
+How as you develop those more customized solutions for your larger customers, how important is it to have your own software ecosystem versus you know to kind of pull everything together versus to kind of rely more on the open source community or you know other players for that software layer to sit on top of that?
+That's all I had.
+Thank you.
+Lisa Su
+Chair and CEO, AMD
+Yes, Mark.
+The software, you know, is very, very important.
+You know, software across all of those engines is important and Xilinx comes with a very strong software stack.
+We have our own software stack.
+You'll see us, you know, unify them, and that will be a important part of our roadmap, you know, going forward.
+You know, to your open source point, we do believe in open source.
+You know, we think collaboration is a important part of the ecosystem as well.
+You know, all of those are things that we are working on to provide more complete solutions for our customers.
+Mark Lipacis
+Equity Analyst, Jefferies
+Great.
+Thank you.
+Operator
+Thank you.
+Our next question is coming from Ross Seymore from Deutsche Bank.
+Your line is now live.
+Ross Seymore
+Managing Director for Semiconductors and Semicap Equipment, Deutsche Bank
+Thanks for letting me ask a question.
+Congrats on a strong quarter and closing the Xilinx deal.
+Lisa, again, a lot of moving parts.
+You've said that a bunch of times, so forgive me if I dive into them a little bit.
+As we think about your second quarter guide, I just wanted to get some of the moving parts that you're assuming there.
+So if I take out the Xilinx side or just give you the full quarter of it and a little bit of guidance there, it looks like the core AMD is kinda growing low single digits sequentially.
+You've mentioned about the PC side seeing some weakness.
+You've talked about that a bunch.
+Then the strength on the server and the semi-custom side.
+Any sort of color about the puts and takes to get you that organic growth?
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Ross, thanks for the question.
+For the second quarter in particular, the second quarter guide is driven by, you know, sort of one is the full quarter of the Xilinx business and, you know, strength in our server business, primarily as we see the second quarter.
+You know, there are other puts and takes, I would call them, on the smaller, you know, side of that.
+If you recall, I mean, if you think about, you know, whether you talk about the PC business or the gaming business, they tend to be more second half weighted.
+So the second quarter doesn't tend to be a strong quarter for those businesses.
+You know, that's not the driver of the sequential increase.
+Ross Seymore
+Managing Director for Semiconductors and Semicap Equipment, Deutsche Bank
+Perfect.
+I guess a similar question, a perfect segue in your answer there.
+When I think about the full year guide, obviously incredibly impressive.
+You talked about the organic increases.
+It looks like, especially with that extra week, you're kinda going up low or mid to high single digits in one of those quarters and kinda flattish after that just to get to the full year.
+Similar sorta question.
+What are the puts and takes there?
+Is the PC seasonality something you're kind of leaning against a little bit relative to the high single digit drop you've talked about, where you guys will still grow but maybe not as fast as in years past, given that backdrop?
+Or is there something else that plateaus out in the second half?
+Lisa Su
+Chair and CEO, AMD
+I'm not sure that I see a quote-unquote plateau, Ross, so I wouldn't say that.
+What I would say, though, is if I give you know, sort of the puts and takes of the second half of the year, you know, again, we expect that the server business will continue to grow, as we said, good visibility there.
+We expect the console business to grow in the second half versus the first half also.
+That's typical seasonality.
+Typical seasonality in PCs would also have the second half higher than the first half.
+I think we're modeling for a little bit sub-seasonal, just given, you know, sort of all the puts and takes in the market there.
+We expect, you know, the Xilinx business to also grow, you know, in the second half as more supply comes online, you know, given the strong demand.
+If you see all those, you know, pieces, I don't think there's a plateau.
+I think it's a continued improvement as we see, you know, ongoing strong demand and also more supply coming online in the second half of the year.
+Ross Seymore
+Managing Director for Semiconductors and Semicap Equipment, Deutsche Bank
+Thanks for that, and apologies for the plateau word.
+Lisa Su
+Chair and CEO, AMD
+No one ever apologizes to me, so that's really nice, Ross.
+Laura Graves
+Corporate VP of Investor Relations, AMD
+Operator, we'll take two more questions please.
+Operator
+Certainly.
+Our next question is coming from Timothy Arcuri from UBS.
+Your line is now live.
+Timothy Arcuri
+Managing Director, UBS
+Thanks a lot.
+My first question is really around semi-custom.
+The rest of the business has been asked quite a bit.
+I guess my question on semi-custom is, Lisa, do you think that it can be a $4 billion business this year?
+It sounds like it can get pretty close, you know, maybe even get there.
+I guess also as part of that question, I think you were thinking next year would be an up year also for semi-custom.
+Given some of the consumer uncertainty, do you still think that it can be up next year?
+Then I had a second question.
+Thanks.
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Tim.
+You know, without going into the exact numbers, I would say the semi-custom business is a strong growth driver.
+We have, you know, we work with these customers very closely.
+We have, you know, good views of where they think the demand is.
+We're still in a place, you know, if you were to look into the retail channel, you would say that the demand is underserved today in the semi-custom business.
+You know, their real build is towards holiday.
+You know, the answer is we do believe that you know, semi-custom will be at a record for us this year.
+We have more content.
+We also have the Valve Steam Deck that also has gotten very strong reviews and is ramping as we go into the second half of the year.
+On 2023, I do believe that 2023 will be another strong year for semi-custom and should be up.
+You know, again, if you look at the history of these ramps, it's you know, really around the fourth year that you see you know, that you really see the business you know, kind of hit its peak.
+In addition to that, you know, just knowing, you know, some of the game releases that are, you know, from a software standpoint that are coming out, you know, there are, you know, there's obviously a good lineup this year, but there's also, you know, an expected strong lineup as we go forward.
+Yes, that's our current view of the semi-custom business.
+Timothy Arcuri
+Managing Director, UBS
+Thanks a lot.
+I guess just following up on the overall server market.
+I know that you're not the best read because you're gaining so much market share, but there have been some comments from, you know, some of the big cloud customers about, quote, "moderating" or, you know, slowing investment.
+There's some debate about, you know, does that mean that there's gonna be some slowdown in procurement of servers?
+If you strip out your sort of share gain, I'm curious of your assessment of just, you know, overall strength in the, you know, data center market.
+Do you see it slowing at all, you know, later on this year or even into next year?
+Thanks.
+Lisa Su
+Chair and CEO, AMD
+I would say, Tim, we haven't seen that.
+You know, we haven't seen that particular phenomena.
+What we do see is that there needs to be good planning.
+You know, good planning with our server customers and our large cloud customers.
+You know, we're doing that.
+You know, our planning extends beyond 2022, extends into 2023 as well.
+From what we can see, it's robust demand.
+Timothy Arcuri
+Managing Director, UBS
+Thank you so much.
+Operator
+Thank you.
+Our next question is coming from Brett Simpson from Arete Research.
+Your line is now live.
+Brett Simpson
+Partner and Co-Founder, Arete Research
+Yeah, thanks very much.
+Lisa, I wanted to get your perspective on the AI silicon market.
+You know, you've obviously focused on HPC with the MI200, and you've got you know, CPU roadmap on the server side that's you know, a big host processor for AI.
+Can you share with us how we should think about AMD in the next sort of you know, two, three years around areas like AI training, areas like inference, particularly with the GPU portfolio, MI300, et cetera.
+When do you think this platform is really gonna be able to sort of compete and win in the AI training and inference space?
+Thank you.
+Lisa Su
+Chair and CEO, AMD
+Yeah, absolutely.
+Let me start, Brett, and then I'll ask Victor to also make some comments.
+No question, AI is a huge opportunity for us, and it's one where we're thinking about it very holistically in terms of how we address.
+You know, on the server CPU side, you know, a lot of inference is done on the server CPU side.
+We've been investing in that area.
+On the GPU side, for both training and inference, there's a lot of it around the software stack, and so our focus is on optimizing our software stack with our large cloud customers and partners.
+What Xilinx brings to our portfolio is actually a lot of capability on the AI inference side in, you know, their current portfolio and then additive to the AMD portfolio.
+I think you'll see a much broader set of offerings from us in AI as you know we start talking about you know sort of the broader product roadmaps.
+Maybe Victor you wanna give some more.
+Victor Peng
+President of Adaptive and Embedded Computing Group, AMD
+Yeah.
+I mean, look, we have this AI engine that is already deployed in production in a number of embedded applications and endpoints, and also edge devices, like in cars.
+They're doing a lot of image recognition, all kinds of, inference applications.
+That same architecture can be scaled and brought into the CPU product portfolio.
+As we've alluded to, that is exactly our plan.
+We're also a moment ago, there was a discussion about software.
+We're absolutely working on the unified overall software to enable the broad portfolio, but also especially in AI.
+You'll hear more about that at the Financial Analyst Day, but we're definitely gonna be leaning in AI, both inference and training, and I would say end-to-end because we have endpoints, we have edge devices, both, you know, computing and embedded devices and in the cloud and enterprise.
+We're very excited about that, revenue synergy opportunity actually.
+Laura Graves
+Corporate VP of Investor Relations, AMD
+Brett, did you have a follow-up?
+Brett Simpson
+Partner and Co-Founder, Arete Research
+Thanks, Laura.
+Just as a follow-up, in terms of AMD from a software monetization perspective, we're obviously seeing big changes in the way you're addressing software.
+Are you moving up the software stack to a higher level of abstraction?
+Is this somewhere you think, you know, over the next two or three years, do you plan to charge for software?
+Can you share with us maybe how we might think about AMD as a software business going forward?
+Thank you.
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+I think, Brett, you know, we have, you know, maybe it's a broader conversation about our overall, you know, software strategy, but as Victor mentioned, the, you know, unified software capabilities around AI are very, very important.
+We also have, with the acquisition of Pensando, you know, they have a very strong software, you know, team and effort, around their DPUs and, you know, what we can do there.
+I think, you know, as a total, you should see us, investing a lot more in software.
+Then in terms of, you know, the monetization and stuff, you know, I think we can, you know, address that more as we think about the overall solution space, that we'll be offering across all of these compute engines.
+Again, you know, much more great conversation that we can have as we come into our Financial Analyst Day in June.
+Laura Graves
+Corporate VP of Investor Relations, AMD
+Thank you, Lisa.
+As a reminder to everyone on the call, our Financial Analyst Day will be on Thursday, June the 9th.
+We look forward to having you there.
+We'll also be webcast from our website.
+Thank you to everyone for your participation in today's earnings call.
+As always, we appreciate your support of our company and look forward to speaking with you again soon.
+Thank you.
+Thank you, and take care.
+Operator
+Thank you.
+That does conclude today's teleconference and webcast.
+You may disconnect your line at this time and have a wonderful day.
+We thank you for your participation today.
+Data Source:
+Quartr
+Last updated:
+May 3, 2022
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (15)
+Quarterly report
+Earnings release
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

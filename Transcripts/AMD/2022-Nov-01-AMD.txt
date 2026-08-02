@@ -1,0 +1,943 @@
+Advanced Micro Devices (AMD) Q3 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Advanced Micro Devices, Inc. (AMD)
+NASDAQ: AMD · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+476.15
+-9.24 (-1.90%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+472.12
+-4.03 (-0.85%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q3 2022
+Nov 1, 2022
+Quarterly report
+Earnings release
+Slides
+Play Audio
+Download Transcript
+Operator
+Hello, and welcome to the AMD third quarter 2022 earnings call.
+At this time, all participants are in listen-only mode.
+If anyone should require operator assistance, please press star zero on your telephone keypad.
+A question-and-answer session will follow the formal presentation.
+As a reminder, this conference is being recorded.
+It's now my pleasure to turn the call over to Ruth Cotter.
+Please go ahead, Ruth.
+Ruth Cotter
+SVP and Chief Administrative Officer, AMD
+Thank you, and welcome to AMD's third quarter 2022 financial results conference call.
+By now, you should have had the opportunity to review a copy of our earnings press release and accompanying slideware.
+If you've not received these documents, they can be found on the investor relations page of amd.com.
+We will refer primarily to non-GAAP financial measures during this call.
+The full non-GAAP to GAAP reconciliations are available in today's press release and slides, which are posted on amd.com, as mentioned.
+Participants on today's conference call are Dr. Lisa Su, our Chair and Chief Executive Officer, and Devinder Kumar, our Executive Vice President and Chief Financial Officer and Treasurer.
+This is a live call and will be replayed via webcast on our website.
+Before we begin today, I would like to note that Mark Papermaster, Chief Technology Officer and Executive Vice President, Technology and Engineering, will attend the Wells Fargo Technology Media and Telecommunications Summit on Wednesday, November 30th.
+Our fourth quarter quiet period is expected to begin at the close of business on Friday, December 16th.
+Today's discussion contains forward-looking statements based on current beliefs, assumptions, and expectations, speak only as of today, and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+Please refer to the cautionary statement in our press release for more information on the factors that could cause actual results to differ materially.
+Now with that, I'd like to hand the call over to Lisa.
+Lisa?
+Lisa Su
+Chair and CEO, AMD
+Thank you, Ruth, and good afternoon to all those listening in today.
+Our third quarter revenue and gross margin came in below our expectations due to softening PC demand and substantial inventory reduction actions across the PC supply chain.
+Despite the macro backdrop, overall revenue grew 29% year-over-year to $5.6 billion as our data center, gaming, and embedded segments each delivered significant year-over-year growth and performed in line with our expectations.
+We also expanded gross margin and grew net income year-over-year, highlighting the strength of our business.
+Turning to the business results, starting with our data center segment, revenue increased 45% year-over-year and 8% sequentially to $1.6 billion.
+We delivered our tenth straight quarter of record server processor sales, driven by strong demand for 3rd-gen EPYC processors and initial shipments of our next-generation Genoa CPU to select customers.
+Cloud revenue more than doubled year-over-year and increased sequentially as multiple hyperscalers expanded deployments of EPYC processors to power their internal properties and more than 70 new AMD instances were launched by Microsoft Azure, Amazon, Tencent, Baidu, and others in the quarter.
+In enterprise, OEM revenue was down sequentially as server OEMs continued working through match set issues and some businesses slowed the pace or scale of their purchases based on the macro uncertainties.
+Looking at the broader competitive landscape, our 3rd- gen EPYC CPUs in market today are the highest performant and most energy efficient x86 server CPUs available.
+We expect to further extend that lead with our next generation five nanometer Genoa processors, which deliver significant performance, energy efficiency, and TCO advantages for both hyperscale and enterprise workloads.
+We will publicly launch Genoa next week and are ramping production to support initial cloud deployments and the introduction of 4th-gen EPYC processor platforms by Hewlett Packard Enterprise, Dell, Lenovo, Supermicro, and others.
+Looking at our broader data center portfolio, as expected, data center GPU sales were down significantly from a year ago when we had substantial shipments supporting the build-out of the Frontier exascale supercomputer.
+We made good progress with our data center GPU software enablement work in the quarter, including announcing our role as a founding member of the PyTorch Foundation.
+We look forward to working closely with the largest cloud providers as we drive a standards-based approach to the development of popular PyTorch deep learning software framework.
+Demand from data center customers for our adaptive SmartNIC and DPU products was strong during the quarter.
+We had record sales of our Xilinx FPGA and networking data center products, led by demand from cloud and financial customers.
+Sales of our Pensando DPUs also ramped significantly from the prior quarter, driven by cloud adoption.
+The addition of Pensando DPUs to our product portfolio has been very well-received by customers, highlighted by our enterprise customer pipeline doubling in the few months since the acquisition closed.
+We were excited to support VMware's launch of its next-generation cloud virtualization platform in the quarter.
+Our Pensando DPUs will be included in the first validated server and HCI solutions supporting the new VMware virtualization offerings from Dell, HPE, and others that will make it much easier for enterprise customers to build more performant and secure data centers powered by our industry-leading DPUs.
+Taking a step back, we have built significant momentum in our data center business as we have consistently executed our server CPU roadmap and expanded our solutions capabilities with the addition of the Xilinx and Pensando products to our portfolio. We remain on track to further expand our product portfolio in 2023 with the launches of our edge and telco optimized Siena and cloud optimized Bergamo processors.
+With 128 cores and 256 threads per socket, we expect Bergamo will further extend our performance and energy efficiency leadership in cloud workloads.
+Customer response has been very strong based on the performance, features, and software compatibility Bergamo delivers.
+We believe our broad family of leadership CPUs, GPUs, FPGAs, adaptive SoCs, and DPUs position us well for long-term growth and share gains in the data center.
+Now turning to our client segment.
+Revenue declined 40% year-over-year to $1 billion.
+Our client processor shipments were below PC consumption in the third quarter as we worked closely with our customers to reduce downstream inventory.
+Desktop channel sell-through increased from the prior quarter, driven by increased demand for our Ryzen 5000 Series CPUs and the launch of our Ryzen 7000 Series processors and AM5 platform in September.
+We launched our 5-nanometer Ryzen 7000 Series processors to strong reviews based on delivering leadership performance in gaming, productivity and content creation applications.
+We expect Ryzen 7000 CPU sales to ramp this quarter, aligned with the launches of a broader range of mainstream and enthusiast AM5 motherboards.
+Now turning to our gaming segment.
+Revenue increased 14% year-over-year to $1.6 billion as strong semi-custom sales offset a decline in gaming graphics.
+We delivered our 6th straight quarter of record semi-custom SoC sales as demand for the latest game consoles remained strong and Sony and Microsoft prepare for the holiday season.
+Gaming graphics revenue declined in the quarter based on soft consumer demand and our focus on reducing downstream GPU inventory.
+We will launch our next generation RDNA 3 GPUs later this week that combine our most advanced gaming graphics architecture with 5-nanometer chiplet designs.
+Our high-end RDNA 3 GPUs will deliver strong increases in performance and performance per watt compared to our current products and include new features supporting high resolution, high frame rate gaming.
+We look forward to sharing more details later this week.
+Looking at our embedded segment, revenue increased significantly year over year to a record $1.3 billion, driven by growth from aerospace and defense, industrial and communications customers.
+Demand across our core markets remained very strong.
+We had record sales to aerospace and defense and automotive customers who are increasingly using our FPGA and adaptive SoC products to enable differentiated capabilities and features in their products.
+Record communications market revenue was driven by growth from both wired and wireless customers.
+We saw particular strength in North America, led by new 5G wireless installations and expanded wired infrastructure deployments.
+Overall demand for our Xilinx products remained strong as we continued to leverage AMD Scale to secure additional supply to address this demand.
+Longer term, we're very excited about the growth opportunities in our embedded business.
+We closed multiple high revenue design wins in the quarter with automotive, networking, emulation and prototyping, communications, and aerospace and defense customers.
+We're also seeing new design win opportunities and deeper engagements with many of our embedded customers based on the expanded breadth of our adaptive SoC, FPGA, CPU, GPU, and DPU product portfolio.
+In summary, we are well positioned to navigate the current market dynamics based on our leadership product portfolio, strong balance sheet, and growth in our data center and embedded segments.
+We have three clear priorities guiding us.
+First and foremost, we're focused on executing our roadmaps and delivering our next generation of leadership products.
+Second, we're building even deeper relationships with our customers as we make AMD a fundamental enabler of their success.
+Lastly, we remain very disciplined in how we manage the business.
+We will continue to invest in our strategic priorities around the data center, embedded, and commercial markets, while tightening expenses across the rest of the business and aligning our supply chain with the current demand outlook.
+The secular trends driving increased demand for high performance and adaptive computing in the cloud, at the edge, and across intelligent end devices remain unchanged and provide a strong backdrop for long-term growth.
+Now I'd like to turn the call over to Devinder to provide some additional color on our third quarter financial performance.
+Devinder?
+Devinder Kumar
+EVP, CFO, and Treasurer, AMD
+Thank you, Lisa, and good afternoon, everyone.
+AMD reported third quarter results in line with the preliminary results we announced last month.
+While we are pleased with the performance of our data center, gaming, and embedded segments, each of which grew significantly year over year, our third quarter results also reflect lower than expected client segment revenue.
+Third quarter revenue was $5.6 billion, up 29% from a year ago.
+Gross margin was 50%, up 150 basis points from a year ago, primarily driven by higher revenue in the embedded and data center segments, partially offset by lower client revenue and $160 million of inventory pricing and related charges in the graphics and client businesses.
+Operating expenses were $1.5 billion, compared to $1 billion a year ago, as we continued to scale the company.
+Operating income was up 20% from a year ago to $1.3 billion, driven by revenue growth and higher gross margin. Operating margin was 23% compared to 24% a year ago due to higher operating expenses.
+Net income was $1.1 billion, up $202 million from a year ago.
+Earnings per share was $0.67 per share compared to $0.73 per share a year ago, primarily due to lower client segment revenue.
+Now turning to our reportable segments.
+Starting with the data center segment, revenue was $1.6 billion, up 45% year-over-year, driven by strong growth in third generation EPYC server processor revenue.
+Data center operating income was $505 million or 31% of revenue, compared to $308 million or 28% a year ago.
+Higher operating income was driven primarily by stronger revenue, partially offset by higher operating expenses.
+Client segment revenue was $1 billion, down 40% year-over-year due to reduced processor shipments resulting from a weak PC market and a significant inventory correction across the PC supply chain.
+Client operating loss was $26 million compared to operating income of $490 million or 29% of revenue a year ago, primarily due to lower revenue.
+Gaming segment revenue was $1.6 billion, up 14% year-over-year, driven by higher semi-custom product sales, partially offset by lower gaming graphics revenue.
+Gaming operating income was $142 million or 9% of revenue, compared to $231 million or 16% a year ago.
+The decrease was primarily due to lower graphics revenue and inventory pricing and related charges.
+Embedded segment revenue was $1.3 billion, up $1.2 billion from a year ago, primarily due to the inclusion of Xilinx embedded product revenue.
+Embedded operating income was $635 million or 49% of revenue, compared to $23 million or 30% a year ago, driven primarily by higher revenue.
+Turning to the balance sheet.
+Cash, cash equivalents, and short-term investments were $5.6 billion at the end of the third quarter.
+During the quarter, we repaid the 7.5% senior notes totaling $312 million that matured in August and deployed $617 million to repurchase common stock.
+We have $6.8 billion in remaining authorization for stock repurchases.
+Cash from operations was $965 million, and free cash flow was $842 million compared to $764 million in the same quarter last year.
+Inventory was $3.4 billion, up approximately $721 million from the prior quarter, driven primarily by client products and new products ramping in the second half of the year.
+Now turning to our financial outlook.
+Today's outlook is based on current expectations and contemplates the near-term macroeconomic environment.
+For the fourth quarter of 2022, we expect revenue to be approximately $5.5 billion ± $300 million, an increase of approximately 14% year-over-year and flat sequentially.
+The year-over-year growth is driven by embedded and data center segments, partially offset by a decline in the client and gaming segments.
+On a sequential basis, embedded and data center segments are expected to grow, offset by declines in the client and gaming segments.
+In addition, for Q4, 2022, we expect non-GAAP gross margin to be approximately 51%, non-GAAP operating expenses to be approximately $1.55 billion or 28% of revenue, non-GAAP interest expense, taxes, and other to be approximately $175 million based on the 13% effective tax rate, and diluted share count to be approximately 1.62 billion shares.
+For the full year, we expect revenue to be approximately $23.5 billion ±$300 million, an increase of approximately 43%, led by growth in the embedded and data center segments.
+We expect non-GAAP gross margin to be approximately 52%.
+In closing, we continue to focus on executing our long-term strategy while navigating current market conditions.
+We will prioritize the key investments for our product roadmaps and long-term growth while taking several near-term cost management actions, including prudently controlling operating expenses and headcount growth while actively managing inventory in line with our revenue expectations.
+With that, let me turn the call over to Ruth for our Q&A session.
+Ruth?
+Ruth Cotter
+SVP and Chief Administrative Officer, AMD
+Thank you, Devinder.
+Kevin, if you could please poll the audience for questions.
+Operator
+Certainly.
+We'll now be conducting a question and answer session.
+If you'd like to be placed into question queue, please press star one on your telephone keypad.
+A confirmation tone will indicate your line is in the question queue.
+You may press star two if you'd like to remove your question from the queue.
+For participants using speaker equipment, it may be necessary to pick up your handset before pressing star one.
+One moment please while we poll for questions.
+Our first question today is coming from Aaron Rakers from Wells Fargo.
+Your line is now live.
+Aaron Rakers
+Managing Director and Senior Equity Analyst, Wells Fargo
+Yeah, thanks for taking the question.
+I have one question and one quick follow-up.
+I guess as we look at your client piece of the business being down sequentially in the current quarter, you know, as we work through inventory digestion at your customers, I'm curious to just how you're thinking about kind of the clearing out of that inventory.
+Do you think we find a bottom coming out of the December quarter?
+Or, you know, any kind of thoughts of just, you know, that kind of full expectation of a flushing of inventory in the PC market for you guys?
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Aaron.
+Thanks for the question.
+You know, clearly, the PC business has, you know, been very volatile and underperformed for us in the third quarter.
+I think as we go into the fourth quarter, we are guiding that embedded in our guidance is that, you know, PCs will be down again in the fourth quarter.
+We believe that will be a significant step in clearing inventory between the third quarter and the fourth quarter.
+You know, of course, we'll monitor the macro conditions, but we'll certainly exit the year in a better place.
+Aaron Rakers
+Managing Director and Senior Equity Analyst, Wells Fargo
+Yeah.
+As a quick follow-up on the server side of the business, I think in the past you've talked about your ability to ship being somewhat, you know, supply constrained.
+I'm just curious if you have an update, you know, on the supply situation in the server CPU, especially as we look towards the Genoa processor ramp in the next quarter or two.
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Sure.
+You know, on the server side, we certainly have been ramping up our overall supply.
+I think we've made good progress on that, you know, throughout the year.
+We have more supply in Q4 than we had earlier in the year.
+Some of those investments are coming online here in the fourth quarter.
+We expect, as we go into 2023, with the Genoa launch, not to be supply constrained, based on what we currently see.
+Aaron Rakers
+Managing Director and Senior Equity Analyst, Wells Fargo
+Yep.
+Fair enough.
+Thank you.
+Lisa Su
+Chair and CEO, AMD
+Thanks.
+Operator
+Thank you.
+Next question is coming from Toshiya Hari from Goldman Sachs.
+Your line is now live.
+Toshiya Hari
+Managing Director and Senior Equity Research Analyst,, Goldman Sachs
+Thanks so much for taking the question.
+Lisa, I wanted to ask a question on the outlook for 2023, specifically in the server CPU business.
+I know it's early and difficult to predict, but you know, given the supply comment that you just made, given what you're hearing from customers both on the cloud side as well as the enterprise side and the ramp of your new products, you know, how are you thinking about the positives there versus the macro, which continues to be a headwind?
+I think many of us have your business growing in data center kind of in the 20%-30% range.
+You know, is that a fair, you know, place to be, or is that a little too optimistic given what you know today?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+So, it is a little bit early to talk about 2023 precisely, but maybe let me give you a backdrop of, you know, where we see the data center market today.
+You know, as you said, in the near term, there are some, you know, overall macro headwinds that are affecting all markets, including the data center market.
+Now it varies by segment, and so if I go through each of the segments, what we're seeing is, you know, I think North America Cloud is probably the most resilient out of the segments within the data center market, and this is where, you know, AMD is the strongest.
+We've had, you know, very good progress at the North America Cloud vendors.
+You know, we continue to believe that, although there may be some near-term, let's call it optimization of, you know, let's call it individual footprints and efficiencies at individual cloud vendors, over the medium term, as we go into 2023, we expect, you know, growth in that market, particularly customers moving more workloads to AMD, just given the strength of our product portfolio and, you know, Genoa coming forward.
+As we look through the other segments, I think China has been very weak in 2022, and, you know, we're not forecasting a significant recovery in 2023, so we'll see how that goes.
+On the enterprise side, I would say enterprise is probably most impacted by the macro, so we have seen customers taking longer to, you know, make decisions and perhaps being a little bit more conservative on CapEx.
+That being said, though, we feel very good about our value proposition.
+We feel very good about our product portfolio, and we believe, you know, even in a little bit of a choppy market that, you know, we can gain share across that business.
+Overall, I think our data center trends are good and we need to work through the macro as everyone does.
+Toshiya Hari
+Managing Director and Senior Equity Research Analyst,, Goldman Sachs
+That's helpful.
+Then as my follow-up, a question on gross margins, maybe for Devinder.
+You're guiding Q4 gross margins up about 100 basis points, which is good to see, but you're still, you know, 300 basis points below where you were in Q2.
+Since then, obviously, client is down significantly.
+Your data center business is very resilient and so is the classic Xilinx business.
+From a mix perspective, you know, you should be in a better place.
+What's driving down gross margins in Q4, I guess, versus Q2?
+Are you recognizing another inventory hit, or is it something else?
+Thank you.
+Devinder Kumar
+EVP, CFO, and Treasurer, AMD
+No inventory hit, first of all, Toshiya.
+On the gross margin, as you said, Q2 54%.
+If you go all the way to Q4, 51%.
+Primarily is the weak PC market and client margins coming down.
+For example, if you look at Q3, you know, all of the businesses were in line with expectations and client margins came in lower.
+We also have in the data center hyperscale cloud weighting, which has lower ASPs, so that also has an impact on margins.
+As Lisa mentioned earlier, some of the new capacity that we have from a supply standpoint, there are some additional costs from the supply capacity agreements, and those are all baked into the Q4 51% margin guidance.
+Toshiya Hari
+Managing Director and Senior Equity Research Analyst,, Goldman Sachs
+Thank you.
+Operator
+Thank you.
+Next question is coming from Stacy Rasgon from Bernstein Research.
+Your line is now live.
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein Research
+Hi, guys.
+Thanks for taking my questions.
+For the first one, I wanted to ask about the extra week in Q4.
+How much revenue is that driving on an overall basis, as well as in data center specifically?
+I don't know how linear that business is, particularly.
+Is there any material impact from that extra week?
+Lisa Su
+Chair and CEO, AMD
+Yeah, Stacy, you know, we're not really counting on a material impact from the extra week.
+I think if you look at the pluses and minuses in the quarter, you know, the guidance for Q4 really is around, you know, sort of PCs and, let's call it, gaming being lower.
+You know, again, those are, you know, with all the holidays in place, we're not counting on too much there.
+You know, data center and embedded are, you know, higher, but, you know, we're not expecting that the extra week has a material impact.
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein Research
+Got it.
+Thank you.
+For my follow-up, I wanna ask about units versus pricing in Q3 and Q4.
+I know in Q3, you specifically mentioned pricing as an impact, and it sounds like you're suggesting client margins are coming down.
+I don't know if that's just a cost or if there's a pricing impact as well.
+Like, what did units and pricing do in client in Q3, and what are you expecting into Q4?
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Stacy.
+I think if you look at the third quarter, it was.
+There were a lot of dynamics in the client business, so market was weak.
+In particular, consumer was weak, and, you know, we have more of a footprint in consumer.
+In that framework, we saw units come down, but we also saw ASPs, you know, come down on a sequential basis.
+Now I will say that ASPs were still up on a year-over-year basis, so, you know, we've been, let's call it disciplined in this pricing environment.
+You know, we did see some, you know, pricing dynamics in the quarter, and we didn't chase unprofitable business, and we'll continue to be, you know, sort of watching that space.
+that was the pluses or minuses as it relates to client ASPs.
+As we go into the fourth quarter, again, I think we're forecasting for a competitive environment given the market weakness, and you know, that's embedded in the guide.
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein Research
+Got it.
+That's helpful.
+Thank you, guys.
+Operator
+Thank you.
+Next question is coming from Vivek Arya from Bank of America.
+Your line is now live.
+Vivek Arya
+Managing Director and Senior Equity Research Analyst, Bank of America
+Thanks for taking my question.
+For the first one, I just wanted to clarify, what is the client revenue we should be thinking about for Q4?
+Is it $800 million, $900 million?
+Any help there?
+Then I guess, Lisa, the bigger question there is, what does client recovery look like?
+You know, do you get back to the $2 billion quarterly rate?
+Do you get to $1.5 billion?
+I ask that because your competitor was suggesting that next year the PC TAM would only be down 4% or 5%, you know, which seems a little bit optimistic.
+What do you think AMD is kind of...
+You know, what kind of PC TAM does AMD have in mind for next year so that we get a sense for how de-risked the model is from a PC perspective?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+A couple different points, Vivek.
+Let me just answer the, you know, sort of the expectations around Q4.
+I would say, you know, we're guiding, let's call it modestly down for client and gaming and, you know, obviously we're coming off of what is already a low base in Q3.
+We want to do that to, you know, correct the, you know, sort of the inventory situation as quickly as possible, and as a result, you know, we're going to undership consumption again in the fourth quarter to do that.
+As it relates to next year, I think there are a lot of factors.
+I mean, this year PCs will be down quite a bit.
+Let's call it high teens, close to 20%.
+As we go into next year, I think the industry is calling mid-single digits.
+I think that would be a good case.
+I think we should model down to -10%.
+You know, again, within our PC business, we expect as we get through this inventory correction, I mean, we have very good products, and I feel you know very good about our product portfolio and very good about our platforms overall.
+I do think the PC business you know will recover as we go into 2023, but you know we'll have to work through these dynamics over the next quarter or so.
+Vivek Arya
+Managing Director and Senior Equity Research Analyst, Bank of America
+Understood.
+For my follow-up, Devinder, maybe one for you on gross margins.
+How much of the write-offs and pricing actions that you're taking and that you took in Q3 and are taking in Q4, how much are they recoverable in Q1?
+Let's say hypothetically Q1 revenue is the same as Q4 revenue.
+What can gross margins be?
+How much of the actions are recoverable?
+Basically, how do you start getting back to the prior trend of 54% gross margin?
+You know, because the longer term target is over 57%.
+If client revenues don't really grow that much, you know, are there actions that can help you get back to your prior gross margin trajectory?
+Thank you.
+Devinder Kumar
+EVP, CFO, and Treasurer, AMD
+Let me try to answer it this way.
+If you look at Q3 in and of itself, you know, we came in with about 50% gross margin.
+We had $160 million of charges, which are inventory pricing and related charges.
+If you adjust for those, the margin in Q3 is about 52%.
+You know, we had guided to 54%, we came in at 52%, and primarily that's due to, you know, two reasons, right?
+You have the client weak PC market, and obviously the client margins are down.
+As I said earlier, the rest of the business will perform per the expectations.
+We have to work through what's going on with the PC market over this quarter, next quarter, and maybe early 2023, and then we come back and talk about the margins.
+I do feel good about the products we're introducing, especially the new products, and have the ability to increase margins from where we are right now, guiding 51% and then taking it up from there.
+Vivek Arya
+Managing Director and Senior Equity Research Analyst, Bank of America
+Is the $160 million recoverable?
+I guess that's really my question.
+Devinder Kumar
+EVP, CFO, and Treasurer, AMD
+Those were mostly, you know, inventory write-off pricing actions we take.
+Largely, I would say not recoverable, if that's what you're asking.
+Vivek Arya
+Managing Director and Senior Equity Research Analyst, Bank of America
+I mean, can you get back to this 52% that you would have been normalized?
+Like, yeah, I expect if you don't take these actions in Q1, then should you be at a higher gross margin in Q1 versus Q4?
+Devinder Kumar
+EVP, CFO, and Treasurer, AMD
+I won't guide Q1, but what I'll say is from the 51% that we have in Q4, we can improve from there.
+Vivek Arya
+Managing Director and Senior Equity Research Analyst, Bank of America
+Thank you.
+Operator
+Thank you.
+Next question is coming from Matt Ramsay from Cowen.
+Your line is now live.
+Matt Ramsay
+Managing Director and Senior Equity Analyst, Cowen
+Thank you very much.
+Good afternoon.
+Lisa, I have one question on the data center segment and then a follow-up on client.
+On the data center business, if you look back to the pre-announcement a month ago, I think there was a little bit of maybe.
+You came in a little bit under where we were modeling.
+I'll just say it that way.
+I got a ton of questions on that, and I was really interested in some of the comments that you made in your script about how cloud revenue still more than doubled year-over-year.
+Anyway, just confirming that I got that right.
+Maybe if you could help us break down your data center business a little bit between the strength in cloud that I would expect to continue given the CapEx commentary we've heard.
+There were obviously some headwinds from enterprise that you called out and clearly from HPC, both on CPU and GPU.
+I think that would be helpful to just break it down because I was surprised that cloud revenue was as strong as it was given where the numbers came in in the quarter.
+Thank you.
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Matt.
+If we're focused on the third quarter, what I would say is you know cloud revenue did more than double.
+Enterprise revenue was down.
+Then on the GPU side, because we had a strong quarter in you know the third quarter of 2021, you know that was down too, and perhaps that wasn't quite in your modeling.
+You know the larger dynamics are, as I said earlier, the North America cloud is probably the best out of all the data center you know segments.
+You know there is some impact on macro though.
+I mean, you know, I think everyone is aware of that there is a little bit of pullback in CapEx spending.
+That being the case, you know, I think our market share is very good there and will.
+You know, we expect it to continue to grow.
+As the business becomes more cloud-weighted, you know, there have been a few margin questions, so I'll just mention.
+You know, as the business becomes more cloud-weighted, you know, that tends to have a little bit of downward pressure on the margin.
+You know, our goal right now is footprint and expanding our footprint across cloud and enterprise.
+I will say, even in a weak enterprise market as we go forward over the next few quarters, we feel really good about how we're positioned and the platform solutions that are coming out with all of our, you know, OEM partners.
+You know, I think on a quarter-by-quarter basis, you know, you may not get the model exactly right, but I think on a longer-term basis, you know, I think the product portfolio and the product capabilities, you know, should help us continue to gain share.
+Matt Ramsay
+Managing Director and Senior Equity Analyst, Cowen
+Thank you, Lisa.
+That's helpful, I think, just to highlight the cloud momentum continuing.
+I guess as my follow-up, I wanted to kind of revisit what we've learned over the last three or four months in the PC market.
+It's super dynamic times out there and obviously things have changed in demand really quickly from when you guys guided back at the beginning of August until the pre-announcement.
+I just kinda wanted to walk back through sort of the dynamics of how the quarter progressed from when you guys gave the original guidance.
+I guess obviously the market went down, there was inventory corrections and whatnot, but just how quickly did you guys see that?
+I guess the real question coming out of this is how are you thinking about changes you might make in monitoring inventory levels or working with your channel partners?
+Just any changes you're thinking about making and operationally to the business to sort of protect from this kind of thing and I guess going forward.
+Thanks very much.
+Any color there would be really helpful.
+Lisa Su
+Chair and CEO, AMD
+Sure, Matt.
+Yes, the third quarter, the PC market was very volatile.
+You know, going into it, we expected the market would be weak.
+It was weaker than we expected.
+You know, the weakest portion of the market is the consumer market, where we tend to be more heavily weighted.
+I think the thing that perhaps you know we saw in the market is.
+You know, as the overall macro economy has also weakened, customers in general across the board have just become more cautious.
+Even as they were selling through their inventory, they were not replenishing stock to the same levels.
+Frankly, you know, we were coming off of a supply-demand imbalance, where in the first half of the year, people were actually trying to gather inventory, because we had, you know, been in a supply constraint situation.
+It is a very dynamic situation, I would say.
+I think that we have great partnerships across the supply chain.
+I feel good about the visibility that we have.
+I think the market will continue to be volatile, but we're all, you know, sort of biased towards, you know, reducing inventory levels so that, you know, we can better react to the market factors and the market situation.
+Hopefully that helps a little bit.
+Matt Ramsay
+Managing Director and Senior Equity Analyst, Cowen
+No, no, definitely appreciate that, Lisa.
+Operator
+Thank you.
+Next question today is coming from Joe Moore from Morgan Stanley.
+Your line is now live.
+Joe Moore
+Managing Director and Head of U.S. Semiconductors Research, Morgan Stanley
+Great.
+Thank you.
+I wonder if you could talk a little bit about your visibility in the Xilinx.
+Part of the business, to the extent that we've seen some weakening in kind of broader markets here and there, but generally it's okay.
+Like, can you just talk about how long your visibility extends there and how you feel about growth into next year?
+Lisa Su
+Chair and CEO, AMD
+Yeah, absolutely, Joe.
+You know, the Xilinx business or, you know, our embedded business has been performing just extremely well.
+You know, another very strong quarter in Q3, and we have, you know, we see growth into the fourth quarter.
+You know, very focused on what's happening within the various sub-segments.
+I think the nice part of the business, as you know, is that it's very broad-based.
+We have seen, you know, communications was up for us, aerospace and defense, very strong.
+Automotive was also up for us here in the third quarter.
+We did see some, you know, weaknesses.
+Consumer was weak.
+There was some sub-segments of industrial, so test and measurement was weaker in the third quarter.
+We do see, you know, the puts and takes there.
+Overall, I would say, you know, the business has strong visibility.
+We're still supply constrained in certain nodes, in some of the legacy nodes.
+We've made a lot of progress on supply, so we're seeing additional supply come in in Q4, and that leads us to, you know, good confidence in Q4.
+We have multiple quarters of visibility, just given the lead times, in that business.
+You know, we'll be watching it very carefully.
+I would say, you know, overall, the products portfolio is strong, and we've also gained some share in that business, as well.
+Joe Moore
+Managing Director and Head of U.S. Semiconductors Research, Morgan Stanley
+Great.
+Thank you very much.
+Lisa Su
+Chair and CEO, AMD
+Thanks.
+Operator
+Thank you.
+Next question today is coming from Ross Seymore from Deutsche Bank.
+Your line is now live.
+Ross Seymore
+Managing Director and Senior Equity Research Analyst, Deutsche Bank
+Hey, everybody.
+Thanks for letting me ask a couple questions quickly here.
+Lisa, if you could give us a little color.
+You talked about the fourth quarter being, I guess, down modestly in client and gaming.
+Can you give relatively similar color for data center and embedded, just 'cause the volatility between segments obviously has been huge over the last couple quarters?
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Ross.
+Well, you know, since on a absolute level, we're talking about flattish from Q4 to Q3, you know, $5.55 versus the $5.56.
+You know, modest decline in client and gaming.
+Within gaming, we would expect consoles to be down in the fourth quarter given they're coming off of Q3, which is their peak.
+That's offset a bit by our new graphics launch that is occurring in the next few weeks.
+Then as it relates to data center and embedded, it's about the same.
+You know, let's call it modest plus.
+As we go forward, we expect, you know, again, cloud to be stronger than enterprise, that's some of the margin dynamics that we were asking earlier.
+You know, embedded as we get more supply, you know, modestly up as well.
+Ross Seymore
+Managing Director and Senior Equity Research Analyst, Deutsche Bank
+Great.
+That's perfect.
+As my follow-up, one for either you, or Devinder.
+Kinda as we think about OpEx for next year, how do you guys philosophically balance the desire to stick to your business model that you laid out at your most recent Analyst Day versus the desire to continue to spend, continue to gain market share, put out the great new products and execute that you've done so well?
+Are those kind of buffers conflicting against each other?
+How, if so, do you reconcile that confliction?
+Devinder Kumar
+EVP, CFO, and Treasurer, AMD
+Yeah, I think the key thing is, you know, we continue to invest in the strategic areas in data center and embedded and the product roadmaps.
+The macro environment has weakened, the PCs softened, and we are taking actions to reduce expenses, especially in the, you know, rest of the business besides what I talked about earlier in terms of the areas of focus.
+We have slowed down hiring.
+You're right, you know, Q4, if you look at an E-to-R basis is high, you know, but we are very disciplined in terms of what we're gonna do.
+Expense actions do take time to kick in, and we expect as we go out into 2023, the E-to-R comes more in balance with the revenue, and we manage it in line with the revenue over time.
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Maybe, Ross, if I just add on top of that.
+I think we have multiple levers in OpEx, so we are gonna be very disciplined, as Devinder said.
+That being the case, I mean, we feel very good about our strategic direction around data center, embedded and the commercial markets.
+We want to continue to invest there, where we will be more conservative on, you know, the consumer-facing portions of our business.
+That's, you know, how we'll manage through 2023.
+Operator
+Thank you.
+Our next question is coming from Ambrish Srivastava from BMO.
+Your line is now live.
+Ambrish Srivastava
+Senior Research Analyst, BMO
+Hi, thank you very much.
+Lisa, I wanted to come back to the PC business.
+There's such a big disparity between your 3Q guide and what Intel guided to or reported versus what they're guiding to in 4Q.
+Usually, you know, things normalize over a longer period of time, but I just wanted to understand, is it a case of they took their medicine earlier and AMD continued to overship versus demand?
+Just kinda help us understand.
+There seems to be also a dynamic that Intel is raising pricing in 4Q, so there was some pull in ahead of that.
+I've been getting a lot of questions myself.
+I don't understand such a big disparity, so any help would be very helpful.
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Ambrish.
+Look, I think, again, let me comment on our business, right?
+For our business, as you know, we exited the first half of the year.
+You know, I think we were planning for a, you know, sort of a reasonable PC market in the second half.
+Usually, the third quarter is higher than the first half, and, you know, the third and the fourth quarter are seasonally higher.
+You know, that's what we were building to, together with our customers, by the way, with that expectation.
+I think the market weakness, as well as just the overall caution in the environment, just caused people to behave a bit differently.
+You know, that really required us to work together with our customers on, you know, the inventory corrections.
+As you said, there were some temporal, you know, sort of dynamics, and we're aware of those temporal dynamics.
+Some of it is, you know, very sort of very aggressive pricing that, you know, we chose not to follow.
+You know, again, that's a decision that we made.
+You know, others are, you know, as you might expect, there might be some, you know, temporal optimization that people are doing.
+I don't think there's anything fundamental.
+I think fundamentally our product portfolio is strong.
+I think we have a very, you know, good platforms in place and, you know, we'll work through this.
+You know, I fully agree that it's kind of a messy, you know, market environment that we have to work through, but we will work through it.
+Ambrish Srivastava
+Senior Research Analyst, BMO
+Got it.
+Good.
+Lisa Su
+Chair and CEO, AMD
+Thank you.
+Ambrish Srivastava
+Senior Research Analyst, BMO
+I had a follow-up for you, Devinder.
+Just talk about capacity opening up at the foundries.
+We had this conversation at the Analyst Day about the headwind to free cash flow, given your need or desire to secure capacity.
+Is that going to taper off now as we go through the remainder of the next few quarters as there should be more capacity that's available?
+Plus, on the PC side, you should need much less than what you needed a couple of quarters ago.
+Thank you.
+Devinder Kumar
+EVP, CFO, and Treasurer, AMD
+Yeah.
+I mean, the capacity agreement that we're working on, which, you know, have some benefit, especially as Lisa talked about earlier in the service space, you know, these are long-term agreements we put in place to support the growth of the business.
+You know, given the market backdrop, you know, we work actively with our suppliers in aligning supply with timing of revenue and ramp-up products, and that's something that we are able to do with our suppliers, given what's happened in the market.
+So there is, you know, from that standpoint, you know, some flexibility overall, and that's something we'll work through over the next 2-3 quarters.
+Operator
+Thank you.
+Next question is coming from Harlan Sur from JPMorgan.
+Your line is now live.
+Harlan Sur
+Managing Director and Senior Equity Research Analyst, JPMorgan
+Good afternoon.
+Thanks for taking my question.
+In data center, you know, the team continues to expand the number of compute instances with your cloud customers on Milan.
+Seems like the momentum is carrying up and through the ramp of your fourth generation Genoa platforms.
+I think this is a very good dynamic.
+I assume you guys have good visibility here.
+How long does the Milan momentum continue into next year?
+And are your cloud customers already qualifying Genoa?
+And when do you expect Genoa to start to kick into high volume ramp?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Thanks for the question, Harlan.
+Yes.
+Look, we're very happy with our Milan, you know, sort of workload ramp.
+We are continuing to ramp Milan here this year and then into next year as well.
+As it relates to Genoa, we did start initial shipments of Genoa to our strategic customers in the third quarter.
+That is continuing in the fourth quarter, so we're ramping production in the fourth quarter.
+A lot of the, let's call it the qualifications or the, you know, the first instances, are being qualified here in the fourth quarter into the first quarter.
+What we've said before is that, you know, Milan and Genoa are going to actually coexist for quite some time, just given, you know, how competitive, you know, both are.
+Genoa is a new platform.
+It is new DDR5 and PCIe 5, and that takes a bit longer for people to qualify.
+We would expect both to continue to ramp in 2023, and that's how we're planning the business.
+Harlan Sur
+Managing Director and Senior Equity Research Analyst, JPMorgan
+Great.
+Thank you.
+You know, despite the macro concerns and as you mentioned, some near-term workload optimization, your North American cloud customers, I mean, they're still growing their cloud services business at a strong 30%-40% year-over-year growth rate.
+I assume at these types of growth rates, like the consumption of compute, networking, storage workloads, and therefore installed utilization, like this is all quite strong and driving the need to build out more compute capacity.
+Is this what's driving the team's sort of strong midterm outlook for this segment?
+Or is it more a function of your strong product lineup with Genoa and continuing to capture greater compute share or both?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Right, Harlan.
+I would say it's a little bit of both, and I think you said it well.
+You know, in the very near term, there is a little bit of optimization that, you know, each cloud vendor is doing.
+In the medium term, what our customers are telling us is they need more compute.
+The more compute is for, you know, additional, you know, workloads building out.
+It's also for upgrade of let's call it older compute.
+Given our new products have very strong, you know, TCO, power efficiency, given the cost of power and energy around the world, we're actually seeing that also be a driver for some of the conversion to AMD in the cloud as we go into 2023.
+Harlan Sur
+Managing Director and Senior Equity Research Analyst, JPMorgan
+Thank you, Lisa.
+Lisa Su
+Chair and CEO, AMD
+Thanks, Harlan.
+Operator
+Thank you.
+Next question is coming from Chris Danely from Citi.
+Your line is now live.
+Chris Danely
+Managing Director and Senior Semiconductor Analyst, Citi
+Hey, thanks, gang.
+If we take the macro out of it, can you just go through your share expectations in desktop, notebook, and server, let's just say for the next 12 months or so?
+Lisa Su
+Chair and CEO, AMD
+Let's see, I'm trying to think, how do I take the macro out of it?
+Your question is, put the actual TAM aside and just talk about where we're going from a share standpoint.
+Is that your question?
+Chris Danely
+Managing Director and Senior Semiconductor Analyst, Citi
+Yeah.
+You can say relatively where you expect to gain more or less or something like that.
+Lisa Su
+Chair and CEO, AMD
+I got it.
+Okay.
+Yeah, I wanna be responsive to the question.
+Well, let's start with the data center.
+I think in the data center, we believe that we will continue to gain share.
+We expect to continue to gain share in both cloud and enterprise.
+We are more underrepresented in enterprise.
+You know, again, that's a key focus for us.
+But as we just stated in the last few questions, I think North America Cloud in particular, I think we see line of sight to significant new deployments based on our current roadmap.
+In the desktop and notebook business, you know, our focus is on certain segments, so we're very focused on premium, we're very focused on gaming, and we're focused on commercial.
+I think in those areas, there are again opportunities for us to, you know, continue to gain share.
+I think in desktop DIY business or, you know, sort of the desktop channel business, you know, we have a strong lineup.
+We just launched the new Ryzen 7000 Series.
+We have additional products that we'll launch next year as well.
+You know, that's sort of the puts and takes in the various businesses.
+Chris Danely
+Managing Director and Senior Semiconductor Analyst, Citi
+Sure.
+Then as my follow-up, I guess just getting back into the macros that you mentioned that, you know, ASPs are getting a little, or at least pricing is getting a little tough in CPUs.
+You know, if this downturn in PCs continues into next year and if, you know, if it spreads into the data center market, how do you think of pricing going forward?
+Would you choose to maybe give up some share, if your competitor, you know, remains aggressive on price and the environment stays difficult?
+Lisa Su
+Chair and CEO, AMD
+Chris, I think where we have a very strong value proposition, our strategy is not to lead on price.
+If you look in the data center, you know, although price is one factor, we find price is not the leading factor in the majority of the selections.
+There is, you know, work for us to do in terms of workload optimization, and that's where a lot of our focus has been, you know, in the data center.
+You know, hopefully that answers that piece.
+As it relates to the PC business, it is more price sensitive.
+We have seen it become more price sensitive.
+I think, again, where we have a strong value proposition, we will continue to be very competitive.
+Even back a year ago, you know, we didn't choose to compete in the Chromebook market because, you know, again, that was just not profitable business for us.
+We're gonna be disciplined in ensuring that what we're taking is profitable business.
+Chris Danely
+Managing Director and Senior Semiconductor Analyst, Citi
+Got it.
+Thanks, Lisa.
+Lisa Su
+Chair and CEO, AMD
+Thank you.
+Operator
+Thank you.
+Next question is coming from Timothy Arcuri from UBS.
+Your line is now live.
+Timothy Arcuri
+Managing Director and Senior Equity Research Analyst, UBS
+Hi.
+Thanks a lot.
+I had two.
+Lisa, first, I wanted to ask about U.S.-China trade.
+I guess the recent restrictions, they didn't seem to have too much direct impact on you, but the direction of travel seems pretty clear.
+You report China as, you know, 25% of revenue, but that's sell-in.
+I'm wondering if maybe you can help us with what China is on a consumption basis, and kind of how you handicap where your China TAM is going.
+You know, when you're making these investment decisions, how do you think about the U.S.-China trade and the, you know, direction of travel?
+And then I had a follow-up, too.
+Thanks.
+Lisa Su
+Chair and CEO, AMD
+Yeah, sure, Tim.
+We are certainly watching the situation you know very closely.
+You know, upon reviewing all of the new regulations as they have gone into effect, it is minimal impact on our revenue in the near term.
+You know, we're certainly working you know very closely with you know Commerce and the rest of the U.S. government on how those are rolling out.
+I think on a medium-term basis, you know, again, my view on these things is we will always follow the U.S. regulations and understand you know the need for national security.
+You know, the majority of our China business is, let's call it, non-data center.
+It is more, you know, in the PC business as well as, you know, in some of the consumer-facing businesses.
+You know, we are paying attention to that as we go forward in the business.
+You know, for the near term, we have not seen any significant impacts, and we'll continue to follow it very closely.
+Timothy Arcuri
+Managing Director and Senior Equity Research Analyst, UBS
+Thanks a lot, Lisa.
+I guess I wanted to ask a question about PCs.
+You guided in late July, and it seemed like things were fine, and then we lost basically $1 billion basically in two months.
+It would seem like those were massively weak months, and I would think that maybe there's been some improvement in the run rate when you kinda headed to Q4.
+Does that mean inventory is sort of leaned out a little bit?
+I mean, the market probably only absorbed, I don't know, 50 million units in Q3, and you annualize that, you're at 200 million units a year.
+It's like hard to get PCs that bad next year.
+I'm just kinda wondering if you can comment on sort of the, you know, run rate because, you know, August and September must have been, you know, terrible months.
+Thanks.
+Lisa Su
+Chair and CEO, AMD
+The PC market certainly was volatile in the third quarter.
+I would say that we did drain a good amount of inventory in the third quarter.
+I think we are, you know, our guide indicates a desire to drain more in the fourth quarter.
+You know, I think we will make progress in that.
+You know, of course, it all depends on how the macro behaves over the next couple of months.
+You know, like I said, I think we have good visibility into the various, you know, market factors and we're planning for a weaker PC environment in the fourth quarter.
+Ruth Cotter
+SVP and Chief Administrative Officer, AMD
+Thank you, Tim.
+Operator, we'll take two more questions, please.
+Operator
+Certainly.
+Our next question is coming from Blayne Curtis from Barclays.
+Your line is now live.
+Blayne Curtis
+Managing Director and Senior Equity Analyst, Barclays
+Hey, thanks for taking my question.
+I wanna go back to just the pricing question prior.
+If you look at the decline in your client business, a little over 50%, is there a way to think about units versus pricing there?
+I think there's a couple factors too.
+I'd be curious your thoughts.
+You know, mix away from the high end, but then you mentioned competition.
+Just kinda your thoughts as to that impact to pricing as well.
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Blaine, it was certainly more units.
+You know, I think Stacy asked the question earlier.
+You know, ASPs were down sequentially, but they were up year over year, so, you know, the decline was more driven by units, but there was an ASP factor, on a sequential basis.
+In terms of, you know, what we see in the market, I would say that as the market weakened, there was, you know, sort of more pressure at the high end in terms of just, you know, velocity and, you know, desire to clear inventory.
+You know, the mix towards, you know, lower ASPs and towards, you know, more, you know, more incentives to clear that inventory.
+As it relates to, you know, longer term though, I don't feel like there's a longer term, you know, significant mix change, if that's what you were asking.
+Blayne Curtis
+Managing Director and Senior Equity Analyst, Barclays
+I guess the second part, maybe I'll ask the second part, is, you know, gross margins are down 100 basis points from Q3 to Q4.
+Mix is kinda going in your favor with data center and embedded.
+I guess you're saying PCs are not down that much, I guess I was figuring maybe pricing's not that bad either.
+I guess that's a long way of asking, you know, again, what's the reason for the core margins to be down 100 basis points from Q3 to Q4?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Okay.
+Let me try that.
+If you think about what we see in the business, there's a couple of factors.
+If you say, you know, excluding the charges that we described, the $160 million in Q3, we were about 52%.
+You know, we're guiding to 51%.
+You know, we do see the client market continuing to be weak.
+We wanna make sure we do clear, you know, additional inventories.
+We do see in data center a mix to, you know, when the mix is higher for North America cloud, that tends to be lower ASPs, just given, you know, the environment in that business.
+Devinder mentioned that, as we increase capacity, particularly in the server market, you know, we have some additional capacity coming online, and that has a bit of cost impact.
+Those are the couple of factors that get you to the 51%.
+Blayne Curtis
+Managing Director and Senior Equity Analyst, Barclays
+Thanks.
+Lisa Su
+Chair and CEO, AMD
+Sure.
+Operator
+Thank you.
+Our final question today is coming from Harsh Kumar from Piper Sandler.
+Your line is now live.
+Harsh Kumar
+Managing Director and Senior Research Analyst, Piper Sandler
+Yeah.
+Hey, guys.
+First of all, thanks for squeezing me in.
+Lisa, I had a question of the near term, to call it midterm view, of the data center market.
+Do you think that the data center market is inherently growing in the December quarter?
+The market, not AMD.
+Do you think, and/or do you think you're growing because you're launching Genoa?
+To that point, you talked about dislocations inside the cloud and the data center market.
+I was curious, what specifically are you seeing?
+If you could differentiate between are you seeing just slower growth or is there inventory that's built up?
+Then I've got a follow-up.
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+So look, what I would say is, you know, again, on a very discrete basis, I wouldn't say the overall data center market is necessarily up.
+Just given the macro impact, you know, there is some impact on overall spending.
+In terms of our business, we do have a weighting towards North American cloud that tends to be, you know, sort of the most resilient part of the market.
+Then as it relates to what is happening in the market, like I said, I think what is happening is, you know, enterprise is weak.
+I think that is, you know, overall, people, businesses are just being more cautious.
+China is weak and has been weak all year.
+Then in cloud in general, there is not in general.
+Every customer is a bit different in what they're trying to do.
+Some are just optimizing inventory, some are optimizing footprint, and then some are continuing to build.
+I wouldn't call it a market per se, I would call it there are individual instances for each customer.
+What's helpful for us is what we're talking about is not just Q4 with our customers.
+We're really talking about what do they need for all of 2023.
+I mean, we are coming from a place where we were supply constrained, and we're planning for the capacity that's necessary.
+You know, there we see which workloads are moving and when are they moving each of the workloads.
+That gives us some visibility into, you know, what their spending plans are for 2023.
+Harsh Kumar
+Managing Director and Senior Research Analyst, Piper Sandler
+Very helpful, Lisa.
+For my last follow-up, can you talk about the gaming market in general?
+Of course, September you mentioned was the peak quarter, so December will be off some.
+Is this also the peak gaming year in 2022, and should we be thinking that gaming will be down?
+Just because these things are still so hard to get, you try to go buy a PS5, you still can't get your hands on it easily.
+Do you think there's more legs left to the growth next year?
+Lisa Su
+Chair and CEO, AMD
+Yeah.
+Harsh, we do believe that there is still some pent-up demand, especially coming into this holiday season.
+You know, Q3 was the peak for us this year.
+Q4 is down seasonally, as you might expect.
+Going into next year, I think there are puts and takes.
+I would say, you know, the best way to model at this point is to model, you know, gaming segment flattish.
+You know, let's see how the holiday season goes.
+You know, that would be the way we would call it at this point.
+Operator
+Thank you.
+We've reached the end of our question and answer session.
+I'd like to turn the floor back over for any further closing comments.
+Ruth Cotter
+SVP and Chief Administrative Officer, AMD
+Thanks, Kevin.
+Thank you everybody for tuning in today.
+We'll look forward to connecting with you all throughout the quarter.
+We have two important product launches coming up here in the next 10 days, so we'll look forward to that engagement.
+Thanks, everyone.
+This concludes the call.
+Operator
+Thank you.
+You may now disconnect and have a wonderful day.
+We thank you for your participation.
+Data Source:
+Quartr
+Last updated:
+Nov 1, 2022
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (17)
+Quarterly report
+Earnings release
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
