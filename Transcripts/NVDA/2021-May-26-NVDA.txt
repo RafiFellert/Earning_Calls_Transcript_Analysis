@@ -1,0 +1,626 @@
+NVIDIA (NVDA) Q1 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+NVIDIA Corporation (NVDA)
+NASDAQ: NVDA · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+200.75
++5.71 (2.93%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+198.95
+-1.80 (-0.90%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q1 2022
+May 26, 2021
+Quarterly report
+Earnings release
+Slides
+Play Audio
+Download Transcript
+Operator
+Good afternoon.
+My name is Samidra, and I will be your conference operator today.
+At this time, I would like to welcome you to the NVIDIA financial results conference call.
+All lines have been placed on mute to prevent any background noise.
+After the speakers' remarks, there will be a question- and- answer session.
+If you would like to ask a question during this time, simply press star followed by the number one on your telephone keypad.
+If you would like to withdraw your question, press the pound key.
+Thank you.
+Simona Jankowski, you may begin your conference.
+Simona Jankowski
+VP of Investor Relations and Strategic Finance, NVIDIA
+Thank you.
+Good afternoon, everyone.
+Welcome to NVIDIA's conference call for the first quarter of fiscal 2022.
+With me on the call today from NVIDIA are Jensen Huang, President and Chief Executive Officer, and Colette Kress, Executive Vice President and Chief Financial Officer.
+I'd like to remind you that our call is being webcast live on NVIDIA's investor relations website.
+The webcast will be available for replay until the conference call to discuss our financial results for the second quarter of fiscal 2022.
+The content of today's call is NVIDIA's property.
+It can be reproduced or transcribed without our prior written consent.
+During this call, we may make forward-looking statements based on current expectations.
+These are subject to a number of significant risks and uncertainties and o ur actual results may differ materially.
+For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent Forms 10-K and 10-Q, and the reports that we may file on Form 8-K with the Securities and Exchange Commission.
+All our statements are made as of today, May 26th, 2021, based on information currently available to us.
+Except as required by law, we assume no obligation to update any such statements.
+During this call, we will discuss non-GAAP financial measures.
+You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our CFO commentary, which is posted on our website.
+With that, let me turn the call over to Colette.
+Colette Kress
+EVP and CFO, NVIDIA
+Thanks, Simona.
+Q1 was exceptionally strong, with revenue of $5.66 million and year-on-year growth accelerating to 84%.
+We set a record in total revenue in gaming, data center, and professional visualization, driven by our best-ever product lineups and structural tailwinds across our businesses.
+Starting with gaming, revenue of $2.8 billion was up 11% sequentially and up 106% from a year earlier.
+This is the third consecutive quarter of accelerating year-on-year growth, beginning with the fall launch of our GeForce RTX 30 Series GPUs.
+Based on the Ampere GPU architecture, the 30 Series has been our most successful launch ever, driving incredible demand and setting records for both desktop and laptop GPU sales.
+Channel inventories are still lean and w e expect to remain supply constrained into the second half of the year.
+With our Ampere GPU architecture now ramping across the stack in both desktops and laptops, we expect the RTX upgrade cycle to kick into high gear as the vast majority of our GPU installed base needs to upgrade.
+Laptops continue to drive strong growth this quarter as we started ramping the Ampere GPU architecture across our lineup.
+Earlier this month, all major PC OEMs launched GeForce RTX 30 Series laptops based on the 3080, 3070, and 3060 as part of their spring refresh.
+In addition, mainstream versions based on the 3050 and 3050 Ti will be available this summer, just in time for back to school, starting at price points as low as $799.
+This is the largest ever wave of GeForce gaming laptops, over 140 in total, as OEMs address the rising demand from gamers, creators, and students for NVIDIA's powered laptops.
+The RTX 30 Series delivers our biggest generational leap in performance ever.
+It also features our second generation ray tracing technology and frame rate boosting, AI-powered DLSS.
+The RTX is a reset for graphics with over 60 accelerated games.
+This quarter, we added many more, including Call of Duty: Modern Warfare, Crysis Remastered, and Outriders.
+We also announced that DLSS is now available in Unreal Engine 4 and soon in the Unity game engine, enabling game developers to accelerate frame rates with minimal effort.
+The RTX 30 Series also offers NVIDIA Reflex, a new technology that reduces system latency.
+Reflex is emerging as a must-have feature for esports gamers who play competitive titles like Call of Duty: Warzone, Fortnite, Valorant, and Apex Legends.
+We estimate that about 75% of GeForce gamers play esports games, and 99% of esports pros compete on GeForce.
+We believe gaming also benefited from crypto mining demand, although it's hard to determine to what extent.
+We've taken actions to optimize GeForce GPUs for gamers while separately addressing mining demand with Cryptocurrency Mining Processors, or CMPs.
+Last week, we announced that newly manufactured GeForce RTX 3080, RTX 3070, and RTX 3060 Ti graphic cards will have their Ethereum mining capabilities reduced by half and carry a low hash rate, or LHR identifier.
+Along with the updated RTX 3060, this should allow our partners to get more GeForce cards into the hands of gamers at better prices.
+To help address mining demand, CMP products launched this quarter, optimized for mining performance and efficiency b ecause they don't meet the specifications required of a GeForce GPU, they don't impact the supply of GeForce GPUs to gamers.
+CMP revenue was $155 million in Q1, reported as part of the OEM and other category, and our Q2 outlook assumes CMP sales of $400 million.
+Our GeForce NOW cloud gaming platform passed 10 million registered numbers this quarter.
+GFN offers nearly 1,000 PC games from over 300 publishers, more than any other cloud gaming service, including 80 of the most popular free-to-gameplay games.
+GFN expands the reach of GeForce to billions of under-powered Windows PCs, Macs, Chromebooks, Android devices, iPhones, and iPads.
+GFN is offered in over 70 countries, with our latest expansions including Australia, Singapore, and South America.
+Moving to ProViz.
+Q1 revenue was $372 million, up 21% both sequentially and year-on-year.
+Strong notebook growth was driven by a new sleek and powerful RTX-powered mobile workstations with Max-Q technology, and the enterprises continue to support remote workforce initiatives.
+Desktop workstations rebounded as enterprise resumed the spending that has been deferred during the lockdown, with continued growth likely as offices open.
+Key verticals driving Q1 demand include manufacturing, healthcare, automotive, and media and entertainment.
+At GTC, we announced the coming general availability of NVIDIA Omniverse Enterprise, the world's first technology platform that enables global 3D design teams to collaborate in real- time in a shared space, working across multiple software SPs.
+This incredible technology builds on NVIDIA's entire body of work and is supported by a large, rapidly growing ecosystem.
+Early adopters include sophisticated design teams at some of the world's leading companies, such as BMW Group, Foster + Partners, and WPP.
+Over 400 companies have been evaluating Omniverse, and nearly 17,000 users have downloaded the open beta.
+Omniverse is offered as a software subscription on a per-user and a per-server basis.
+As the world becomes more digital, virtual, and collaborative, we see a significant revenue opportunity for Omniverse.
+We also announced powerful new Ampere architecture GPUs for next-generation desktop and laptop workstations.
+The new RTX-powered workstations will be available from all major OEMs.
+Moving to automotive.
+Q1 revenue was $154 million, up 6% sequentially and down 1% year-over-year.
+Growth in AI cockpit revenue was partially offset by the expected decline in legacy infotainment revenue.
+We extended our technology leadership with the announcement of the next-generation NVIDIA DRIVE Atlan SoC.
+Atlan will deliver an unrivaled 1,000 trillion operations per second of performance and integrate data center-class NVIDIA BlueField networking and security technologies to enhance vehicle performance and safety, making it a true data center on wheels.
+Atlan, which targets automakers' 2025 models, will follow the NVIDIA DRIVE Orin SoC, which delivers 254 TOPS that has been selected by leading vehicle makers for production timelines starting next year.
+The NVIDIA DRIVE platform has achieved global adoption across the transportation industry.
+Our automotive designed win pipeline now exceeds $8 billion through fiscal 2027.
+Most recently, Volvo Cars announced that it will use NVIDIA DRIVE Orin, building on our next great momentum with some of the largest automakers, including Mercedes-Benz, SAIC, and Hyundai Motor Group.
+In robotaxis, we added GM Cruise to the growing number of companies adopting the NVIDIA DRIVE platform, which includes Amazon Zoox and Didi.
+We've also had great traction with new energy vehicle makers.
+Our latest wins include Faraday Future, R Auto, IM Motors, and VinFast, which join previously announced wins with SAIC, NIO, XPENG, and BAIC Auto.
+In trucking, Navistar has partnered with TuSimple in selecting NVIDIA Drive for autonomous driving, joining previously announced Volvo Autonomous Solutions and Plus. NVIDIA is helping to revolutionize the transportation industry.
+Our full-stack software-defined AV and AI cockpit platform spans silicon, systems, software, and AI data center infrastructure, enabling over-the-air upgrades to enhance safety and the joy of driving throughout the vehicle's lifetime.
+Starting with our lead partner, Mercedes-Benz, NVIDIA Drive can transform the automotive industry with amazing technologies delivered through new software and services business models.
+Moving to data center.
+Revenue topped $2 billion for the first time, growing 8% sequentially and up 79% from the year-ago quarter, which did not include Mellanox.
+Hyperscale customers led our growth this quarter as they built infrastructure to commercialize AI in their services.
+In addition, cloud providers have adopted the A100 to support growing demand for AI from enterprises, startups, and research organizations. Cu stomers are deploying NVIDIA's A100 and DGX platforms to train deep neural networks with rising computational intensity, led by two of the fastest-growing areas of AI, natural language understanding and deep recommenders.
+In March, Google Cloud Platform announced general availability of the A100, with early customers including Square, force Cash Application, and Alphabet's DeepMind.
+The A100 is deployed across all major hyperscale and cloud service providers globally, and we see strengthening demand in the coming quarters.
+Every industry is becoming a technology industry and accelerating investments in AI infrastructure, both through the cloud and on-premise.
+Our vertical industries grew both sequentially and year-on-year, led by consumer Internet companies.
+For example, Naver, a leading Internet technology company in Korea and Japan, is training giant AI language models at scale on DGX SuperPOD to pioneer new services across e-commerce, search, entertainment, and payment applications.
+We continue to gain traction in inference with hyperscale and vertical industry customers across a broadening portfolio of GPUs.
+We had record shipments of GPUs used for inference.
+Inference growth is driving not just the T4, which was up strongly in the quarter, but also the universal A100 Tensor Core GPU, as well as the new Ampere architecture-based A10 and A30 GPUs, all excellent at training as well as inferencing.
+Customers are increasingly migrating from CPUs to GPUs for AI inference for two chief reasons.
+First, GPUs can better keep up with the exponential growth in the size and the complexity of deep neural networks and respond with the required low latency.
+In April's MLPerf AI Inference benchmark, NVIDIA achieved the top results across every category.
+That includes computer vision, medical imaging, recommender systems, speech recognition, and natural language processing.
+Second, NVIDIA's full-stack inference platform, including Triton Inference Server software, simplifies the complexity of deploying AI applications by supporting models from all major frameworks and optimizing for different query types, including batch, real-time, and streaming.
+Triton is supported by several partners in the cloud services, including Amazon, Google, Microsoft, and Tencent.
+Examples of how customers use NVIDIA's inference platform include Microsoft for grammar checking in Office, the United States Postal Service for real-time package analytics, T-Mobile for customer service, Pinterest for image search, and GE HealthCare for heart disease detection.
+We also had strong results with Mellanox networking products.
+Like our compute business, strong growth was driven by hyperscale customers across both Ethernet and InfiniBand.
+We achieved key design wins and proof-of-concept trials for the NVIDIA BlueField-2 DPU with cloud service providers and consumer Internet companies.
+We also unveiled BlueField-3, the first DPU built for AI and accelerated computing with support from VMware, NetApp, Splunk, Cloudflare, and others.
+BlueField-3 is the industry's first 400G DPU and delivers the equivalent data center services of up to 300 CPU cores.
+It transforms traditional server infrastructure into zero-trust environments in which every user is authenticated by offloading and isolating data center services from business applications.
+With BlueField-3, our DPU roadmap will deliver an unrivaled 100x performance increase over a three-year period.
+As we look back at the first full year since closing the Mellanox acquisition, we are extremely pleased with how the business has performed.
+It has not only exceeded our financial projections, but it has been instrumental in key new platforms like the DGX SuperPOD and the BlueField DPU, enabling our data center scale computing strategy. In April, we held our largest ever GPU technology conference with more than 200,000 registrants from 195 countries.
+Jensen's keynote had over 14 million views.
+At GTC, we announced our first data center CPU, NVIDIA Grace, targeted at processing massive next- generation AI models with trillions of parameters.
+The Arm-based processor will enable 10x the performance and energy efficiency of today's fastest servers.
+With Grace, NVIDIA has a three-chip strategy with GPU, DPU, and now CPU.
+The Swiss National Supercomputing Centre and the U.S.
+Department of Energy's Los Alamos National Laboratory are the first to announce plans to build Grace-powered supercomputers.
+Grace will be available in early 2023.
+GTC is first and foremost for developers.
+We announced NVIDIA developed and optimized pre-trained model availability on the NVIDIA GPU Cloud Registry.
+Developers can choose a pre-trained model and adapt it to fit their specific needs using NVIDIA TAO, our transfer learning software.
+TAO fine-tunes the model with customers own small dataset to get models a custom fit without the cost, time, and massive datasets required to train a neural network from scratch.
+Once a model is optimized and ready for deployment, users can integrate it with an NVIDIA application framework that fits their use.
+For example, the NVIDIA Jarvis framework for interactive conversational AI is now generally available and used by customers such as T-Mobile and SNAP.
+The NVIDIA Merlin framework for deep recommenders is in open beta with customers such as SNAP and Tencent.
+With the chosen application framework, users can launch NVIDIA Fleet Command software to deploy and manage the AI application across a variety of NVIDIA GPU-powered devices.
+For enterprise customers, we unveiled a new enterprise-grade software offering available as a perpetual license or subscription.
+NVIDIA AI Enterprise is a comprehensive suite of AI software that speeds development and deployment of AI workloads and simplifies management of enterprise AI infrastructure.
+Through our partnership with VMware, hundreds of thousands of vSphere customers will be able to purchase NVIDIA AI Enterprise with the same familiar pricing model that IT managers use to procure VMware infrastructure software.
+We also made several announcement at GTC about accelerating the delivery of both NVIDIA AI and accelerated computing to enterprises and edge users among the world's largest industries.
+Leading server OEMs launched NVIDIA certified systems, which are industry standard servers based on the NVIDIA EGX platform.
+They run NVIDIA AI Enterprise software and are supported by the NVIDIA A30 and A10 GPUs.
+Initial customers including Lockheed Martin and Mass General Brigham.
+In addition, we announced the NVIDIA AI on 5G platform supported on NVIDIA EGX servers to enable high-performance 5G RAN and AI applications.
+The AI on 5G platform leverages the NVIDIA Aerial software and the NVIDIA BlueField-2, a 100 converged card, which combines GPUs and DPUs.
+We are teaming with Fujitsu, Google Cloud, Mavenir, Radisys, and Wind River in developing solutions based on our AI on 5G platform to speed the creation of smart cities and factories, advanced hospitals, and intelligent stores.
+Another highlight at GTC was the announcement of a broad range of initiatives to strengthen the Arm ecosystem across cloud data centers, HPC, enterprise and edge, and PCs.
+In the cloud, we are bringing together AWS Graviton2 processors and NVIDIA GPUs to provide a range of benefits, including lower cost support for richer game streaming experiences and greater performance for Arm-based workloads.
+In HPC, we are bringing together an Ampere Altra CPU with NVIDIA GPUs, DPUs, and NVIDIA HPC SDK.
+Initial supercomputing centers deploying it include Oak Ridge and Los Alamos National Laboratory.
+In the enterprise and edge, we are bringing together Marvell Arm-based Octeon processors and the NVIDIA GPUs to accelerate video analytics and cybersecurity solutions.
+In PCs, we are bringing together MediaTek's Arm-based processors with NVIDIA's RTX GPUs to enable realistic ray trace graphics and cutting edge AI in a new class of Arm-based laptops.
+On our Arm acquisition, we are making steady progress in working with the regulators across key regions.
+We remain on track to close the transaction within our original timeframe of early 2022. Arm's IP is widely used, but the company needs a partner that can help it achieve new heights.
+NVIDIA is uniquely positioned to enhance Arm's capabilities, and we are committed to invest in developing the Arm ecosystem, enhancing R&D, adding IP, and turbocharging its development to grow into new markets in the data center, IoT, and embedded devices, areas where it only has a light footprint or in some cases, none at all.
+Moving to the rest of the P&L.
+GAAP gross margin for the first quarter was down 100 basis points from a year earlier and up 100 basis points sequentially.
+Non-GAAP gross margin was up 40 basis points from a year earlier and up 70 basis points sequentially.
+The sequential non-GAAP increase was largely driven by a more favorable mix within data center and the addition of CMP products.
+Q1 GAAP EPS was $3.03, up 106% from a year earlier.
+Non-GAAP EPS was $3.66, up 103% from a year ago.
+Q1 cash flow from operations was $1.9 billion.
+Let me turn to the outlook for the second quarter of fiscal 2022.
+We expect broad-based sequential year-on-year revenue growth in all of our market platforms.
+Our outlook includes $400 million in CMP.
+Aside from CMP, the sequential revenue increase in our Q2 outlook is driven largely by data center and gaming.
+In data center, we expect sequential growth in both compute and networking.
+In gaming, with the move to low hash rate GeForce GPUs and increasing the amount of CMP products, we are making a significant effort to serve miners with CMPs and provide more GeForce cards to gamers.
+If there is additional CMP demand, we have supply flexibility to support it.
+We believe these actions, combined with strong gaming demand, will drive an increase in our core gaming business for Q2.
+Now, to look at our outlook for Q2.
+Revenue is expected to be $6.3 billion, ±2%.
+GAAP and non-GAAP gross margins are expected to be 64.6% and 66.5%, respectively, ±50 basis points.
+GAAP and non-GAAP operating expenses are expected to be approximately $1.76 billion and $1.26 billion, respectively.
+GAAP and non-GAAP, other income and expenses are both expected to be an expense of approximately $50 million.
+GAAP and non-GAAP tax rates are both expected to be 10%, ±1%, excluding discrete items.
+Capital expenditures are expected to be approximately $300 million-$325 million.
+Further financial details are included in the CFO commentary and other information available on our IR website.
+In closing, let me highlight that Jeff Fisher and Manuvir Das will keynote Computex on the evening of May 31st, U.S. time, as well as several upcoming events for the financial community.
+We will be virtually attending the Evercore TMT Conference on June 7th, the BofA 2021 Global Technology Conference on June 9th, and the Nasdaq Virtual Investor Conference on June 16th.
+Our earnings call to discuss our second quarter results is scheduled for Wednesday, August 18th.
+With now, we will open the call for questions.
+Operator, would you please pull for questions?
+Operator
+At this time, I will like to remind you everyone inorder to ask a question, press star and the number one on your telelphone keypad. We'll pause for just a moment to compile the Q&A roster.
+Our first question comes from Timothy Arcuri with UBS.
+Timothy Arcuri
+Analyst, UBS
+Thanks a lot.
+Colette, I was wondering if you can double-click a little more on the guidance.
+I know of the $6,650 in growth, you said $250 is coming from CMP, and both gaming and data center will be up.
+Can we assume that they're up about equally, so you're getting about $200 roughly from each of those?
+I guess second part of that is, within data center, I'm wondering, can you speak to the networking piece?
+It sounds like maybe it was up a bit more modestly than it's been up the past few quarters.
+I'm just wondering what the outlook is there.
+Thanks.
+Colette Kress
+EVP and CFO, NVIDIA
+Yeah.
+Thanks so much for the question on our guidance.
+I first want to start off with, we see demand really across all of our markets, all of our different market platforms.
+We do plan to grow sequentially.
+You are correct that we are expecting an increase in our CMP.
+Outside of our CMP growth, we expect the lion's share of our growth to come from our data center and gaming.
+In our data center business, right now our product lineup couldn't be better.
+We have a strong overall portfolio, both for training and for inferencing, and we're seeing strong demand across our hyperscales and vertical industries.
+We made a deliberate effort on the gaming perspective to supply to our gamers the cards that they would like, given the strong demand that we see.
+That will also support the sequential growth that we're receiving.
+You are correct that we do see a growth sequentially coming from data center and gaming, both contributing quite well to our growth.
+Timothy Arcuri
+Analyst, UBS
+Thanks a lot, Colette.
+Colette Kress
+EVP and CFO, NVIDIA
+I didn't answer your second question, my apologies.
+On Mellanox.
+Mellanox is an important part of our data center.
+It is quite integrated with our overall products.
+We did continue to see growth this last quarter, and we are also expecting them to sequentially grow as we move into Q2.
+They are a smaller part of our overall data center business, but again, we do expect them to grow.
+Operator
+Your next question comes from CJ Muse with Evercore ISI.
+CJ Muse
+Analyst, Evercore ISI
+Yeah, good afternoon.
+Thank you for taking the question.
+In your prepared remarks, I think I heard you talk about a vision for acceleration in data center as we go through the year.
+As you think about the purchase obligations that you reported up 45% year-over-year, how much of that is related to long lead time data center and how should we interpret that in terms of what kind of ramp we could see in the second half particularly, as you think about perhaps adding more growth from enterprise on top of what was hyperscale-driven growth in the April quarter.
+Thank you.
+Colette Kress
+EVP and CFO, NVIDIA
+Let me take the first part of your question regarding our purchasing of inventory, and what we're seeing in just both our purchase commitments and our inventory.
+The market has definitely changed to where long lead times are required to build out our data center products.
+We're on a steady stream to both commit longer term so that we can make sure that we can serve our customers with the great lineup of products that we have.
+Yes, a good part of those purchase commitments is really about those long lead times of the components to create the full systems.
+I'll turn the second part of the question over to Jensen.
+Jensen Huang
+President and CEO, NVIDIA
+What was the second part of the question, Colette?
+Colette Kress
+EVP and CFO, NVIDIA
+The second part of the question was, what do we see in the second half as it relates to the lineup of enterprise?
+We articulated in our pre-remarks regarding that we see an acceleration.
+Thank you, Jensen.
+Jensen Huang
+President and CEO, NVIDIA
+Yeah.
+We're seeing a strength across the board in data centers, and we're seeing strengthening demand.
+CJ, our data center, as you know, accelerates a range of applications from scientific computing, both physical and life sciences, data analytics and classical machine learning, cloud computing and cloud graphics, which is becoming more important because of remote work.
+Very importantly, AI, both for training as well as inferencing for classical machine learning models like XGBoost, all the way to deep learning-based models like conversational AI, natural language understanding, recommender systems, and so on.
+So we have a large suite of applications, and our NVIDIA AI and NVIDIA HPC SDKs accelerate these applications and data centers.
+They run on systems that range from HGX for the hyperscalers to DGX for on-prem, to EGX for enterprise and edge, all the way out to AGX autonomous systems.
+This quarter at GTC, we announced one of our largest initiatives, i t's taken us several years.
+You've seen me working on it out in the open over the course of the last several years.
+It's called EGX.
+It's our enterprise AI platform.
+We're democratizing AI.
+We're bringing it out of the cloud, we're bringing it to enterprises, and we're bringing it out to the edge.
+The reason for that is because the vast majority of the world's automation that has to be done has data that has data sovereignty issues or data rate issues that can't move to the cloud easily and so w e have to move the computing to their premise, and oftentimes all the way out to the edge.
+The platform has to be secure, has to be confidential, it has to be remotely manageable, and of course, it has to be high performance and it has to be cloud native.
+It has to be built like the cloud, the modern way of building cloud data centers.
+These stacks, on the one hand, have to be integrated into classical enterprise systems on the other hand, which is the reason why we've worked so closely with VMware and accelerated VMware's data center operating system, its software-defined data center stacks on BlueField.
+Meanwhile, we ported NVIDIA AI, NVIDIA HPC onto VMware so that they could run distributed large-scale accelerated computing for the very first time.
+That partnership was announced at VMworld, it was announced at GTC, and we're in the process of going to market with all of our enterprise partners. Their OEMs, their value-added resellers, their solution integrators all over the world.
+This is a really large endeavor, and the early indications of it are really exciting.
+The reason for that is because, as you know, our data center business is more than 50% vertical industry enterprise already.
+It's more than 50% vertical industry enterprises already.
+By creating this easy-to-adapt and easy-to-integrate stack, it's going to allow them to move a lot faster.
+This is the next major wave of AI.
+This is a very exciting part of our initiative.
+It's something that we've been working on for quite a long time.
+I'm delighted with the launch this quarter at GTC.
+The rest of the data center is doing great, too.
+As Colette mentioned, hyperscale demand is strengthening.
+We're seeing that for computing and networking.
+You know that the world's cloud data centers are moving to deep learning because every small percentage that they get out of predictive inference drives billions and billions of dollars of economics for them.
+The movement towards deep learning shifts the data center workload away from CPUs because accelerators are so important.
+Hyperscale, we're seeing great traction and great demand.
+Lastly, supercomputing.
+Supercomputing centers all over the world are building out.
+We're really in a great position there to fuse, for the very first time, simulation-based approaches as well as data-driven based approaches, what is called artificial intelligence.
+Across the board, our data center is gaining momentum.
+We just see great strength right now, and it's growing strength.
+We're really set up for years of growth in data center.
+This is the largest segment of computing, as you know and t his segment of computing is going to continue to grow for some time to come.
+Operator
+Your next question comes from Aaron Rakers with Wells Fargo.
+Aaron Rakers
+Analyst, Wells Fargo
+Thanks for taking the question.
+Congratulations on the results.
+I'm going to try to slip in two of them here.
+First of all, Colette, I think in the past, you talked about how much of your gaming installed base is on the pre-ray tracing platforms or really context behind the upgrade cycle that's still in front of us.
+That's question one.
+On the heels of the last question, I'm just curious, things like VMware's Project Monterey, as we think about the BlueField-2 product and BlueField-3, how should we think about those starting to become or when should they become really material incremental revenue growth contributors for the company?
+Thank you.
+Colette Kress
+EVP and CFO, NVIDIA
+Yeah, we have definitely discussed in terms of the great opportunity that we have in front of us of folks moving to our ray traced GPUs.
+We're in the early stages of that.
+We've had a strong cycle already, but s till, we probably have approximately 15% moving up a little bit from that at this time.
+It's a great opportunity for us to continue to upgrade a good part of that installed base, not only just with our desktop GPUs, but the RTX laptops are also a great driver of growth and upgrading folks to RTX.
+Jensen Huang
+President and CEO, NVIDIA
+Colette, you want me to take the second one?
+Colette Kress
+EVP and CFO, NVIDIA
+Yes, please.
+Jensen Huang
+President and CEO, NVIDIA
+Yeah.
+Aaron, great question on NVIDIA BlueField.
+First of all, the modern data center has to be re-architected for several reasons.
+There are several fundamental reasons that makes it very clear that the architecture has to change.
+The first is that it's cloud- native, which means that a data center is shared for everybody.
+It's multi-tenant.
+You don't know who's coming and going, and it's exposed to everybody on the Internet.
+Number two, you have to assume that it's a zero-trust environment because you don't know who's using it.
+It used to be that we have perimeter security, but those days are gone because it's cloud- native, it's remote accessed, it's multi-tenant.
+It's public cloud.
+The infrastructure is used for internal and external applications.
+Number two, it has to be zero trust.
+The third reason is something that started a long time ago, which is software-defined in every way b ecause you don't want a whole bunch of bespoke custom gear inside a data center.
+You want to operate the data center with software.
+You want it to be software-defined.
+The software-defined data center movement enabled this one pane of glass, a few IT managers orchestrating millions and millions of nodes of computers at one place.
+The software runs what used to be storage, networking, security, virtualization and all of that, all of those things have become a lot larger and a lot more intensive and i t's consuming a lot of the data center.
+In fact, the estimate, depending on how you want to think about it, how much security you want to put on it, if you assume that it's a zero-trust data center, probably half of the CPU cores inside that data center is running not applications.
+That's kind of strange because you created the data center to run services and applications, which is the only thing that makes money.
+The other half of the computing is completely soaked up running the software-defined data center just to provide for those applications.
+That you could imagine even accepting, if you like, as the cost of doing business.
+However, it co-mingles the infrastructure, the security plane, and the application plane, and exposes the data center to attackers.
+You fundamentally want to change the architecture as a result of that to offload that software-defined virtualization and the infrastructure operating system, if you will, and the security services to accelerate it because Moore's law has ended, and moving software that was running on one set of CPUs, which is really, really good already, to another set of CPUs isn't going to make it more effective.
+Separating it doesn't make it more effective.
+You want to offload that and take that application and software and accelerate it using accelerators, a form of accelerated computing.
+These things are fundamentally what BlueField is all about and w e created the processor.
+BlueField 2 replaces approximately 30 CPU cores.
+BlueField 3 replaces approximately 300 CPU cores, just to give you a sense of it.
+BlueField 4, and we're in the process of building already.
+We've got a really aggressive pipeline to do this.
+Now, how big is this market?
+The way to think about that is every single networking chip in the world will be a smart networking chip.
+It will be a programmable, accelerated infrastructure processor, and that's what the DPU is.
+It's a data center on a chip.
+I believe every single server node will have it.
+It will replace today's NICs with something like BlueField and i t will offload about half of the software processing that's consuming data centers today.
+Most importantly, it will enable this future world where every single packet, every single application is being monitored in real-time, all the time, for intrusion.
+How big is that application?
+How big is that market?
+Just 25 million servers a year, that's the size of the market.
+We know that servers are growing, and so that gives you a feeling for that.
+In the future, servers are going to move out to the edge, and all of those edge devices will have something like BlueField.
+How are we doing?
+We're doing PoCs now with just about every Internet company.
+We're doing really exciting work there.
+We've included it in high-performance computing so that it's possible for supercomputers in the future to be cloud-native, to be zero trust, to be secure, and still be a supercomputer and t hen we expect next year to have a meaningful, if not significant, revenues contribution from BlueField, and this is going to be a really large growth market for us.
+You can tell I'm excited about this, and I put a lot of my energy into it.
+The company's working really hard on it, and this is a form of accelerated computing that's going to really make a difference.
+Operator
+Your next question comes from Vivek Arya with Bank of America Securities.
+Vivek Arya
+Analyst, Bank of America Securities
+Thanks for taking my question. Jensen, is NVIDIA able to ringfence this crypto impact into your CMP product. So even if let's say crypto goes away for whatever reason the decline is a lot more predictable and manageble than what we saw in 2018/2019 cycle and kind of part B of that is how do you think about your core PC gamer demand becuase when we see in these kind of 106% in your growth rate, it brings the question of sustainability. Give us your perspective on these two topics. Just how does one bring kind of the crypto effect and what do you think about the sustainbilit of your core PC gamer in that. Thank you?
+Jensen Huang
+President and CEO, NVIDIA
+Sure.
+Thanks a lot, Vivek.
+First of all, it's hard to estimate exactly how much and where crypto mining is being done.
+However, we can only assume that the vast majority of it is contributed by professional miners, especially when the amount of mining increases tremendously like it has.
+We created CMP, and CMP and GeForce are not fungible.
+You could use GeForce for mining, but you can't use CMP for gaming.
+CMP yields better, and producing those doesn't take away from the supply of GeForce and s o it protects our GeForce supply for the gamers.
+The question that you had is what happens when on the tail end of this?
+There's several things that we hope, and we learned a lot from the last time, but you never learn enough about this dynamic.
+What we hope is that the CMPs will satisfy the miners and will stay in mines, in the professional mines.
+We'll try to produce a fair amount of them, and we've secured a lot of demand for the CMPs, and we'll fulfill it.
+What makes it different this time is several things.
+One, we're in the beginning of our RTX cycle, whereas Pascal was the last GTX.
+Not only that, it was at the tail end of the GTX cycle.
+It was the last GTX, and it was the tail end of the GTX cycle.
+Now we're at the very beginning of the RTX 30 cycle, and because we reinvented computer graphics, we reset the computer industry.
+After three years, the entire graphics industry has followed.
+Every game developer has moved to ray tracing.
+Every content developer and every content tool has moved to ray tracing.
+If you move to ray tracing, these applications are so much better, and they simply run too slow on GTXs but w e're seeing a reset of the install base, if you will.
+At a time when the gaming market is the largest ever.
+We've got this incredible install base of GeForce users.
+We've reinvented computer graphics, and we've reset the install base and created an upgrade opportunity that's really exciting at a time when the gaming industry is really large.
+What's really exciting on top of that is that gaming is no longer just gaming.
+It's infused into sports, e-sports.
+It's infused into art.
+It's infused into social.
+Gaming has such a large cultural impact now.
+It's the largest form of entertainment.
+I think that the experience we're going through is going to last a while.
+One, I hope that the CMP will steer our GeForce supply to gamers.
+We see strong demand, and I expect to see strong demand for quite some time because of the dynamics that I described.
+Hopefully, in the combination of those two, we'll see strong growth in our core gaming business through the year.
+Operator
+The next question comes from John Pitzer with Credit Suisse.
+John Pitzer
+Analyst, Credit Suisse
+I have two hopefully quick questions.
+First, I harken back to the mantra you guys put out a couple of business days ago, "The more you spend, the more you save." You've always been very successful as you've brought down the cost of doing something to really drive penetration growth.
+I'm curious with the NVIDIA Enterprise AI software stack, is there a sense that you can give us as how much that brings down the cost of deployment in AI inside the enterprise?
+Do you think whether COVID lockdown related or cost related, there's pent-up demand that this unlocks?
+My second question is just around government subsidies.
+A lot of talks out of Washington about subsidizing the chip industry.
+A lot of that goes towards building fabs domestically.
+When I look at AI, I can't think of anything more important to maintain leadership in relative to national security.
+How do we think about NVIDIA and the impact that these government subsidies might have on either you or your customers or your business trends?
+Jensen Huang
+President and CEO, NVIDIA
+The more you buy, the more you shall save.
+There's no question about that.
+The reason for that is because we're in the business of accelerated computing.
+We don't accelerate every application.
+However, for the applications we do accelerate, the acceleration is so dramatic b ecause we sell a component, the entire system, the TCO of the entire system, and all the servers, and all the people, and the infrastructure, and the energy costs has been reduced by X factors.
+Sometimes 10 times, sometimes 15 times, sometimes five times.
+When we set our minds on accelerating a certain class of applications, recently we worked on true quantum so that we could help the quantum computing industry accelerate their simulators so that they could discover new algorithms and invent future computers.
+Even though it won't happen until 2030, for the next 20 years, or going on 15 years, we're going to have some really, really great work that we can do using NVIDIA GPUs to do quantum simulations.
+We recently did a lot of work in natural language understanding in computational biology so that we could decode biology and understand how biology is to infer, to understand it, and to predictively improve upon it, and design new proteins.
+Those works are so vital, and that's what accelerated computing is all about.
+Our enterprise software, and I really appreciate the question, our enterprise software used to be just about the vGPU, which is virtualizing the GPU inside the VMware environment or inside the Red Hat environment, it makes it possible for multiple users to use one GPU, which is the nature of enterprise virtualization.
+Now with NVIDIA AI, NVIDIA Omniverse, NVIDIA Fleet Command, whether you're doing collaboration or virtual simulations for robotics and digital twins designing your factory, or you're doing data analytics, learning what the predictive features are that could create an AI model, predictive model, that you can deploy out at the edge using Fleet Command.
+We now have an end-to-end suite of software that is consistent with today's enterprise service agreements.
+It's consistent with today's enterprise business models, and allows us to support customers directly and provide them with the necessary service promises that they expect because they're trying to build a mission-critical application on top.
+More importantly, by productizing our software, we provide the ability for our large network of partners, OEM partners, value-added resellers, system integrators, solution providers, for this large network of hundreds of thousands of IT sales professionals that we are connected to through our network, we give them a product that they can take to market.
+The distribution channel, the sales channel of VMware, the sales channel of Cloudera, the sales channel of all of our partners in EDA and design, Autodesk, Dassault, so on and so forth, all of these sales channels and all of these partners are now partners in taking our stacks to market.
+We have a fully integrated system that are open to the OEMs so that they could create systems that run this stack.
+It's all certified, all tested, all benchmarked, and of course, very importantly, all supported.
+This new way of taking our products to market, whereas our cloud business is going to continue to grow, and that part of AI is going to continue to grow.
+That business is direct.
+We sell components directly to them.
+We support them directly but there are 10 of those customers in the world.
+For enterprises, there are thousands, industries far and wide.
+I think we now have a great stack and a great software stack that allows us to take it to the world's market so that everybody could buy more and save more.
+Operator
+Thank you. Your final question comes from Stacy Rasgon with Bernstein.
+Stacy Rasgon
+Analyst, Bernstein
+Hi, guys.
+Thanks for taking my questions.
+This is for Colette.
+Colette, last quarter, you had suggested that Q1 would be the trough for, I guess, for gaming as well as the rest of the company, but gaming in particular, and it would grow sequentially through the year.
+I guess given the strength we're seeing in the first half, do you still believe that that is the case?
+I heard you guys, I think, dance around that point a little bit in response to one of the other questions, but could you clarify that?
+Is that still your belief that that core gaming business can grow sequentially through the rest of the year?
+I guess same question about the data center, especially since sounds like hyperscale is now coming back after a few quarters of digestion and then all of the other tailwinds we've talked about.
+Is there any reason to think the data center itself shouldn't also grow sequentially through the rest of the year?
+Colette Kress
+EVP and CFO, NVIDIA
+Yeah, Stacy, thanks for the question.
+I first want to start with when we talked about our Q1 results, and when we were looking at Q1, we were really discussing a lot about what we expected between Q4 and Q1.
+Given what we knew was still high demand for gaming, we believed we would continue to grow between Q4 and Q1, which often we don't.
+We absolutely had the strength of overall demand to grow.
+What that then led was, again, continued growth from Q1 to Q2, as we are working hard to provide more supply for the strong demand that we see.
+We have talked about that we have additional supply coming.
+We expect to continue to grow as we move into the second half of the year as well for gaming.
+Now, we only guide one quarter at a time, but our plan is to take the supply, serve the overall gamers, work on building out the channel.
+As we know, the channel is quite lean.
+Yes, we do still expect growth in the second half of the year, particularly when we see the lineup of games, the holiday overall coming, the back to school, all of the very important cycles for us.
+There's a great opportunity to upgrade this RTX install base.
+Now, in terms of data center, we'll look in terms of our guidance here.
+We have growth from Q1 to Q2 planned in our overall guidance, and we do see, as things continue to open up, a time to accelerate in the second half of the year for data center.
+We have, again, a great lineup of products here and it c ouldn't be a better lineup now that we've also added the inferencing products and the host of overall applications that are using our software that we have.
+This could be an opportunity as well to see that continued growth. We'll work in terms of serving the supply that we need for both of these markets.
+Yes, we can see definitely growth in the second half of the year.
+Operator
+There are no further questions at this time.
+CEO Jensen Huang, I'll turn the call back over to you.
+Jensen Huang
+President and CEO, NVIDIA
+Well, thank you.
+Thank you for joining us today.
+NVIDIA computing platform is accelerating.
+Launched at GTC, we are now ramping new platforms and initiatives.
+There are several that I'll mention.
+First, enabled by the fusion of NVIDIA RTX, NVIDIA AI, NVIDIA PhysX, we built Omniverse, a platform for virtual collaboration and virtual worlds to enable tens of millions of artists and designers to create together in their own metaverses.
+Second, we laid the foundation to be a three-chip data center scale computing company with GPUs, DPUs, and CPUs.
+Third, AI is the most powerful technology force of our time.
+We partner with cloud and consumer Internet companies to scale out and commercialize AI-powered services, and we're democratizing AI for every enterprise and every industry.
+With NVIDIA EGX certified systems, the NVIDIA Enterprise AI suite, pre-trained models for conversational AI, language understanding, recommender systems, and our broad partnerships across the IT industry, we are removing the barriers for every enterprise to access state-of-the-art AI.
+Fourth, the work of NVIDIA Clara in using AI to revolutionize genomics and biology is deeply impactful for the healthcare industry, and I look forward to telling you a lot more about this in the future.
+Fifth, the electric, self-driving, and software-defined car is coming.
+With NVIDIA DRIVE, we are partnering with the global transportation industry to reinvent the car architecture, reinvent mobility, reinvent driving, and reinvent the business model of the industry.
+Transportation is going to be one of the world's largest technology industries.
+From gaming, metaverses, cloud computing, AI, robotics, self-driving cars, genomics, computational biology, NVIDIA is doing important work and innovating in the fastest-growing markets today.
+As you can see, on top of our computing platforms that span PC, HPC, cloud, enterprise to autonomous edge, we've also transformed our business model beyond chips.
+NVIDIA vGPU, NVIDIA AI Enterprise, NVIDIA Fleet Command, and NVIDIA Omniverse add enterprise software license and subscription to our business model.
+NVIDIA GeForce NOW and NVIDIA DRIVE, with Mercedes-Benz as the lead partner, are end-to-end services on top of that.
+I want to thank all of the NVIDIA employees and partners for the amazing work you're doing.
+We look forward to updating you on our progress next quarter.
+Thank y ou.
+Operator
+This concludes today's conference call.
+You may now disconnect.
+Data Source:
+Quartr
+Last updated:
+May 26, 2021
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (10)
+Quarterly report
+Earnings release
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

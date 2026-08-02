@@ -1,0 +1,683 @@
+NVIDIA (NVDA) Q3 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+NVIDIA Corporation (NVDA)
+NASDAQ: NVDA · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+200.75
++5.71 (2.93%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+198.95
+-1.80 (-0.90%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q3 2022
+Nov 17, 2021
+Quarterly report
+Earnings release
+Slides
+Play Audio
+Download Transcript
+Operator
+Good afternoon.
+My name is Sadie, and I'll be your conference operator today.
+At this time, I would like to welcome everyone to NVIDIA's third- quarter earnings call.
+All lines have been placed on mute to prevent any background noise.
+After the speakers' presentation, there will be a question- and- answer session.
+If you would like to ask a question during this time, simply press the star followed by the number one on your telephone keypad.
+If you would like to withdraw your question, press the pound key.
+Thank you.
+Simona Jankowski, you may begin your conference.
+Simona Jankowski
+VP of Investor Relations and Strategic Finance, NVIDIA
+Thank you.
+Good afternoon, everyone, and welcome to NVIDIA's conference call for the third quarter of fiscal 2022.
+With me today from NVIDIA are Jensen Huang, President and Chief Executive Officer, and Colette Kress, Executive Vice President and Chief Financial Officer.
+I'd like to remind you that our call is being webcast live on NVIDIA's investor relations website.
+The webcast will be available for replay until the conference call to discuss our financial results for the fourth quarter and fiscal year 2022.
+The content of today's call is NVIDIA's property.
+It can be reproduced or transcribed without our prior written consent.
+During this call, we may make forward-looking statements based on current expectations.
+These are subject to a number of significant risks and uncertainties, and our actual results may differ materially.
+For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent Forms 10-K and 10-Q, and the reports that we may file on Form 8-K with the Securities and Exchange Commission.
+All our statements are made as of today, November 17, 2021, based on information currently available to us.
+Except as required by law, we assume no obligation to update any such statement.
+During this call, we will discuss non-GAAP financial measures.
+You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our CFO commentary, which is posted on our website.
+With that, let me turn the call over to Colette.
+Colette Kress
+EVP and CFO, NVIDIA
+Thanks, Simona.
+Q3 was an outstanding quarter with revenue of $7.1 billion and year-on-year growth of 50%.
+We set records for total revenue as well as for Gaming, Data Center, and Professional Visualization.
+Starting with Gaming, revenue of $3.2 billion was up 5% sequentially and up 42% from a year earlier.
+Demand was strong across the board.
+While we continue to increase desktop GPU supply, we believe channel inventories remain low.
+Laptop GPUs also posted strong year-on-year growth led by increased demand for high-end RTX laptops.
+NVIDIA RTX technology is driving our biggest ever refresh cycle with gamers and continues to expand our base with creators.
+RTX introduced groundbreaking real-time ray tracing and AI-enabled super resolution capabilities, which are getting adopted at an accelerating pace.
+More than 200 games and applications now support NVIDIA RTX, including 125 with NVIDIA DLSS.
+This quarter alone, 45 new games shipped with DLSS.
+NVIDIA Reflex latency-reducing technology is in top esports titles, including Valorant, Fortnite, Apex Legends, and Overwatch.
+In addition, the Reflex ecosystem continues to grow with Reflex technology now integrated in almost 50 gaming peripherals.
+NVIDIA Studio for creators keeps expanding.
+Last month, at the Adobe MAX creativity conference, Adobe announced two powerful AI features for Adobe Lightroom and Lightroom Classic, accelerated by NVIDIA RTX GPUs.
+In addition, several of our partners launched new studio systems, including Microsoft, HP, and ASUS.
+We estimate that a quarter of our installed base has adopted RTX GPUs.
+Looking ahead, we expect continued upgrades as well as growth from NVIDIA GeForce users, given rapidly expanding RTX support and the growing popularity of gaming, esports, content creation, and streaming.
+Our GPUs are capable of crypto mining, though we don't have visibility into how much this impacts our overall GPU demand.
+In Q3, nearly all of our Ampere architecture gaming desktop GPU shipments were Lite Hash Rate to help steer GeForce supply to gamers.
+Crypto mining processor revenue was $105 million, which is included in our OEM and other.
+Our cloud gaming service, GeForce NOW, has two major achievements this quarter.
+First, Electronic Arts brought more of its hit games to the service.
+Second, we announced a new GeForce NOW RTX 3080 membership tier priced at less than $100 for six months.
+GeForce NOW membership has more than doubled in the last year to over 14 million gamers who are streaming content from 30 data centers in more than 80 countries.
+Moving to Professional Visualization.
+Q3 revenue of $577 million was up 11% sequentially and up 144% from the year-ago quarter. The sequential rise was led by mobile workstations, with desktop workstations also growing as enterprise- deployed systems to support hybrid work environments.
+Building on the strong initial ramp in Q2, Ampere architecture sales continued to grow.
+Leading verticals include media and entertainment, healthcare, public sector, and automotive.
+Last week, we announced general availability of Omniverse Enterprise, a platform for simulating physically accurate 3D worlds and digital twins.
+Initial market reception to Omniverse has been incredible.
+Professionals at over 700 companies are evaluating the platform, including BMW, Ericsson, Lockheed Martin, and Sony Pictures.
+More than 70,000 individual creators have downloaded Omniverse since the open beta launch in December.
+There are approximately 40 million 3D designers in the global market.
+Moving to automotive.
+Q3 revenue of $135 million declined 11% sequentially and increased 8% from the year-ago quarter.
+The sequential decline was primarily driven by AI cockpit revenue, which has been negatively impacted by automotive manufacturers' supply constraints.
+We announced that self-driving truck startup Kodiak Robotics, automaker Lotus, autonomous bus manufacturers Qcraft, and EV startup WM Motor have adopted the NVIDIA DRIVE Orin platform for their next-generation vehicles.
+They join a large and rapidly growing list of companies adopting and developing on NVIDIA DRIVE, including auto OEMs, tier one suppliers, AVs, trucking companies, robotaxis, and software startups.
+Moving to the data center.
+Record revenue of $2.9 billion grew 24% sequentially and 55% from the year-ago quarter, with record revenue across both hyperscale and vertical industries.
+Strong growth was led by hyperscale customers, fueled by continued rapid adoption of Ampere architecture Tensor Core GPUs for both internal and external workloads.
+Hyperscale compute revenue doubled year-on-year, driven by the scale-out of natural language processing and recommender models and cloud computing.
+Vertical industry growth was also strong, led by consumer internet and broader cloud providers.
+For example, Oracle Cloud deployed NVIDIA GPUs for its launch of AI services such as text analysis, speech recognition, computer vision, and anomaly detection.
+We continued to achieve exceptional growth in inference, which again outpaced our overall data center growth.
+We have transitioned our lineup of inference-focused processors to the Ampere architecture, such as the A30 GPU.
+We also released the latest version of our NVIDIA Triton Inference Server software, enabling compute-intensive inference workloads such as large language models to scale across multiple GPUs and nodes with real-time performance.
+Over 25,000 companies worldwide use NVIDIA AI inference.
+A great new example is Microsoft Teams, which has nearly 250 million monthly active users.
+It uses NVIDIA AI to convert speech to text in real-time during video calls in 28 languages in a cost-effective way.
+We reached three milestones to help drive more mainstream enterprise adoption of NVIDIA AI.
+First, we announced the general availability of NVIDIA AI Enterprise, our comprehensive software suite of AI tools and frameworks that enables the hundreds of thousands of companies running vSphere to virtualize AI workloads on NVIDIA-certified systems.
+Second, VMware announced a future update to vSphere with Tanzu that is fully optimized for NVIDIA AI.
+When it's combined with NVIDIA AI Enterprise, enterprises can efficiently manage cloud-native AI development and deployment on mainstream data center servers and clouds with existing IT tools.
+Third, we expanded our LaunchPad program globally, with Equinix as our first digital infrastructure partner.
+NVIDIA LaunchPad is now available in nine locations worldwide, providing enterprises with immediate access to NVIDIA software and infrastructure to help them prototype and test data science and AI workloads.
+LaunchPad features NVIDIA-certified systems and NVIDIA DGX systems running the entire NVIDIA AI software stack.
+In networking, revenue was impacted as demand outstripped supply.
+We saw momentum toward higher speed and new generation products, including ConnectX-5 and ConnectX-6.
+We announced the NVIDIA Quantum-2 400 Gb/s end-to-end networking platform, consisting of the Quantum-2 switch, the ConnectX-7 network adapter, and the BlueField-3 DPU.
+The NVIDIA Quantum-2 switch is available from a wide range of leading infrastructure and system vendors around the world.
+Earlier this week, the latest top 500 list of supercomputers showed continued momentum for our full- stack computing approach.
+NVIDIA technologies accelerate over 70% of the systems on the list, including over 90% of all new systems and 23 of the top 25 most energy-efficient systems.
+Turning to GTC.
+Last week, we hosted our GPU technology conference, which had over 270,000 registered attendees.
+Jensen's keynote has been viewed 25 million times over the past eight days.
+While our spring GTC focused on new chips and systems, this edition focused on software, demonstrating our full computing stack.
+Let me cover some of the highlights.
+Our vision for Omniverse came to life at GTC.
+We significantly expanded its ecosystem and announced new capabilities.
+Omniverse Replicator is an engine for producing data to train robots.
+Replicator augments real-world data with massive, diverse, and physically accurate synthetic datasets to help accelerate the development of high-quality, high-performance AI across computing domains.
+NVIDIA Omniverse Avatar is our platform for generating interactive AI avatars.
+It connects several core NVIDIA SDKs, including speech AI, computer vision, natural language understanding, recommendation engines, and simulation applications, including automated customer service, virtual collaboration, and content creation.
+Replicator and Avatar join several other announced features and capabilities for Omniverse, including AI, AR, VR, and simulation-based technologies.
+We introduced 65 new and updated software development kits, bringing our total to more than 150, serving industries from gaming and design to AI, cybersecurity, 5G, and robotics.
+One of the SDKs is our first core licensed AI model, NVIDIA Riva, for building conversational AI applications.
+Companies using Riva during the open beta include RingCentral for video conference live captioning and Ping An for customer service chatbots.
+NVIDIA Riva Enterprise will be commercially available early next year for large- scale.
+We introduced the NVIDIA NeMo Megatron framework, optimized for training large language models on NVIDIA DGX SuperPOD infrastructure.
+This combination brings together production-ready enterprise-grade hardware and software to help vertical industries develop language and industry-specific chatbots, personal assistants, content generation, and summarization.
+Early adopters include CIB, JD.com, and VinBrain.
+We unveiled BlueField DOCA 1.2, the latest version of our DPU programming layer with new cybersecurity capabilities.
+DOCA is to our DPUs as CUDA is to our GPUs.
+It enables developers to build applications and services on top of our BlueField DPUs.
+Our new capabilities make BlueField the ideal platform for the industry to build its own zero-trust security platforms.
+The leading cybersecurity companies are working with us to provision their next-generation firewall service on BlueField, including Check Point, Juniper, Fortinet, F5, Palo Alto Networks, and VMware.
+We released Clara Holoscan, an edge AI computing platform for medical instruments to improve decision-making tools in areas such as robo-assisted surgery, interventional radiology, and radiation therapy planning.
+Other new or expanded SDKs or libraries unveiled at GTC include cuOpt for AI-optimized logistics, cuQuantum for quantum computing, Morpheus for cybersecurity, Modulus for physics-based machine learning, and cuNumeric, a data-center-scale math library to bring accelerated computing to the large and growing Python ecosystem.
+All in, NVIDIA's computing platform continues to expand as a broadening set of SDKs enables more and more GPU-accelerated applications and industry use cases.
+CUDA has been downloaded 30 million times, and our developer ecosystem is now nearing 3 million strong.
+The applications they develop on top of our SDKs and the cloud-to-edge computing platform are helping to transform multi-trillion-dollar industries from healthcare to transportation to financial services, manufacturing, logistics, and retail. In automotive, we announced NVIDIA DRIVE Concierge and DRIVE Chauffeur, AI software platforms that enhance a vehicle's performance, features, and safety.
+DRIVE Concierge, built on Omniverse Avatar, functions as an AI-based in-vehicle personal assistant, but enables automatic parking summoning capabilities.
+It also enhances safety by monitoring the driver throughout the duration of the trip.
+DRIVE Chauffeur offers autonomous capabilities, relieving the driver of constantly having to control the car.
+It will also perform address-to-address driving when combined with the DRIVE Hyperion 8 platform.
+For robotics, we announced Jetson AGX Orin, the world's smallest, most powerful, and energy-efficient AI supercomputers for robotics, autonomous machines, and embedded computing at the edge.
+Built on our Ampere architecture, Jetson AGX Orin provides 6X the processing power of its predecessor and delivers 200 trillion operations per second, similar to a GPU-enabled server that fits into the palm of your hand.
+Jetson AGX Orin will be available in the first quarter of calendar 2022.
+Finally, we revealed plans to build Earth-2, the world's most powerful AI supercomputer dedicated to confronting climate change.
+The system would be the climate change counterpart to Cambridge-1, the U.K.'s most powerful AI supercomputer that we built for healthcare research.
+Earth-2 harnesses all the technologies we've invented up to this moment.
+Let me discuss Arm.
+I'll provide you with a brief update on our proposed acquisition of Arm.
+Arm with NVIDIA is a great opportunity for the industry and customers.
+With NVIDIA's scale, capabilities, and robust understanding of data center computing, acceleration, and AI, we can assist Arm in expanding its reach into data center, IoT, and PCs, and advance Arm's IP for decades to come.
+The combination of our companies can enhance competition in the industry as we work together on further building the world of AI.
+Regulators at the U.S.
+FTC have expressed concerns regarding the transaction, and we are engaged in discussions with them regarding remedies to address those concerns.
+The transaction has been under review by China's Antitrust Authority pending the formal case initiation.
+Regulators in the U.K. and the EU have declined to conclusion in phase one of the reviews on competition concerns.
+In the U.K., they have also voiced national security concerns.
+We have begun the phase two process in the EU and U.K. jurisdictions.
+Despite these concerns and those raised by some Arm licensees, we continue to believe in the merits and the benefits of the acquisition to Arm, to its licensees, and the industry.
+We continue to believe in the merits and benefits of the Arm acquisition.
+Moving to the rest of the P&L, GAAP gross margin for the third quarter was up 260 basis points from a year earlier, primarily due to a higher-end mix within desktop, notebook, and GeForce GPUs.
+The year-on-year increase also benefited from a reduced impact of acquisition-related costs.
+GAAP gross margin was up 40 basis points sequentially, driven by growth in our data center Ampere architecture products, which is partially offset by a mix in gaming.
+Non-gaming gross margin was up 150 basis points from a year earlier and up 30 basis points sequentially.
+Q3 GAAP EPS was $0.97, 83% from a year earlier.
+Non-GAAP EPS was $1.17, up 60% from a year ago, adjusting for our stock split.
+Q3 cash flow from operations was $1.5 billion, up from $1.3 billion a year earlier and down from $2.7 billion in the prior quarter.
+The year-on-year increase primarily reflects higher operating income, partially offset by prepayment for long-term supply agreements.
+Let me turn to the outlook for the fourth quarter of fiscal 2022.
+We expect sequential growth to be driven by data center and gaming, more than offsetting a decline in CMP.
+Revenue is expected to be $7.4 billion ±2%.
+GAAP and non-GAAP gross margins are expected to be 65.3% and 67%, respectively, ±50 basis points.
+GAAP and non-GAAP operating expenses are expected to be approximately $2.02 billion and $1.43 billion, respectively.
+GAAP and non-GAAP other income and expenses are both expected to be an expense of approximately $60 million, excluding gains and losses on non-affiliated investments.
+GAAP and non-GAAP tax rates are both expected to be 11% ±1%, excluding discrete items.
+Capital expenditures are expected to be approximately $250 million-$275 million.
+Further financial details are included in the CFO commentary.
+Other information is also available on our IR website.
+In closing, let me highlight upcoming events for the financial community.
+We will be attending the Credit Suisse 25th Annual Technology Conference in person on November 30.
+We will also be at the Wells Fargo 5th Annual TMT Summit virtually on December 1, the UBS Global TMT Virtual Conference on December 6, and the Deutsche Bank Virtual Auto Tech Conference on December 9.
+Our earnings call to discuss our fourth quarter and fiscal year 2022 results is scheduled for Wednesday, February 16.
+With that, we will now open the call for questions.
+Operator, will you please call for these questions?
+Operator
+Yes.
+At this time, I would like to remind everyone that in order to ask a question, press star one, then on your telephone keypad.
+We'll pause for just a moment to compile the Q&A roster.
+For our first question, we have Aaron Rakers from Wells Fargo.
+Aaron, your line's open.
+Aaron Rakers
+Managing Director and Senior Equity Analyst, Wells Fargo
+Yeah.
+Thanks for taking the question, and congratulations on the results.
+I guess I wanted to ask about Omniverse.
+Obviously, a lot of excitement around that.
+You know, I guess the simple question is, Jensen, how do you define success in Omniverse as we look out over the next 12 months?
+And how do we think about the subscription license opportunity for Omniverse?
+I know you've talked about 40 million, the total number of 3D designers.
+I think that actually is double what you talked about back in August.
+I'm just curious about how we, as financial analysts, should start to think about that opportunity materializing.
+Jensen Huang
+President and CEO, NVIDIA
+Yeah.
+Thanks.
+Omniverse's success will be defined by number one: developer engagement and connections with developers around the world.
+Two, applications being developed by enterprises.
+Three, the connection of designers and creators among themselves.
+Those are the nearest terms, and I would say that a monthly type of definition of success.
+Near- term revenues should also be considered.
+Omniverse has real, immediate applications, as I demonstrated at the keynote, and I'll highlight a few of them right now.
+One of them, of course, is that it serves as a way to connect the 3D and digital design worlds.
+Think of Adobe as a world.
+Think of Autodesk as a world.
+Think of Revit as a world.
+These are design worlds in the sense that people are doing things in them, they're creating things in them, and they have their own database.
+We made it possible for these worlds to be connected for the very first time and for it to be shared like a cloud document.
+That's not been possible ever before.
+You can now share work with each other, you can see each other's work, and you can collaborate.
+In a world of remote working, Omniverse's collaboration capability is gonna be really appreciated.
+That should happen right away.
+We would like to see that happen at, you know, in very near terms.
+That drives, of course, more PC sales, more GPU sales, more workstation sales, more server sales.
+The second use case is digital twins.
+You saw examples of how several companies, such as Ericsson, use Omniverse to create a digital twin of a city so that they could optimize radio placements and radio energy used for beamforming.
+You saw BMW using it for their factories.
+You're gonna see people using it for warehouse logistics warehouse to plan and to optimize their warehouses, and to plan their robots.
+Digital twin applications are absolutely immediate.
+Remember, robots have several kinds.
+There's the physical robots that you saw, and a physical robot would be a self-driving car.
+A physical robot could be the car itself, turning it into a robot so that it could be an intelligent assistant.
+I demonstrated probably the largest application of robots in the future, in my estimation, and it's avatars.
+We built Omniverse Avatar to make it easy for people to integrate some amazing technology from computer vision to speech recognition, natural language understanding, gesture recognition, facial animation, speech synthesis, recommender systems, all of that integrated into one system and running in real time.
+That avatar system is essentially a robotic system, and the way that you would use that is, for example, the 25 million or so retail stores, restaurants, places like airports, and, you know, train stations, office buildings, and such, where you're gonna have intelligent avatars doing a lot of assistance.
+They might be doing checkout, they might be doing check-in, or they might be doing customer support.
+All of that can be done with avatars as I've demonstrated.
+The virtual robotic application, digital bots, or avatars, is  likely to be the largest robotics opportunity.
+If you look at our licensing model, the way it basically works is that inside Omniverse, each one of the named users could be one of the 20 million creatives or 20 million designers, you know, the 40 million creatives and designers around the world.
+W hen they share Omniverse, each one of the named users would be $1,000 per user per year.
+But don't forget that intelligent beings or intelligent users that are gonna be connected to Omniverse will likely be much larger as digital bots than humans.
+I've mentioned 40 million, but there are 100 million cars.
+These 100 million cars will all have the capability to have something like an Omniverse avatar.
+Those 100 million cars could be $1,000 per car per year.
+In the case of the 25 million or so places where you would have a digital avatar as customer support or checkout, smart retail, a smart warehouse, a smart whatever it is, those avatars also would each individually be a named account.
+They would be $1,000 per avatar per year.
+Those are the immediate tangible opportunities for us, and I demonstrated the application during the keynote.
+Of course, behind all of that, you know, call it 200 million digital agents, intelligent agents, some of them humans, some of them robots, some of them avatars, at $1,000 per agent per year.
+Behind it are NVIDIA's GPUs, NVIDIA's GPUs in PCs, NVIDIA GPUs in clouds, and NVIDIA GPUs in Omniverse servers.
+My guess would be that the hardware part of it is probably gonna be about half, and then the licensing part of it would probably be about half over time.
+But this is really going to be one of the largest graphics opportunities that we've ever seen.
+The reason it's taken so long for this to manifest is that it requires three fundamental technologies to come together, I guess four fundamental technologies to come together.
+First of all, it is computer graphics.
+Second is physics simulation, because we're talking about things in worlds that have to be believable, so it has to obey the laws of physics.
+Third is artificial intelligence, as I've demonstrated and illustrated just now.
+All of it runs on top of an Omniverse computer that has to do not just AI, not just physics, not just computer graphics, but all of it.
+Why people are so excited about it is, you know, at the highest level, what it basically means is that long term, when we engage the internet, which is largely 2D today, long term, you know, every query would be 3D.
+Instead of just querying information, we would query and interact with people and avatars and things, and places, and all of these things are in 3D.
+Hopefully, one of these days, we'll try to realize it as fast as we can; every transaction that goes over the internet touches a GPU.
+Today, that's a very small percentage, but hopefully one of these days it'll be a very high percentage.
+I hope that's helpful.
+Operator
+For our next question, we have Mark Lipacis from Jefferies.
+Mark, your line is open.
+Mark Lipacis
+Managing Director, Jefferies
+Hi.
+Thanks for taking my question.
+Jensen, it seems like every year there seems to be a new set of demand drivers for your accelerated processing ecosystem.
+There's gaming, then neural networks and AI, and then blockchain, and then ray tracing.
+And if, like five or six years ago, you guys showed a bunch of virtual reality demos, which were really exciting at your Analyst Day.
+Excitement died down.
+Now it seems to be resurfacing, particularly with Omniverse Avatar capability and Facebook shining a light on the opportunity.
+The two questions from that are, you know, how close is your Omniverse Avatar to morphing into like a mass market technology that everybody uses daily?
+If you talk about, like, you said that everybody's gonna be a gamer.
+Is everybody gonna be an Omniverse Avatar user?
+Maybe the bigger picture is reasonable to think about a new killer app coming out every year?
+Is there a parallel that we should think about with previous computing markets that we could think about for the computing era that we're entering right now?
+Thank you.
+Jensen Huang
+President and CEO, NVIDIA
+Yeah, I really appreciate that.
+Chips are enablers, but chips don't create markets.
+Software creates markets.
+I've explained over the years that accelerated computing is very different from general- purpose computing.
+The reason for that is that you can't just write a C compiler and compile quantum physics into a chip, and it does it.
+You can't just compile a Schrödinger's equation and have it distributed across multiple GPUs, multiple nodes, and have it be fast.
+You can't do that for computer graphics.
+You can't do that for artificial intelligence.
+You can't do that for robotics.
+You can't do that for most of the interesting applications in the world.
+Because we've really run out of steam with GPUs, and people are saying that, not because it's not true, it's abundantly clear that the amount of instruction-level parallelism that we can squeeze out of a system is, although not zero, incredibly hard.
+It's just incredibly hard.
+There's another approach, and we've been advocating accelerated computing for some time, and now people really see the benefit of it.
+But it does require a lot of work.
+The work basically says for every domain, for every application you have, for every application in large domains, ideally, you have to have a whole stack.
+So whenever you want to open a new market by accelerating those applications or that domain of application, you have to come up with a new stack.
+The new stack is hard because you have to understand the application, you have to understand the algorithms, and the mathematics.
+You have to understand computer science to distribute it across, to take something that was single-threaded and make it multi-threaded, and make something that was done sequentially and make it process in parallel.
+You break everything.
+You break storage, you break networking, you break everything.
+It takes a fair amount of expertise.
+That's why we say that over the years, over nearly the course of 30 years, we've become a full-stack company because we've been trying to solve this problem for practically three decades.
+That's one.
+The benefit, once you have that ability, is that you can open new markets.
+We played a very large role in democratizing artificial intelligence and making it possible for anybody to be able to do it.
+Our greatest contribution is, I hope, when it's all said and done, that we democratize scientific computing so that researchers and scientists, computer scientists, data scientists of all kinds, are able to get access to this incredibly powerful tool that we call computers to advance research.
+Every single year, we're coming up with new stacks, and we've got a whole bunch of stacks we're working on.
+Many of them I'm working on in plain sight, so that you see it coming.
+You just have to connect them together.
+One of the areas that we spoke about this time, of course, was Omniverse.
+You saw the pieces of it being built over time.
+It took half a decade to start building Omniverse, but it was built on a quarter- century of work.
+In the case of the Omniverse Avatar, you could literally point to Merlin, the recommender, Megatron, the large language model, Riva, the speech AI, all of our computer vision AIs that I've been demonstrating over the years, natural speech synthesis that you see every single year with I AM AI, the opening credits, how we're using developing an AI to be able to speak in human ways so that people feel more comfortable and more engaged with the AI, face eye tracking, and Maxine.
+All of these technologies kind of came together.
+They were all being built in pieces, but we integrated them.
+We had the intention of integrating it to create what is called Omniverse Avatar.
+Now you ask the question, how quickly will we deploy this?
+I believe Omniverse Avatar will be in drive-throughs of restaurants, fast food restaurants, checkouts of restaurants, and in retail stores all over the world within less than five years.
+We're going to use it in all kinds of different applications because there's such a great shortage of labor, and there's such a wonderful way that you can now engage an avatar.
+It doesn't make mistakes.
+It never gets tired.
+It's always on.
+We made it so that it's cloud native.
+When you saw the keynote, I hope you'd agree that the interaction is instantaneous and the conversational form is so enjoyable.
+Anyway, I think what you highlighted is true.
+One, accelerated computing is a full- stack challenge.
+Two, it takes software to open new markets.
+Chips don't open new markets.
+You build another chip, you can steal somebody's share, but you can't open new markets.
+It takes software to open new markets.
+NVIDIA succeeds with software.
+That's one of the reasons why we could engage such large market opportunities.
+Lastly, with respect to Omniverse, I believe it's a near-term opportunity that we've been working on for some three, four, five years.
+Operator
+For our next question, we have C.J.
+Muse from Evercore ISI.
+CJ, your line's open.
+C.J. Muse
+Senior Managing Director, Evercore ISI
+Yeah, good afternoon.
+Thank you for taking the question.
+I guess not an Omniverse question, but I guess, Jensen, I'd like your commitment that you will not use Omniverse to target the sell-side research industry.
+As my real question, can you speak to your data center visibility into 2022 and beyond?
+Within this outlook, can you talk to traditional cloud versus industry verticals and then perhaps, you know, emerging opportunities like Omniverse and others?
+Would love to get a sense of kind of what you're seeing today.
+As part of that, you know, how you're planning to secure foundry and other supplies to support that growth.
+Thank you.
+Jensen Huang
+President and CEO, NVIDIA
+Thank you.
+Thank you, C.J.
+First of all, we have secured a guaranteed supply, very large amounts of it, quite a spectacular amount of it, from the world's leading foundry and substrate, packaging, and testing companies that are an integral part of our supply chain.
+We have done that and feel very good about our supply situation, particularly starting the second half of this year and going forward.
+I think this whole last year was a wake-up call for everybody to be much more mindful about not taking the supply chain for granted.
+We were fortunate to have such great partners.
+But nonetheless, we've secured our future.
+With respect to the data center, about half of our data center business comes from the cloud and cloud service providers, and the other half comes from enterprise, what we call company enterprise, companies.
+They're all in all kinds of industries.
+About 1% of it comes from supercomputing centers. 50% or so cloud, 50% or so enterprise, and 1% supercomputing centers.
+We expect next year the cloud service providers to scale out their deep learning and their AI workloads really aggressively.
+We're seeing that right now.
+We built a really fantastic platform, and number one.
+Number two, the work that we've been doing with TensorRT, which is the runtime that goes into the server that's called Triton, it is one of our best pieces of work.
+I'm just so proud of it.
+We said nearly four years ago, three and a half years ago, that inference is gonna be one of the great computer science challenges, and it really has proven to be so.
+The reason for that is that sometimes it's throughput, sometimes it's latency, sometimes interactivity, and the type of models you have to infer is just all over the map.
+It's not just computer vision or image recognition.
+You know, it's all over the map.
+The reason is that there are so many different types of architectures.
+There are so many different ways to build different applications.
+The application is complicated.
+Triton is just a wonderful piece of work, and we're now on our eighth generation on that.
+It's adopted all over the world.
+Some 25,000 companies are now using NVIDIA AI.
+Recently, at GTC, we announced two very big things.
+One, we reminded everybody that just months before, we had Triton support not just in every generation of NVIDIA GPUs, of which there are so many versions.
+Could you imagine, without Triton, how you would possibly deploy AI across the entire fleet of NVIDIA servers, NVIDIA GPU servers that are all over the world?
+It's almost an essential tool now just to operate and take advantage of all of NVIDIA's GPUs that are in data centers.
+Too, we support CPUs.
+It's no longer necessary for someone to have two inference servers.
+You can just have one inference server.
+Because the NVIDIA version is already essential, now everybody can just use Triton, and every single server in the data center can be part of the inference capacity.
+We did something else that was a really big deal at GTC, which is this thing called Forest Inference Library, it's called FIL.
+Basically, the most popular machine learning systems and inference models are based on trees, decision trees, and boosted gradient trees.
+People might know it as XGBoost.
+It's used all over the place in fraud detection, in recommender systems.
+They're utilized in companies all over the world because it's just self-explanatory.
+You can build upon it.
+You don't worry about regressions as you build bigger and bigger trees.
+In this GTC, we announced that we support that as well.
+All of a sudden, all of that workload that runs on CPUs, not only do they run on Triton, but it becomes accelerated.
+The next thing that we announced, with the tremendous interest in large language models, Triton now also supports multi-GPU and multi-node inference so that we could take something like an OpenAI GPT-3, an NVIDIA Megatron 530B, or anybody's giant model that's being developed all over the world in all these different languages and all these different domains and all these different, you know, fields of science and in industry, we can now inference it in real time.
+I demonstrated it in one of the demos.
+There was a toy Jensen that the team built, and it was able to basically answer questions in real time.
+That is just a giant breakthrough.
+These are the type of workloads that're gonna make it possible for us to continue to scale out in data centers.
+Back to your original question, I think next year is gonna be quite a big year for data centers.
+Customers are very mindful of securing their supply for their scale-out.
+We have a fair amount of visibility, and more visibility, probably than ever, of data centers.
+But in addition to that, Triton is just seeing adoption everywhere.
+Finally, our brand-new workload, which is built on top of AI, graphics, and simulation, is Omniverse.
+You saw in the examples that I gave that these are real companies doing real work.
+One of the areas that has severe shortages around the world is customer support.
+Just genuine severe shortages all over the world.
+We think that the answer is Omniverse Avatar.
+It runs in data centers.
+You could adapt Omniverse Avatar to do drive-throughs, or retail checkout, or customer service, and I demonstrated that with Tokkio, a talking kiosk.
+You could use it for a teleoperated customer service, and we demonstrated that with Maxine.
+We demonstrated how you could use it even for video conferencing.
+Then lastly, we demonstrated how you could use Omniverse Avatar for robotics, and for example, to create a concierge, what we call DRIVE Concierge for your car, turning it into an intelligent customer support, intelligent agent.
+I think Omniverse Avatar is going to be a really exciting driver for enterprises next year.
+Next year's gonna be a you know, we're teeing up for a pretty terrific year for data centers.
+Operator
+For our next question, we have Stacy Rasgon from Bernstein Research.
+Stacy, your line is open.
+Stacy Rasgon
+Managing Director and Senior analyst, Bernstein Research
+Hi, guys.
+Thanks for taking my questions.
+I wanted to ask two of them about the data center, both near- term and then maybe a little longer term.
+In the near term, Colette, you suggested guidance into Q4 will be driven by data center and gaming, and you mentioned data center first.
+Does that mean that it's bigger?
+If you could just help us, like, parse the contribution of each of them to Q4.
+Then into next year, given the commentary for the last question, again, it sounds like you've got, like, a very strong outlook for data center, both from hyperscale and enterprise.
+If I look at sort of the implied guidance, because our data center for you is probably likely to grow 50% year-over-year in this fiscal year, would it be crazy to think, given all those drivers, that it could grow by a similar amount next year as well?
+Like, how should I be thinking about that, given all of the drivers that you've been laying out?
+Colette Kress
+EVP and CFO, NVIDIA
+Okay.
+Thanks, Stacy, for the question.
+Let's first focus on our guidance for Q4.
+Our statements that we made were, yes , driven by revenue growth from Data Center and Gaming sequentially.
+You can probably expect our Data Center to grow faster than our Gaming, probably both in terms of percentage-wise and absolute dollars.
+We also expect our CMP product to decline quarter-over-quarter to very negligible levels in Q4.
+I hope that gives you a color on Q4.
+Now, in terms of next year, we'll certainly turn the corner into the new fiscal year.
+We certainly provide guidance one quarter out.
+We've given you some great discussion here about the opportunities in front of us, opportunities with the hyperscalers, the opportunities with the verticals.
+Omniverse is a full- stack opportunity in front of us.
+We are securing supply for next year, not just for the current year in Q4 to allow us to really grow into so much of this opportunity going forward.
+At this time, we're gonna wait until next year to provide guidance.
+Stacy Rasgon
+Managing Director and Senior analyst, Bernstein Research
+Got it.
+That's helpful.
+I appreciate it.
+Thank you.
+Operator
+For the next question, we have Vivek Arya from BofA Securities.
+Vivek, your line's open.
+Vivek Arya
+Managing Director and Senior Semiconductor Analyst, BofA Securities
+Thanks for taking my question.
+Actually, I had two quick ones.
+Colette, you suggested the inventory purchase and supply agreements are up, I think almost 68% year-over-year.
+Does that provide, you know, some directional correlation with how you are preparing for growth over the next 12-24 months?
+That's one question.
+The bigger question, Jensen, that I have for you is, where are we in the AI adoption cycle?
+What percentage of servers are accelerated in hyperscale and vertical industries today?
+You know, where can those ratios get to?
+Colette Kress
+EVP and CFO, NVIDIA
+Thanks for the question.
+Let's first start in terms of  our supply purchase agreements.
+You have noted that we are discussing that we have made payments towards some of those commitments.
+Not only are we procuring for what we need in the quarter, what we need next year, and again we are also planning for growth next year, so we have been planning those supply purchases.
+We are also doing long-term supply purchases.
+These are areas of capacity agreements and/or many of our different suppliers.
+We made a payment within this quarter of approximately $1.6 billion out of the total long-term capacity agreement of about $3.4 billion.
+We still have more payments to make, and we will likely continue to be purchasing longer term to support our growth, which we have been planning for many years to come.
+Jensen Huang
+President and CEO, NVIDIA
+Every single server will be GPU- accelerated someday.
+Today, of all the clouds and all the enterprise, less than 10%.
+That kind of gives you a sense of where you are.
+In terms of the workloads, it is also consistent with that in the sense that a lot of the workloads still only run on GPUs, which is the reason why, in order for us to grow, we have to be a full- stack company, and we have to go find applications.
+We know how to find them.
+There's plenty of them.
+Focus on applications that require acceleration or benefit tremendously from acceleration, that if they were to get a, you know, million x speedup, which sounds insane, but it's not.
+Mathematically, I can prove it to you, and historically, I can even demonstrate to you that in many areas, we have seen millions of x speedups, and it has completely revolutionized those industries.
+Computer graphics is, of course, one of them.
+Omniverse would not be possible without it.
+The work that we're doing with digital biology, protein synthesis, which is likely going to be one of the large industries of the world that doesn't exist today at all.
+Protein engineering and the protein economy are likely going to be very, very large.
+You can't do that unless you are able to get a million x speedup in the simulation of protein dynamics.
+Those are...
+Not to mention some of the most imperative problems that we have to go and engage with.
+Climate science needs a million-x, billion-x speedup.
+We are at a point where we can actually tackle that.
+In each one of these cases, we have to focus our resources on accelerating those applications, and that translates to growth.
+Until then, they run on CPUs.
+If you look at a lot of today's speech synthesis and speech recognition systems, it still uses a fairly traditional or a mixture of traditional and deep learning approaches for speech AI.
+NVIDIA's Riva is the world's first, I believe, that is end-to-end deep neural network.
+We've worked with many companies in helping them advance their own so that they could move their clouds to neural-based approaches.
+That's one of the reasons why we do it, so that we can provide it as a reference, but we can also license it to enterprises around the world so that they can adapt it for their own use cases.
+One application after another, we have to get it accelerated.
+One domain after another to get it accelerated.
+One of the ones that I'm very excited about, and something that we've been working on for so long, is EDA.
+Even our own industry, electronic design automation.
+For the very first time, you're now seeing EDA using GPU-accelerated computing, whether it's because of the artificial intelligence capability or because EDA is a very large combinatorial optimization problem.
+Using artificial intelligence, you could really improve the design quality and design time.
+We're seeing from all the major EDA vendors, from chip design to simulation to PCB design and optimization, design synthesis, moving towards artificial intelligence and GPU acceleration in a very significant way.
+We see that with mechanical CAD and traditional CAD applications now also jumping onto GPU acceleration and getting very significant speedups.
+I'm super excited about the work that we're doing in each one of these domains, because every time you do it, you open up brand-new markets.
+Customers who never used NVIDIA GPUs now can because ultimately, people don't buy chips.
+They're trying to solve problems.
+Without a full stack, without a software SDK, you can't really connect the enabling technology, which the chip provides, and ultimately solve the customer's problem.
+Operator
+Your final question comes from the line of Timothy Arcuri from UBS.
+Timothy, your line is open.
+Timothy Arcuri
+Managing Director, UBS
+Thanks a lot.
+Colette, I had a question about gross margin.
+Are there any margin headwinds maybe on the wafer pricing side that we should sort of think about, you know, normalizing out, because, you know, gross margin is pretty flat between fiscal Q2 and fiscal Q4.
+I imagine that's kind of, you know, masking a, you know, strong underlying margin growth, especially as, you know, Data Center has been actually, you know, driving that growth.
+I'm wondering if maybe there are some underlying factors that are sort of, you know, gating gross margin.
+Thanks.
+Colette Kress
+EVP and CFO, NVIDIA
+Yeah.
+We have always been working on our gross margin and being able to absorb a lot of the cost changes along the way, architecture to architecture, year to year.
+That's always baked in to our gross margin.
+Our gross margins right now are largely stable.
+Our incremental revenue, for example, what we're expecting next quarter, will likely align with our current gross margin levels that we finished in terms of Q3.
+Our largest driver always continues to be the mix.
+We have a lot of different mixes that have arisen related to high-end AI and RTX solutions, for example.
+The software that's embedded in solutions has allowed us to increase our gross margin.
+As we look forward long term, software, if sold separately, can be another driver of gross margin increases in the future.
+Cost changes and cost increases have generally been a part of our gross margin for years.
+Operator
+Thank you.
+I'll now turn the call over back to Jensen Huang for closing remarks.
+Jensen Huang
+President and CEO, NVIDIA
+Thank you.
+We had an outstanding quarter.
+Demand for NVIDIA AI is strong, with hyperscalers and cloud services deploying at scale and enterprises broadening adoption.
+We now count more than 25,000 companies that are using NVIDIA AI.
+With the NVIDIA AI Enterprise software suite, our collaboration with VMware, and our collaboration with Equinix to place NVIDIA LaunchPads across the world, every enterprise has an easy on-ramp to NVIDIA AI.
+Gaming and ProViz are surging.
+RTX opportunity continues to expand with the growing markets of gamers, creators, designers, and now professionals building home workstations.
+We are working hard to increase supply for the overwhelming demand this holiday season.
+Last week, GTC showcased the expanding universe of NVIDIA accelerated computing.
+In combination with AI and data center scale computing, the model we pioneered is on the cusp of producing million X speedups that will revolutionize many important fields, already AI and upcoming robotics, digital biology, and what I hope, climate science.
+GTC highlighted our full- stack expertise in action.
+Built on CUDA and our acceleration libraries in data processing, simulation, graphics, artificial intelligence, market, and domain-specific software is needed to solve customer problems.
+We also showed how software opens new growth opportunities for us, that the chips are the enablers, but it's the software that opens new growth opportunities.
+NVIDIA has 150 SDKs now addressing many of the world's largest end markets.
+One of the major themes of this GTC was Omniverse, our simulation platform for virtual worlds and digital twins.
+Our body of work and expertise in graphics, physics simulation, AI, robotics, and full-stack computing made Omniverse possible.
+At GTC, we showed how Omniverse is used to reinvent collaborative design, customer service avatars through video conferencing, and digital twins of factories, processing plants, and even entire cities.
+This is just the tip of the iceberg of what's to come.
+We look forward to updating you on our progress next quarter.
+Thank you.
+Operator
+Thank you.
+I'll now turn over to Jensen for closing remarks.
+Colette Kress
+EVP and CFO, NVIDIA
+Well, I think we just heard the closing remarks.
+Thank you so much for joining us.
+We look forward to seeing everybody at the conferences that we have planned over the next two months, and I'm sure we'll talk before the end of next earnings.
+Thanks again, everybody.
+Data Source:
+Quartr
+Last updated:
+Nov 17, 2021
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (10)
+Quarterly report
+Earnings release
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
