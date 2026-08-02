@@ -1,0 +1,1219 @@
+Tesla (TSLA) Q1 2024 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Tesla, Inc. (TSLA)
+NASDAQ: TSLA · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+311.21
++2.36 (0.76%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+309.26
+-1.95 (-0.63%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q1 2024
+Apr 23, 2024
+Quarterly report
+Slides
+Play Audio
+Download Transcript
+Martin Viecha
+VP of Investor Relations, Tesla
+Plus First Quarter 2024 Q&A Webcast.
+My name is Martin Viecha, VP of Investor Relations, and I'm joined today by Elon Musk, Vaibhav Taneja, and a number of other executives.
+Our Q1 results were announced at about 3:00 P.M.
+Central Time in the update deck we published at the same link as this webcast.
+During this call, we will discuss our business outlook and make forward-looking statements.
+These comments are based on our predictions and expectations as of today.
+Actual events and results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up.
+Please use the raise hand button to join the question queue.
+But before we jump into Q&A, Elon has some opening remarks.
+Elon?
+Elon Musk
+CEO and Product Architect, Tesla
+Thanks, Martin.
+So to recap, in Q1 we navigated several unforeseen challenges as well as the ramp for the updated Model 3 in Fremont.
+There was, as people have seen, the EV adoption rate globally is under pressure, and a lot of other auto manufacturers are pulling back on EVs and pursuing plug-in hybrids instead.
+We believe this is not the right strategy, and electric vehicles will ultimately dominate the market.
+Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments.
+The Megapack, in particular, reached an all-time high in Q1, leading to record profitability for the energy business.
+And that looks likely to continue to increase in the quarters and years ahead.
+It will increase.
+We actually know that it will.
+So significantly faster than the car business as we expected.
+We also continue to expand our AI training capacity in Q1, more than doubling our training compute sequentially.
+In terms of the new product roadmap, there's been a lot of talk about our upcoming vehicle line in the past several weeks.
+We've updated our future vehicle lineup to accelerate the launch of new models ahead of previously mentioned start of production in the second half of 2025.
+So we expect it to be more like the early 2025, if not late this year.
+These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to be produced on the same manufacturing lines as our current vehicle lineup.
+So it's not contingent on any new factory or massive new production line.
+It'll be made on our current production lines much more efficiently.
+We think this should allow us to get to over 3 million vehicles of capacity when realized to the full extent.
+Regarding FSD version 12, which is the pure AI-based self-driving, if you haven't experienced this, I strongly urge you to try it out.
+It's profound, and the rate of improvement is rapid.
+We've now turned that on for all cars with the cameras and inference computer, everything from Hardware 3.0 in North America.
+It's been pushed out to, I think, around 1.8 million vehicles, and we're seeing about half of people use it so far.
+That percentage is increasing with each passing week.
+We now have over 300 billion miles that have been driven with FSD v12.
+Since the launch of Full Self-Driving, supervised Full Self-Driving, it's become very clear that the vision-based approach with end-to-end neural networks is the right solution for scalable autonomy.
+It's really how humans drive.
+Our entire road network is designed for biological neural nets and eyes.
+So naturally, cameras and digital neural nets are the solution to our current road system.
+To make it more accessible, we've reduced the subscription price to $99 a month, so it's easy to try out.
+As we've announced, we will be showcasing our purpose-built Robotaxi or Cybercab in August.
+Yeah.
+Regarding AI compute, over the past few months, we've been actively working on expanding Tesla's core AI infrastructure.
+For a while there, we were training constrained in our progress.
+We are at this point no longer training constrained, and so we're making rapid progress.
+We've installed and commissioned, meaning they're actually working, 35,000 H100 computers or GPUs.
+GPU is the wrong word.
+They need a new word.
+I always feel like a wince when I say GPU because it's not GPU.
+It's G stands for Graphics and doesn't do graphics.
+But anyway, roughly 35,000 H100s are active, and we expect that to be probably 85,000 or thereabouts by the end of this year in training, just for training.
+We are making sure that we're being as efficient as possible in our training.
+It's not just about the number of H100s, but how efficiently they're used.
+So in conclusion, we're super excited about our autonomy roadmap.
+I think it should be obvious to anyone who's driving version 12 in a Tesla that it is only a matter of time before we exceed the reliability of humans and not much time with that.
+We're really headed for an electric vehicle, an autonomous future.
+I'll go back to something I said several years ago, that in the future, gasoline cars that are not autonomous will be like riding a horse and using a flip phone.
+That will become very obvious in hindsight.
+We continue to make the necessary investments that will drive growth and profits for Tesla in the future.
+I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+Thanks.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you very much.
+Vaibhav has some comments as well.
+Vaibhav Taneja
+CFO, Tesla
+Thanks, Scott.
+It's important to acknowledge what Elon said.
+From our auto business perspective, we did see a decline in revenues quarter-over-quarter, and those were primarily because of seasonality, uncertain macroeconomic environment, and the other reasons which Elon had mentioned earlier.
+Auto margins declined from 18.9%-18.5%.
+Excluding the impact of Cybertruck, the impact of pricing actions was largely offset by reductions in per unit cost and the recognition of revenue from Autopilot feature for certain vehicles in the U.S. that previously did not have that functionality.
+Additionally, while we did experience higher costs due to the ramp of Model 3 in Fremont and disruptions in Berlin, these costs were largely offset by cost reduction initiatives.
+In fact, if we exclude Cybertruck and Fremont Model 3 ramp costs, the revenue from Autopilot auto margins improved slightly.
+Currently, normalized Model Y cost per vehicle in Austin and Berlin are already very close to that of Fremont.
+Our ability to reduce costs without sacrificing on quality was due to the amazing efforts of the team in executing Tesla's relentless pursuit of efficiency across the business.
+We've also witnessed that as other OEMs are pulling back on their investments in EV, there is increasing appetite for credits, and that means a steady stream of revenue for us.
+Obviously, seeing others pull back from EV is not the future we want.
+We would prefer it the whole industry went all in.
+On the demand front, we have undertaken a variety of initiatives, including lowering the price of both the purchase and subscription options for FSD, launching extremely attractive leasing specials for the Model 3 in the U.S. for $299 a month, and offering attractive financing options in certain markets.
+We believe that our awareness activities paired with attractive financing will go a long way in expanding our reach and driving demand for our products.
+Our energy business continues to make meaningful progress with margins reaching a record of 24.6%.
+We expect the energy storage deployments for 2024 to grow at least 75% higher from 2023.
+Accordingly, this business will begin contributing significantly to our overall profitability.
+Note that there is a bit of lumpiness in our storage deployments due to a variety of factors that are outside of our control, so deployments may fluctuate quarter-over-quarter.
+On the operating expense front, we saw a sequential increase from our AI initiatives, continued investment in future projects, marketing, and other activities.
+We had negative free cash flow of $2.5 billion in the first quarter.
+The primary driver of this was an increase in inventory from a mismatch between builds and deliveries, as discussed before, and our elevated spend on CapEx across various initiatives, including AI compute.
+We expect the inventory bill to reverse in the second quarter and free cash flow to return to positive again.
+As we prepare the company for the next phase of growth, we had to make the hard but necessary decision to reduce our headcount by over 10%.
+The savings generated are expected to be well in excess of $1 billion on an annual run rate basis.
+We are also getting hyper-focused on CapEx efficiency and utilizing our installed capacity in a more efficient manner.
+The savings from these initiatives, including our cost reductions, will help improve our overall profitability and ultimately enable us to increase the scale of our investments in AI.
+In conclusion, the future is extremely bright, and the journey to get there while challenging will be extremely rewarding.
+Once again, I would like to thank the whole Tesla team for delivering great results, and we can open it up to Q&A.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+Okay, let's start with investor Q&A.
+The first question is, what is the status of 4680?
+What is the current output?
+Lars?
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Sure. 4680 production increased about 18%-20% from Q4, reaching greater than 1,000 a week for Cybertruck, which is about 7 GWh per year, as we posted on X.
+We expect to stay ahead of the Cybertruck ramp with the cell production throughout Q2 as we ramp the third of four lines in phase one while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+Because we're ramping, COGS continues to drop rapidly week-over-week, driven by yield improvements throughout the lines and production volume increases.
+So our goal, and we expect to do this, is to beat supplier costs of nickel-based cells by the end of the year.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The second question is on Optimus.
+So what is the current status of Optimus?
+Are they currently performing any factory tasks?
+When do you expect to start mass production?
+Elon Musk
+CEO and Product Architect, Tesla
+We are able to do simple factory tasks, or at least I should say factory tasks in the lab.
+In terms of actually, we do think we will have Optimus in limited production in the factory, in the actual factory itself, doing useful tasks before the end of this year.
+And then I think we may be able to sell it externally by the end of next year.
+These are just guesses.
+As I've said before, I think Optimus will be more valuable than everything else combined because if you've got a sentient humanoid robot that is able to navigate reality and do tasks at request, there is no meaningful limit to the size of the economy.
+So that's what's going to happen.
+And I think Tesla is best positioned of any humanoid robot maker to be able to reach volume production with efficient inference on the robot itself.
+I mean, this perhaps is a point that is worth emphasizing.
+Tesla's AI inference efficiency is vastly better than any other company.
+There's no company even close to the inference efficiency of Tesla.
+We've had to do that because we were constrained by the inference hardware in the car. We had no choice.
+But that will pay dividends in many ways.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The third question is, what is Tesla's current assessment of the pathway towards regulatory approval for unsupervised FSD in the U.S.?
+And how should we think about the appropriate safety threshold compared to human drivers?
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Sure.
+I can start.
+There are a handful of states that already have adopted autonomous vehicle laws.
+These states are paving the way for operations while the data for such operations guides a broader adoption of driverless vehicles.
+I think Ashok can talk a little bit about our safety methodology, but we expect that these states and the work ongoing, as well as the data that we're providing, will pave the way for a broad-based regulatory approval in the U.S. at least, and then other countries as well.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+It's actually been pretty helpful that other autonomous car companies have been cutting a path through the regulatory jungle, which is so that's actually quite helpful.
+And they have obviously been operating in San Francisco for a while.
+I think they got approval for the city of L.A.
+So these approvals are happening rapidly.
+I think if you've got at scale a statistically significant amount of data that shows conclusively that the autonomous car has, let's say, half the accident rate of a human-driven car, I think that's difficult to ignore because at that point, stopping autonomy means killing people.
+So I actually do not think that there will be significant regulatory barriers provided there is conclusive data that the autonomous car is safer than a human-driven car.
+And in my view, this will be much like elevators.
+Elevators used to be operated by a guy with a relay switch, but sometimes that guy would get tired or drunk or just make a mistake and shear somebody in half between floors.
+So now we just get in an elevator and press a button.
+We don't think about it.
+In fact, it's kind of weird if somebody's standing there with a relay switch.
+That'll be how cars work.
+You just summon a car using your phone.
+You get in.
+It takes you to a destination.
+You get out.
+Vaibhav Taneja
+CFO, Tesla
+You don't even think about it.
+Elon Musk
+CEO and Product Architect, Tesla
+You don't even think about it, just like an elevator.
+It takes you to your floor.
+That's it.
+Don't think about how the elevator is working or anything like that.
+And now something I should clarify is that Tesla will be operating the fleet.
+So you can think of how Tesla think of Tesla like, I don't know, some combination of Airbnb and Uber, meaning that there'll be some number of cars that Tesla owns itself and operates in the fleet.
+There'll be some number of cars, and then there'll be a bunch of cars where they're owned by the end user, but that end user can add or subtract their car to the fleet whenever they want.
+And they can decide if they want to only let the car be used by friends and family or only by five-star users or by anyone.
+At any time, they could have the car come back to them and be exclusively theirs, like an Airbnb.
+You could rent out your guest room or not anytime you want.
+So as our fleet grows, we have 7 million cars going to 9 million cars going to eventually tens of millions of cars worldwide.
+With a constant feedback loop, every time something goes wrong, that gets added to the training data, and you get this training flywheel happening in the same way that Google search has the sort of flywheel.
+It's very difficult to compete with Google because people are constantly doing searches and clicking, and Google's getting that feedback loop.
+It's the same with Tesla, but at a scale that is maybe difficult to comprehend.
+But ultimately, it'd be tens of millions.
+I think there's also some potential here for an AWS element down the road where if we've got very powerful inference because we've got a Hardware 3 in the cars, but now all cars are being made with Hardware 4.
+Hardware 5 is pretty much designed and should be in cars, hopefully, towards the end of next year.
+And there's a potential to run when the car is not moving to actually run distributed inference, so kind of like AWS, but distributed inference.
+It takes a lot of computers to train an AI model, but many orders of magnitude less compute to run it.
+So if you can imagine a future perhaps where there's a fleet of 100 million Teslas, and on average, they've got maybe 1 kW of inference compute, that's 100 GW of inference compute distributed all around the world.
+It's pretty hard to put together 100 GW of AI compute.
+Even in an autonomous future where the car is perhaps used instead of being used 10 hours a week, it's used 50 hours a week, that still leaves over 100 hours a week where the car inference computer could be doing something else.
+It seems like it would be a waste not to use it.
+Martin Viecha
+VP of Investor Relations, Tesla
+Ashok, do you want to chime in on the tier process and safety?
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Yeah.
+We added multiple tiers of validating the safety.
+In any given week, we train hundreds of neural networks that can produce different trajectories for how to drive the car.
+We replay them through the millions of clips that we have already collected from our users and our own QA.
+Those are critical events, like someone jumping out in front or other critical events that we have gathered a database over many, many years.
+And we replay through all of them to make sure that we are net improving safety.
+And on top of it, we have simulation systems that also try to recreate this and test this in closed-loop fashion.
+Once all of this is validated, we give it to our own QA drivers.
+We have hundreds of them in different cities in San Francisco, Los Angeles, Austin, New York, a lot of different locations.
+They are also driving this and collecting real-world miles.
+We have an estimate of what are the critical events.
+Are they a net improvement compared to the previous week's builds?
+Once we have confidence that the build is a net improvement, then we start shipping to early users, like 2,000 employees initially, that they would get the build.
+They would give feedback on if it's an improvement or are they noticing some new issues that we did not capture in our own QA process.
+Only after all of this is validated, then we go to external customers.
+Even when we go external, we have live dashboards of monitoring every critical event that's happening in the fleet, sorted by the criticality of it.
+We are having a constant pulse on the build's quality and the safety improvement along the way.
+And then any failures, like Elon alluded to, you'd get the data back, add it to the training, and that improves the model in the next cycle.
+So we have this constant feedback loop of issues, fixes, evaluations, and then rinse and repeat.
+And especially with the new V2 architecture, all of this is automatically improving without requiring much engineering interventions in the sense that engineers don't have to be creative in how they code the algorithms.
+It's mostly learning on its own based on data.
+So you see that, okay, we fail here, or this is how a person shows, this is how you drive this intersection or something like that.
+We get the data back.
+We add it to the neural network, and it learns from that training data automatically instead of some engineer saying that, oh, here, you must rotate the steering wheel by this much or something like that.
+There's no hard inference conditions.
+If everything is a neural network, it's very soft.
+It's probabilistic.
+So it will adapt its probability distribution based on the new data that it's getting.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+We do have some insight into how good the things will be in, let's say, three or four months because we have advanced models that are far more capable than what is in the car but have some issues with them that we need to fix.
+So there'll be a step-change improvement in the capabilities of the car, but it'll have some quirks that need to be addressed in order to release it.
+As Ashok was saying, we have to be very careful in what we release to the fleet or to customers in general.
+So if we look at, say, 12.4 and 12.5, which really could arguably even be version 13 and version 14 because it's pretty close to total retrain of the neural nets in each case or substantially different.
+We have good insight into how well the car will perform in, say, three or four months.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Yeah.
+It turns out there's scaling laws.
+People in the AI community generally talk about model scaling laws where they increase the model size a lot, and then they have corresponding gains in performance.
+But we have also figured out scaling laws in other axes.
+In addition to the model size scaling, we can also have data scaling.
+You can increase the amount of data you use to train the neural network, and that also gives similar gains.
+And you can also scale up by training compute.
+You can train it for much longer or more GPUs or more Dojo nodes, and that also gives better performance.
+And you can also have architecture scaling where you come up with better architectures that, for the same amount of compute, produce better results.
+So a combination of model size scaling, data scaling, training compute scaling, and the architecture scaling, we can basically extract, okay, if you continue scaling based on this ratio, we can sort of predict future performance.
+Obviously, it takes time to do the experiments because it takes a few weeks to train.
+It takes a few weeks to collect tens of millions of video clips and process all of them.
+But you can estimate what's going to be the future progress based on the trends that we have seen in the past, and they're generally held true based on past data.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Thank you very much.
+I'll just go to the next question, which is, can we get an official announcement of the timeline for the $25,000 vehicle?
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+I think Elon mentioned it in the opening remarks, but as he mentioned, we're updating our future vehicle lineup to accelerate the launch of our low-cost vehicles in a more CapEx-efficient way.
+That's our mission, to get the most affordable cars to customers as fast as possible.
+These new vehicles, we built on our existing lines in open capacity, and that's a major shift, to utilize all our capacity with marginal CapEx before we go spend high CapEx to do anything.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+We'll talk about this more on August 8th.
+But really, the way to think of Tesla is almost entirely in terms of solving autonomy and being able to turn on that autonomy for a gigantic fleet.
+And I think it might be the biggest asset value appreciation in history when that day happens, when you can do unsupervised full self-driving.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+5 million cars?
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Wow.
+A little less.
+Elon Musk
+CEO and Product Architect, Tesla
+Well, Tesla is having.
+It'll be 7 million cars in a year or so.
+And then 10 million, and then eventually, we're talking about tens of millions of cars.
+Not eventually.
+It's like before the end of this year.
+Before the end of the decade, it's several tens of millions of cars, I think.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question is, what is the progress of Cybertruck ramp?
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+I can take that one too.
+Cybertruck hit 1,000 a week just a couple of weeks ago.
+This happened in the first four-five months since we SOP'd late last year.
+Of course, volume production is what matters.
+That's what drives costs.
+And so our costs are dropping.
+But the ramp still faces a lot of challenges with so many new technologies, some supplier limitations, etc., and will continue to ramp this year, just focusing on cost efficiency and quality.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Thank you.
+The next question, have any of the legacy automakers contacted Tesla about possibly licensing FSD in the future?
+Elon Musk
+CEO and Product Architect, Tesla
+We're in conversations with one major automaker regarding licensing FSD.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question is about the Robotaxi Unveil.
+Elon already talked about that, so we'll have to wait till August.
+The following question is about the next generation vehicle.
+We already talked about that.
+So let's go to the Semi.
+What is the timeline for scaling Semi?
+I think Ashok.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+We're finalizing the engineering of the Semi to enable a super cost-effective, high-volume production with our learnings from our fleet and pilot fleet and Pepsi's fleet, which we're expanding this year marginally.
+In parallel, as we showed in the shareholders' deck, we have started construction on the factory in Reno.
+Our first vehicles are planned for late 2025 with external customers starting in 2026.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+A couple more questions.
+So our favorite, can we make FSD transfer permanent until FSD is fully delivered with Level 5 autonomy?
+Elon Musk
+CEO and Product Architect, Tesla
+No.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Next question.
+What is getting the production ramp at Lathrop?
+Where do you see the Megapack run rate at the end of the year?
+Mike?
+Speaker 6
+Yeah.
+Yeah.
+Lathrop is ramping as planned.
+We have our second GA line allowing us to increase our exit rate from 20 GWh per year to at the start of this year, it's 40 GWh per year by the end of the year.
+That line is commissioned.
+There's really nothing limiting the ramp.
+Given the longer sales cycles for these large projects, we typically have order visibility 12 months-24 months prior to ship date.
+So we're able to plan the build plan several quarters in advance.
+So this allows us to ramp the factory to align with the business and order growth.
+Lastly, we'd like to thank our customers globally for their trust in Tesla as a partner for these incredible projects.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Thank you very much.
+Let's go to analyst questions.
+The first question comes from Toni Sacconaghi from Bernstein.
+Toni, please go ahead and unmute.
+Toni Sacconaghi
+Managing Director and Senior Research Analyst of US IT Hardware and Electric Vehicles, Bernstein
+Thank you for taking the question.
+I was just wondering if you could elaborate a little bit more on kind of the new vehicles that you talked about today.
+Are these tweaks on existing models, given that they're going to be running on the same lines, or are these new models, and how should we think about them in the context of the Model 3 Highland update?
+What will these models be relative to that?
+And given the quick time frame, Model 3 Highland has required a lot of work and a lot of retooling.
+Maybe you can help put that all in context.
+Thank you.
+And I have a follow-up, please.
+Elon Musk
+CEO and Product Architect, Tesla
+I think we've said all we will on that front.
+So what's your follow-up?
+Toni Sacconaghi
+Managing Director and Senior Research Analyst of US IT Hardware and Electric Vehicles, Bernstein
+It's a more personal one for you, Elon, which is that you're leading many important companies right now.
+Maybe you can just talk about where your heart is at in terms of your interests and do you expect to lessen your involvement with Tesla at any point over the next three years?
+Elon Musk
+CEO and Product Architect, Tesla
+Well, Tesla constitutes the majority of my work time, and I work pretty much every day of the week.
+It's rare for me to take a Sunday afternoon off.
+So I'm going to make sure Tesla is very prosperous, and it is prosperous, and it will be very much so in the future.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Thank you.
+Let's go to Adam Jonas from Morgan Stanley.
+Adam, please go ahead and unmute.
+Adam Jonas
+Managing Director of Global Auto and Shared Mobility Research, Morgan Stanley
+Okay.
+Great.
+Hey, Elon.
+So you and your team on volume expect a 2024 growth rate notably lower than that achieved in 2023.
+But what's your team's degree of confidence on growth above 0%?
+Or in other words, does that statement leave room for potentially lower sales year-over-year?
+Elon Musk
+CEO and Product Architect, Tesla
+No.
+I think we'll have higher sales this year than last year.
+Adam Jonas
+Managing Director of Global Auto and Shared Mobility Research, Morgan Stanley
+Okay.
+My follow-up, Elon, on future product.
+If you had nailed execution, assuming that you nail execution on your next-gen cheaper vehicles, more aggressive gigacastings, I don't want to say one-p iece, but getting closer to one -piece, structural pack, unbox, 300-mi range, $25,000 price point, putting aside Robotaxi, those features unique to you, how long would it take your best Chinese competitors to copy a cheaper and better vehicle that you could offer a couple of years from now?
+How long would it take your best Chinese competitors to copy that?
+Thanks.
+Elon Musk
+CEO and Product Architect, Tesla
+I mean, I don't know what our competitors could do except we've done relatively better than they have.
+If you look at the drop in our competitors' sales in China versus our drop in sales, our drop was less than theirs.
+So we're doing well.
+But I think Cathie would say it best.
+Really, we should be thought of as an AI or robotics company.
+If you value Tesla as just an auto company, you would just have the fundamentally it's just the wrong framework.
+It will come to be.
+If you ask the wrong question, then the right answer is impossible.
+So I mean, if somebody doesn't believe Tesla is going to solve autonomy, I think they should not be an investor in the company.
+But we will, and we are.
+And then you have a car that goes from 10 hours of use a week, like an hour and a half a day, to probably 50, but it costs the same.
+Vaibhav Taneja
+CFO, Tesla
+I think that's the key thing to remember, right?
+Especially if you look at FSD supervised, if you didn't believe in autonomy, they should give you a preview that this is coming.
+It's actually getting better day by day.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+If you've not tried the FSD 12.3 and like I said, 12.4 is going to be significantly better and 12.5 even better than that, and we have visibility into those things, then you really don't understand what's going on.
+It's not possible.
+Vaibhav Taneja
+CFO, Tesla
+Yeah.
+And that's why we can't just look at just as a car company because a car company would just have a car.
+But here, we have more than a car company because the cars can be autonomous.
+And like I said, it's happening.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Yeah.
+This is all in addition to Tesla's working.
+The overall AI community is just improving rapidly.
+Yeah.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+I mean, we're putting the actual auto in automobile.
+So sort of a lot of it would be like, "Well, sort of tell us about future horse carriages you're making." I'm like, "Well, actually, it does need a horse.
+That's the whole point." That's really the whole point.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Thank you.
+The next question comes from Alex Potter from Piper Sandler.
+Alex, please go ahead and unmute.
+Alex Potter
+Managing Director and Senior Equity Research Analyst of Electric and Autonomous Vehicles, Piper Sandler
+Great.
+Thanks.
+Yeah.
+So couldn't agree more.
+The thesis hinges completely on AI, the future of AI, full self-driving, neural net training, all of these things.
+In that context, Elon, you've spoken about your desire to obtain 25% voting control of the company.
+And I understand completely why that would be.
+So I'm not necessarily asking about that.
+I'm asking if you've come up with any mechanism by which you can ensure that you'll obtain that level of voting control.
+Because if not, then the core part of the thesis could potentially be at risk.
+So any additional commentary you might have on that topic?
+Elon Musk
+CEO and Product Architect, Tesla
+Well, I think no matter what, Tesla even if I get kidnapped by aliens tomorrow, Tesla will solve autonomy, maybe a little slower, but it would solve autonomy for vehicles at least.
+I don't know if it would win with respect to Optimus or with respect to future products, but there's enough momentum for Tesla to solve autonomy even if I disappeared for vehicles.
+Now, there's a whole range of things we can do in the future beyond that.
+I'd be more reticent with respect to Optimus.
+If we have a super sentient humanoid robot that can follow you indoors and that you can't escape - we're talking Terminator-level risk - then yeah, I'd be uncomfortable if there's not some meaningful level of influence over how that is deployed.
+And if shareholders have an opportunity to ratify or reratify the sort of competition I guess I can't say that.
+But that is a fact.
+They have an opportunity.
+Alex Potter
+Managing Director and Senior Equity Research Analyst of Electric and Autonomous Vehicles, Piper Sandler
+Okay.
+Very good.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah, we'll see.
+If the company generates a lot of positive cash flow, we could obviously buy back shares.
+Alex Potter
+Managing Director and Senior Equity Research Analyst of Electric and Autonomous Vehicles, Piper Sandler
+All right.
+That's actually all very helpful context.
+Thank you.
+Maybe one final question, then I'll pass it on.
+OpEx reductions, thank you for quantifying the impact there.
+I'd be interested also in potentially more qualitative discussion of what the implications are for these headcount reductions.
+What are the types of activities that you're presumably sacrificing as a result of parting ways with these folks?
+Thanks very much.
+Vaibhav Taneja
+CFO, Tesla
+Like we said, we've done these headcount reductions across the board.
+As companies grow over time, there are certain redundancies.
+There's some duplication of efforts, which happens in certain areas.
+You need to go back and look at where all these pockets are, get rid of it.
+We're basically going through that exercise wherein we're like, "Hey, how do we set this company right for the next phase of growth?" The way to think about it is any tree which grows, it needs pruning.
+This is the pruning exercise which we went through.
+At the end of it, we'll be much stronger and much more resilient to deal with the future because the future is really bright.
+Like I said in my opening remarks, we just have to get through this period and get there.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+We're not giving up anything that's significant that I'm aware of.
+So we've had a long period of prosperity from 2019 to now.
+And so if a company sort of organizationally is 5% wrong per year, that accumulates to 25%-30% of inefficiency.
+We've made some corrections along the way, but it is time to reorganize the company for the next phase of growth.
+And you really need to reorganize it just like a human when we start off as one cell and become a zygote and blastocyst, and you start growing arms and legs, and then briefly, you have a tail.
+And so.
+Vaibhav Taneja
+CFO, Tesla
+But you shed the tail.
+Elon Musk
+CEO and Product Architect, Tesla
+You shed the tail, hopefully.
+Then you're a baby, and you basically, you have to be different.
+A company is kind of like a creature growing.
+And if you don't reorganize it for different phases of growth, it will fail.
+You can't have the same organizational structure if you're 10 cells versus 100 versus 1 million versus 1 billion versus 1 trillion, where humans are around 35 trillion cells.
+It doesn't feel like it feels like one person, but you're basically a walking cell colony of roughly 35 trillion, depending on your body mass and about 3 x that number in bacteria.
+So anyway, you've got to reorganize the company for a new phase of growth, or it will fail to achieve that growth.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+Let's go to Mark Delaney from Goldman Sachs.
+Mark, please go ahead and unmute.
+Mark Delaney
+Managing Director and Senior Equity Analyst, Goldman Sachs
+Yes.
+Good afternoon.
+Thanks very much for taking the question.
+The company had previously characterized potential FSD licensing discussions as in the early phase, and some OEMs had not really been believing in it.
+Can you elaborate on how much the licensing business opportunity you mentioned today has progressed?
+And is there anything Tesla needs to achieve with the technology in terms of product milestones in order to be successful at reaching a licensing agreement, in your view?
+Elon Musk
+CEO and Product Architect, Tesla
+Well, I think we just need it just needs to be obvious that our approach is the right approach.
+And I think it is.
+I think we're now with 12.3.
+If you just have the car drive you around, it is obvious that our solution with a relatively low-cost inference computer and standard cameras can achieve self-driving.
+No LiDARs, no radars, no ultrasonics, nothing.
+Just.
+Vaibhav Taneja
+CFO, Tesla
+No heavy integration work for vehicle manufacturers.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+It's so it would really just be a case of having them use the same cameras and inference computer and licensing our software.
+But once it becomes obvious that if you don't have this in a car, nobody wants your car.
+It's a smart car.
+I mean, I still remember back when Nokia was king of the hill.
+Vaibhav Taneja
+CFO, Tesla
+Crossing the cell phone industry.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Crossing.
+And then I saw them come out with a smartphone that was basically a brick with limited functionality.
+And then the iPhone and Android, people still did not understand that all the phones are going to be that way.
+There's not going to be any flip phones if there'll be a niche product.
+Vaibhav Taneja
+CFO, Tesla
+Or home phones.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Not even exactly.
+It was the last time you saw a home phone.
+Vaibhav Taneja
+CFO, Tesla
+That's no.
+Elon Musk
+CEO and Product Architect, Tesla
+Is it like an acronym?
+Vaibhav Taneja
+CFO, Tesla
+I have no idea.
+In a hotel.
+Sometimes in a hotel.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+The hotels have them.
+Yeah.
+So people don't understand all cars will need to be smart cars, or you will not sell the car.
+Will not.
+Nobody will buy it.
+Once that becomes obvious, I think licensing becomes not optional.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Becomes a method of survival.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+It's licensed in order to buy your car.
+Vaibhav Taneja
+CFO, Tesla
+I mean, one other thing which I'll add is in the conversations which we've had with some of these OEMs, I just want to also point out that they take a lot of time in their product lifecycle.
+They're talking about years before they will put it in their product.
+We might have a licensing deal earlier than that, but it takes a while.
+So this is where the big difference between us and them is, right?
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+I mean, really, a deal signed now would result in it being in a car in probably three years.
+Vaibhav Taneja
+CFO, Tesla
+That would be early.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+That's like lightning, basically.
+Vaibhav Taneja
+CFO, Tesla
+That's being an eager OEM.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+So I mean, I wouldn't be surprised if we do sign a deal.
+I think there's a good chance we do sign a deal this year, maybe more than one.
+But yeah, it would be probably three years before it's integrated with a car, even though all you need is cameras and our inference computer.
+So it's not a massive design change.
+Vaibhav Taneja
+CFO, Tesla
+Yeah.
+And again, just to clarify, it's not the work which we have to do.
+It's the work which they have to do, which will take the time.
+Martin Viecha
+VP of Investor Relations, Tesla
+Right.
+Mark, do you have a follow-up?
+Mark Delaney
+Managing Director and Senior Equity Analyst, Goldman Sachs
+Yeah.
+Yeah.
+Very helpful.
+Thank you.
+My follow-up was to better understand Tesla's approach to pricing going forward.
+Previously, the company had said that the price reductions were driving incremental demand.
+With how affordable the cars have become, especially for vehicles that have access to IRA credits and some of the leasing offers that Tesla has in place, do you still see meaningful incremental price reductions as making sense from here for the existing products?
+And can the company meaningfully lower prices from here and also stay free cash flow positive on an annual basis with the current product set?
+Thanks.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+I think we can be free cash flow positive meaningfully.
+Yeah.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+I think Vaibhav said it in his opening remarks.
+Our cost-down efforts, basically, we're offsetting the price cuts.
+That's what I was going to say.
+That's the goal.
+We're trying to give it back to the customers.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+I mean, at the end of the day, for any given company, if you sell a great product at a great price, the sale if you have a great product at a great price, the sales will be excellent.
+That's true of any arena.
+So over time, we do need to keep making sure that it's a great product at a great price and, moreover, that that price is accessible to people.
+So it's not, you have to solve both the value for money and the fundamental affordability question.
+The fundamental affordability question is sometimes overlooked.
+If somebody's earning several hundred thousand dollars a year, they don't think of a car from a fundamental affordability standpoint.
+But for the vast majority of people, they're living paycheck to paycheck.
+So it actually makes a difference if the cost per month for lease or financing is $10 one way or the other.
+So it is important to keep improving the affordability and to keep it.
+It's just like making the price more accessible.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+More accessible.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Exactly.
+Make the price more accessible, the value for money better, and keep improving that over time.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+But also to make kick-ass cars that people want to buy.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+It's got to be a great product at a great price.
+And the standards for what constitutes a great product at a great price keep increasing.
+So you can't just be static.
+You have to keep making the car better, improving the price, but improving the cost of production.
+And that's what we're doing.
+Vaibhav Taneja
+CFO, Tesla
+Yeah.
+In fact, like I said in my opening remarks also, the updated Model 3 is a fantastic car.
+I don't think people fully even understand the amount of engineering effort which has gone.
+Lars and team have actually put out videos explaining how much the car is different.
+I mean, it looks and feels different.
+Not only does it look and feel different, we've added so much value to it, but you can lease it for as low as $299 a month.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Yeah.
+Without gas.
+Vaibhav Taneja
+CFO, Tesla
+Yeah.
+Martin Viecha
+VP of Investor Relations, Tesla
+All right.
+The next question comes from George from Canaccord.
+George, please go on unmute.
+George Gianarikas
+Managing Director and Senior Analyst, Canaccord
+Hi.
+Thank you for taking my question.
+First, could you please help us understand maybe some of the timing of launching FSD in additional geographies, including maybe clarifying your recent comment about China?
+Thank you.
+Elon Musk
+CEO and Product Architect, Tesla
+I mean, new markets.
+Yeah.
+There are a bunch of markets where we don't currently sell cars that we should be selling cars in.
+We'll see some acceleration of that.
+George Gianarikas
+Managing Director and Senior Analyst, Canaccord
+FSD in new markets?
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+So the thing about the end-to-end neural net-based autonomy is that, just like a human, it actually works pretty well without modification in almost any market.
+So we plan on, with the approval of the regulators, releasing it as a supervised autonomy system in any market where we can get regulatory approval for that, which we think includes China.
+So yeah, just like a human, you can go rent a car in a foreign country, and you can drive pretty well.
+Obviously, if you're living in that country, you'll drive better.
+And so we'll make the car drive better in these other countries with country-specific training.
+But it can drive quite well almost everywhere.
+Vaibhav Taneja
+CFO, Tesla
+Yeah.
+The basics of driving are basically the same everywhere.
+Car is a car.
+Traffic light is a traffic light.
+Road is a road.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+And it understands that it shouldn't hit things no matter where it is.
+Vaibhav Taneja
+CFO, Tesla
+Exactly.
+There are some road rules that you need to follow.
+In China, you shouldn't cross over a solid line to do a lane change.
+The U.S. has a recommendation, I think.
+Yeah.
+You get fined heavily if you do that.
+You have to do some adaptations, but it's mostly smaller adaptations, not an entire change of stack or something like that.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Martin Viecha
+VP of Investor Relations, Tesla
+Hey, George, do you have a follow-up?
+George Gianarikas
+Managing Director and Senior Analyst, Canaccord
+Yep.
+So my follow-up has to do with the first-quarter deliveries.
+I'm curious as to whether or not you feel that supply constraints that you mentioned throughout the release impacted the results.
+Maybe can you help us quantify that?
+Is that why you have some confidence in unit growth in 2024?
+Vaibhav Taneja
+CFO, Tesla
+Yeah.
+I think we did cover this a little bit in the opening remarks, too.
+Q1 had a lot of different things which were happening.
+Seasonality was a big one, continued pressure from the macroeconomic environment.
+We had attacks at our factory.
+We had Red Sea attacks.
+We were ramping Model 3.
+We were ramping Cybertruck.
+All these things are happening.
+I mean, it almost feels like a culmination of all those activities in a constrained period.
+And that gives us that confidence that, hey, we don't expect these things to recur.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+We think Q2 will be a lot better.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Yeah.
+It's just one thing after another.
+Our Semi trucks are crazy.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Exactly.
+And it's just if you've got cars that are sitting on ships, they obviously cannot be delivered to people.
+And if you've got excess demand for Model 3 or Model Y in one market, but you don't have it there, it's quite an extremely complex logistics situation.
+And I'd say also we did overcomplicate the sales process, which we've, just in the past week or so, greatly simplified.
+So it became far too complex to buy a Tesla, whereas it should just be you can buy the car in under a minute.
+So we're getting back to the you can buy a Tesla in under a minute interface from what was quite complex.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Thank you.
+Let's go to Colin Rusch from Oppenheimer.
+Colin, go ahead and unmute, please.
+Colin Rusch
+Managing Director and Head of Sustainable Growth and Resource Optimization Research, Oppenheimer
+Thanks so much, guys.
+Given the pursuit of Tesla, it really is a leader in AI for the physical world.
+In your comments around distributed inference, can you talk about what that approach is unlocking beyond what's happening in the vehicle right now?
+Elon Musk
+CEO and Product Architect, Tesla
+Do you want to say something?
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Yeah.
+I think I want to mention the car, even when it's a full robotaxi, it's probably going to be used around 50 hours a week.
+Elon Musk
+CEO and Product Architect, Tesla
+That's my guess.
+Like a third of the hours of the week.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Yeah.
+It could be more or less, but then there's certainly going to be some hours left for charging and cleaning and maintenance.
+In that world, it can do a lot of other workloads.
+Even right now, we are seeing, for example, these LLM companies have these batch workloads where they send a bunch of documents, and those are run through pretty large neural networks.
+They take a lot of compute to chunk through those workloads.
+And now that we have already paid for this compute in these cars, it might be wise to use them and not let them be buying a lot of expensive machinery and letting them be idle.
+We don't want that.
+We want to use the compute as much as possible and close to basically 100% of the time, make every use of it.
+Elon Musk
+CEO and Product Architect, Tesla
+That's why I think it's analogous to Amazon Web Services, where people didn't expect that AWS would be the most valuable part of Amazon when it started out as a bookstore.
+So that was on nobody's radar.
+But they found that they had excess compute because the compute needs would spike to extreme levels for brief periods of the year, and then they had idle compute for the rest of the year.
+So then what should they do with all that excess compute for the rest of the year?
+That's kind of.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Monetize it.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Monetize it.
+So it seems like kind of a no-brainer to say, "Okay.
+If we've got millions and then tens of millions of vehicles out there where the computers are idle most of the time, we might as well have them do something useful.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Yeah.
+Exactly.
+Elon Musk
+CEO and Product Architect, Tesla
+And then, I mean, if you get to the 100 million vehicle level, which I think we will at some point get to, then.
+And you've got a kilowatt of usable compute, and maybe you're on Hardware 6 or 7 by that time, then I think you'd have on the order of 100 GW of usable compute, which might be more than anyone, more than any company, probably more than any company.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Yeah.
+Probably.
+Because it takes a lot of intelligence to drive the car anyway.
+And when it's not driving the car, you just put this intelligence to other uses, just solving the scientific problems.
+Elon Musk
+CEO and Product Architect, Tesla
+Just like a human.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Or answering dumb questions for someone else.
+Elon Musk
+CEO and Product Architect, Tesla
+We've already learned a lot about deploying workloads to these compute nodes and updating.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Yeah.
+Unlike laptops and our cell phones, it is totally under Tesla's control.
+So it's easier to distribute the workload across different nodes as opposed to asking users for permission on their own cell phones would be very tedious.
+Elon Musk
+CEO and Product Architect, Tesla
+Well, you're just draining the battery on the phone.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Yeah.
+Exactly.
+The battery is also limited.
+Elon Musk
+CEO and Product Architect, Tesla
+Technically, I suppose Apple would have the most amount of distributed compute, but you can't use it because you can't just run the phone at full power and drain the battery.
+Whereas for the car, even if you're a kilowatt-level inference computer, which is crazy power compared to a phone, if you've got a 50-kWh or 60-kWh pack, it's still not a big deal to run.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+With you plugged in.
+Elon Musk
+CEO and Product Architect, Tesla
+With you plugged in or not, it could be plugged in or not plugged in.
+You could run for 10 hours and use 10 kWh of your kilowatt of compute.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Forever.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Works together built-in, liquid-cooled thermal management.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+It's exactly.
+Events for data centers.
+So it's already there in the car.
+Ashok Elluswamy
+Director of Autopilot Software, Tesla
+Exactly.
+So it's distributed power generation.
+It's just distributed access to power and distributed cooling.
+And it's already paid for.
+Vaibhav Taneja
+CFO, Tesla
+Yeah.
+I mean, that distributed power and cooling, people underestimate that costs a lot of money.
+Elon Musk
+CEO and Product Architect, Tesla
+That's a really big deal.
+Martin Viecha
+VP of Investor Relations, Tesla
+Yeah.
+The CapEx is shared by the entire world.
+Sort of everyone owns a small chunk, and they get a small profit out of it maybe.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Colin Rusch
+Managing Director and Head of Sustainable Growth and Resource Optimization Research, Oppenheimer
+Thanks so much, guys.
+Just my follow-up is a little bit more mundane.
+Looking at the 4680 ramp, can you talk about how close you are to target yields and when you might start to accelerate incremental capacity expansions on that technology?
+Elon Musk
+CEO and Product Architect, Tesla
+We're making good progress on that, but I don't think it's super important for at least the near term.
+As Lars said, we think it'll exceed the competitiveness of suppliers by the end of this year.
+Then we'll continue to improve it.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Yeah.
+I mean, I think it's important to note also that the ramp right now is relevant to the Cybertruck ramp.
+And so we're not going to just randomly build 4680s unless we have a place to put them.
+And so we're going to make sure we're prudent about that.
+But we also have a lot of investments with all our cell suppliers and vendors.
+They're great partners, and they've done great development work without us.
+And a lot of the advancements in technology and chemistry we found in 4680, they're also putting into their cells.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+I mean, a big part of the 4680, Tesla doing internal cells, was a hedge against what would happen with our suppliers.
+Because for a while there, it was very difficult because every big car maker put in massive battery orders.
+And so the price per kilowatt-hour of lithium-ion batteries went to crazy numbers, to crazy levels.
+Vaibhav Taneja
+CFO, Tesla
+Bonkers.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Just bonkers.
+So like, "Okay.
+We've got to have some hedge here to deal with cost per kilowatt-hours numbers that would double what we anticipated." If we have an internal cell production, then we have that hedge against demand shocks when there's too much demand.
+That's really the way to think about it.
+It's not like we want to take on a whole bunch of problems just for the hell of it.
+We did this cell program in order to address the crazy increase in cost per kilowatt-hour from our suppliers due to gigantic orders placed by every car maker on Earth.
+So.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Thank you.
+The last question comes from Ben Kallo from Baird.
+Ben, go ahead and unmute.
+You're still muted.
+Elon Musk
+CEO and Product Architect, Tesla
+Well, once again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive FSD 12.3.
+It's impossible to understand the company if you do not do this.
+Martin Viecha
+VP of Investor Relations, Tesla
+All right.
+So since Ben is not unmuting, let's try Shreyas Patil from Wolfe Research.
+Final question.
+Shreyas Patil
+VP of Equity Research, Wolfe Research
+Oh.
+Hey.
+Thanks so much.
+Just Elon, during the Investor Day last year, you mentioned that auto COGS per unit for the next-gen vehicle would decline by 50% versus the current 3 and Y.
+I think that was implying something around $20,000 of COGS.
+About a third of that was coming from the Unboxed manufacturing process.
+But I'm curious if you see an opportunity that some of the other drivers around powertrain cost reduction or material cost savings, would those be largely transferable to some of the new products that you're now talking about introducing?
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Yeah.
+Yeah.
+Sure.
+I mean, in short, yes.
+I mean, the Unboxed manufacturing method is certainly great and revolutionary, but with it comes some risk because it's new production lines, not.
+But all the subsystems we developed, whether it was powertrains, drive units, battery improvements in manufacturing and automation, thermal systems, seating, integration of interior components, and reduction of LV controllers, all that's transferable.
+And that's what we're doing, trying to get it in their products as fast as possible.
+And so, yeah, that engineering work, we're not trying to just throw it away and put it in a coffin.
+We're going to take it and utilize it and utilize it to the best advantage of the cars we make and the future cars we make.
+Shreyas Patil
+VP of Equity Research, Wolfe Research
+Okay.
+Great.
+And then just on that topic of 4680 cells, I know you mentioned it.
+You really thought of it more as a hedge against rising battery costs from other OEMs.
+But it seems even today, it seemed like you would have a cost advantage against some of those other automakers.
+And I'm wondering, given the rationalizing of your vehicle manufacturing plans that you're talking about now, if there's an opportunity to maybe convert the 4680 cells and maybe sell those to other automakers and really generate an additional revenue stream.
+I'm just curious if you have any thoughts about that?
+Elon Musk
+CEO and Product Architect, Tesla
+Right.
+What seems to be happening is that, unless I'm missing something, the orders for batteries from other automakers have declined dramatically.
+So we're seeing much more competitive prices for cells from our suppliers, dramatically more competitive than in the past.
+It is clear that a lot of our suppliers have excess capacity.
+Karn Budhiraj
+VP of Supply Chain, Tesla
+Yeah.
+In addition to what Elon said, this is Karn Budhiraj.
+In addition to what Elon said about 4680s, what 4680 did for us from a supply chain perspective was help us understand the supply chain that's upstream of our cell suppliers.
+So a lot of the deals that we had struck for 4680, we can also supply those materials to our partners, reducing the overall cost back to Tesla.
+So we're basically inserting ourselves in the upstream supply chain by doing that.
+So that's also been beneficial in reducing the overall pricing in addition to the excess capacity that these suppliers have.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Now, I mean, this is going to wax and wane, obviously.
+So there's going to be a boom and bust in battery cell production where production exceeds supply, and then supply exceeds production and back and forth, kind of like, I don't know, DRAM or something.
+But so it's like what is true today will not be true in the future.
+There's going to be somewhat of a boom and bust cycle here.
+And then there are additional complications with government incentives like the Inflation Reduction Act, the IRA.
+I've always found a funny name for it.
+Vaibhav Taneja
+CFO, Tesla
+Chemical name.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Is it like the Irish Republican Army, the Internet Research Agency from Russia?
+Vaibhav Taneja
+CFO, Tesla
+Independent Retirement Fund?
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Exactly.
+IRA.
+It's like for certain situations, which IRA wins.
+It does complicate the incentive structure so that there is stronger demand for cells that are produced in the U.S. than outside the U.S.
+Then how long does the IRA last?
+I don't know.
+Vaibhav Taneja
+CFO, Tesla
+Which is why it's important that we have both in-house cells and vendor cells to hedge against all of this.
+Elon Musk
+CEO and Product Architect, Tesla
+Yeah.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Thank you very much.
+That's all the time we have today.
+But at the same time, I would like to make a short announcement.
+I wanted to let the investment community know that about a month ago, I met up with Elon and Vaibhav and announced that I'll be moving on from the world of investor relations.
+I'll be hanging around for another couple of months or so.
+So feel free to reach out anytime.
+But after this seven-year sprint, I'm going to be taking a break and spending some good quality time with my family.
+I wanted to say that these seven years have been the greatest privilege of my professional life.
+I'll never forget the memories from I started literally at the beginning of production hell and just watching the company from the inside to see what it's become today.
+I'm especially super thankful to the people in this room and dozens of people outside of this room that I've worked for over the years.
+I think the team strength and teamwork at Tesla is unlike anything else I've seen in my career.
+Elon, thank you very much for this opportunity that I got back in 2017.
+Thank you for seeking investor feedback regularly and debating it with me.
+Yeah.
+Well, I mean, the reason I reached out to you was because I thought your analysis of Tesla was the best that I'd seen.
+Thank you.
+Elon Musk
+CEO and Product Architect, Tesla
+So yeah, thank you for helping Tesla get to where it is today over seven years.
+It's been a pleasure working with you.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you so much.
+Yeah, thank you for all the thousands of shareholders that we've met over the years and walked around factories and loved all the interactions, even the tough ones.
+Yeah, looking forward to the call in the next three months, but I'll be on the other side listening in.
+Thank you very much.
+Elon Musk
+CEO and Product Architect, Tesla
+Thanks.
+Data Source:
+Quartr
+Last updated:
+Apr 23, 2024
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (14)
+Quarterly report
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

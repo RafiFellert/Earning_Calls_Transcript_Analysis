@@ -1,0 +1,877 @@
+Tesla (TSLA) Q3 2021 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Tesla, Inc. (TSLA)
+NASDAQ: TSLA · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+311.21
++2.36 (0.76%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+309.26
+-1.95 (-0.63%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q3 2021
+Oct 20, 2021
+Quarterly report
+Slides
+Play Audio
+Download Transcript
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Good afternoon, everyone, and welcome to Tesla's third quarter 2021 Q&A webcast.
+My name is Martin Viecha, Senior Director of Investor Relations, and I am joined today by our Chief Financial Officer, Zachary Kirkhorn, and our Senior Vice President, Drew Baglino, as well as other executives.
+Our Q3 results were announced at about 3:00 P.M.
+Central Time in the update deck we published at the same link as this webcast.
+During this call, we will discuss our business outlook and make forward-looking statements.
+These comments are based on our predictions and expectations as of today.
+Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+During the question and answers portion of today's call, please limit yourself to one question and one follow-up.
+Please use the raise hand button to join the question queue.
+Before we jump into the Q&A, Zach has some opening remarks.
+Zach?
+Zachary Kirkhorn
+CFO, Tesla
+Thanks, Martin.
+We're continuing to make great progress as a company, setting new records on each of the most important financial metrics for Q3.
+Overall, we delivered just over 240,000 cars, 20% higher than last quarter and 70% higher than the same quarter last year.
+We were also able to achieve an annualized production run rate of over one million cars towards the end of the quarter.
+The increase in production rate has primarily been driven by further ramping of the Model Y at our Shanghai factory.
+Additionally, we have made great progress increasing production volumes of Model S and have recently started the ramp and deliveries of Model X.
+It will take a bit more time to get this program back to prior volumes, but based on demand, we are targeting to exceed historical production levels.
+We have also completed the transition of our Shanghai factory as our main export hub.
+This has enabled us to supply more vehicles to the North America market and to introduce Model Y to Europe.
+Due to part shortages and logistics variability, we have not been able to run our factories at full capacity.
+It's important to note that while we have roughly doubled deliveries year to date, this has been exceptionally difficult to achieve.
+I want to thank our supply chain team for their incredible work and our production teams for showing impressive flexibility as we make adjustments real time.
+This team's expertise in the chip industry across all tiers has made a huge difference when managing through these challenges.
+Additionally, we never reduced our production forecast with our suppliers, as we're adding capacity as quickly as possible.
+I also want to thank our suppliers for their dedication and partnership to Tesla.
+Despite these increases in production and generally higher prices, our backlogs are continuing to grow, and average customer wait times are extending.
+The only practical way to address this in the immediate term is to do everything we can to build more cars on our existing production lines, which is where we are focused.
+Similar dynamics are also playing out in our storage business as we are working to expand Powerwall and Megapack production as quickly as parts and cells allow us to do so.
+Additionally, we have made good progress on the in-house battery manufacturing program, and we're excited to have expanded the Full Self-Driving beta program to more customers.
+Financially, our auto gross margins reached 30.5% on a GAAP basis and just under 29% excluding regulatory credits, which is our strongest yet.
+This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the Model Y, and we have made good progress increasing Model S volumes.
+The Model S has now returned to positive gross margin, and we expect this to increase with higher production and the ramp of Model X.
+As was the case in Q2, there was some net benefit from pricing actions.
+This remains small in the context of other contributors.
+Please keep in mind that given backlog, it will take time for the impact of recent changes to flow through our financials.
+Note that we are also not yet recognizing additional revenue from the FSD Beta program.
+Supply chain challenges, including expedites, continue to provide cost headwinds, as was also the case with FX this quarter.
+While we are seeing an impact from the rise in commodity and labor costs, we have also been adjusting pricing, which should help to compensate.
+Overall, as I mentioned in our last call, our P&L continues to benefit from the marginal profitability of each incremental unit with higher fixed cost absorption.
+As a result of the great progress on margins, volume, and appropriate management of overhead costs, we were able to achieve an operating margin of just under 15%, exceeding the long-term guidance we've laid out previously.
+On cash, we generated record operating cash flows of $3.1 billion and continue to invest heavily in the build-out of manufacturing, Supercharging, and service capacity.
+We also continue to retire high-interest rate debt, including the early settlement of our 2025 senior notes of $1.8 billion during the quarter.
+As we look forward, we are clearly quite a bit ahead of the pacing required to achieve our target annual growth rate of 50% this year.
+Q4 production will depend heavily on availability of parts, but we are driving for continued growth.
+We are also nearing assembly of our first production cars in Austin and Berlin.
+It's important to stress while the first production car is an important milestone, the hardest work lies ahead in the ramp.
+Please keep in mind that we are pushing the boundaries on new product and manufacturing technologies at these factories, which makes it difficult to predict the exact pace of the ramp.
+These factories will also partially weigh on our margins as we work towards volume production.
+Overall, I'm very proud of what the team has accomplished, and I'm excited for our next phase of growth into Q4 and into 2022.
+The team has done a tremendous job improving our financial health in a short period of time while also continuing to improve our precision and pace of execution.
+Thank you.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+We will now take questions from institutional and retail shareholders that we posted on our website.
+The first question is: when should we expect the first vehicles to be delivered with 4680 cells?
+Drew Baglino
+SVP, Tesla
+Yeah, thanks, Martin.
+Early next year.
+From a non-cell perspective, structural battery crash range and reliability testing are on track to be complete this quarter.
+Testing to date has gone well, and the Fremont manufacturing line is on track to support.
+However, similar to what Zach said before, this is a new architecture and unknown unknowns may exist still.
+Our top priority is ensuring quality in what we deliver.
+From a cell perspective, we are comfortable with the design maturity and manufacturing readiness matching the pack timeline I just mentioned.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+The second question from institutional investor comes: do you still expect to start production of the $25,000 model in 2023?
+What are the biggest hurdles from now until then?
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Thanks, Martin.
+Yeah, we're working on a strategy to increase our production rates as quickly as possible.
+I think Zach spoke to that well, and we're doing this while trying to add the least amount of incremental complexity to the business.
+We don't want to add any new vehicles to our lineup when we're generally in a cell-constrained world, while there is still more runway to grow these existing products.
+We are focused on Model Y expansion in Austin and Berlin, ramping Model S and Model X further in Fremont to restore to past levels, while also growing Model 3 and Model Y production in Fremont and Shanghai.
+As we've mentioned before, after Model Y in Austin, our next product launch will be Cybertruck, that timing, of course, depends on increasing cell capacity both from our suppliers and through our in-house cell, as well as many other headwinds we face in the supply chain.
+Completing our currently full plate of products on the table.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+The third question is: with FSD Beta training data sets set to explode exponentially as software is released to a wider and wider audience, are there any early takeaways with regards to how quickly versions can iterate and be pushed out from biweekly to weekly or even daily?
+Drew Baglino
+SVP, Tesla
+At this point, it's not so much about how much data can we collect, but how quickly can we process the data we've collected.
+This is where Dojo comes in, as we mentioned on AI Day.
+With substantially faster training computer in Dojo, we will be able to iterate more often than we do now.
+If, for instance, Say, the training, the net takes one day instead of one week, makes a huge difference in our ability to push out more updates.
+Realistically, there's a whole lot more that comes into play when iterating software updates.
+The whole infrastructure from top to bottom, including testing and validation, needs to be set up for faster iteration.
+Daily updates are not really realistic for now.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+The next question is: Can you provide an update on future model development and how much diversity in your fleet will be necessary to achieve 20 million in annual volumes?
+The best-selling cars in the world today only sell slightly over one million units.
+Is it possible to achieve 20 million units with just SX, 3, Y, truck, and the $25,000 car?
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Thanks, Martin.
+Yeah, as we've mentioned before, we've seen record growth in both Model 3 and Model Y segments, where Model 3 is currently the best-selling luxury sedan worldwide.
+As we mentioned at our shareholders' meeting, Model Y is poised to be the best-selling vehicle in the world.
+Tesla continues to break molds in these vehicle segments.
+We hope to do so with each new product.
+As we've said publicly, we'll eventually expand the vehicle lineup to get to larger volumes.
+We believe that we will need to be in all major segments across small, mid-size, large sedans, SUVs, and trucks to do so.
+Along with, of course, the massive space of Robotaxi.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+The next question, a question from retail shareholder is: what is Tesla's goal for vehicle production capacity for the four current factories, Fremont, Shanghai, Austin, and Berlin, by 2024?
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+Thanks, Martin.
+Our goal as a company here is to grow on an average pace of 50% per year.
+You can extrapolate that out.
+There may be some periods of time in which we're well ahead of that.
+There could be some periods of time, despite best efforts, where we're slightly lower than that.
+That remains the long-term goal of the company.
+In Fremont, we're continuing to push the boundaries of what's possible there.
+Over the last 12 months, we've done about 430,000 cars of production.
+Based upon everything that we know in the factory, where the bottlenecks are, what the potential is, we're targeting to increase that another 50%.
+I think that will be a difficult goal, but that's the goal that the internal team has, and they're going to continue to push on that.
+We look towards Shanghai, we're continuing to push the boundaries there, we continue to ramp production there as well.
+Most recently, the ramp of the Model Y, which was our biggest contributor of volume in Q3.
+We'll continue to ramp that factory.
+Our plans there with time are to keep growing the capacity in that factory.
+Austin and Berlin are interesting factories because our first iterations of capacity there are on Model Y.
+We've intentionally set these factories in locations in which they have a quite significant amount of land and ability to expand.
+We'll take Model Y at these factories.
+We're trying to get to 5,000 cars a week as soon as we can, we'll continue to push beyond that, potentially even getting to 10,000 cars per week at those factories.
+Then we'll add Cybertruck here in Austin, and continue to grow from there.
+Our goal is to get to millions of cars per year over the next couple of years, and then ultimately, in the long term, be able to achieve 20 million cars per year.
+We're going to grow as quickly as is feasibly possible with an eye towards a 50% annual growth rate.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Great.
+Thank you very much.
+The next question is, "What is your view on the tightening regulatory environment for FSD in the investigation and broad data request by NHTSA?
+Some of the recent nominees to NHTSA have been publicly critical of FSD, including engaging with short sellers online.
+How will you manage this environment?
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Thanks, Martin.
+Yeah.
+As we have been for years, we always engage with NHTSA and other worldwide regulatory bodies to share our knowledge and to work with them on our approaches on both active and passive safety.
+There are ongoing regulatory inquiries taking place all the time, and especially on the subjects like FSD that are at the cutting edge of technology development.
+During these investigations, my team, myself, are always cooperative as much as possible.
+We expect and embrace the scrutiny of these products and know that the truth about their performance and the innovations our products have will ultimately be all that matters.
+In the end, and as I've said on previous calls, we take safety as a top priority in all our designs.
+This is because our primary motivation is coming from a team of incredible engineers designing software and hardware that saves lives and prevents injuries.
+In doing so, we'll continue to be transparent to the public on how our technology is both developing from an Autopilot safety data, the latest of which we just shared in the shareholder update.
+You can also see and review a wide variety of customer post FSD videos on social media.
+Back to you.
+Zach?
+Zachary Kirkhorn
+CFO, Tesla
+Yeah, just to add to that, as Lars said, safety is extremely important for Tesla.
+It's the right thing to do.
+If you look at various independent testing and regulatory testing of our products, you can see the work of the incredibly talented engineers and the results of those tests.
+Our goal in developing safety-oriented software around the car is to continue to go beyond what the hardware is able to provide.
+If you can prevent a crash from happening, that's the safest way to manage this.
+I think at a macro level here, what we're seeing, and this is entirely understandable and expected, is that the automotive industry is going through a transition from the traditional car as we know it to more of a computer software-oriented sensor suites around them that can manage things beyond just what the driver manages.
+Regulatory bodies are understandably so, are interested in understanding how to regulate in this environment.
+NHTSA is no exception to that.
+As Lars mentioned here, I think this is a great thing.
+We're excited to partner, and we'll work collaboratively with all regulatory bodies, who want to go on the journey to the transition to a software-oriented vehicle.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+The next question is, "Service remains an issue with appointments available weeks or even months out.
+Likewise, Supercharger wait times have become untenable at some locations.
+What concrete steps is Tesla taking to improve the customer experience in these two key areas?
+Zachary Kirkhorn
+CFO, Tesla
+Yeah, I'll take the service part of this question.
+Drew, you can take the Supercharging part.
+We have seen an increase in service wait times throughout the summer.
+There's couple of things that have contributed to that based upon the information that we have.
+The first is that, and I think this is not unique to us, is that the return to some sense of normalcy in a post-pandemic world has happened, I think, more quickly than most people expected.
+What we're seeing here is that the number of miles that people are driving has increased.
+There may have been some demand for service during 2020 or in the early parts of 2021 that customers put off.
+So there's a bit of a catch-up that's occurring that has increased demand for service.
+At the same time, in the macro environment here, logistics, moving parts, sourcing parts, has become increasingly more difficult, which is a well-known issue in the world right now, as well as challenges in the labor market.
+There's this simultaneous increase in demand for service, where the ability to supply that service has been impacted for the reasons I mentioned.
+We saw an uptick primarily in Europe and North America in service wait times over the course of the summer, and we've been working extremely hard since then to address this.
+We've seen our wait times come down.
+This is not the case in every location, but if you think about it from regional average perspectives, we are seeing improvements there.
+We remain super focused on adding locations.
+Over the last year, we've grown our physical footprint of service centers by 35%.
+We've grown our footprint of mobile repair by over 40%.
+We're also adding staffing as quickly as we can in the areas that are most impacted by the imbalance of supply and demand for service.
+I think the most important part about all of this is, and we've said this on calls before.
+The best service is no service.
+We have been incredibly focused as a company, both on the initial quality of our vehicles and reliability of our vehicles.
+We've seen pretty substantial improvements in both of those metrics over the long term and over the last couple of quarters.
+It is something that remains on our minds.
+We monitor this very closely, but hopefully, that's a helpful explanation into the context and what we're doing.
+Drew Baglino
+SVP, Tesla
+Yeah.
+On the Supercharger side, the Supercharging team monitors congestion and plans expansion to ensure customer experience with minimal wait times, alongside the growth in our vehicle fleet.
+While we certainly have work to do in expanding capacity in some congested areas, average congestion on the network has decreased over the past 18 months.
+Nonetheless, we're not standing still.
+We are executing accelerating expansion plans globally.
+The network has doubled in the last 18 months, and we are planning to triple it over the next two years.
+Even so, on an individual site basis, to combat existing congestion more quickly where it is isolated and problematic, we expedite local relief sites, deploy mobile Superchargers, and we try to introduce pricing strategies that encourage more off-peak usage to avoid the waiting.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+Zachary Kirkhorn
+CFO, Tesla
+Just one thing to add on Supercharging.
+If you haven't experienced our latest iteration of battery packs that can handle fast charge rates in combination with our 250 kW charging stations, it's pretty incredible.
+This is a really important component to Supercharging capacity, because, the faster you can charge, the more charge sessions that you can have on an individual post, the better the customer experience is as you're going on a long-term journey, because your Supercharging times are lower.
+Drew Baglino
+SVP, Tesla
+Yeah.
+Zachary Kirkhorn
+CFO, Tesla
+This is a really important part of the strategy.
+Supercharging team has done a great job rolling these out.
+It requires a combination of both the 250 kW charging and our latest iteration of battery packs.
+Drew Baglino
+SVP, Tesla
+We've also maintained an ongoing roadmap on software improvements, dynamic routing to avoid busy Superchargers.
+That's actually really helpful.
+We take the real-time busyness of the stations into account when choosing where to navigate people on their road trip.
+Beyond that, we're also continuing to improve the trip planner itself and how it estimates how much energy people use, so it's not too conservative and asking people to charge more than they need to, which is another thing that can delay a total trip.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Great.
+Thank you very much.
+The next question is: Is Tesla considering any other ideas other than FSD with real-world AI that can bring additional software revenue to Tesla?
+If not, can Tesla consider building interesting games around FSD Beta?
+Drew Baglino
+SVP, Tesla
+Sure.
+At AI Day, we did talk about a potential future, where Dojo could be used as a neural net training platform for other companies.
+It's not a focus of ours today, as we're fully subscribed on Dojo with our internal uses.
+We do expect to continue to improve the in-car experience in the context of FSD.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Great.
+Thank you.
+Maybe last question from shareholders is, how has FSD take rate changed since the introduction of monthly subscription?
+Are there any plans to increase FSD pricing as wider release becomes imminent?
+Zachary Kirkhorn
+CFO, Tesla
+I'll take the second part of the question first.
+We won't be providing any forward-looking commentary on our pricing strategy or what may happen here over the near term.
+With respect to the first part of the question, this has been an interesting thing for us to unpack within the company.
+What I'll say just as a general statement before I make a couple specific comments is that the things that we learn on FSD subscription today are not necessarily all that relevant.
+This is really more of a platform for when FSD Beta goes into wide release and the features and functionality become more accessible to more customers.
+The second thing that I'll note is that if you look at the monthly pricing of FSD subscription, and then you compare that to the cost of either rolling FSD option into your lease or your loan, on a monthly basis, the most economical way for a customer to enjoy the features of Full Self-Driving, is through purchasing it upfront and enrolling it through their financing.
+As a result of that, what we've seen in the data is we're unable to detect a change in the upfront take rate of FSD when people purchase cars.
+We have seen quite a bit of activity of folks curious to experience what the software has to offer, and subscribing to it and enjoying it through that route.
+Again, as I said at the beginning, I think what we've seen so far on FSD subscription is not terribly relevant.
+We'll see how that plays out in the future as we continue to release more features.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+Now let's go to analyst questions.
+I just wanted to remind everyone to click on Raise Hand button if you want to ask a question.
+The next question comes from Pierre Ferragu from New Street Research.
+Pierre, feel free to unmute your mic and go ahead.
+Pierre, I think your mic is muted. Okay.
+While Pierre works on that, let's go to the next analyst.
+The next question comes from Joseph Spak from RBC.
+Joe, we cannot hear you.
+Can you click unmute?
+Okay.
+While the team is working on that, let's just go back to Say questions.
+The next Say question is, "Can Tesla allow for FSD to be transferred to another vehicle at a fee, something less than 10,000?" Early adopters are paying the price if they want to upgrade their vehicle.
+You lose the value on the trade-in, and now you have to buy in at a higher cost.
+Zachary Kirkhorn
+CFO, Tesla
+I don't think that this is widely known, but we're already actually doing the sentiment of what this question is asking.
+If you trade in your Tesla to Tesla, there's a difference in price that we pay for a trade-in that has FSD compared to one that doesn't.
+There's that premium that we pay to repurchase the FSD.
+That money can then be applied towards the purchase of a new car.
+We hear this feedback quite a bit.
+We see it on social media, we see it in the forums, et cetera.
+This already does exist, not directly in the form here, and we don't call it out explicitly in the trade-in, potentially that we have increased the price of your trade-in as a result.
+Hopefully this clears this up because we do actually do that.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Okay.
+The next question is, "Elon said that we'd get an update on Cybertruck in November a year ago, but it hasn't happened and we know there are a lot of updates.
+Will you show off the new and improved Cybertruck?
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Yeah.
+Thanks, Martin.
+We get a lot of questions on the Cybertruck.
+We've been busy detailing the Cybertruck to achieve the prototype version we shared with customers a while back.
+As you may have seen recently on social media, we've built a number of alphas and are currently testing those to further mature the design.
+While those point out a few key additions, like rear steer, there are also a number of smaller or less visible improvements, though the product is largely true to the initial vision.
+We'll continue to work through the product in the beta stages that we're in now, and look to launch that late next year.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Okay.
+Thank you very much.
+We just promoted Pierre to a presenter.
+Pierre Ferragu
+Head of Global Technology Infrastructure Research, New Street Research
+Yes.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Can you hear us?
+Pierre Ferragu
+Head of Global Technology Infrastructure Research, New Street Research
+Can you hear me, guys?
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Yes, we can hear you.
+Pierre Ferragu
+Head of Global Technology Infrastructure Research, New Street Research
+Amazing.
+I'm very impressed that you managed to figure that.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+We are too.
+Zachary Kirkhorn
+CFO, Tesla
+Thank you, Pierre.
+Pierre Ferragu
+Head of Global Technology Infrastructure Research, New Street Research
+I would have panicked.
+Let me ask you my question.
+I actually am very intrigued by what you guys are doing on the insurance front.
+You have now in the market, in Texas, an insurance product for which the premium varies as a function of the safety score of the driver.
+I'd love to hear you about that.
+You must have some initial data points about market reaction.
+What's the uptake?
+From there, can you tell us about how you think you're going to distribute that?
+Is that going to go through your install base very easily, or is it going to be like a heavy marketing push?
+Then maybe tell us about your expansion plans.
+What are the next geographies?
+What's the timing?
+How fast is that business line likely to grow in the next few years?
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+Thank you, Pierre.
+I'm extremely passionate about our insurance product.
+We have a terrific team here at Tesla of folks who have been spending a lot of time developing this.
+They're probably listening to the call, so we're pretty excited so far, Pierre.
+At the highest level here, we entered the insurance market kind of unintentionally, I would say.
+Our customers were coming to us complaining that the price of traditional insurance was too high, and it was reducing the affordability of a Tesla.
+Part of our journey here at Tesla is we want as many people as possible to be able to afford our products.
+That's extremely important to achieving the mission of the company.
+If you look at the price of insurance as a percentage of what somebody's monthly payment is, it's quite high.
+We spend extreme amounts of effort in manufacturing to take $5 of BOM cost out here, or $10 out somewhere else.
+If we can get $5, $10, $20, $30 out on a monthly payment, you can calculate what that means in terms of reduction of the price of the car if you finance it, and the leverage of improving insurance cost is huge in terms of affordability.
+That's kind of the context by which we stepped into this.
+As we started to do more research, essentially the tools by which the insurance is traditionally calculated are optimized based upon the existing data, but the existing data is limited.
+There's a focus on things like marital status or age or other attributes like that.
+Accident history is a good one, et cetera.
+What essentially happens here is customers who are low risk, and don't actually file many claims, end up overpaying on their insurance relative to their cost.
+That overpayment goes to riskier customers who are essentially being subsidized.
+As we looked at this and we looked at the data, we thought, "This just doesn't seem like it's fair." At Tesla, because our cars are connected, because they are essentially computers on wheels, there's enormous amounts of data that we have available to us to be able to assess the attributes of a driver who's operating that car and whether those attributes correlate with safety.
+We do get a signal when a car has been in an accident.
+We've been spending our time looking at hundreds of different variables, and also looking at billions of miles of driving history.
+We've been able to fit a model that is able to predict, with decent accuracy, the probability of collision over a period of time.
+The model is not perfect.
+The model is a function of the data that we have available.
+That data set continues to grow.
+We continue to experiment with new variables, but we do have a model that works pretty well so far.
+From that model, being able to predict frequency of collision, we can then align that against a price curve.
+We can have individualized pricing integrated into the car, integrated into the app, integrated into that customer's experience with a feedback loop back to the customer on how they are driving after every drive, the attributes that they were successful on or unsuccessful on, and the tips of things that they can do to improve their safety.
+That's what we've developed.
+We then included the safety score as a part of the FSD Beta enrollment program, where we have almost 150,000 cars currently using the safety score.
+I believe the latest data is over 100 million mi of driving.
+We've been able to go back and analyze that data, and we've learned two things coming from that.
+The first is that the probability of collision for a customer using a safety score versus not is 30% lower.
+It's a pretty big difference.
+It means that the product is working, and customers are responding to it.
+The second thing that we've looked at is what is the probability of collision based upon actual data as a function of a driver's safety score.
+That is aligning with our models.
+Most notably, if you're in the top tier of safety compared to lower tiers, there's multiple X difference in probability of collision based upon actual data.
+This is a very new and very exciting frontier for us.
+I know that was long-winded, but we spent a lot of time on this, and we put a lot of thought into it.
+Specifically with respect to the rollout, the insurance industry in the U.S. is intensely regulated, and it's regulated on a state-by-state level.
+That means that we require regulatory approvals from each individual department of insurance at each individual state.
+Texas is the first state that we launched in.
+I do want to thank the Texas insurance regulators here.
+You've been great to work with.
+We have a roadmap of additional states.
+We will launch the product in those states as we receive regulatory approvals, and our goal is to be in every major market in which we have cars in.
+We did a soft launch in Texas.
+Was it last week?
+Yeah.
+What we're seeing in initial take rate data is that, if you compare that to what we're seeing in California, we're off to a good start here.
+We're very excited about it.
+We're excited about individual risk-based pricing.
+We're excited about the ability for folks to become safer, and as a result, save money.
+It feeds into our priority of a company, of building the safest products in the world.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Yeah.
+If I can add to that, just it's really exciting for the engineering team to see the finance team, and taking on safety into their world too.
+It's just pervasive.
+Thanks for that, guys.
+Zachary Kirkhorn
+CFO, Tesla
+Thank you, Lars.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you.
+Pierre, do we have a follow-up question?
+Pierre Ferragu
+Head of Global Technology Infrastructure Research, New Street Research
+No, I think I'm fine, Zach.
+Thanks for taking the time to answer.
+It's fascinating and very interesting, yes.
+I look forward to looking into that.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+The next question comes from Joseph Spak from RBC.
+Joseph Spak
+Analyst, RBC
+Thanks.
+Can you hear me?
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Yeah, we can hear you.
+Joseph Spak
+Analyst, RBC
+Perfect.
+Zach, as you noted, you hit low teens operating margins.
+That was your medium-term target.
+You're there now despite the number of challenges and not full utilization of some of the plans.
+How are you thinking about that target now?
+Does it allow you to either drive price down further to unlock more demand, invest in other initiatives, or does that target need to change?
+In longer term, do you have an aspirational gross margin target as the mix of software and hardware changes?
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+We have achieved, we've actually exceeded our long-term guidance on our operating margin target.
+We're very pleased to see that.
+As we look out over the next quarter and the next year, there's a number of puts and takes financially for the company.
+The launch of Austin and Berlin, we'll have ramp inefficiencies there for some period of time until we get those factories up and running.
+That's likely to put some downward pressure on our margins as those factories ramp.
+Our goals are to ramp those as quickly as possible, as Drew mentioned earlier, there are a number of unknown unknowns that we'll need to work through.
+We are also in this uncertain environment with respect to cost structure, we are seeing costs increase on the commodity side.
+We're getting feedback from our suppliers as we are seeing ourselves, the impact of labor shortage, then logistics and expedite costs just continue to be a part of our story here.
+It's uncertain how that will unfold.
+It's our hope that these things stabilize.
+Exactly when that happens is difficult to predict.
+We have been adjusting pricing in line with those changes in cost.
+We'll see how that unfolds over the course of the next year.
+It's difficult on gross margin to say where that will go for those reasons.
+With respect to operating margin, we've been very focused as a company on managing our overhead expenses and operating expenses.
+Operating expenses as a percentage of revenue has been declining, and I expect that trend to continue to happen.
+I think the net of all of this is hopefully that we continue to make progress on operating margin over the next four or five quarters.
+As we think forward, the business up until this point has largely been a hardware automotive business with a little bit of software on top of that.
+As Full Self-Driving matures, as take rates increase, if we are to raise pricing on that, there's considerable upside both on gross margins and operating margin as that comes to light, as the business starts to become more of a mix of a hardware-based company and a software-based company.
+We feel optimistic about the journey, very optimistic about the journey as we look over into the long term.
+Just a little bit difficult over the next four to five quarters.
+We'll continue to update on earnings calls as we learn more information.
+There's just a lot of uncertainty in the world right now.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you.
+Joe, do you have a follow-up question?
+Joseph Spak
+Analyst, RBC
+Yeah.
+The second question is just, you mentioned LFP packs globally for standard range models.
+My understanding is that all comes from China.
+Is that the continued go-forward plan, or do you want to develop LFP capabilities in other factories around the world?
+Drew Baglino
+SVP, Tesla
+Yeah.
+Certainly, our goal is to localize all key parts of the vehicles on the continent, at least the continent, if not closer to where the vehicles are produced.
+That is our goal, and we're working internally and with our suppliers to accomplish that goal.
+Not just at the end assembly level, but as far upstream as possible.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+The next question comes from Colin Langan from Wells Fargo.
+Colin, are you able to unmute?
+Okay.
+While we're waiting for that, let's go to the next one.
+Colin Langan
+Analyst, Wells Fargo
+Oh, sorry.
+Can you hear me?
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Yeah.
+Sorry.
+Yes, we can hear you now.
+Perfect.
+Colin Langan
+Analyst, Wells Fargo
+Sorry about that.
+Okay.
+Yeah, just actually following up on the question before.
+You'd mentioned commodities are rising.
+When I look at a lot of the key raw materials in the battery, cobalt, nickel, lithium, all up 40%.
+I know you guys have done a good job of getting long-term contracts to mitigate that impact.
+Have you seen so far any impact from that spike?
+If not, any sense of when that raw material headwind might actually show up or has shown up?
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+We have seen an impact.
+Our primary exposure right now is around nickel and aluminum.
+Nickel in the cell, aluminum in non-cell.
+We have a mixture of contracts with various suppliers.
+Some materials we contract directly, and we have full exposure to price fluctuations.
+We do have a number of long-term commitments and long-term contracts in place.
+We also have contracts where there's some amount of cost-sharing based upon the movement of indexes.
+As these have been moving, some of those costs have been flowing through to us.
+It's not a substantial amount of cost, but it's not small.
+As we look towards the next year, I certainly hope it doesn't play out this way, but it's possible that we continue to see more of cost headwind as a result of these movements.
+It's difficult to say precisely, but the volatility and the increases are just so substantial.
+There are certain suppliers that maybe up to a certain point have been absorbing some of the increase, and as contracts expire there, or we have to renew and extend them, we'll have to return to negotiations.
+What we have to do as a company and what we are intensely focused on is we need to be continuing to drive down the cost of our products, which we have been doing.
+We have to overcome cost increases that are outside of our control.
+Whether that's resourcing components or redesigning components or finding ways to be more efficient in manufacturing, we have no choice but to continue on that path and be even more aggressive in the light of the macroeconomics here.
+Drew Baglino
+SVP, Tesla
+Diversification, right?
+It doesn't need to be nickel or cobalt, there's always another option.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you.
+Colin, do we have a follow-up question?
+Okay, let's go to the next one.
+The next question comes from Colin Rusch from Oppenheimer.
+Colin Rusch
+Analyst, Oppenheimer
+Hey, guys.
+Can you hear me okay?
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Yeah, we can hear you.
+Colin Rusch
+Analyst, Oppenheimer
+Perfect.
+Could you talk a little bit about your strategy around anode materials and your ability to leverage that into a reduction on the cathode side and performance from the LFP?
+Drew Baglino
+SVP, Tesla
+Sure.
+I don't know that I'm going to get into too many specifics, but I guess first one thing I would say is unlike the commodities discussion we just had, the anode materials are not really in the same situation just in terms of what their constituent components are.
+There's less of a focus on rapidly changing them one way or the other, because they're generally stable commodities.
+There isn't exactly a tit for tat where get a better anode, use less cathode.
+There's a fundamental ratio that you need to maintain for the cell to function.
+I guess zooming out, the primary focus on the anode side that we have is just ensuring that we are able to continue to reduce the cost of the anode without impeding on the long-term cyclability of the product.
+It can also help with energy density.
+As you improve the energy density of the anode, you improve the energy density of the cell, not directly one to one, because you have to pack more cathode in as the anode gets better.
+That's a focus as well, but the trade space is just sort of cycling versus day one cost.
+Colin Rusch
+Analyst, Oppenheimer
+That's super helpful.
+Then just around the vehicle pricing strategy, obviously there's a lot of flexibility there for some customers and not.
+Can you just talk a little bit about the process around vehicle pricing and how quickly you expect to change that and adjust as you see some of these commodity prices flow through the cost structure and you look at demand dynamics for vehicles?
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+Pricing has been a really difficult thing for us over the last two quarters.
+Part of the challenge is, well, the great thing that we're seeing in the space right now is there appears to just be quite a profound awakening of the desirability for electric vehicles.
+To be totally frank, it's caught us a little bit off guard.
+That kind of awakening and change in consumer sentiment, I'm sure there's lots of reasons that go into it, but folks want to buy an electric car and folks want to buy a Tesla right now.
+It's very exciting for us.
+At the same time, we have installed capacity to build more cars, but we're constrained by a number of dynamics as we've talked about in great detail.
+We are putting in extreme effort to build as many cars as we possibly can.
+It's hard to overstate how extreme the efforts are.
+It's quite the grind.
+We're trying as hard as we can to maximize that capacity and to be able to meet the demand that we're receiving.
+The net-net of all of this is that we're not able to increase production capacity fast enough.
+At the same time, we are seeing macroeconomic cost impacts on our structure, as we've discussed previously on the call.
+We're trying to think through if somebody orders a car now, it could be delivered in some cases, depending upon the car, in which factory, could be a couple of months, could be a couple of quarters.
+The timing in which we build that car will be just before that car gets delivered.
+What will the world look like at that point?
+We're trying to think through how the cost structure is evolving.
+How does pricing need to change with that?
+What are the supply dynamics in the space?
+The other thing that I'll just note on pricing is that companies change pricing all the time.
+The difference is that when Tesla changes pricing, it's extremely transparent, where that's not always the case otherwise.
+Sometimes our pricing will increase, sometimes our pricing will reduce.
+Sometimes to the public, our pricing changes may not seem to make logical sense.
+There is a strategy that we work behind the scenes as we're balancing supply and demand, as we're also trying to balance various shortages on parts as we're trying to manage wait times.
+All of that goes into the optimization here.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Okay.
+Thank you very much.
+The next question is from Brian Johnson from Barclays.
+Brian, please go ahead, and you can unmute.
+Brian Johnson
+Analyst, Barclays
+Tesla team?
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Yeah, we can hear you.
+Brian Johnson
+Analyst, Barclays
+Can you hear?
+Yeah, no.
+Zachary Kirkhorn
+CFO, Tesla
+Absolutely.
+Brian Johnson
+Analyst, Barclays
+By the way, great to hear there's a team at Tesla, not just a one-person show.
+I want to drill down a bit more on FSD.
+In December of 2020, in a Business Insider interview in Germany, your leader said that he expected Level 5 autonomy by within a year, so that would be now.
+Yet, we look at the progress in FSD and some of the issues you see on YouTube, and it looks very much like a Level 2+ system that requires vigilance, as in fact your disclaimers say.
+I guess three questions.
+One, what is the timetable to get to Level 4, at least capability?
+We can deal with the regulatory stuff later.
+Two, what is the criteria for Zach, for you to release deferred revenue around FSD, and is having a Level 2 system that needs monitoring enough to release that deferred revenue?
+Three, maybe you could talk a little bit more about how you plan to work with the folks at NHTSA who appear to be asking some questions.
+They have three requests out to you regarding information around the Level 2, around the capabilities of FSD.
+Zachary Kirkhorn
+CFO, Tesla
+Yes.
+I guess we'll take them in order.
+It's difficult to be specific on the timelines.
+The Autopilot team is working extremely hard, iterating on every version.
+We are being extremely transparent through the release of this to public customers who are posting information online.
+When you're using Full Self-Driving and you're going through the iterations, you can feel the progress.
+For those who don't have it in their cars, social media is excellent at getting a sense for how that's progressing.
+The team is moving quickly with every iteration, with every update, and they're working very hard on that.
+On your second question about the criteria to release deferred revenue, the way that this works is we have made certain commitments as to what this product can offer at the time that a customer has purchased that.
+What we have to assess is, have we met those commitments, and is the software widely available to the folks that we've made those commitments to within a certain geography?
+Given that FSD is still currently in the beta phase, it's invitation only and it's limited, we have not deemed that to be appropriate for recognition of deferred revenue.
+We'll continue to evolve this, we'll continue to monitor it within the finance team to see when we get to the milestones in which we're comfortable releasing.
+On the NHTSA question, Lars, do you want to take that?
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Sure.
+As I said earlier, we always cooperate fully with NHTSA and other regulatory bodies in any sort of investigation they may have, particularly related to ADAS systems.
+When they came out with the standing general order in July, we were quick to respond to that, and one of the first and only companies capable of actually meeting the needs of that report.
+We continue to send that information to them as required weekly and as incidents occur.
+With the additional investigations, as I said, we meet that with great sincerity, and we'll work through them one by one to make sure that all the facts come out, and that NHTSA is well-informed about our strategies for both active safety in this case, but also passive safety.
+As you guys may know, we released updates to our airbag and restraint system last week to Model Y using our fleet data.
+We worked closely with NHTSA on that, and they were fully in the loop before we did it.
+I think these kinds of things will continue to happen in the new regulatory space that Zach discussed as we move towards a software-based vehicle, and we're happy to be a part of that journey.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+The next question comes from Trip Chowdhry.
+Trip Chowdhry
+Co-Founder and Managing Director, Global Equities Research
+Thank you.
+Very good quarter.
+I had two quick questions.
+First is regarding the two upcoming factories in Berlin and Austin.
+How are the two factories different from each other?
+Maybe in the layout, design, assembly lines.
+The second question is related to Cybertruck.
+Who is the supplier looking at, if you look at the exoskeleton steel, is the supply for that material sufficient for immediate ramp-up, say in 2023, 2024 time for Cybertruck?
+That's all for me.
+Lars Moravy
+VP of Vehicle Engineering, Tesla
+Yeah, sure.
+Obviously, as we've noted in the past, we developed our own stainless steel grade for the exterior Cybertruck to meet both the durability and corrosive requirements required for an automotive world.
+With this raw material and others, as Drew mentioned, we continue to look at multiple sources.
+We have made some early sourcing decisions in that, I think we'll keep that one internal.
+We've already began the first cast ingots of that. Rolling stainless isn't so different from rolling any other material.
+It's just about how hard the rollers are to get to that hardness level.
+Just like every manufacturing process we put in for every new vehicle, we'll work with our suppliers and vendors to make sure those timelines and supply meet the need and demand of our customers.
+Drew Baglino
+SVP, Tesla
+On the differences between Austin and Berlin, there are some.
+They're largely associated with the different building architectural choices that happened to occur in collaboration with local codes and other governing requirements that drive the differences in the architecture between the locations.
+In general, though, we're trying to progress the manufacturing system as a system and make logical, path-defined improvements from factory to factory.
+In some cases, there was an improvement identified between decisions for one, Austin, the other, Berlin, or vice versa.
+There might be a slightly newer iteration of one part of the factory in one place than the other, but it's all part of a path forward in the factory that builds the machine.
+The machine that builds the machine, sorry.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Thank you very much.
+The last question comes from Jed Dorsheimer from Canaccord.
+Jed Dorsheimer
+Managing Director and Global Head of Sustainability Research, Canaccord
+Can you hear me?
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Yes, we can hear you.
+Jed Dorsheimer
+Managing Director and Global Head of Sustainability Research, Canaccord
+Hey, thanks for taking my question.
+Brandenburg, I'm just wondering, Zach, if you could estimate the carry cost from a margin perspective, or I guess in two parts.
+One, do you still expect production coming on in 2021, so a couple of months left in December?
+How do you see that margin impact as a function of the carry cost?
+I do have a follow-up question.
+Zachary Kirkhorn
+CFO, Tesla
+Sure.
+It remains our target in both Austin and Berlin to be able to build our first production cars before the end of the year.
+We've talked about this a bit, the unknowns, new factories, new vehicle designs, new technologies, new locations, new teams.
+There's quite an execution journey ahead of us.
+That remains our target, and all of our plans are oriented around that.
+We should not expect for us to deliver cars by the end of 2021 from these factories, even if we do produce some.
+Homologation, regulatory reasons, and we'll want to make sure that we build up some number of cars that we're confident in the quality and the customer experience around them.
+The second thing that I'll say, and I mentioned this in my opening remarks, is because of the newness here, it's extremely difficult for us to be precise in what the ramp will look like.
+It's possible the stars align and things move quickly.
+It's possible that we're spending the bulk of next year working on ramping these factories.
+It's just very hard to say, and we'll continue to update you all through these calls and through other forums.
+As to how that then impacts our margins, that is also difficult because that is a function of the ramp, which is uncertain.
+The benefit here, which is different in the ramp of these factories compared to other factories, is if you think about the percentage of our total cost structure in any given quarter that is associated with new ramps.
+We have the Fremont factory that's running, generating stable and growing margins there.
+The same is also true in Shanghai.
+I expect we'll see some amount of headwind on margin from these ramps.
+It's just entirely dependent on how quickly we're able to ramp and what uncertainties come up during the process.
+Jed Dorsheimer
+Managing Director and Global Head of Sustainability Research, Canaccord
+Sure.
+On a margin per car, but I would suspect, though, if your carry cost is full right now, that as you start producing vehicles, it is going to be a margin lifter from where you are at right now, no?
+Zachary Kirkhorn
+CFO, Tesla
+We are carrying some amount of cost associated with the factories today.
+The incremental cost associated with turning the factories, it's not 100% of a factory.
+If that's what you're getting at in your question.
+Jed Dorsheimer
+Managing Director and Global Head of Sustainability Research, Canaccord
+Yes.
+Yep, that's what I was getting at.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+We also actually saw a very similar dynamic to this when we were launching Model S earlier in the year.
+When a product starts launching, and then cost of goods sold starts to activate, depreciation starts to activate, there's a bit of a movement in the P&L as to where that cost resides.
+Yes, you mean to some extent, Brandenburg and Austin costs are already flowing through our P&L.
+We still need to continue staffing and ramping and incurring all the operating costs associated with the factory that we're not spending right now.
+Martin Viecha
+Senior Director of Investor Relations, Tesla
+Fantastic.
+Thank you very much, everyone, for all your questions.
+We'll see you again in three months.
+Thank you very much, and goodbye.
+Data Source:
+Quartr
+Last updated:
+Oct 20, 2021
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (11)
+Quarterly report
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

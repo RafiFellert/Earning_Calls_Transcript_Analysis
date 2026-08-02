@@ -1,0 +1,905 @@
+Tesla (TSLA) Q4 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Tesla, Inc. (TSLA)
+NASDAQ: TSLA · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+311.21
++2.36 (0.76%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+309.26
+-1.95 (-0.63%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q4 2022
+Jan 25, 2023
+Annual report
+Slides
+Play Audio
+Download Transcript
+Martin Viecha
+VP of Investor Relations, Tesla
+Good afternoon, everyone, welcome to Tesla's fourth quarter 2022 Q&A webcast.
+My name is Martin Viecha, VP of Investor Relations, I'm joined today by Elon Musk, Zachary Kirkhorn, and a number of other executives.
+Our Q4 results were announced at about 3:00 P.M.
+Central Time in the update deck we published at the same link as this webcast.
+During this call, we will discuss our business outlook and make forward-looking statements.
+These comments are based on our predictions and expectations as of today.
+Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+During the question and answer portion of today's call, please limit yourself to one question and one follow-up.
+Please use the Raise Hand button to join the question queue.
+Before we jump into Q&A, Elon has some opening remarks.
+Elon?
+Elon Musk
+CEO, Tesla
+Thank you, Martin.
+Just going through a 2022 recap.
+It was a fantastic year for Tesla.
+It was our best year ever on every level.
+Our team did an amazing job.
+It's an honor, of course, to work with such an incredibly talented group of people.
+In 2022 we delivered over 1.3 million cars and achieved a 17% operating margin, the highest among any volume carmaker.
+I think maybe among any carmaker.
+While doing so, we generated $12.5 billion in net income and $7.5 billion in free cash flow.
+Importantly, the Tesla team achieved these records while despite the fact that 2022 was an incredibly challenging year due to forced shutdowns, very high interest rates, and many delivery challenges.
+It's, you know, it's worth noting that, you know, all these records were in the face of massive difficulties.
+A credit to the team for achieving that.
+The most common question we've been getting from investors is about demand.
+Thus far I wanna put that concern to rest.
+Thus far in January, we've seen the strongest orders year to date than ever in our history.
+We currently are seeing orders at almost twice the rate of production.
+I mean, it's hard to say whether that will continue at twice the rate of production, but the orders are high, and we've actually raised the Model Y price a little bit in response to that.
+We think demand will be good despite probably a contraction in the automotive market as a whole.
+Basically price really matters.
+I think there's just a vast number of people that want to buy a Tesla car but can't afford it, these price changes really make a difference for the average consumer.
+It's sometimes, you know, for people who are well, you know, have a lot of money, they sort of forget about how important affordability is.
+It's always been our goal at Tesla to make cars that are affordable to as many people as possible, so I'm glad that we're able to do so.
+Yeah, I think it's a good thing, all things considered.
+We're also making very good progress on cost control, and we're seeing the costs of production in Berlin and Austin drop commensurate with the growth in production as you'd expect.
+Yeah.
+With respect to Autopilot, as of now, we deployed Full Self-Driving Beta for city streets to roughly 400,000 customers in North America.
+This is a huge milestone for autonomy as FSD Beta is the only way any consumer can actually test the latest AI-powered autonomy.
+We're currently at about 100 million miles of FSD outside of highways.
+Our published data shows that improvement in safety statistics is very clear.
+We would not have released the FSD Beta if the safety statistics were not excellent.
+Regarding batteries, production rate of 4680 cells reached 1,000 cars a week at the end of last year, and we're increasing capacity for 4680 cells by another 100 GWh as announced at Giga Nevada yesterday.
+Our long-term goal is to get to well in excess of 1,000 GWh of cells produced internally, and continue to use other cell providers.
+To be clear, we will continue to use other cell providers, just that the demand for lithium-ion batteries is quasi-infinite for and will be for quite some time.
+We feel we can scale a lot faster using both suppliers and internally produced cells.
+We've got an amazing plan for making the 4680 cell low cost and high energy density.
+Energy storage also saw record growth, and that is continuing to accelerate.
+It's always worth remembering that the three pillars of a sustainable energy future are, obviously, electric vehicles, solar and wind, and then the third key item is stationary storage to store the energy from solar and wind, because obviously the sun doesn't shine all the time and the wind doesn't blow all the time.
+If you have those three things, you can convert all of Earth to a fully sustainable situation.
+Many times over, actually.
+I would like to just, you know, make it clear that there is a path to a fully sustainable future for humanity, and our goal at Tesla is to accelerate progress on that path as much as humanly possible.
+Yeah.
+We're obviously ramping up Megapack production, and we expect it to grow at a rate quite a bit faster than our vehicle output.
+In conclusion, we are taking a view that we want to keep making and selling as many cars as we can.
+We believe we can keep pushing for strong volume growth while retaining the industry's best operating margins.
+As we mentioned many times before, we want to be the best manufacturer.
+Really manufacturing technology will be our most important long-term strength.
+We'll talk more about our upcoming plans at the March 1st Investor Day.
+Lastly, I want to once again thank all of our employees for delivering another record-breaking year.
+Congratulations, guys.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thanks, Elon.
+I think Zach has some opening remarks as well.
+Zachary Kirkhorn
+CFO, Tesla
+Thanks, Martin.
+As Elon mentioned, 2022 was a terrific year for Tesla.
+I also wanna congratulate the Tesla team and also say a thank you to our suppliers for your support during quite a volatile year.
+On a full year basis, revenue increased over 50%, operating income doubled, free cash flows increased over 50%, and our margins remained industry-leading.
+Additionally, we continue to make progress on overhead efficiencies as non-GAAP OpEx as a percentage of revenue improved further.
+For Q4 specifically, sequential and annual margin was impacted by ASP reductions as we were managing through COVID impacts in China, uncertainty around the consumer tax credit in the U.S., and a rising interest rate environment.
+Note that in 2022, rising interest rates alone had effectively increased the price of our cars in the U.S. by nearly 10%.
+Additionally, COGS per unit has increased on a year-over-year basis, driven primarily by three factors.
+First is raw materials and inflation, led by lithium prices and discussed at length in previous calls.
+Second, we are working through the early ramp inefficiencies of our Austin and Berlin and in-house cell production factories.
+Third, our vehicle mix over the last year has moved more heavily towards Model Y, which carries a slight cost premium to Model 3.
+Partially offsetting these impacts, we've continued to execute on Tesla-controllable cost reductions in line with the progress we've made in prior years.
+These improvements include our continued work to gradually move towards a regionally balanced build of vehicles.
+The energy business had its strongest year yet across all metrics, led by steady improvement in both retail and commercial storage.
+While much work remains to grow this business and improve cost, we believe we are on a good trajectory.
+As we look towards 2023, we're moving forward aggressively leveraging our strength and cost.
+There are three key points I wanted to make here.
+First, on demand, as Elon mentioned, customer interest in our products remains high.
+Second, on cost reduction, we're holding steady on our plans to rapidly increase volume while improving overhead efficiency, which is the most effective method to retain strength in our operating margins.
+In particular, we're accelerating improvements in our new factories in Austin, Berlin, and in-house cells, where inefficiencies are the highest.
+We are attacking every other area of cost and unwinding cost increases created from multiple years of COVID-related instability.
+This includes logistics, expedites, accumulation of material buffers, part premiums, productivity, and overheads as an example.
+As the world transitions from an inflationary to deflationary environment, we expect a strong partnership with our suppliers on this journey as well.
+In net, we've priced our products with a view towards a longer-term cost structure, thus there will be an impact on operating margin in the near term.
+However, we believe our margins will remain healthy and industry-leading over the course of the year.
+Third, we are continuing to ensure funding is prioritized for our long-term roadmap.
+This includes expanding in-house cell production, bringing Cybertruck to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint, and growth of the energy business.
+We're looking forward to discussing these plans in more detail on our investor day in a month.
+Thank you.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you very much, Zach.
+Let's now go to investor questions.
+The first question is, some analysts are claiming that Tesla orders net of cancellations came in at a rate less than half of production in the fourth quarter.
+This has raised demand concerns.
+Can you elaborate on order trends so far this year and how they compare to current production rates?
+Elon Musk
+CEO, Tesla
+We already answered that question.
+Martin Viecha
+VP of Investor Relations, Tesla
+Yes, exactly.
+Elon Musk
+CEO, Tesla
+The demand far exceeds production, and we actually are making some small price increases as a result.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The second question is in similar vein.
+What has the initial reaction been to global price reductions in early, 1Q 2023, specifically in terms of order intake levels? We've answered that one as well.
+Elon Musk
+CEO, Tesla
+Well, yeah.
+Martin Viecha
+VP of Investor Relations, Tesla
+Let's go to the next one.
+The next investor question is: Will Tesla be able to take full advantage of advanced manufacturing production credits for battery cells packs? $3,700 per long- range Model 3 and Model Y.
+That's $45 a kilowatt hour for autos and energy products, and how much does Tesla expect to earn in the coming year from these credits?
+Elon Musk
+CEO, Tesla
+I'll say a little bit about it then.
+I think Zach will add some.
+Long term, we expect these the value of these credits to be very significant.
+You can do the math.
+If we were to get anywhere near 1,000 kWh a year of production or even a few hundred kilowatt-hours, it's very significant.
+But the credits do rely upon domestic manufacturing.
+And you know, in the case of Panasonic with domestic manufacturing, we're, you know, splitting the value of the credits.
+The value of the credits this year will not be gigantic, but I think it could be gigantic in the future.
+We think it probably will be very significant in the future.
+Zachary Kirkhorn
+CFO, Tesla
+Just to add and put some boundaries on what we're expecting in terms of impact to Tesla for this year.
+You know, different products we think will get different amounts of credit.
+You know, the regulations here are still in flux, and there continues to be updates, so this is just our best understanding at the moment.
+You know, we think on the order of $150 million-$250 million per quarter this year, and growing over the course of the year as our volumes grow.
+You know, part of the work we're doing here, which is part of what this incentive package is trying to incentivize, as Elon mentioned, to move more manufacturing onshore in the United States, which is Tesla's plans anyways.
+I think we're pretty well positioned over the coming years to take advantage of this.
+Also, you know, part of what the goal of this incentive package is to improve adoption from our customers.
+We also wanna use these incentives to improve affordability as we think about, you know, what the price points are on our products going forward.
+As we were thinking about our pricing changes in the U.S. a couple of weeks ago that we announced, you know, we were looking at, you know, what the credit benefit to Tesla would be to make sure that customers are able to receive the benefit not only from this that we're receiving to some extent, but also on the consumer-facing side, which is currently $7,500 per car of tax credit, assuming that, you know, subject to the MSRP caps and the income caps.
+You know, we want to use this to accelerate sustainable energy, which is our mission and also the goal of this bill.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you very much.
+The next question from investors is: After recent price cuts, analysts released expectations that Tesla automotive gross margin excluding leasing and credits will drop below 20%, an average selling price around $47,000 across all models.
+Where do you see average selling price and gross margins after the price cuts?
+Elon Musk
+CEO, Tesla
+Yeah, go ahead.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah, I'll jump in on this.
+You know, there's certainly a lot of uncertainty about how the year will unfold, but I'll share what's in our current forecast for the moment.
+You know, based upon these metrics here, we believe that we'll be above, you know, both of the metrics that are stated in the question. 20% automotive gross margin excluding leases and regulatory credits, and then $47,000 ASP across all models.
+You know, two other comments I wanna make on this, just tactically on sequential ASP changes from Q4 to Q1.
+Just as a reminder, you know, the ASP reduction is not as large as the reduction in configurator prices.
+As in Q4, we had backlog customers that we're delivering cars to at a lower price book given that, backlogs had been so long for so much of 2022.
+Also, there are various programs in place that we used in Q4 that lowered ASPs.
+The second comment I wanted to make here is that, you know, as a management team here, we're most focused on what our operating margin is.
+You know, as other areas of the business become more important, particularly the energy business, which is growing faster than the vehicle business, and as we're heavily focused on operating leverage here, improving efficiency of our overheads, we think the right metric for us to be focused on is operating margin.
+I wanted to make sure that I shared that with the investor community as well, because that is what we're primarily managing to now.
+Elon Musk
+CEO, Tesla
+Something that I think some of the smart retail investors understand, but I think a lot of others maybe don't, is that every time we sell a car, it has the ability just from uploading software to have Full Self-Driving enabled, and the Full Self-Driving is obviously getting better very rapidly.
+That's actually a tremendous upside potential because all of those cars with a few exceptions, I mean, only a small percentage of cars don't have Hardware 3.
+That means that there's millions of cars where Full Self-Driving can be sold at essentially a 100% gross margin.
+The value of FSD grows, as the autonomous capability grows, and then when it becomes fully autonomous, that is a value increase in the fleet.
+That might be the biggest asset value increase of anything in history.
+Yeah.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+Let's go to the next investor question.
+Since Elon started political influencing, polls from Morning Consult and YouGov show Tesla brand.
+Elon Musk
+CEO, Tesla
+YouGov.
+Crush them with your life.
+Martin Viecha
+VP of Investor Relations, Tesla
+Show Tesla brand favorability declining in 2022, and division among partisan lines.
+Such brand damage can impact demand.
+Does Tesla track favorability, and how will any brand image be mitigated?
+Elon Musk
+CEO, Tesla
+Let me check my Twitter account.
+I've got 127 million followers.
+It continues to grow very rapidly.
+That suggests that I'm, you know, reasonably popular.
+And I might not be popular with some people, but for the vast majority of people, my follow count speaks for itself.
+I'm the most interactive count, social media account, I think maybe in the world.
+Certainly on Twitter.
+That actually predated the Twitter acquisition.
+I think Twitter's actually an incredibly powerful tool for driving demand for Tesla, and I would really encourage companies out there of all kinds, automotive or otherwise, to make more use of Twitter.
+To use their Twitter accounts in ways that are interesting and informative, entertaining, and it will help them drive sales just as it has with Tesla.
+The net value of Twitter, apart from, you know, a few people are, you know, complaining, is gigantic, obviously.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+Let's go to the next question.
+Please provide a detailed explanation of where you are on the 4680 ramp.
+What are the current roadblocks, and when do you expect to scale to 10,000 vehicles a week?
+Speaker 10
+Thanks, Martin.
+First, I just wanna say congrats and thanks to the Tesla 4680 team for achieving 1000 a week in Q4.
+It was no small feat.
+Definitely a result of, you know, more than a couple years of hard work.
+As far as where we stand in Texas, one of four lines are in production, with the remaining three in stages of commissioning and install.
+Really our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of Cybertruck.
+Focus areas are dialing in and improving the quality of the high- volume supply of mechanical parts and driving factory process yields up as much as possible.
+Between the two of those things, if we achieve those key goals, we'll be well set up to for a major 4680 year in 2024.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+Next investor question is, Elon said previously that FSD Hardware 4 will most likely come first in Cybertruck.
+Is that still the current plan?
+Do you expect there to be an upgrade path for Hardware 3 cars to Hardware 4?
+Elon Musk
+CEO, Tesla
+Yeah, Cybertruck will have Hardware 4.
+You know, for 2023, Cybertruck will not be, you know, a significant contributor to the bottom line, but it will be next year.
+It's an incredible product.
+I can't wait to drive it personally.
+It will be the car that I drive every day.
+Actually, just, I'm wearing the T-shirt with the smashed glass.
+It's just one of those products that only comes along once in a while, and it's really special.
+Yeah.
+With respect to upgrading cars that have Hardware 3, I don't think that will be needed.
+Hardware 3 will not be as good as Hardware 4, but I'm confident that Hardware 3 will still far exceed the safety of the average human.
+We're upgrading, of course, like how do we get ultimately to, you know, let's say for argument's sake, if Hardware 3 can be, say, 200% or 300% safer than human, Hardware 4 might be, you know, 500% or 600%.
+There will be a Hardware 5 beyond that.
+But what really matters is, are we improving the average safety on the road?
+But it is the cost and difficulty of retrofitting Hardware 3 with Hardware 4, is quite significant, so it would not be, I think, economically feasible to do so.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question is for Zach.
+Zach, when do you think Tesla insurance will become big enough revenue source to warrant providing more details in the financials of the business so investors can compare it to other insurance companies?
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+I think it's probably gonna take some time before this business is large enough for specific financial disclosures.
+But I'm happy to provide an update on where we stand in the business.
+We're currently at a $300 million annual premium run rate as of the end of last year.
+We're growing 20% a quarter, so it's growing faster than the growth in our vehicle business.
+In the states in which we're operating, on average, 17% of the customers in those states are using a Tesla insurance product.
+That number continues to tick up as we spend more time in markets.
+We see most of the adoption occurring when folks take delivery of a new car as they're setting up insurance for the first time, as opposed to going back and switching when they already have insurance set up.
+There's an inherent stickiness in the insurance business.
+Elon Musk
+CEO, Tesla
+Yeah.
+Sorry, go ahead.
+Zachary Kirkhorn
+CFO, Tesla
+No, I was just gonna say just as a broader reminder on kind of the motivation for starting this business, it was to improve and still is to improve the total cost of ownership of our cars, given that we're seeing high premiums of insurance from third-party companies.
+That remains our priority here.
+Yeah.
+We'll obviously run this as a healthy business, but we wanna make sure we keep our costs low and insurance stays affordable to our customers.
+Elon Musk
+CEO, Tesla
+Yeah.
+There are two really important side benefits for Tesla insurance that are worth mentioning.
+One of which Zach alluded to, which is that just by Tesla offering insurance for our cars at a competitive rate, that makes the other car insurance companies offer better rates for Teslas.
+It has a bigger effect than you'd think because it improves total cost of ownership or insurance costs even when they don't use Tesla insurance because now, you know, the guy goes out to the world have to compete with Tesla and cannot charge outrageous insurance for Teslas.
+This is great.
+It has an amplified effect.
+Very important.
+Then it is also giving us a good feedback loop into minimizing the cost of repair of Teslas for all Teslas worldwide, because we obviously wanna minimize the cost of repairing a Tesla, if it's in a collision and for Tesla insurance.
+Previously, we didn't actually have good insight into that because the other insurance companies would cover the cost, and actually the cost in some cases were unreasonably high.
+So we've actually adjusted the design of the car and made changes in the software of the car to minimize the cost of repair.
+Obviously minimize the...
+First, the best repair is no repair.
+Avoid the accident entirely.
+Which, since every Tesla comes with the most advanced active safety in the world, whether or not you buy Full Self-Driving, you still get the intelligence of Full Self-Driving for active safety, active collision prevention.
+It's giving us this really good feedback loop for, again, reducing cost, total cost of ownership, and also just figuring out how to get if somebody's car is in an accident.
+Most accidents are actually small.
+They're like, you know, a broken fender or scratched the side of the car or something like that.
+They're not the vast majority of accidents.
+We're actually solving how to get somebody's car repaired very quickly and efficiently and back in their hands.
+Like I said, those improvements actually apply then to all cars and like we're making, just to emphasize another key point 'cause some of these points might feel like, so I apologize for being repetitive.
+It's remarkable how small changes in design of the bumper, and improving of the obviously improving the logistics of spare part, by providing spare parts needed for collision repair have an enormous effect on the repair cost.
+If you're waiting for a part to get repaired and that part takes a month, now you've got a month of having to rent another car.
+It's very extremely expensive, and of course, you're missing the car that you love and want, actually wanna drive.
+This is actually a very significant effect on total cost of ownership and customer happiness.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question from investors is, "Is Cybertruck production still on track for mid-year?
+Elon Musk
+CEO, Tesla
+We do expect production to start, you know, I don't know, maybe sometime this summer.
+It's, I always like try to downplay the start of production because the start of production is always very slow.
+It increases exponentially, but it's always very slow at first.
+I wouldn't put too much stock in start of production.
+It's kinda when does volume production actually happen, and that's next year.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+Speaker 10
+Yeah.
+That's right.
+That's right, Elon.
+Like, just to emphasize on that, we've started installation, all the production equipment here in Giga Texas, castings, GA, general assembly, body shops.
+We built all our beta vehicles, some more coming still in the next months, but as you said, the ramp will really come 2024.
+Elon Musk
+CEO, Tesla
+Yeah.
+Exactly.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The last investor question is, "With near infinite global demand for energy storage
+Elon Musk
+CEO, Tesla
+Yeah, seriously.
+Martin Viecha
+VP of Investor Relations, Tesla
+where should Tesla build the next Megapack factories?
+How many are needed on each continent?
+Elon Musk
+CEO, Tesla
+It's a good question.
+It's not something we, I think would.
+I think we'll provide an update about that in the future, but it's something we're thinking about very carefully.
+We're really kinda like, what is the fastest path to 1,000 GWh a year of production?
+You'll see announcements come out later this year and next that answer that question.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+Okay, now let's go to analyst questions.
+The first analyst question comes from Rod Lache from Wolfe Research.
+Rod , feel free to unmute your mic.
+Rod Lache
+Managing Director, Wolfe Research
+I think I'm unmuted.
+Can you hear me?
+Martin Viecha
+VP of Investor Relations, Tesla
+Yes, we can.
+Rod Lache
+Managing Director, Wolfe Research
+Okay.
+Thank you.
+Just, firstly, it sounds like your 1.8 million unit volume indication for this year is somewhat more supply-constrained than demand-constrained.
+Then I have a follow-up on cost.
+Is that an accurate statement?
+Elon Musk
+CEO, Tesla
+Well, okay.
+I mean, our internal production potential is actually closer to 2 million vehicles, but we, you know, we're saying 1.8 because, I don't know, there just always seems to be some freaking force majeure thing that happens somewhere on Earth.
+You know, we don't control if there's like earthquakes, tsunamis, wars, you know, pandemics, et cetera.
+If it's a smooth year actually, you know, without some big, supply chain interruption or massive problem, we actually have the potential to do 2 million cars this year.
+We're not committing to that, but I'm just saying that's the potential.
+I think there would be demand for that too.
+Rod Lache
+Managing Director, Wolfe Research
+Yeah.
+Thanks for clarifying that.
+On the cost side, the numbers that we just saw from you, as you pointed out, were way down by the 46... 40 and 60 ramp, the Berlin, Austin, Giga Press things, processes not at rate.
+Can you give us a bit of an indication of the headwind that you're absorbing from those things, like you did last quarter?
+Lastly on cost, do you think that we can tease out an interesting data point from on where battery costs are headed from this announcement that you just made last night?
+If I'm correct, it looks like the investment cost per kilowatt-hour is less than half of what I've seen anywhere else, maybe $30 a kWh for that capacity.
+Elon Musk
+CEO, Tesla
+I don't think we wanna say the specific number, but it's interesting if you look at the size of the of Giga Nevada that is allocated to make 100 GWh is a small fraction of the size that currently makes about 35.
+Speaker 10
+Yeah.
+I mean, the goals we outlaid at Battery Day on reducing the investment required to deploy cell manufacturing, I mean, that's been a key focus of ours, and the team is doing a good job hitting the marks on that focus.
+Elon Musk
+CEO, Tesla
+Yeah.
+It goes back to the point I was making and I, you know, I said this several years ago, I think Tesla's really the competitive strength that will be by far the hardest for other companies to replicate is Tesla being just damn good at manufacturing and having the most advanced manufacturing technology in the world.
+If you've got that sort of advanced manufacturing toolbox, you can apply it to many things, and we're applying it now to battery cells.
+I should also say that we have other products in development.
+We're not gonna announce them obviously, but they're very exciting.
+I think will blow people's minds when, you know, when they when we reveal them.
+Tesla has the most exciting product roadmap of any company on Earth, by a long shot, and, you know, we'll continue to, I think, be in that position.
+We got more great ideas than we know what to do with here.
+The future's very exciting.
+As I said in the last call, I... you know, there's gonna be bumps along the way and, you know, we, I think we'll probably have a, you know, pretty difficult recession this year probably.
+I hope not, but probably.
+You know, one can't predict the short-term sort of stock value because, you know, when there's a recession and people panic in the stock market then, you know, prices of stocks, worth value of stocks can drop sometimes to surprisingly low levels.
+Long-term, I am convinced that Tesla will be the most valuable company on Earth.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+I think, Zach, there was a question on cost headwind in Q4.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+I mean, our weighted average COGS for the company, you know, if you were to assume Austin and Berlin were at the cost structure of our other factories, it was on the order of $2,000-$2,500 of headwinds.
+I think from there you come back into margin impact of those factories as of end of Q4.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you very much.
+Let's go to the next question from Pierre Ferragu from New Street Research.
+Pierre, please go ahead.
+Pierre Ferragu
+Managing Director, New Street Research
+Thanks, Martin.
+Can you hear me well?
+Martin Viecha
+VP of Investor Relations, Tesla
+Yes.
+Elon Musk
+CEO, Tesla
+Yes.
+Pierre Ferragu
+Managing Director, New Street Research
+Excellent.
+Zach, I actually I'd like to follow up on the data point you just gave on cost.
+If I look back at the COGS per car, you guys bottomed close to $36,000 in the middle of 2021.
+Then the number went up as you had to face with inflation and input cost and the ramp of Berlin and Texas.
+This quarter, I think we are close to $40,000, and we peaked maybe close to $40,000-$42,000 at some point last year.
+My question from here is: How much time do you think it takes you to get back to this kind of $36,000-Which would mean, you know, Berlin and Texas and like the input cost, all that stuff is normalizing.
+Is that like a...
+That would be kind of like a 10% decline in the COGS per car.
+Is that something we can hope to see this year, or is that too optimistic?
+Zachary Kirkhorn
+CFO, Tesla
+You know, the Austin and Berlin ramp in efficiencies in 4680 will make a substantial amount of progress on that over the course of the year, and that's within Tesla's control.
+We're doing a lot of work on cost reduction outside of that.
+We talked about supply chain costs, expedited logistics, attacking everything.
+You know, on the raw materials and inflation side, where lithium is the large driver there, and this was a meaningful source of cost increase for us, you know, we'll have to see where lithium prices go.
+You know, we're not fully exposed to lithium prices, but I think in general is what we've seen from our forecast here, cost per car of lithium in 2023 will be higher than 2022.
+You know, that's a headwind that would have to be overcome to return back to those levels.
+I don't think we'll get there this year, but I think we'll make progress, and we'll continue to find ways to offset these raw material costs that we don't have control over.
+Pierre Ferragu
+Managing Director, New Street Research
+Excellent.
+Zachary Kirkhorn
+CFO, Tesla
+Is there anything on that?
+Speaker 10
+Yeah.
+Like on the non-cells raw material, we begin to capture, you know, benefits of indexes tapering off.
+Due to the length of various supply chains, it does take time before this is reflected in our financials.
+While aluminum is down like 20% year-over-year, steel is about 30% down year-over-year.
+The global non-cells raw materials market continues to be influenced by geopolitical situations in Europe, high production costs due to labor cost increases and energy spikes, and disruptions due to natural disasters like typhoon in Korea 4 months ago, pandemic lockdowns.
+We believe that meaningful price corrections will ultimately come, but it remains uncertain exactly when.
+In the meantime, we continue to redesign supply chain to make it more efficient and work with our supply partners to find more efficiencies, streamline logistics and transportation to reduce costs.
+Pierre Ferragu
+Managing Director, New Street Research
+Excellent.
+Thank you.
+Speaker 10
+Um-
+Pierre Ferragu
+Managing Director, New Street Research
+I have a.
+Elon Musk
+CEO, Tesla
+Yeah.
+Pierre Ferragu
+Managing Director, New Street Research
+Sorry, did you want to say something?
+Speaker 10
+I was just gonna say, you know, our fleet is starting to mature, the 3 Y fleet, and we're gathering a lot of data out of that fleet to understand how we can sort of bring some margin that we didn't know we had out of the product.
+Over the course of 2023 on the powertrain side, we're actually gonna go after sort of some materials where we're paying for more performance than we need, or we have more content than we need without impacting reliability at all.
+And, you know, that will actually add up to a pretty significant cost reduction on the powertrain side over the course of 2023.
+We're not, we're not just sort of relying on supply.
+We're also doing design actions to bring cost out.
+Pierre Ferragu
+Managing Director, New Street Research
+Yeah.
+Elon Musk
+CEO, Tesla
+Yeah.
+My guess is if there is a recession is a serious one, and I think it probably will be, but I hope it isn't, that then that would lead to meaningful decreases in almost all of our input costs.
+I would expect to see deflation in our input costs most likely, which would then lead to, yeah, better margins.
+I'm just guessing here, so this is.
+That would be my guess.
+Pierre Ferragu
+Managing Director, New Street Research
+Excellent.
+Thank you so much.
+As a quick follow-up, Elon, I was thinking about like FSD, and when you look at like the situation today compared to a year ago, it's like the progress has been like amazing in the quality of the product, but also its rollout.
+I was wondering how much is this like impacting the take rate of FSD today?
+Do you already see that people are getting more excited by FSD because they see it around them or on 400,000 cars and they see the value of the service already?
+Or is that too early to really see like to expect like an uptick in the take rate?
+Elon Musk
+CEO, Tesla
+The trend is very strong towards use of FSD.
+As you allude to, with each incremental improvement, the enthusiasm obviously increases.
+You know, I think something that still a lot of people out there don't quite appreciate is that Tesla, which I've always said, like Tesla is as much a software company as a hardware company, but Tesla is really one of the world's leading AI companies.
+This is kind of a big deal, both AI on the software side and on the hardware side.
+You know, with the Hardware 3 inference computer, still the most efficient inference computer in the world, despite, you know, being, at this point, five years old from the design point.
+With Hardware 4 coming and then Hardware 5 beyond that where there are significant leaps.
+The Dojo computer, we expect to be using that operationally at Tesla later this year.
+We're seeing just a lot of world-class AI talent join the company.
+There's also the long-term potential of Optimus, where we're able to use our expertise in electric motors and power electronics, batteries and advanced manufacturing to be able to make a humanoid robot that is actually useful and can be made at high volume with exceptional capabilities because of the Autopilot AI that, you know, where we take the car is like a robot on four wheels, and the Optimus is a robot on legs.
+As we get closer and closer to solving real-world AI, and we don't see anyone even close to us in achieving this, you know, the value, it's I, Kara, I think you, I think you appreciate this and a few others do, but most don't know what I'm talking about.
+It's this is the thing that, you know, has order of magnitude potential, market cap improvement for Tesla.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question comes from Alex Potter from Piper Sandler.
+Alex Potter
+Senior Research Analyst, Piper Sandler
+Can you hear me, guys?
+Martin Viecha
+VP of Investor Relations, Tesla
+Yep.
+Elon Musk
+CEO, Tesla
+Yes.
+Alex Potter
+Senior Research Analyst, Piper Sandler
+Okay, great.
+Quick one on FSD.
+This, I guess, for Zach.
+Obviously, you unlocked some deferred revenue in the quarter that'll translate presumably into higher margins on every incremental sale going forward, so long as people opt in for FSD.
+Was wondering if you're able to disclose the percentage of the $15,000 price that you're now gonna be able to recognize as revenue up front rather than deferred?
+Zachary Kirkhorn
+CFO, Tesla
+Yeah, I mean, the way that we've structured this is a Full Self-Driving package is two components.
+There's Enhanced Autopilot, the price of which is listed on the website.
+We fully recognize that.
+Then there's an incremental, which is for the additional features that Full Self-Driving offers, and we've released a portion of that.
+Then there's a minority of the total package that's remaining that will be released over time as software updates are there.
+You know, in our shareholder letter, in addition to disclosing the dollar amount of the deferred revenue release, we also included in there the dollar value of the balance of unreleased deferred revenue that will be released over time with future software updates.
+Alex Potter
+Senior Research Analyst, Piper Sandler
+Okay. great.
+Maybe one additional question here on the incremental capacity in Nevada, the 4680s that you're planning.
+It's a lot of batteries obviously, and presumably you won't be putting all of those in Tesla Semi.
+I guess two questions about that incremental capacity.
+First, is it correct to assume that all of those 4680s are gonna be more or less fungible and usable in your entire range of products?
+If the answer is yes, how do you think that 100 GWh would be allocated between your various end markets?
+Elon Musk
+CEO, Tesla
+This is a bit too much guessing at this point.
+Alex Potter
+Senior Research Analyst, Piper Sandler
+Yeah.
+Elon Musk
+CEO, Tesla
+Yeah.
+Yeah.
+Alex Potter
+Senior Research Analyst, Piper Sandler
+I mean, you're right.
+Elon Musk
+CEO, Tesla
+Yeah.
+Alex Potter
+Senior Research Analyst, Piper Sandler
+Not all of the 100 GWh are gonna go into the semi-trucks.
+That is correct.
+Elon Musk
+CEO, Tesla
+Right.
+Alex Potter
+Senior Research Analyst, Piper Sandler
+We can-
+Elon Musk
+CEO, Tesla
+Let's say like we, you know, I alluded to you know, a number of future products.
+Those future products would use the 4680.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question comes from George from Canaccord Genuity.
+George Gianarikas
+Managing Director and Senior Analyst, Canaccord Genuity
+Hi, everyone.
+Thanks for taking my question.
+You recently adjusted prices, and that may have put many of your competitors in the back foot.
+In addition to that, you know, capital markets have recently gotten a lot tougher.
+With those factors in mind, I'm curious how you see the current competitive landscape changing over the next few years and who you see as your chief competitors, you know, 5 years from now.
+Elon Musk
+CEO, Tesla
+About 5 years. 5 years is a long time.
+You know, I was with the Tesla Autopilot AI team until late last night, and we're just asking, I was just like, "Who do we think is close to Tesla with, for a general solution for self-driving?" We still don't even know really who would even be the distant second.
+Yeah, it really seems like we're I mean, I right now, I don't think you could see second place with a telescope.
+At least we can't.
+That won't last forever.
+In five years, I don't know.
+Probably somebody's figured it out.
+I don't think it's any of the car companies that we're aware of.
+I'm just guessing that someone might figure it out eventually.
+Yeah.
+Speaker 10
+I mean, beyond that, Elon, like in the, in the vehicle space, even though the market's shrinking, we're growing, and EVs have doubled almost year-over-year.
+Like, whoever keeps up with the trend of EVs is gonna be our competitor and, you know, the Chinese are scary.
+We always say that.
+Like, you know, a lot of people always look at the, you know, EV market share, but we always look at it as how much of the total vehicle space do we have, and we're just gonna keep growing in that space.
+There's 95% for us to go get.
+Elon Musk
+CEO, Tesla
+Yeah.
+I, I do wanna say like, you know, I think we have a lot of respect for the car companies in China.
+They are the most competitive in the world.
+That is our experience, and the Chinese market is the most competitive.
+They work the hardest, and they work the smartest.
+A lot of respect for the China car companies that we're competing against.
+If I, if I were to guess, there were probably some company out of China is the most likely, you know, to be second, you know, to Tesla.
+We, the Tesla China team is winning in China.
+Yeah.
+I think we actually are able to attract the best talent in China.
+Hopefully that continues.
+Yeah, super fired up about the future, yeah, well, it's gonna be great.
+George Gianarikas
+Managing Director and Senior Analyst, Canaccord Genuity
+Just as a follow-up, you know, the Inflation Reduction Act has created huge tax incentives for commercial vehicles.
+You mentioned an incredibly interesting product pipeline.
+Are there maybe some plans to accelerate commercial vehicle form factors outside of the Tesla Semi to help accelerate EV adoption?
+Elon Musk
+CEO, Tesla
+Well, I was basically saying that, yes, but I'm not gonna give you details 'cause this is.
+Nice try.
+Nice try.
+Yeah, of course.
+Of course.
+You know, we have to always look at, like, what is the limiting factor for new vehicles because if the You know, for the longest time, we've been constrained on total cell, you know, lithium-ion production output.
+People said, like, "Why not bring this other car to market or that other car to market?" Well, it doesn't really help if all you're doing is shuffling around the batteries from one car to another.
+In fact, it hurts because you add complexity, but you don't add incremental volume.
+It's sort of pointless, in fact, counter, like I said, counterproductive to add model complexity without solving the availability of lithium-ion batteries.
+As we get the, we want a new product introduction to match where the cells are available for that new product to use those cells without cannibalizing the cells of the other cars.
+That's the actual limiting factor if we need new models, not anything else really.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+Let's go to the next question.
+The next question comes from William Stein from Truist.
+William Stein
+Managing Director, Truist
+Great.
+Thanks for taking my question.
+Elon, you started to answer this earlier, but I like to ask this question about the AI elements of your business and ask if you could comment on progress around Dojo and Optimus and your anticipation for the likelihood, for example, for the company to disconnect the GPU cluster in favor of Dojo and to have some market achievement in Optimus.
+Elon Musk
+CEO, Tesla
+Yeah, I mean, obviously since we're still at the early stages, there are big error bars in any predictions.
+There's, you know, it's like easy I think easy to predict the long term, hard to predict the time in between now and then.
+We think Dojo will be competitive with the NVIDIA H100 at the end of this year, then hopefully surpass it next year.
+The key there is like we have to I think the is what's the energy usage required for a given amount of for if you're training, you know, a frame of video, how, you know, what's the energy cost required to do that training?
+We think probably, we, and we said this already actually at AI Day too, so it's not new information.
+We do see potential for an order of magnitude improvement relative to GPU, what GPUs can do for Dojo, which is obviously very specialized for AI training, or it's hyper-specialized for AI training.
+It wouldn't be great for other things, but it should be extremely good for AI training.
+Just like if you do an ASIC for something, it's gonna be better than a CPU.
+This is sort of in some ways like a, like a giant ASIC.
+We're able to...
+Since we're operating one of the biggest GPU clusters in the world already, you know, we've got a good sense of how efficient the GPU clusters operate and what Dojo needs to do in order to be competitive.
+We think that it does have a fundamental architectural advantage.
+You know, the GPU is trying to do many, many things for many people.
+They're trying to do graphics, video games.
+It's, you know, doing crypto mining.
+It's doing a lot of things.
+Dojo's doing one thing, and that is training.
+We're also optimizing the low-level software so that it at a very sort of bare- metal level, so it's just insanely good at efficient training.
+The intercommunication between the Dojo modules is extremely high.
+It's not, you're not going across an Ethernet cable.
+You know, we see a path to an order of magnitude improvement in the energy efficiency per given unit of training.
+We also have to achieve that.
+Like, when will it be achieved?
+It's hard to say.
+We do see a path to get there.
+Also in an inference, like once you've got something trained, well, if you wanna have a product that's a consequence of that training, and that product may not be anything to do with cars, the efficiency of inference is extremely important.
+So we also have by far the most efficient inference computer with the FSD Computer in the car.
+You know, this has potential for products that makes it on par even really in automotive.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+William, do you have a follow-up?
+William Stein
+Managing Director, Truist
+Yeah.
+It sounds like the 1.8 million units you expect this year is supply, not demand limited.
+Supply, it sounds like by the lithium batteries.
+If you were to become demand limited, can you talk to us about your propensity to use price, you know, and your relatively high industry margins to grow units and share?
+Speaker 10
+Yeah.
+Yeah, to be clear, the 1.8 million is not cell supply limited.
+Yeah, I mean, we did address that number earlier in the call, huh?
+Do you wanna answer?
+Elon Musk
+CEO, Tesla
+Yeah.
+It's roughly, you know, a cell supply is roughly matched with that.
+This is why, you know, 1.8 million cars, you know, if we get lucky, it could be more.
+The rest would go into stationary storage, the Powerwall and Megapack.
+Yeah.
+True.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Let's have the final question from Adam Jonas.
+Adam Jonas
+Managing Director, Morgan Stanley
+Hi.
+Elon, first question is it time for Tesla to significantly expand the captive finco when you only have, like, four and a half billion of these receivables?
+It's basically nothing compared to other big auto companies.
+I have a follow-up.
+Elon Musk
+CEO, Tesla
+Oh, Zach, maybe just press to answer that.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+I mean, the way that we've been using captive financing so far is to plug what we believe to be gaps in the market of existing third-party products.
+So we have a couple of offerings in Europe.
+We do loans for our energy business, retail energy business here in the U.S.
+We do leasing, and we do a small amount of U.S. loans that are very targeted.
+So we're using captives to support market gaps, as I mentioned.
+So basically as a vehicle to support vehicle sales, make sure customers have access.
+I do think there's opportunity here to continue to grow this.
+We are growing it slowly here.
+It is a consumer of cash, so we're being cautious on how we do that.
+You know, the plumbing is in place to do a lot more here.
+And I think we'll have to see how things unfold over the course of the year and make decisions real time as to how much we ramp it up versus ramp it back.
+Elon Musk
+CEO, Tesla
+I think if we see a severe recession this year, which like I said, hopefully we don't, in severe recessions, cash is king big time 'cause it's in such short supply.
+We wanna be cautious about using cash for loans and that sort of thing for cars.
+You know, I feel we're in a very strong position to get through a recession because we really don't have any debt, and we've got over $20 billion of cash, which is great.
+Actually, the cash is earning a ridiculous return.
+Not ridiculous, good return.
+It's like non-nontrivial and the interest rate actually means the $20 billion is earning, like, quite a good amount.
+I've made this point on Twitter a few times, and I'm sure a lot of people on this call understand the, you know, the way back, the basic value of a security is a function of the risk-free rate, or we'll see how risk-free it really is, but of the T-bill rate.
+If you've got, you know, I think, if I recall correctly, the S&P 500 has a long-term rate of return of roughly 6%.
+I think the Fed needs to be very cautious about having a Fed rate that potentially exceeds 6%.
+Like, if we see deflation, I think we are seeing deflation, you would add the deflation number to the, in quotes, "risk-free rate" from the Fed.
+As that starts to exceed 6%, now you're starting to exceed the long-term return of the S&P 500, it starts to become questionable as to why not just put your money in T-bills or a savings account essentially, instead of in the S&P 500, if the S&P 500 is variable and the bank interest rate is not.
+This.
+Martin Viecha
+VP of Investor Relations, Tesla
+Mm-hmm.
+Elon Musk
+CEO, Tesla
+Basically the Fed is at risk of crushing the value of all equities.
+They're quite a serious danger.
+Adam Jonas
+Managing Director, Morgan Stanley
+Thanks, Elon.
+Just a follow-up.
+I don't wanna steal thunder from March 1st down in Austin, but how close are we to that step change improvement in BOM cost where you could sell an EV for under $25,000 or $30,000 bucks and actually generate a profit?
+That kinda real moving assembly line moment in manufacturing.
+Again, don't wanna steal the thunder.
+Just if you wanted to kinda wrap up with thoughts there, that'd be helpful.
+Elon Musk
+CEO, Tesla
+Oh, man.
+Adam Jonas
+Managing Director, Morgan Stanley
+Thanks, Elon.
+Elon Musk
+CEO, Tesla
+I mean, I'd love to answer.
+You know, I, if I were you, I'd probably be asking the same question.
+We would be jumping the gun on future announcements.
+Martin Viecha
+VP of Investor Relations, Tesla
+Fantastic.
+Thank you very much everyone for all your good questions.
+We will see you again in three months' time.
+Elon Musk
+CEO, Tesla
+Thank you.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+Bye-bye.
+Data Source:
+Quartr
+Last updated:
+Jan 25, 2023
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (10)
+Annual report
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

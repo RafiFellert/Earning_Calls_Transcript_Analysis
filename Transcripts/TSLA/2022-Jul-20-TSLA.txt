@@ -1,0 +1,1177 @@
+Tesla (TSLA) Q2 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Tesla, Inc. (TSLA)
+NASDAQ: TSLA · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+311.21
++2.36 (0.76%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+309.26
+-1.95 (-0.63%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q2 2022
+Jul 20, 2022
+Quarterly report
+Slides
+Play Audio
+Download Transcript
+Martin Viecha
+VP of Investor Relations, Tesla
+Good afternoon, everyone, and welcome to Tesla's second quarter 2022 Q&A webcast.
+My name is Martin Viecha, VP of Investor Relations, and I'm joined today by Elon Musk, Zachary Kirkhorn, and a number of other executives.
+Our Q2 results were announced at about 3:00 P.M.
+Central Time in the update deck we published at the same link as this webcast.
+During this call, we will discuss our business outlook and make forward-looking statements.
+These comments are based on our predictions and expectations as of today.
+Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up.
+Please use the Raise Hand button to join the question queue.
+Before we jump into Q&A, Elon has some opening remarks.
+Elon?
+Elon Musk
+CEO, Tesla
+Thank you, Martin.
+Just as a Q2 recap, Q2 was a unique quarter for Tesla due to a prolonged shutdown of our Shanghai factory.
+In spite of all these challenges, it was one of the strongest quarters in our history.
+Most importantly, in June, we achieved production records in both Fremont and Shanghai, and as a result, we have the potential for a record-breaking second half of the year.
+I do wanna emphasize this is obviously subject to force majeure, things outside of our control.
+The past few years have been quite a few force majeures, and it's been kinda supply chain hell for several years.
+Credit to our awesome Tesla supply chain team for overcoming insanely difficult challenges.
+You know, huge thanks to the Tesla Shanghai factory team who sacrificed a lot to get the factory back up and running in June and achieve a record output.
+Also making good progress with production ramp with Berlin.
+We achieved an important milestone of 1,000 cars a week in June, and we're expecting our Giga Texas to exceed the 1,000 vehicles per week milestone, hopefully in the next few months.
+To be clear, we're currently making the cars with the 2170 cells, and Drew Baglino will address some of the 4680 questions later in this call.
+It is worth emphasizing that we have enough 2170 cells to satisfy all vehicle production for the remainder of the year, so we're not dependent on 4680. 4680 will be important next year, but it is not important this year.
+That said, we have installed the second generation of manufacturing equipment for 4680 cells in Texas, and even at our established factories like Fremont and Shanghai, we continue to expand capacity.
+Regarding Autopilot, we have now deployed FSD Beta with city streets driving capability to over 100,000 owners.
+They're very happy with the capability of the system, and we continue to improve it every week.
+We've now driven over 35 million miles with FSD Beta.
+That's more autonomous miles than any company we're aware of.
+I think probably more than it might be more than any all other companies combined.
+That mileage is growing exponentially.
+With regard to manufacturing and technology, about five or six years ago, we said we wanted to become the best manufacturer in the world, and that is somewhat counterintuitively to some people, which will actually be, I think, our strongest competitive advantage.
+We're super pro-manufacturing here at Tesla and, in general, we wanna encourage other companies to be super pro-manufacturing and, in general, I think it is a very important thing to do.
+We need to make stuff and make it efficiently, and that's manufacturing.
+We've made a lot of advancements in manufacturing processes, as we now show in the shareholder deck, thanks to our large castings.
+We make the world's largest castings.
+We reduced body welding robot count by 70% per unit of capacity in Austin and Berlin.
+That's, you know, call it roughly a body shop that is roughly three times smaller than would normally be the case.
+I should say it's also lighter, cheaper, and has superior noise vibration and harshness.
+It's good on every level.
+This journey is not over.
+We'll bring a whole another level of simplicity and manufacturing improvements with Cybertruck and future products that we're not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+Our safety team also introduced a feature that tensions seatbelts if the vision system detects imminent collision, which has never been done before.
+You can imagine that if you have a seatbelt that only tensions upon impact, you have very little time to tension the seatbelt.
+The car has literally gotta be crunching to trigger the seatbelt tensioner.
+Because we have vision, we can actually see that a collision is about to occur with 100% probability before it actually happens.
+We can tension the seatbelts, and we can even adjust the airbag deployment, because we can see, not just feel.
+This is a fundamental safety advantage that Teslas are now able to offer.
+This is also an over-the-air update, so this is something that will be in place in all cars that have at least AP3 hardware.
+In conclusion, we exited Q2 with a stronger production rate than ever before.
+Our team continues to focus on Cybertruck production readiness, and some future platform design.
+We are expecting to be still expecting to be in production with the Cybertruck in the middle of next year.
+We're very excited about that product.
+I think it might actually be our best product ever.
+Let's see.
+FSD Beta is on track to be released for all North American customers before the end of this year.
+Hopefully, if we get regulatory approval, we'll also be releasing it, hopefully in Europe and some other parts of the world.
+We're hosting our AI Day in a few months.
+I think people will be amazed at what we're able to show off in AI Day.
+Basically, there's a tremendous amount to look forward to in the second half of this year.
+I wanna thank all of our employees and suppliers for their super hard work during these challenging times.
+Super appreciate it.
+Thank you.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you very much.
+Zach has some opening remarks as well.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+Thanks, Martin.
+I wanna start by congratulating the Tesla team on excellent execution during the second quarter.
+Although our production volume reduced sequentially due to COVID-related shutdowns in Shanghai, we made substantial progress in nearly every area of the business, and in particular, our global vehicle production rate as we exited the quarter.
+Our Fremont factory, supported by our Reno team, reached new production records, the Shanghai factory resumed full production, and our new factories in Austin and Berlin are progressing well through their initial ramps.
+Additionally, our energy business achieved record gross profit with the highest solar volumes in many years.
+I wanna personally thank the entire Tesla team, as I know many of you are listening.
+You've embodied a remarkable and relentless pursuit of excellence in support of our mission.
+I also wanna thank our suppliers for their support during another complicated quarter.
+On GAAP automotive gross margin, it declined sequentially to 27.9%.
+Temporary decline in Shanghai production volume meaningfully impacted margin, including idle capacity and factory restart costs, and also had implications on the mix of regional deliveries.
+Additionally, as discussed on previous calls, we are working through the ramp inefficiencies of our new factories, which are progressing well but have had an impact on margin as those factories come online.
+While we continue to see a benefit from higher pricing flowing through, which experienced some foreign exchange-related headwinds, our cost structure continues to experience cost increases from inflation, commodities, and logistics.
+The energy business progressed well in Q2, aided by alternate solar supply coming online and progress on unit economics.
+Our storage business remains component constrained on both Powerwall and Megapack, which we hope will alleviate to some extent in the second half of the year.
+We are greatly appreciative of the patience and flexibility shown by our customers while we work through these challenges.
+Within operating expenses, Austin and Berlin-related startup costs have wound down as these factories have moved into production and their costs are now reflected in automotive COGS.
+Additionally, we converted a majority of our Bitcoin holdings to fiat for a realized gain, offset by impairment charges on the remainder of our holdings, netting a $106 million cost to the P&L included within restructuring and other.
+We also incurred restructuring charges related to targeted staffing reductions.
+Elon Musk
+CEO, Tesla
+Yeah.
+Actually, it should be mentioned that the reason we sold a bunch of our Bitcoin holdings was that we were uncertain as to when the COVID lockdowns in China would alleviate.
+It was important for us to maximize our cash position given the uncertainty of the COVID lockdowns in China.
+We are certainly open to increasing our Bitcoin holdings in future.
+This should not be taken as some verdict on Bitcoin.
+It's just that we were concerned about overall liquidity of the company given COVID shutdowns in China, and we have not sold any of our Dogecoin.
+Zachary Kirkhorn
+CFO, Tesla
+We still have it.
+Elon Musk
+CEO, Tesla
+We still have our Dogecoin.
+Zachary Kirkhorn
+CFO, Tesla
+Despite these challenges, we were still able to achieve one of our strongest operating margins of 14.6%.
+Our free cash flows were impacted by working capital related to the Shanghai factory shutdown.
+However, we expect this will show as a benefit in Q3 as our working capital-related cash flows restabilize.
+As we look ahead, and as Elon mentioned, we are positioned for a record-breaking second half of the year.
+We are quite excited about this.
+A couple things to keep in mind as we progress.
+Austin and Berlin ramp inefficiencies will continue to weigh on our margins for the balance of the year.
+However, the impact should reduce as we increase ramp.
+Second, as we've mentioned before, we expect to continue to see recognized global pricing to increase as our backlog flows through.
+However, macroeconomic-related cost increases will also continue to be part of our story.
+Finally, despite losing more builds in Q3 than expected, we're still pushing to reach 50% growth this year.
+This target has become more difficult, but it remains possible with strong execution, and as Elon mentioned, no more force majeure events for the balance of the year.
+Elon Musk
+CEO, Tesla
+Got it.
+A lot of force majeure in the last several years.
+That's for sure.
+Zachary Kirkhorn
+CFO, Tesla
+Thank you.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you very much.
+Now let's go to the questions from investors.
+The first question is, Chinese EV manufacturers seem to be doing a better job than their Western competitors, excluding Tesla, at innovating in software and design.
+How can Tesla make sure the company is staying ahead of those manufacturers, both within China and outside of China?
+Elon Musk
+CEO, Tesla
+Right now, the best Chinese EV manufacturer is Tesla China.
+We're actually doing the best thanks to our incredible team in China.
+I have a lot of respect for the Chinese car manufacturers and EV manufacturers in particular.
+I think they will be a force to be reckoned with worldwide.
+They're smart and they're hardworking, and I think any company that's not as competitive as them will obviously suffer a market share decline.
+I would say we have a lot of respect for the car companies in China and then their capabilities.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question is, when will Tesla have a unified vector space for both static and moving object network?
+Will this be a V11 or later version?
+If the latter, can you explain what makes it a difficult problem in layman terms?
+Elon Musk
+CEO, Tesla
+Okay.
+This answer will be understood by 0.001% of the audience, I think.
+Most people don't know what a unified sub-vector space would actually mean.
+It essentially would be if, instead of knitting together static and dynamic objects in C++, they could be knit together at the neural net level, then you don't need to reconcile them within C++ heuristics.
+That is an architecturally better way.
+That's the most desirable outcome.
+It's probably not necessary to achieve full self-driving, but it would be a slight improvement in the efficiency of the self-driving.
+It's certainly something we wanna get to.
+Yeah, this sort of nirvana situation is you have surround video auto labeling of all static and dynamic objects, and you have then surround video inference with spatial memory as well.
+That's.
+I mean, I think we're almost certainly there before the end of the year.
+Yeah.
+Not sure how many people would understand that, but.
+Martin Viecha
+VP of Investor Relations, Tesla
+Sounds good.
+Elon Musk
+CEO, Tesla
+I should say also, we are also confident of improving the frame rate as we delete some of the legacy neural nets.
+We think we might be able to get the frame rate of all eight cameras maybe up to 36 FPS, which is actually a lot of frames considering it's eight cameras.
+But certainly comfortably above 24 frames, which is basically the frame rate of movies.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question is, Elon recently tweeted about lowering prices once inflation cools down.
+Can you elaborate on what do you mean by cooling down and how aggressively the company will lower prices?
+More broadly, how do you think about the auto pricing long term?
+Elon Musk
+CEO, Tesla
+Yeah.
+Since we have, there's quite a long wait when somebody orders our car, it's okay.
+It's like six months.
+In some cases, it could be up to a year.
+We have to anticipate what the probable inflation rate is over that period of time.
+That's what we're trying to do.
+When you know, when or if we see indications that the inflation rate is declining, then we would not need to increase our car prices.
+It's possible that there could be a slight decrease in car prices, but this is fundamentally dependent on, you know, macroeconomic inflation.
+It's not something we control.
+If I were to guess, and I wouldn't, you know, take this with a grain of salt, I think inflation will decline towards the end of this year.
+We're certainly seeing prices of commodities trending lower.
+You know, but take it with a grain of salt.
+Making economic prognostication is fraught with error.
+You know, do you wanna say anything about?
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+We're certainly seeing.
+I mean, it's kind of a whole spectrum.
+On the battery metal side, for example, the price of lithium has really shot up from what used to be $11 a kg to more than $80 a kg.
+You know, it's not every situation is that bad, so it's kind of a spectrum.
+Martin Viecha
+VP of Investor Relations, Tesla
+Yeah.
+Karn Budhiraj
+VP of Supply Chain, Tesla
+Carbon steel, aluminum.
+Martin Viecha
+VP of Investor Relations, Tesla
+I have to switch.
+We'll talk less to Karn.
+Karn Budhiraj
+VP of Supply Chain, Tesla
+Carbon steel and aluminum has started trending down.
+We'll see the benefits of its only probably later part of this year or early next year.
+Elon Musk
+CEO, Tesla
+I think that's just like we're seeing a downward trend towards the end of this year or next year.
+Some commodities, the processing of lithium is insane.
+I would like to once again urge entrepreneurs to enter the lithium refining business.
+The mining is relatively easy.
+The refining is much harder.
+Lithium is actually very common.
+There's like lithium pretty much everywhere, but you have to refine the lithium into battery-grade lithium carbonate and lithium hydroxide, which has the extremely high purity.
+It is basically like minting money right now.
+There's like software margins in lithium processing right now.
+I would really like to encourage, once again, entrepreneurs to enter the lithium refining business.
+You can't lose.
+It's a license to print money.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question is, you made the right economic call before most on inflation when you diversified into Bitcoin.
+It has since shown it's not much of a hedge in the real world test, in the last few months.
+How do you think about it as an asset over long term, and what do you need to see to change your view?
+Elon Musk
+CEO, Tesla
+Well, you know, Tesla's goal is to accelerate the advent of sustainable energy.
+You know, cryptocurrency is a sideshow to the sideshow.
+It's, you know, we're not.
+Cryptocurrency is not something we think about a lot.
+We think a lot about scaling production and accelerating the advent of sustainable energy, which the record heat waves around Earth serve to emphasize the urgency of that transition.
+That is what we're trying to do is to make like electric vehicles and solar and stationary storage battery packs, the three pillars of a sustainable energy future, which is like solar and wind for energy generation, stationary battery packs for storage of the solar and wind energy because of its intermittency, and then electric vehicles, the third pillar.
+If those three things are solved, we have a sustainable future for civilization.
+The fundamental good of Tesla, and the reason we're doing this, or certainly my primary motivation here, is to have the day of sustainable energy come sooner.
+That's our goal.
+We're neither here nor there on cryptocurrency.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question on 4680.
+Elon noted that 4680 plus structural pack is not yet optimized.
+Can you please share the general path of 4680 and structural packs in terms of cost efficiencies and compared to the traditional 2170 pack?
+Will cost improvements be mostly due to scale, or do we need to solve some technical issues?
+Elon Musk
+CEO, Tesla
+Which one?
+Should I start off or Drew?
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+Do you want to do the architecture?
+Elon Musk
+CEO, Tesla
+Structural pack where we get dual use of the battery, or the cells as structure, and as energy storage in the same way that an aircraft gets dual use of the wing as a fuel tank and as a wing is, I think, unequivocally from a physics standpoint, the superior architecture.
+It's the A architecture.
+Now because it is new, we will, you know, we'll start off getting aspirationally a C within an A architecture.
+The potential is there for to get radically better and then unequivocally better than a battery pack which is carried like a sack of potatoes.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+We've gained the perspective through putting our first structural pack in production that it is actually the A architecture.
+Elon Musk
+CEO, Tesla
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Like before we did that, it was a hypothesis that was backed with a lot of modeling and first principles analysis, but now we've actually built it and are more confident in that assertion.
+Elon Musk
+CEO, Tesla
+Yeah.
+Exactly.
+The structural pack, even the C and the A architecture is beating the non-structural pack.
+Over time, with further refinement, it will be substantially superior to a car that is carrying a battery pack as though it is cargo.
+This, like I said, it's very, very much very analogous to the early days of aviation where fuel tanks were initially carried like cargo until they realized actually you should get dual use of the fuel tank as a wing and as a fuel tank.
+That makes the planes lighter and better.
+That's the same is true of electric vehicles.
+Yeah.
+Martin Viecha
+VP of Investor Relations, Tesla
+On cost improvements, are they due to scale or about solving technical issues?
+Elon Musk
+CEO, Tesla
+Both.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+It's always both.
+Elon Musk
+CEO, Tesla
+Yeah.
+I mean, really the two things that improve cost are economies of scale and tech and core technology.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+I think technical issues may not be the right.
+Elon Musk
+CEO, Tesla
+It's not technical issues, like technology aspects.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+It's like getting to the optimal design, right?
+Like you always start with some excess, some people might call it fat, but that's not really what you think it is initially.
+It's like you don't know how lean you can get it until you've done it a couple times.
+Elon Musk
+CEO, Tesla
+Yeah.
+I mean, there's some Platonic ideal of the perfect product, where the atoms, you have exactly the right atoms in there in exactly the right position, and you asymptotically approach this Platonic ideal.
+It takes a lot of effort over time to figure out actually what is the Platonic ideal and then to actually, you know, gradually approach that.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+I mean, you might need to create a new alloy, then you need to figure out how to cast it.
+Elon Musk
+CEO, Tesla
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+You need to ramp the casting machine of the new alloy as an example.
+Elon Musk
+CEO, Tesla
+We did.
+As an example.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+We've done it for rotors.
+We've done it for blade casting.
+Like, yeah.
+Elon Musk
+CEO, Tesla
+But, but.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+It does take time.
+Elon Musk
+CEO, Tesla
+Constant improvement is something we're used to here, and it's something like we've done with our vehicles and our designs since the beginning.
+I mean, even you know, we were talking a couple weeks ago.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+First version of the front casting that we made that went into the early vehicles is like.
+Elon Musk
+CEO, Tesla
+Model, you mean Model S stage?
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+No, no, I'm talking about like our first Model Y.
+Elon Musk
+CEO, Tesla
+Oh, yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Since we've ordered more dies, 'cause we need more dies for more production, we've saved like four or five kilos of mass.
+Elon Musk
+CEO, Tesla
+Mm-hmm
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+just in AI iteration.
+That's something we do at Tesla like quite regularly, and we'll continue to do.
+Elon Musk
+CEO, Tesla
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+We're not happy with a C, like maybe we're at a C+ now 'cause
+Elon Musk
+CEO, Tesla
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Like we gotta keep going to get to A.
+Elon Musk
+CEO, Tesla
+I think a B-ish on the rear casting.
+This will transfer for improvement with the casting.
+The casting is already way better than the way the rear body casting was done in the past where you've got 120 different parts that are welded together or bonded together with different alloys and then you have to put sealant in between all the various parts for water ingress and noise.
+We're already way better than that with current casting, but there's still a lot of opportunities to reduce the mass of the casting and also extend the casting to include more parts, as well as adapt the rest of the vehicle for the fact that there's a casting.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah, I was gonna say the same thing, right?
+Like we're not just evaluating the pack in isolation either.
+Elon Musk
+CEO, Tesla
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+It's the pack plus the body, the integration.
+Elon Musk
+CEO, Tesla
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Do we have mass in the right places?
+Do we have the cost in the right places and only just the right amount?
+I think, you know, we've gone through one iteration.
+We're doing another one with Cybertruck.
+I mean, we're taking the learnings and doing, you know, the next version hopefully is a B+.
+Elon Musk
+CEO, Tesla
+Yeah.
+Yeah, exactly.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+In the AI architecture.
+That's certainly its target.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question is: How do you feel the progress of FSD is going?
+Does Andrej Karpathy's leaving have any significant impact on timelines or potential progress?
+Elon Musk
+CEO, Tesla
+Well, since Andrej was writing all the code by himself, you know, naturally things would come to a grinding halt.
+Insert irony.
+Andrej's obviously awesome and we have tremendous amount of respect for Andrej.
+You know, he's decided to, I think he wants to contribute more to, I think, core AI at an academic level, and get back to coding individually.
+We've got a team of about 120 people in our software AI group that are extremely talented and, I think we will have, I'm highly confident we will solve Full Self-Driving and it still seems to be this year.
+I know people they're like, "You know, he always says that," but it does seem to be, like it does seem as though we are converging on solving Full Self-Driving this year.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question is: How is the 4680 ramp going?
+And is Giga Texas producing cells yet?
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+We are making progress on 4680, but right now, as Elon mentioned, we are leveraging supplier cells, which we have in sufficient quantity to ramp Texas and Berlin.
+We expect to ramp total 4680 production to exceed 1,000 per week by the end of the year, hopefully before, well before.
+In Q2 at Kato, we fully automated powder conveyance for the dry anode electrode tool there, unlocking major increases in production and improvements in yields.
+Since March because of that, Kato output has grown 35% month-over-month each month since.
+Yields throughout the factory are already at targets in most areas and trending in that direction in a few others.
+We did feed learnings from Fremont cell and pack lines to Texas and Berlin.
+They aren't a carbon copy.
+Cell design was revved to unlock higher performance and manufacturing simplicity.
+Manufacturing lines were further integrated, and we insourced additional content.
+For these reasons, there are some new ramp challenges to overcome in Texas and Berlin.
+Specific to Texas last quarter, cell equipment was fully installed and commissioned, and we produced our first commissioning car sets of cells through the end of the line.
+Our target for Texas is to begin production this quarter and aim for Texas to be capable of exceeding Kato weekly output before the end of this year.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Thank you very much.
+The next question is on 4680 as well, but I think Drew has covered everything that was in the next question.
+The following question is: With regards to the ramp of production in Austin and Berlin, how is the situation with regards to supply of semiconductors, battery cells and other components?
+How about cost inflation impacting profitability of these other plants?
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Smart.
+I can take that.
+Tesla procures about 1,600 unique pieces of silicon from 43 semiconductor companies.
+With a portfolio of that size, there are always challenges.
+Things are more stable on the latest generation chips.
+We still see some tightness in the older generation semiconductors, especially in the analog and mixed signal space.
+We have line of sight to solve for the volumes being contemplated for both Austin and Berlin.
+On the cell front, like Elon mentioned, we have a comfortable margin thanks to record output from our partners and have line of sight that matches the planned output from both factories.
+We've grown cell production significantly on a 12-month rolling basis and have long-term contracts with all our partners for key battery metals.
+We don't see any major problems for the components, of course, barring unforeseen COVID-related shutdowns.
+Zachary Kirkhorn
+CFO, Tesla
+Just to add on the profitability part of the question.
+Q2 was our largest increase yet over the last handful of quarters on inflation and commodity-related increases to our cars.
+You know, it's fairly evenly spread across the factories, given, you know, common suppliers or common issues that impact the broad supply chain.
+You know, I think I had mentioned before that we had been seeing increases over the course of last year.
+It ticked up in Q1, and then it ticked up again, and the rate of increase was more in Q2.
+You know, as we look through to the end of the year, what we're seeing is we don't think the inflation-related increases in Q3 will be as big as Q2.
+But as Elon had mentioned, there's uncertainty on pricing here.
+We don't have full exposure, as Karan had just mentioned, on every component of cost because we do have some contracts in place, but there are some spot buys as well and some contracts being renegotiated.
+You know, we're managing it with pricing and in partnership with our suppliers, but it does continue to be something that is impacting our financials.
+Martin Viecha
+VP of Investor Relations, Tesla
+Great.
+Thank you very much.
+The last question is, when will the Cybertruck be officially available?
+Elon Musk
+CEO, Tesla
+We're hoping to start delivering them in the middle of next year.
+Martin Viecha
+VP of Investor Relations, Tesla
+Great.
+Thank you very much.
+Now let's go to analyst questions.
+The first question comes from Pierre Ferragu from New Street Research.
+Pierre, feel free to unmute yourself.
+Pierre Ferragu
+Managing Partner, New Street Research
+Hi, guys.
+Thanks a lot for taking my question.
+I'd like to ask like a question on 4680 and the structural battery pack.
+I'd love to understand where you stand on the technology and efficiency and energy density roadmap that you described at the Battery Day.
+What I'm trying to understand is where do you stand on the architecture of the battery cell itself?
+How much silicon do you have in it?
+How much energy improvement have you achieved already so far?
+And the reason I'm ask.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+Pierre Ferragu
+Managing Partner, New Street Research
+Sorry?
+Zachary Kirkhorn
+CFO, Tesla
+No, go ahead.
+Pierre Ferragu
+Managing Partner, New Street Research
+The reason why I'm asking that is because you have, like, very smart guys on Twitter who shared experience about trying to fully empty a Model Y from Texas, from Austin, and noticing behaviors and, like, recharging behaviors that suggested that maybe these cars had, like, very high mileage, very high range and were, like, artificially limited in range in software.
+I'm just kind of trying to understand how much of an edge you're building at the moment with the 4680 and the structural battery pack on range.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah, let me try to provide, like, a super straightforward answer.
+Like, as Elon mentioned before, you know, our priority was really on simplicity and scale during the initial 4680 and structural battery ramp.
+We weren't, like, putting all the bells and whistles in from day one, because if so, we would be sort of suffering under a series of miracles that we would need to achieve to get going.
+But, you know, as we attain the manufacturing goals that we've stated, you know, hit the ramp that we need to hit next year, we are certainly planning to layer in new material technologies, and higher range structural packs.
+Like, we're not, like, holding back goodies for some, you know, rainy day or something like that.
+Elon Musk
+CEO, Tesla
+Yeah, maybe another way of putting it is that our focus right now is on basically dozens of little issues that inhibit the production ramp of the 4680.
+As I said, some of the more challenging ones have been, you know, feeding the anode and cathode material, you know, 'cause we were using this revolutionary dry electrode process.
+But when something's revolutionary, there's a lot of unknowns that have to be resolved.
+We're confident of resolving those unknowns, but it's very difficult.
+We're making rapid progress on that front.
+The first order of business is really get the basics right, get to high volume and higher reliability, and then very rapidly iterate within that to enhance the energy density and reduce the cost of the cell.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+Elon Musk
+CEO, Tesla
+So.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah, totally agree.
+Yeah.
+Pierre Ferragu
+Managing Partner, New Street Research
+Okay.
+Thanks.
+Elon Musk
+CEO, Tesla
+I'd say we are highly confident of a good outcome.
+The exact counterpoint to that is perhaps of some debate, but the outcome is not.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah, specific to the dry process, we made a major advance this past quarter in Kato that the team is really excited about, and you know, congrats to the team for achieving that.
+Elon Musk
+CEO, Tesla
+I should also emphasize that it is not as though Tesla intends to displace our suppliers.
+Zachary Kirkhorn
+CFO, Tesla
+Mm-hmm.
+Elon Musk
+CEO, Tesla
+Of battery cells.
+The Tesla battery cell production is in addition to what our suppliers can do, and we want our suppliers to grow their battery output as fast as they possibly can, and that goes for the entire supply chain.
+The fundamental rate limiter for Earth transitioning to sustainable energy is how fast can you grow lithium-ion battery output per year? This is the fundamental rate limiter for both transition to sustainability, because you need the batteries for two of the pillars of sustainability, the stationary storage and for vehicles.
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah, I just wanna stress that a lot of these, you know, higher energy density technologies are not necessarily scalable.
+I mean, most of them are not scalable from what I've seen.
+Like, focusing on them is a distraction from the mission.
+Like, it really is how do we scale as fast as possible.
+You know, we're taking these risks that we've discussed at Battery Day, and our plan is as we de-risk them and they are successful, we wanna bring them back to our partners so that they can go faster too, 'cause that's all on the mission, right?
+Like.
+Elon Musk
+CEO, Tesla
+Yes.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+How do we accelerate?
+Elon Musk
+CEO, Tesla
+People often ask me if some breakthrough is needed in battery technology for the world to transition to sustainability.
+The answer is no.
+Even if there was zero technology breakthroughs.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Got it.
+Elon Musk
+CEO, Tesla
+Literally zero, from where the technology is right now, we could fully transition Earth to sustainable energy.
+The issue is very much the rate at which the entire supply chain from mining to refining to cell production, how fast can that grow?
+It's growing fast, but the faster it grows, the faster we transition to a sustainable energy economy.
+Pierre Ferragu
+Managing Partner, New Street Research
+This is actually a great, exactly where my follow-up is.
+Elon, you always mention, you know, this 50% per annum sustainable growth target that you guys have, and so my question here is, when we see, like, the difficulty regarding, like, commodities, raw materials, swinging prices, I'm kind of wondering, as you are planning for this 50% per annum growth, as we stand today over the next 5-1 0 years, you know, how much of that do you feel you've secured through your work, entering into long-term contracts and things like that, and you are calling for entrepreneurs to go into the lithium business?
+Does that mean you don't have enough lithium secured to grow 50% per annum over multiple years?
+How much of that is secure today, and how fast can you improve that, basically?
+Elon Musk
+CEO, Tesla
+Well, I think it's very difficult to predict anything 10 years from now.
+I hope civilization is still around, frankly.
+I would count that as a win.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Not that funny.
+Elon Musk
+CEO, Tesla
+Yeah, exactly.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Every day.
+Elon Musk
+CEO, Tesla
+You know, hopefully we haven't had World War III by then.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+The Earth has burned up.
+Elon Musk
+CEO, Tesla
+We do see constraints in refining of the materials necessary for lithium-ion batteries.
+I do wanna emphasize this is it is not due to a scarcity of the raw material.
+You know, in the case of lithium is one of the most common elements on Earth.
+It's pretty much everywhere.
+Refining of the lithium into ultrahigh purity, battery-grade lithium hydroxide and lithium carbonate is quite difficult and requires a massive amount of machinery, and it's a hard thing to scale.
+It is also difficult to create the anode and cathode.
+You know, I think my guess is maybe two-thirds of batteries will be iron phosphate or maybe iron phosphate with some manganese.
+There's a ridiculous amount of iron on Earth.
+In fact, a little bit of trivia.
+Somebody says, "What is Earth made of more than anything else?" Iron.
+Iron is the number one ingredient of Earth by mass.
+Number two is oxygen.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+Elon Musk
+CEO, Tesla
+Which is wild.
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+Elon Musk
+CEO, Tesla
+Basically rust.
+We've stuck them together.
+We're a rust ball.
+That's roughly almost two-thirds of Earth, I think, is rust.
+We are like a rusty ball bearing with a little bit of other stuff.
+Plenty of lithium.
+Anyway, there's not, like, a shortage of materials.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah, I mean.
+Elon Musk
+CEO, Tesla
+Or.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Another thing on that.
+Elon Musk
+CEO, Tesla
+Yeah
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+LFP thing is it isn't just that there's more access to material that way.
+The actual refining process is less capital intensive to make a good LFP cathode.
+It's not just scalable on the resource side.
+It's scalable on the refining side.
+Elon Musk
+CEO, Tesla
+Absolutely.
+To be clear, there's no fundamental barrier here.
+It's simply a rate question.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+Elon Musk
+CEO, Tesla
+Like, at what rate, can you scale production?
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+Elon Musk
+CEO, Tesla
+I think we're seeing a very rapid increase in battery production in the whole supply chain.
+If you were to say today what the concerns are, you know, a few years down the road, I would say one of the concerns is the machinery to refine the critical ingredients of lithium-ion cells.
+The lithium itself, and then the cathode, which as I like I said, we mostly iron phosphate, perhaps with some manganese.
+Like, I think almost all stationary storage will be iron phosphate.
+You'd really just need nickel chemistry for long-range vehicles and, like, aircraft and that kind of thing.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+The other thing I would say is, you know, we're working with our suppliers to ramp their capability as quickly as possible.
+It's not like we have a problem in the next year or two, specifically to your question.
+When we have like 10 years out, yeah, we need to do more to accelerate the growth.
+That is why we are making our own investments like we are building a cathode facility here in Texas.
+Elon Musk
+CEO, Tesla
+Yeah.
+Zachary Kirkhorn
+CFO, Tesla
+The steel's going up.
+You can see it in the flyovers.
+We're working on a lithium refining activity as well ourselves because, you know, the best way to learn how to accelerate something is to do it yourself.
+These are the things we're doing to move it all forward.
+Elon Musk
+CEO, Tesla
+Yeah.
+I mean, if our suppliers don't solve these problems, then we will.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question comes from Emmanuel Rosner from Deutsche Bank.
+Emmanuel, go ahead and unmute yourself.
+Emmanuel Rosner
+Lead Auto Technology Analyst, Deutsche Bank
+Yeah.
+Thank you so much.
+I have a question on your vehicle demand and then a quick follow-up on supply.
+First on the demand side, are you seeing any sort of pressure in the order book or the pace of new order or any sort of like slowdown as a result of the pressures that the consumer is experiencing?
+Are you worried about it in light of your view of the risk to the economy that I think you expressed, Elon?
+Elon Musk
+CEO, Tesla
+Well, right now our problem is very much production.
+We've long lead times as anyone can tell if they order our car, you know, if you order a Model Y, it will arrive sometime next year.
+This is clearly not an issue for many months for us.
+Our problem is overwhelmingly that of production.
+Yeah.
+Emmanuel Rosner
+Lead Auto Technology Analyst, Deutsche Bank
+Okay.
+Zachary Kirkhorn
+CFO, Tesla
+Maybe just two things to add.
+You know, specifically on your question, are we seeing a macroeconomic impact on our demand?
+Not that I can tell.
+Maybe a little but.
+Elon Musk
+CEO, Tesla
+Some maybe, but it's not.
+Zachary Kirkhorn
+CFO, Tesla
+It's not material.
+The second thing, you know, to Elon's point about backlogs, you know, we have a very long runway with very long lead times here.
+I mean, certainly the world is uncertain, and we'll have to see where things go with commodity prices, how quickly we're ramping production, what the state of the world looks like at some point next year.
+The demand is not something we spend really any time talking about.
+Elon Musk
+CEO, Tesla
+I think it's maybe just once again worth mentioning that there is a difference between value for money and fundamental affordability because sometimes people say, "Well, if you got all this demand, why not just raise the price to some, you know, double the price of something?" This is usually expressed by somebody who's rich.
+Even if you rail value for money to infinity, if consumers do not have enough money to buy it, even a product where the desirability is railed to infinity, they basically cannot buy it.
+This is why you cannot just raise prices to some arbitrarily high level, because you pass the affordability boundary and then the demand falls off a cliff.
+I do feel like we've raised our prices quite a few times.
+They're frankly at embarrassing levels.
+We've also had a lot of supply chain and production shocks, and we've got crazy inflation.
+You know, I'm hopeful.
+This is not a promise or anything, but I'm hopeful that at some point we can reduce the prices a little bit.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+Elon Musk
+CEO, Tesla
+Okay.
+That's, yeah.
+Martin Viecha
+VP of Investor Relations, Tesla
+You'll be asked your follow-up.
+Emmanuel Rosner
+Lead Auto Technology Analyst, Deutsche Bank
+Yeah.
+My follow-up was actually on the supply side.
+It was very encouraging to see that you're quantifying your current installed capacity at basically already in excess of 1.9 million units installed currently.
+How quickly do you think that you can fill that capacity?
+Elon Musk
+CEO, Tesla
+Well, I mean, we, you know, I think we've got a good chance of exiting this year at 40,000 vehicles a week.
+Zachary Kirkhorn
+CFO, Tesla
+Yeah.
+I mean, our internal plans are to have the capacity utilized by the end of the year.
+It takes time to ramp there.
+It'll be a challenge.
+Elon Musk
+CEO, Tesla
+Yeah.
+Zachary Kirkhorn
+CFO, Tesla
+There's a lot that needs to happen to get there, but that's what we're working on.
+Elon Musk
+CEO, Tesla
+Yeah.
+We've had many 30,000 car weeks already.
+I think a 40,000 car week is within reach by the end of this year.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Shanghai and Fremont, as we said last month, were record production, and they're really firing on all cylinders, doing really well.
+Elon Musk
+CEO, Tesla
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Austin and Berlin are coming on strong.
+Theoretically, they also had record quarters last quarter.
+Elon Musk
+CEO, Tesla
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+If we ramp them to the capacity shown in the deck, by the end of this year we'll be at that rate.
+Elon Musk
+CEO, Tesla
+Yeah.
+There's always a lot of uncertainty and, you know, like in the production ramp looks like an S curve.
+That intermediate part of the S curve is, it's very difficult to predict that with high certainty.
+The end part of the S curve, you can say, you know, I think you can have a lot more certainty.
+That's why I'm, you know, confident we'll get to 5,000 cars a week at, you know, in Austin and Berlin.
+By end of this year or early next year, and probably, but not certainly, 10,000 cars a week at both locations by the end of next year.
+Martin Viecha
+VP of Investor Relations, Tesla
+Thank you.
+The next question comes from Colin Rusch from Oppenheimer.
+Colin, go ahead please.
+Colin Rusch
+Senior Research Analyst, Oppenheimer & Co
+Thanks so much, guys.
+You know, could you talk a little bit about the pricing strategy around FSD and as you get closer to, you know, this full functionality rolling out and the increased cycle times, you know, how you see that evolving through the balance of this year and into 2023?
+Elon Musk
+CEO, Tesla
+Yeah, we'll increase the price of FSD sometime later this year.
+I think, you know, probably just before we go to wide beta.
+Wide beta is, you know, anyone who wants to use the beta software with all the caveats associated with that can use it.
+It would make sense to increase the price of FSD.
+The value of FSD is, I think, extremely high, and not well understood by most people.
+It is basically currently ridiculously cheap, assuming FSD materializes, which it will.
+Colin Rusch
+Senior Research Analyst, Oppenheimer & Co
+Great.
+Then, sorry to belabor a little bit on this, battery material side, but in terms of some of the suppliers and the contaminants, can you be a little bit more specific around some of the elements that you guys see in some of your supply chain that can prove troublesome on yields for the 4680s, particularly around, you know, lithium and, you know, potential contaminants in either, you know, hydroxide or the carbonates that you guys end up seeing real issues with as you move into production?
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+I don't really think we have anything to comment on, yeah, the purity specs of lithium on this call right now.
+Yeah.
+Elon Musk
+CEO, Tesla
+Yeah.
+Contaminants for the 4680 are not a factor.
+This is not an issue.
+Martin Viecha
+VP of Investor Relations, Tesla
+Okay.
+Thank you very much.
+The next question comes from Toni Sacconaghi from Bernstein.
+Toni, go ahead please.
+Toni Sacconaghi
+Equity Research Analyst, Bernstein
+Yes.
+Thank you for taking my question.
+I have two as well.
+In response to the question around demand, I think, Zach, you said maybe a little, and Elon, you said maybe some indication that you might see some pressure on demand.
+I'm wondering if that is really just speculation or whether there's any empirical data that you saw in the last month, whether it be cancellations or order lead times that led you to make that comment.
+I think anecdotally, if you squint, the lead times have gotten a little lower over the last four months in both China and the U.S.
+That's really the only visibility investors have.
+I'm wondering if you could maybe elaborate on whether that's really just your, you know, sort of anticipating there could be some impact because of high prices or whether there is something anecdotally or quantitatively that you could point to, please?
+Elon Musk
+CEO, Tesla
+You know, I mean, I think we've said this now for many years, and it has proven true.
+Tesla does not have a demand problem, we have a production problem.
+We've pretty much almost always had it with, you know, very rare exception.
+It's always been a production problem.
+I think that will remain the case.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+There's a denominator and the numerator and like.
+Elon Musk
+CEO, Tesla
+If you increase production.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Like, yeah.
+Elon Musk
+CEO, Tesla
+Yeah.
+Absolutely.
+As we increase production, more demand is needed, obviously.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Well, it's more just like you can't look at the backlog and state much about demand because we're doing a lot on the other side to change the production plan.
+Elon Musk
+CEO, Tesla
+We're trying to make the backlog lower, not longer.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Building factories and building more cars.
+Elon Musk
+CEO, Tesla
+We don't want a long backlog.
+That's annoying.
+It'd be like go to a restaurant, and you order a burger, and you have to wait three hours, and like that's annoying.
+You wanna get your burger right away.
+Same with the car.
+We want the lead times to reduce.
+Toni Sacconaghi
+Equity Research Analyst, Bernstein
+Okay.
+Thank you.
+Now, I was just trying to follow up on the fact that you both said that maybe you were seeing demand being impacted a little bit, and that was the spirit of the question.
+Maybe I can.
+Elon Musk
+CEO, Tesla
+I mean, I could say, like, we don't have like.
+Like, because we see daily orders from around the world for our cars, it's actually a mood barometer of people's confidence in the economy.
+One can't read too much into it because things can vary a great deal from one day to the next.
+Consumer sentiment is all over the map.
+It's manic depressive, frankly, you know.
+We have so much excess demand that it's really just not an issue for us.
+It might be an issue for some other companies, but it is not an issue for us.
+Toni Sacconaghi
+Equity Research Analyst, Bernstein
+Okay.
+Thank you.
+Elon, I'm just wondering a question for you.
+Tesla's obviously changed dramatically in the last three years from, you know, near life or death to a company with, you know, consistent cash flow and industry-leading margins.
+I'm wondering if you can comment on your personal role in the company and whether you see that changing in terms of your role, your commitment, and time spent at the company over the next.
+Three or four years.
+I think you said a few calls ago you wouldn't be on calls and, I'm wondering how you think.
+Elon Musk
+CEO, Tesla
+There's been a lot of unusual things, let's face it.
+Toni Sacconaghi
+Equity Research Analyst, Bernstein
+I'm just wondering.
+Elon Musk
+CEO, Tesla
+You know, I mean, basically if there's only good news, I won't be on the call.
+If we have like a tough situation like, you know, COVID shutdowns in China, then I think, you know, I'll be on the call, you know, if relatively speaking there's bad news.
+If all we have is good news, then I won't be on the call.
+I'm committed to the long term.
+I mean, I'll, you know, work at Tesla as long as I can usefully advance the cause of sustainability and autonomy.
+Martin Viecha
+VP of Investor Relations, Tesla
+Fantastic.
+Thank you very much.
+The next question comes from William Stein.
+Please go ahead and unmute yourself.
+William Stein
+Managing Director and Senior Technology Analyst, Truist Securities
+Great.
+Thank you very much for taking my question.
+Elon, in the past, you've given some assessment as to the likelihood that you can achieve success in some of the more interesting AI-oriented efforts, not only FSD but also Dojo and Optimus.
+Perhaps you can give an updated view on those.
+Elon Musk
+CEO, Tesla
+Well, I don't wanna steal thunder from AI Day.
+I think we'll have some exciting news on AI Day that I think we'll be further ahead than probably most people think.
+I don't wanna.
+I'd love to answer you, but I think we'll leave that excitement for AI Day.
+William Stein
+Managing Director and Senior Technology Analyst, Truist Securities
+Okay.
+Perhaps a follow-up if I can.
+You know, we've heard a lot from others, and certainly to some degree from you all, about the shortages in semiconductors in particular.
+We have seen some, you know, big, important customers of that type of product decide to sort of, you know, leverage the ecosystems that exist to make some of their own in those categories.
+I'm wondering to what degree you're doing that at, outside of Dojo in terms of the, you know, I guess on the inference side, you're certainly doing that in the car, but what about sort of the more mundane areas like microcontrollers and the like?
+Is there any internal effort to improve supply chain and maybe improve other performance aspects?
+Elon Musk
+CEO, Tesla
+Well, there's a lot we've done.
+We've been working with our suppliers a lot.
+We don't currently intend to make chips ourselves.
+We don't think there will be a need to make chips.
+We have been working closely with a number of suppliers.
+Actually just met with one of our key supplier CEOs right before this call.
+You know, we had a great meeting.
+They're gonna make major investments in some of the critical chips and components that we need in the car.
+I've actually like to take a moment to thank our key suppliers once again for supporting us through difficult times and they really went above and beyond to support us.
+To all our suppliers out there, thanks very much.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+I guess maybe we don't talk about it very often, but we do have a lot of custom silicon in the vehicle already.
+Microcontrollers, yes, some.
+Battery management, yes, some.
+Power electronics, yes, some.
+We try to go after where there's actually a technical advantage.
+In the future, I think we're gonna look at where there's supplier advantages or supply chain advantage.
+Elon Musk
+CEO, Tesla
+Yeah.
+Even now, where there's supply chain issues with our Tier 1 and Tier 2s, you know, Karn and Roshan get into it with us on the engineering side.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+Elon Musk
+CEO, Tesla
+We find solutions, whether it's alternative chips or, you know, changing the entire structure of the stack to make it work, and I think that's an advantage we have that many other OEs just simply cannot.
+Yeah.
+I think Tesla is as much a software company as it is a hardware company.
+One of the ways that we've been able to address supply chain issues on the chip front is by rewriting our software to be able to use different chips or in some cases achieve dual use of a single chip, which is even better.
+Actually, quite frankly, the chip shortage has served as a forcing function for us to reduce the number of chips in the car.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah, super fact.
+Elon Musk
+CEO, Tesla
+Turns out we had more chips than we needed.
+It's a testament to our software team that we're able to roll a new chip into the car, write a whole new batch of software for that chip, and without interrupting production.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+Yeah.
+Our goal is as we mature and scale the platforms to, you know, integrate more functionality into fewer chips.
+Like, that is the way that it's gone with laptops and phones.
+It's going that way in cars, and we're trying to do that wherever it makes sense to do it.
+Elon Musk
+CEO, Tesla
+Yeah.
+Drew Baglino
+SVP of Powertrain and Energy Engineering, Tesla
+As quickly as we can.
+William Stein
+Managing Director and Senior Technology Analyst, Truist Securities
+I mean, from a supply chain standpoint, what do you think about chips and whatnot?
+Karn Budhiraj
+VP of Supply Chain, Tesla
+Yeah.
+I think, I mean, from a high level, you know, instead of designing and building our own microcontrollers, we're partnering with key partners that understand the architectural requirements and, you know, they'll take the specs and design something for us.
+We've done that, to your point, Drew, in the battery sensing space.
+We've got some application-specific ICs.
+But yeah, integrating, reducing the number of components, it makes the supply chain easier, but it also makes the reliability of the end product better, because there's less failure points.
+That's always been the mantra.
+At times we also go at the wafer level and try to consume less to achieve the same functionality.
+That's something also that we've been looking at in some of the constrained modules that we have faced in the last six months.
+Elon Musk
+CEO, Tesla
+That's good.
+Martin Viecha
+VP of Investor Relations, Tesla
+Fantastic.
+Well, thank you very much.
+I appreciate all of your questions.
+Unfortunately, this is all the time we have this quarter, and we will speak to you again in three months' time.
+Thank you very much and goodbye.
+Elon Musk
+CEO, Tesla
+Bye.
+Data Source:
+Quartr
+Last updated:
+Jul 20, 2022
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (10)
+Quarterly report
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
