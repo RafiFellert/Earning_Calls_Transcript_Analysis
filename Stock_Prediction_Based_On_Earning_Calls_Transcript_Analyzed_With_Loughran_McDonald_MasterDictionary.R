@@ -17,7 +17,10 @@ transcripts_file_path <- file.path(root_folder, "transcripts_with_returns.csv")
 
 lm_dict_raw <- read_csv(lm_file_path)
 
-# Extract Positive and Negative word sets
+#################################################
+# 2. Extract Positive and Negative word sets
+#################################################
+
 lm_dict <- lm_dict_raw %>%
   mutate(Word = tolower(Word)) %>%
   filter(Positive > 0 | Negative > 0) %>%
@@ -27,12 +30,12 @@ lm_dict <- lm_dict_raw %>%
   )) %>%
   select(word = Word, sentiment)
 
-# Load Earnings Call Transcripts
-transcripts_df <- read_csv(transcripts_file_path)
-
 # ==============================================================================
 # 3. Calculate Tone Features (Tidytext Approach)
 # ==============================================================================
+
+# Load Earnings Call Transcripts
+transcripts_df <- read_csv(transcripts_file_path)
 
 # Tokenize text into words
 tokens <- transcripts_df %>%
@@ -81,8 +84,6 @@ set.seed(42)
 data_split <- initial_split(model_data, prop = 0.80, strata = Target_Factor)
 train_data <- training(data_split)
 test_data  <- testing(data_split)
-
-message(sprintf("Training rows: %d | Testing rows: %d", nrow(train_data), nrow(test_data)))
 
 # ==============================================================================
 # 5. Model Training (Logistic Regression)
