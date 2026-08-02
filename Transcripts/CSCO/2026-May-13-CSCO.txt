@@ -1,0 +1,823 @@
+Cisco Systems (CSCO) Q3 2026 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Cisco Systems, Inc. (CSCO)
+NASDAQ: CSCO · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+115.99
++2.43 (2.14%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+116.40
++0.41 (0.35%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q3 2026
+May 13, 2026
+Full Transcript
+Full Summary
+Quarterly report
+Slides
+Earnings release
+Play Audio
+Download Transcript
+Full Transcript
+Full Summary
+Summary
+Q3 delivered record revenue and EPS growth, driven by surging AI infrastructure and networking demand, with broad-based order strength across all segments. Guidance for Q4 and FY 2026 points to continued double-digit growth, supported by robust AI orders and proactive supply chain management.
+Operator
+Welcome to Cisco third quarter and fiscal year 2026 financial results conference call. At the request of Cisco today's conference is being recorded. If you have any objection you may disconnect. Now, I would like to introduce Sami Badri, Head of Investor Relations.
+Sir, you may begin.
+Sami Badri
+Head of Investor Relations, Cisco
+Good afternoon, everyone.
+This is Sami Badri, Cisco's Head of Investor Relations, and I'm joined by Chuck Robbins, our Chair and CEO, and Mark Patterson, our CFO.
+Cisco's earnings press release and supplemental information, including GAAP to non-GAAP reconciliations, are available on our investor relations website.
+Today's call is also being live-streamed on YouTube and LinkedIn.
+Following this call, we'll also make the recorded webcast and slides available on our website.
+Throughout today's call, we'll be referencing both GAAP and non-GAAP financial results.
+We will discuss product results in terms of revenue and geographic and customer results in terms of product orders, unless stated otherwise.
+All comparisons will be made on a year-over-year basis.
+Please note that our discussion today will include forward-looking statements, including our guidance for the fourth quarter and fiscal year 2026.
+These statements are subject to risks and uncertainties detailed in our SEC filings, particularly our most recent 10-K and 10-Q reports, which identify important risk factors that could cause actual results to differ materially from those contained in our forward-looking statements.
+With respect to guidance, please also see the slides and press release that accompany this call for further details.
+Cisco will not comment on its financial guidance during the quarter unless it is done through an explicit public disclosure.
+Now, I'll turn it over to Chuck.
+Chuck Robbins
+Chair and CEO, Cisco
+Thanks, Sami.
+Thank you all for joining us today.
+Q3 was a great quarter for Cisco, with our momentum accelerating and revenue and earnings per share both growing double digits and coming in above the high end of our guidance ranges.
+We delivered record revenue of $15.8 billion in Q3, up 12% year-over-year.
+Product revenue was up 17%, once again driven by robust demand for our AI infrastructure and campus networking solutions.
+Our record top-line performance, combined with operating efficiencies and outstanding execution by our teams, allowed us to deliver non-GAAP EPS growth of 10%, demonstrating the effectiveness of the initiatives we outlined last quarter to mitigate memory price increases across the market.
+We believe the trust our customers and partners place in us has never mattered more, and our technology is more relevant than ever in the AI era.
+As a result, we saw record high demand in Q3.
+Total product orders grew 35% year-over-year.
+Excluding hyperscaler orders, which grew triple digits, product orders were up 19% year-over-year, demonstrating the continued broad-based demand we see for our technology globally.
+Enterprise product orders were up 18% year-over-year in Q3, with strength across our entire networking portfolio.
+Public sector orders were up 27% year-over-year, with double-digit growth across all geographies.
+Product orders from service provider and cloud customers accelerated in Q3, growing 105% year-over-year, with five of the top hyperscalers each growing in triple digits.
+We also saw solid growth from telco customers in Q3, with orders up 9%.
+Telcos are investing in Cisco technology as they prepare their networks to handle the scale, speed, and complexity of AI.
+Now some color on demand from a product perspective.
+Networking product orders continued to accelerate, growing more than 50% in Q3, driven by triple-digit growth in service provider routing and compute and double-digit growth in data center switching, campus switching, wireless, enterprise routing, and Industrial IoT products.
+This marks the seventh consecutive quarter of double-digit growth for our networking portfolio overall.
+AI infrastructure orders taken from hyperscalers totaled $1.9 billion in Q3, compared to $600 million in the year prior, with strong growth across our Silicon One systems and market-leading Acacia Optics.
+The year-to-date total of $5.3 billion in orders taken from hyperscalers already exceeds our prior expectations of $5 billion for FY 2026, with a full quarter remaining.
+Given this strong demand, we now expect to take AI infrastructure orders of approximately $9 billion from hyperscalers in FY 2026, 4.5x our FY 2025 total.
+We expect to recognize approximately $4 billion in AI infrastructure revenue from hyperscalers in fiscal year 2026.
+Our Acacia business had its strongest quarter to date, with more than $1 billion in orders in Q3 and is on track to grow over 200% year-over-year in fiscal year 2026.
+Acacia is leading the coherent pluggable optics market, and we saw strong momentum across this business.
+To date, we have shipped over 750,000 400 gig and over 40,000 800 gig coherent pluggable optics, which we believe far exceeds the next largest supplier shipments for both speeds.
+We had five new design wins with hyperscalers in Q3, two for optics, each with different hyperscalers, and three for systems, including the first two wins for our Silicon One P200 powered system for major scale across use cases and a Silicon One G200 powered system for a scale-out use case.
+Separately, we took approximately $300 million in AI infrastructure orders from neocloud, sovereign, and enterprise customers in Q3.
+We have seen triple-digit year-over-year order growth in each quarter of fiscal year 2026, with approximately $900 million in orders taken year to date, and we have a growing pipeline of approximately $3 billion for our high-performance AI infrastructure portfolio across these customers. Enterprise data center switching orders grew more than 40% year-over-year and have now grown double digits seven of the past nine quarters.
+We believe the AI infrastructure opportunity and enterprise is continuing to ramp as Nexus switch orders tagged for AI deployments were up almost 50% sequentially in Q3.
+Within campus networking, we had record orders in Q3, growing more than 25% year-over-year.
+We are seeing exceptionally strong demand for our next generation switching, routing, and wireless portfolio, which continues to ramp faster than prior product launches.
+We reported our highest ever wireless orders this quarter, growing more than 40% year-over-year.
+Customers are upgrading to modern Wi-Fi, evidenced by strong double-digit sequential growth in orders for Wi-Fi 7, making up 1/2 of the wireless mix in Q3.
+Research conducted recently with around 3,500 technology leaders across global enterprises confirms increased urgency to modernize campus and branch networks.
+With traffic across these networks expected to increase 3x over the next three years because of AI, 93% of respondents are accelerating their network modernization plans.
+These findings support our belief that we are still at the start of a multi-year, multi-billion-dollar campus refresh opportunity.
+The strong demand we see for our technology is driven by our ability to deliver AI-native capabilities across our products, including weaving security into the fabric of the network and modernizing the operational stack of campus networks.
+Many of the world's leading companies are investing in Cisco secure networking solutions for the high-performance connectivity, automated management, and robust security they need to scale their AI initiatives.
+Our Cisco Unified Edge solution is also gaining traction, and we've already booked a single enterprise deal for over 1,200 units.
+Unified Edge brings together compute, networking, security, storage, and software to run AI applications at the edge where data is generated and decisions are made.
+Our Industrial IoT portfolio also reported its strongest quarter ever in Q3 and has now grown in double digits for eight consecutive quarters.
+We expect this demand to continue with the onshoring of manufacturing to the United States and as agentic and physical AI are expected to drive massive increases in network traffic.
+Shifting to security.
+In Q3, our core security portfolio, excluding Splunk, saw double-digit order growth across new and refreshed products with strong double-digit order growth year-over-year in firewalls.
+Additionally, over 1,000 new customers purchased our new products, including Secure Access, XDR, Hypershield, and AI Defense in Q3, bringing the total of net new customers to approximately 5,000 since launch.
+The decline in our prior generation portfolio continues to offset the growth in our new and refreshed portfolio, but to a lesser extent than in the first half of the year.
+Turning to Splunk, as expected, we continue to see an acceleration in the shift to cloud subscriptions and away from on-premise deals, creating a near-term drag on revenue growth as we previously outlined.
+We expect the mix of cloud business to continue to grow in Q4 while we are on track to exceed our target of 1,000 new customer logos for Splunk in fiscal year 2026.
+AI is accelerating the pace of innovation for security defenders and adversaries, we are innovating with speed and skill to help create an asymmetrical advantage for defenders.
+In March, we announced a major expansion of our secure AI factory with NVIDIA, giving customers a framework for deploying AI across their entire infrastructure, from data centers to local sites, eliminating the need to stitch together disconnected systems and embedding security from the start.
+We have also introduced several new security innovations designed to protect the entire AI life cycle.
+DefenseClaw is an open source solution that helps customers safely deploy agents using common frameworks such as OpenClaw by enforcing guardrails and protecting against malicious behavior and attacks.
+To deliver an integrated Zero Trust solution for the agentic workforce, we introduced Zero Trust access for AI agents and recently announced our intent to acquire Galileo and Astrix to expand our security and observability platform to include agentic identity, access management, and behavior monitoring.
+We also announced new capabilities for the agentic SOC and observability for AI to help detect and respond to new emerging threats at machine speed and scale.
+We are working collaboratively across the industry to help defend against AI-enabled threats and shape next-generation security capabilities.
+Cisco is a founding member of Project Glasswing and is participating in private testing of Anthropic's Claude Mythos Preview model, specifically designed for proactive cybersecurity defense testing.
+We are also part of OpenAI's Trusted Access for Cyber Program.
+Building on these initiatives, we announced earlier this week that Cisco is open sourcing the Foundry Security Spec, a production-grade blueprint for building scalable agentic security evaluation systems using both available and new AI models.
+We are providing this blueprint to customers to accelerate their ability to take advantage of agentic AI and stay ahead of adversaries.
+Turning to our innovation in other areas.
+Cisco IQ, our unified AI-powered delivery engine for Cisco services, is now generally available with more than 250 customers already onboarded.
+Cisco IQ provides customers with a real-time benchmark view of Cisco assets and configurations in their environment, helping to future-proof it against emerging architectural threats. We also continue to accelerate AI advancements internally for our teams.
+Circuit, our proprietary AI assistant, is now fully embedded in how Cisco operates with near universal adoption across our employee base and over 8 million total quarterly interactions.
+Circuit leverages a network of advanced third-party AI models, automatically choosing the best engine for every task or letting users make that choice.
+As a founding design partner with OpenAI on Codex, our engineers have been using it from the beginning, as of this week, we have made Codex available to our entire product organization to enable them to build tools and reimagine new products at unprecedented speed.
+We are also proud of our incredible progress in quantum networking.
+We recently introduced a working research prototype of the Cisco Universal Quantum Switch, designed to route and preserve quantum information between systems at room temperature and over standard telecom fiber.
+By building this infrastructure now, we are helping to accelerate the entire quantum ecosystem that will power the data centers of the future.
+To ensure we are capturing the significant opportunities in silicon, optics, security, and AI, we announced a restructuring plan today to reallocate resources and allow us to invest in these key growth areas.
+These actions are building from a position of strength and focusing on the technologies that will accelerate our growth, deliver unmatched innovation to customers and partners, and define our future.
+To summarize, our innovation pipeline is accelerating, and our latest offerings across the portfolio are seeing some of the fastest adoption in our history.
+This is translating to broad-based record-high demand for our technology, which has never been more relevant to customers than it is in the AI era.
+This combination, as well as the outstanding execution by our teams, is driving record results and delivering value to our shareholders.
+Now I'll turn it over to Mark for more detail on the quarter and our outlook.
+Mark Patterson
+EVP and CFO, Cisco
+Thanks, Chuck.
+I'm pleased to report we delivered another strong quarter in Q3, with both revenue and earnings per share coming in above the high end of our guidance.
+Total revenue for the quarter was a record at $15.8 billion, up 12% year-over-year.
+Non-GAAP net income was $4.2 billion, and non-GAAP earnings per share was $1.06, both up 10%.
+Looking at our Q3 revenue in more detail, total product revenue was $12.1 billion, up 17%, and services revenue was $3.7 billion, down 1% year-over-year, mainly driven by the timing of service contract start dates.
+Product revenue growth was led by networking with growth accelerating to 25% year-over-year, driven by AI infrastructure and campus refresh.
+We saw growth across the portfolio led by double-digit growth in campus switching, data center switching, wireless, and service provider routing.
+Security was flat, reflecting similar dynamics discussed in the last few quarters, with growth in new and refreshed products continuing to be offset by declines in prior generation products, and the transition in our Splunk business from on-premise deals to cloud subscriptions.
+Collaboration was down 1% with declines in Webex, partially offset by growth in devices.
+Looking at our recurring metrics, total RPO was $43.5 billion, up 4%.
+Product RPO grew 6%.
+Total ARR ended the quarter at $31.2 billion, an increase of 2%, with product ARR growth of 4%.
+Total subscription revenue was $7.8 billion and represented 49% of Cisco's total revenue.
+Total software revenue was $5.7 billion, up 1%.
+Q3 product orders were up 35% year-over-year, and the strength was broad-based.
+All geographic segments saw double-digit and accelerating product order growth, with Americas up 35%, EMEA up 39%, and APJC up 25%.
+In terms of customer markets, the growth was led by triple-digit growth and service provider in cloud.
+We also saw strength in public sector and enterprise, which were up 27% and 18% respectively.
+Total non-GAAP gross margin came in at 66%, down 260 basis points year-over-year.
+Non-GAAP product gross margin was 64.3%, down 330 basis points, primarily driven by negative impacts from mix and higher memory costs, partially offset by productivity improvements.
+Non-GAAP services gross margin was 71.6%, up 30 basis points.
+We continue our focus on enhancing profitability and driving financial discipline, with non-GAAP operating margin at 34.2%, reflecting strong execution and operational efficiency.
+Our non-GAAP tax rate was 19% for the quarter.
+Shifting to the balance sheet, we ended Q3 with total cash equivalents, and investments of $16.6 billion.
+Operating cash flow was $3.8 billion, down 7%, due to continued investments to meet growing demand, especially from AI infrastructure.
+From a capital allocation perspective, we returned $2.9 billion to our shareholders during the quarter, comprised of $1.7 billion for our quarterly cash dividend and $1.3 billion of share repurchases, bringing the year-to-date total to over $9 billion.
+There is $9.6 billion remaining under our share repurchase program.
+To summarize, we had another quarter of strong top and bottom line growth exceeding our expectations, driven by strong order growth and robust operating margin, and demonstrating the power of our innovation engine.
+We remain focused on making strategic investments in innovation to capitalize on the significant growth opportunities that we see ahead.
+These investments will continue to be underpinned by our commitment to disciplined spend management.
+It is this powerful combination that continues to fuel strong cash flow and our ability to return significant value to our shareholders.
+As Chuck mentioned, we are realigning our resources to better capture the opportunities around silicon, optics, security, and AI.
+As part of our announced restructuring plan, we expect to recognize up to $1 billion of pre-tax charges, with $450 million to be re-recognized in the Q4 FY 2026 and the remainder during FY 2027.
+Turning to guidance.
+Please note our Q4 and fiscal year FY 2026 guide assumes current tariffs and exemptions remain in place through the end of our fiscal 2026.
+Looking ahead, you can expect us to continue our focus on durable growth with financial discipline driving operating leverage and continued capital returns.
+For fiscal Q4, our guidance is as follows: We expect revenue to be in the range of $16.7 billion-$16.9 billion.
+We anticipate non-GAAP gross margin to be in the range of 65.5%-66.5%.
+Non-GAAP operating margin is expected to be in the range of 34%-35%.
+Non-GAAP earnings per share is expected to be in the range from $1.16-$1.18.
+We are assuming a non-GAAP effective tax rate of approximately 19%.
+Cisco is positioned for its strongest year ever, as indicated in our guidance for fiscal year 2026, which is as follows: We expect revenue to be in the range of $62.8 billion-$63 billion.
+Non-GAAP earnings per share is expected to range from $4.27-$4.29.
+Sami, let's now move into the Q&A.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, Mark.
+Before we start the Q&A portion of the call, I'd like to remind analysts to ask one question and a single follow-up question at the same time.
+Operator, can we move to the first analyst in the queue?
+Operator
+Thank you.
+Amit Daryanani with Evercore ISI, your line is open.
+Amit Daryanani
+Analyst, Evercore ISI
+Yep.
+Thanks a lot.
+Good afternoon, everyone.
+Congrats on a nice set of numbers here.
+I guess, Chuck, maybe just to start with, the first question was, you know, if I think about the back half guide, specifically the July quarter guide, it really implies that revenue growth is accelerating into the low teens, which is, you know, a nice bump up from the longer-term framework you guys have historically had.
+Can you just talk about the durability of this double-digit growth?
+You know, are you starting to see enterprises starting to upgrade their networking architects, and that's really what's helping it?
+Or is this pull forward?
+I'd love to just understand the durability, which is in the back half.
+Maybe I'll ask my follow-up as well.
+It's really on Silicon One.
+You mentioned about a P200 design win for scale across.
+That's the first one you folks have talked about.
+Maybe just spend some time on, you know, when customers choose Silicon One versus other offerings or merchant offerings that are out there, what is the value proposition that Cisco is providing that's so attractive to them?
+You know, how big and how fast can this scale from a market perspective for you folks?
+Thanks a lot.
+Chuck Robbins
+Chair and CEO, Cisco
+Thank you, Amit.
+I'm gonna let Mark start on the durability of the growth question, and I'll comment, and then I'll take the Silicon One P200 question.
+Mark Patterson
+EVP and CFO, Cisco
+Yeah, sure.
+Thanks, Amit Daryanani.
+I think that, obviously we're seeing a lot of tailwinds and, very pleased with the growth that we're seeing.
+Q4, you know, as you mentioned, 14.5% top line growth and, even higher than that on the bottom line.
+Really good signs.
+I think as you look to next year, we'll look to talk in more details and specifics as we close out FY 2026, and we'll give you a more firm guide.
+In terms of the durability, I think there's a couple of things to be thinking about that might help you as you look at FY 2027.
+I think the first thing is, it's probably just separating the AI hyperscale business from the rest of the portfolio, if you will.
+I think on the AI hyperscale side, it's probably reasonable to expect that we would recognize at least $6 billion of revenue in FY 2027.
+Again, we'll have a more formal guide for you in 90 days.
+The rest of the portfolio, I think it's reasonable to assume it grows in line with our long-term model.
+Remember, the long-term model that we gave you initially, that included all the AI hyperscale opportunity as well.
+I think the balance of the portfolio could grow, and it's reasonable to assume it'll grow in line with that guide.
+Amit Daryanani
+Analyst, Evercore ISI
+Thank you.
+Chuck Robbins
+Chair and CEO, Cisco
+Thanks, Mark.
+Hang on.
+I need to answer the second question.
+On the Silicon One, the P200 win in particular, let me just clarify a little bit about this.
+During Q3, we were awarded by two different hyperscalers, P200 design wins, which is our product, our silicon that goes into our product that is used for scale across applications.
+These were our first scale across wins.
+In addition to that, in the first week or two of this quarter, we won a third hyperscaler's P200 design win, for scale across as well.
+We're really excited about the uptake there.
+Really pleased with the work the teams are doing on the Silicon One front.
+I'll tell you, if you look at the Silicon One, the reason we're winning is because of Silicon One.
+I've said repeatedly on these calls over the last couple of years that as we move to the future, that if you don't have silicon, you're gonna struggle to be relevant to the hyperscalers.
+I think that's what we're seeing.
+When you look at the number we put up, and the percentage of that, roughly half is systems, which is Silicon One.
+It's a massive differentiator for us.
+We'll talk about further on the Q&A session, I'm sure, but it also gives us a lot more control over the supply chain and allows us to be a little more confident in our ability to deliver to our customers.
+We're really pleased with where we are.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, Amit.
+Michelle, we can move to the next analyst in the queue.
+Operator
+Thank you, sir.
+Tal Liani with Bank of America, your line is open, sir.
+Tal Liani
+Analyst, Bank of America
+Hi, guys.
+Welcome back to 1999.
+It's great to see the stock going up and orders 35% up.
+That's great.
+I do have a question about the orders, and I'm looking at it the other way.
+Non-AI orders grew 19%.
+That's excluding hyperscalers.
+The non-AI environment is not that better this quarter versus last quarter.
+I'm wondering what drives it, and are you concerned that enterprises, non-AI customers are buying ahead of time because of supply constraints, because of difficulties to get products on time?
+Just a question about the sustainability of this kind of growth.
+Thanks.
+Chuck Robbins
+Chair and CEO, Cisco
+Thanks, Tal.
+What do we see happening right now that we think is contributing to the acceleration?
+First and foremost, we see continued expansion of focus on AI in the enterprise.
+We see customers now preparing for inferencing and agentic applications.
+In those cases, the network is incredibly important, and moving the bits around with low latency is super important, and customers are realizing that they have to modernize.
+That's why we saw our enterprise data center switching portfolio business up over 40% in orders for the quarter, and that's just pure enterprise build-out.
+We see that accelerating.
+Second is leading through this is the modernization, also we believe customers are preparing for increased levels of cybersecurity threats.
+You know, we'll talk a little bit about Mythos in a bit, I think there's some customers that are starting to think through the implications and what it is they need to do to be prepared for that.
+Obviously, we continue to see the design wins in the hyperscale space and continued adoption of our both silicon-based products as well as our optics.
+That's sort of how we see things happening, and Mark's gonna talk a little bit about some of the numbers.
+I also don't think you'll see that our lead times on the traditional networking side, Mark, keep me honest, but they're not extreme right now.
+Mark Patterson
+EVP and CFO, Cisco
+Yeah, that's right.
+Chuck Robbins
+Chair and CEO, Cisco
+You wanna talk a little bit about the numbers, Mark?
+Mark Patterson
+EVP and CFO, Cisco
+Yeah.
+Thanks, Tal.
+I think that, you know, what we've gotten a lot of questions on and certainly the write-ups leading into earnings were around pull ahead or pull forwards.
+First off, let me just say that I think that it's reasonable to assume that there's some level of pull ahead into Q3.
+I do think it's very difficult to speculate exactly how much, but we believe it was a very modest amount that was in Q3, and I'll give you 3 data points as to why we think that.
+First of all, and you cited this, in terms of the underlying ex web scale growth rate, our Q2 order growth rate was at 10%, and then our Q3 order growth rate, again, for ex web scale, was at 19%.
+You saw about 9 points of acceleration.
+If we do the math just on the price increases actually that we put into place, that actually accounts for about half of that acceleration, about 4 to 5 points worth of additional growth that you'd see.
+Same units, but at higher prices.
+The second data point I'd give you is just we always look at pipeline pull forwards, so of future quarters.
+Of course, we always do some of that.
+If you look at the Q4 pipeline that we pulled forward into Q3 and closed, we actually did not notice really any difference or any incremental pipeline that was pulled forward from Q4 into Q3 than if you looked at the same time period a year ago.
+The third data point I'd just give you is really around the Q4 pipeline itself.
+The pipeline is very healthy, very good year-over-year growth.
+What happened was if you look at week one through week 13 of Q3, we're talking about the Q4 pipeline, though, we saw no degradation to that Q4 pipeline from the beginning of Q3 all the way to the end.
+In fact, it actually grew as we went through the quarter.
+All told, again, I think it's hard to speculate exactly how much.
+It's reasonable to assume there's some, but we think it's a modest amount.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, Tal.
+Michelle, can we move to the next analyst?
+Operator
+Thank you.
+Ben Reitzes with Melius Research.
+Your line is open, sir.
+Ben Reitzes
+Analyst, Melius Research
+Hey, guys.
+You know, I kind of make it a rule to only congratulate management teams when they're making people money, and it's worthy of a congratulations here.
+Thanks for the question. I wanted to talk about the comment Mark made around the non-AI portion growing in line with the model next year. 2%-5%, I believe, is what you said at your Analyst Day.
+Maybe I got the wrong number, maybe I'm too low.
+I would think that on the non-AI portion, the price increases would, even though you have a tough comp by the 3Q, the price increases would pretty much get you above that.
+I just wanted you guys to dissect that a little bit more, if the non-AI, when you talk about the long-term model, is indeed 2%-5% and, don't the price increases get you above that, given everything we're seeing, and these strong trends?
+Thanks a lot.
+Mark Patterson
+EVP and CFO, Cisco
+Yeah.
+Hey, Ben, it's Mark.
+I think that, you know, in terms of the long-term model, it was actually 4%-6% in totality.
+The 2%-5%, I think, was on the networking side alone.
+We had a much higher growth rate actually on security and observability, for instance.
+What we're really just saying is, first off, we'll give you a much more detailed and specific guide as we get through FY 2026.
+In 90 days, we'll really talk more specifically about it.
+I was just saying that, you know, that 4%-6%, that absent AI hyperscale opportunity that you could expect for us to grow in line with that.
+Again, as you mentioned, we will have some tougher comps as we go into next year.
+Chuck Robbins
+Chair and CEO, Cisco
+The price increases should help us as well, and we'll talk more in a quarter from now.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, Ben.
+Michelle, we can move to the next analyst in queue.
+Operator
+Thank you, sir.
+Aaron Rakers with Wells Fargo, your line is open, sir.
+Aaron Rakers
+Analyst, Wells Fargo
+Yeah.
+Thanks for taking the question, and I'll ask them both, at the same time.
+I guess the first question is going back on the supply chain.
+One of your competitors recently alluded to just things getting even tighter, and even throughout the comment of possible decommit.
+I'm curious if you could give an overview of, like, your assessment of what's going on in the overall supply chain, maybe beyond just memory as far as what you're doing to get allocation of wafers for Silicon One or, you know, anything that you can share on that front.
+I guess my quick follow-up is that you've got a very significant increase implied in your AI order intake into fiscal 4Q, up from $1.9 billion, I guess, if my math's right, you know, close to $3.7 billion.
+Just curious, what's driving that?
+Is that the scale across wins?
+Are you starting to maybe see scale up, build in your pipeline?
+I'm just curious if you can unpack that pretty notable jump into this next quarter.
+Thank you.
+Chuck Robbins
+Chair and CEO, Cisco
+Yeah.
+I'll make a quick comment, and then Mark, you can talk about supply chain.
+Mark Patterson
+EVP and CFO, Cisco
+Sure
+Chuck Robbins
+Chair and CEO, Cisco
+Stuff that we've done.
+Mark Patterson
+EVP and CFO, Cisco
+Yep.
+Chuck Robbins
+Chair and CEO, Cisco
+I just wanna remind you, this is one of the big advantages of Silicon One.
+It's one of the big advantages.
+We control so much more of our supply chain, and we don't have the number of dependencies that others may have.
+Mark, I think you should talk a little bit about some of the actions we've taken.
+Mark Patterson
+EVP and CFO, Cisco
+Yeah
+Chuck Robbins
+Chair and CEO, Cisco
+How we're feeling and the fact that we haven't really seen any decommits at all.
+You wanna go through that?
+Mark Patterson
+EVP and CFO, Cisco
+That's right.
+Happy to, Chuck.
+I think that, you know, as Chuck was saying, I think the fact that we design our own silicon really gives us greater control end-to-end.
+I mean, the fact that we're directly managing wafers, substrates, assembly, and test really gives us much more control over the supply chain, if you will.
+In terms of silicon, you know, we've secured our supply through the calendar year 2026 for the next eight months anyway.
+Normal negotiations are active and underway on calendar 2027.
+I think if you look at memory, excuse me, there's been a number of, you know, initiatives.
+There's 20+ programs that we've put into place that are active to reduce the memory utilization across the portfolio.
+An example of which is in the wireless space.
+You'll see products that'll become orderable in Q4 that'll actually require 50% less memory, and so that's a big positive.
+I think that the other thing is we're investing in new capacity.
+You've probably seen the announcement that we made on our strategic investment in Nanya in a three-year supply agreement with them as well.
+That's gonna really help us.
+You know, the fact that we are also moving a number of different places from DDR4 to DDR5 and those conversion projects that are underway, also a really good thing.
+Overall, you know, inventory and advanced purchase commitments, we're really able to lean in there given our financial strength.
+Those in totality, a $6.7 billion increase just in the last 90 days, so up 48%.
+When you look at it year-over-year, again, inventory and advanced purchase commitments are up $11.6 billion year-over-year.
+I think, you know, overall, whether it's across silicon, substrates, memory, photonics, PCBs, power, we're securing long-term agreements where it's possible.
+We're working with our sub-tier suppliers, and we're building strategic inventory.
+Big differentiator there, and I just wanna reiterate that what Chuck said, we did not see any decommits in the quarter.
+Chuck Robbins
+Chair and CEO, Cisco
+Yeah.
+On your second question about what's driving the AI orders, the significant AI orders, I mean, most of what we'll see in Q4 First of all, I just wanna remind you, we've said that this business is nonlinear, and if you look at the chart that we put in the, with the prepared remarks, it really does indicate that, you know, Q3 was 1.9, a little lower than Q2, but then Q4 accelerates.
+There's a lot of timing dependencies here that, so just remember that this is nonlinear as we go to the future.
+I mean, these are Silicon One wins.
+Half of the wins were in optics.
+Our optics business really accelerated.
+The Acacia business is on fire.
+You know, it's a lot of scale out, primarily scale out.
+We just got the word on the scale across, so there's actually no scale across in the numbers yet.
+We would expect of those five design wins that we talked about, we'll begin to see some early orders in Q4.
+But not at scale until we move into fiscal year 2027.
+I think it's a by-product of just a lot of great relationship work that the teams have been doing over the years.
+They're, they love our silicon, they love the supply, and they love our optics, and that's really it.
+We just intend on continuing to work really hard and deliver what they need.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, Aaron.
+Michelle, let's move to the next analyst.
+Operator
+Thank you.
+Meta Marshall with Morgan Stanley, your line is open.
+Meta Marshall
+Analyst, Morgan Stanley
+Great, thanks.
+Maybe building on that last question, you know, just between what you're laying out for fiscal 2026 and fiscal 2027 AI revenue, the AI orders certainly don't have the longest duration.
+Just wanted to get a sense of, you know, what kind of duration increase you're seeing in those orders, just given concerns around supply chain that may not be as applicable to you, but kind of definitely apply along the chain.
+Just on a second question, just any way to kind of split the gross margin headwind on product just between memory and product mix?
+Thanks.
+Chuck Robbins
+Chair and CEO, Cisco
+You want to take this, Mark?
+Mark Patterson
+EVP and CFO, Cisco
+Thanks, Meta.
+I think, you know, just first, to hit it right up, right up front, I think, in terms of duration, we're not really seeing anything.
+We've always said these orders are nonlinear, and they plan well in advance, and really nothing new there.
+On the gross margin side, you know, I think the teams have done a fantastic job there.
+We saw gross margins in Q3 at 66%, which is right where we expected, right where we planned for, and right at the midpoint of our guide.
+We do believe the gross margins have stabilized.
+If you look at that, it's reflected in our Q4 guide as well with the midpoint, again, right at 66%.
+As I mentioned, a few things in terms of the 20+ programs that we have going on around memory utilization, the teams are doing a great job there.
+The DDR4 to DDR5 conversion.
+There's a number of things that we talked about last quarter that we've also put into place, raising prices, obviously, that you mentioned, but also the adjusting terms and conditions, and then really leaning in and leveraging our financial strength on the advanced purchase commitments.
+You saw those go up about $6 billion in just the last 90 days.
+I might just also just mention that, you know, beyond gross margin, we're focused on driving operating leverage, and we're growing bottom line faster than the top line.
+You see that in the Q4 guide.
+You also see it in the full year for FY 2026, and what we guided as well.
+A key path for operating leverage is a keen focus on the operating margins themselves.
+We saw record operating margin dollars in Q3.
+We're focused on delivering 34% operating or op inc as a % of revenue.
+Again, you've seen that every quarter in FY 2026.
+You see it for the full year as well.
+You know, we're able to make some trade-offs.
+Longer term, if we do see some pressure on gross margin, I think that there's a number of things that we can do.
+Just give you an example that we saw in Q3, while we had gross margins declining 2.6%, if you look at OpEx, actually, it also declined more than 2%.
+As a % of revenue a year ago, it was 34.1%, and it was 31.9% this quarter.
+I think there's gonna be businesses we get into that have different scale, and so there's a lot we can do to protect that 34% op inc.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, Meta.
+Michelle, we can move to the next analyst in queue.
+Operator
+Thank you.
+David Vogt with UBS, your line is open.
+David Vogt
+Analyst, UBS
+Great.
+Thanks, guys, for taking my questions.
+I'll give my two at the same time.
+You know, Chuck, you talked briefly about the security and the software portfolio.
+I know it's been kind of a, you know, a thorn in the side of the company.
+Can you speak to kind of how you're thinking about that business as it, you know, kind of improves going forward relative to sort of the old portfolio versus the new?
+Sort of how do we think about the impact of the Splunk model transition as we go into fiscal 2027, as customers continuously move from licensed to subscription?
+I know you've given sort of a range in terms of where you think that portfolio could end up from an ARR growth rate perspective next year, but just would love an update on that, on that point.
+I'll give you my second question around margins.
+I think, you know, I think I heard you guys say margins are kind of stable, which makes a lot of sense.
+How much of that margin dynamic is largely driven by the mix to hardware?
+I know you didn't give specifics, but you know, obviously, if we expect $6 billion of AI revenue next year, up from $4 billion, like, what are the offsets that you're thinking about to help mitigate sort of that product mix versus, you know, effectively software and security mix, if that's gonna grow 50% next year from a baseline of $4 billion this year?
+Thanks.
+Chuck Robbins
+Chair and CEO, Cisco
+Thanks, David.
+On the security front, we actually saw some pretty good improvement during the quarter.
+The new and refreshed stuff continued to grow in double-digits.
+We saw, obviously, the legacy stuff is still a drag, but it wasn't near the drag as it was in the first half of the year.
+What we really have seen the last few quarters in particular, is strength in our firewall business.
+Last quarter, we saw very strong double-digit order growth in firewalls.
+You know, I think last call I said we would exit this fiscal year approaching double-digit revenue growth on the traditional Cisco on the organic Cisco security portfolio, and I think we're heading in that direction, and I feel good about us actually making that happen.
+I think we'll continue to just quarter after quarter, we're going to see slow, steady improvement there.
+I'm actually the firewall results are really giving me a lot of optimism right now.
+We got a several quarter run of big win rates, and we're feeling good about that.
+On Splunk FY 2027, I think it's going to be highly contingent upon what happens with this cloud versus on-prem mix.
+Does it continue to, you know, do we see a continued shift?
+I think we saw another 2 to 3 points during the quarter in Q3 from where it was in Q2.
+If it stabilizes, we'll lap the compares obviously, next year it shouldn't be quite the drag.
+We'll just have to see how that mix evolves.
+Mark, any comments on that?
+If not, you can take the margin question.
+Mark Patterson
+EVP and CFO, Cisco
+Yeah, no, I think you hit it on the Splunk transition.
+In terms of gross margins, the two biggest factors there, David, are certainly mix and memory.
+The bigger factor actually is mix certainly.
+You know, as you look at the growth of the business, you've got hardware really accelerating, which we're very pleased with, you know, approximately 30% growth, where you've got software at 1%.
+It tells you that our hardware margins are actually really good.
+It also tells you that, you know, the supply chain team that we have is world-class.
+I think that the productivity improvements that they continue to show are substantial.
+I've gone through a few of those already on this call.
+Also, as you get more scale and revenue continues to grow at a sizable pace, there's some benefit that goes to the gross margin line as well, and that's been a key factor in us being able to really stabilize gross margins.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, David.
+Michelle, can we move to the next analyst in queue?
+Operator
+Thank you.
+Samik Chatterjee with JP Morgan, your line is open.
+Samik Chatterjee
+Analyst, JPMorgan
+Yep.
+Hey, thanks for taking my question, and congrats on the results.
+Chuck, maybe to start off, earlier in the call you did mention sort of being part of Project Glasswing and sort of wanted to get your thoughts around what you're seeing in terms of implications on your business from Mythos, and how do we think about sort of implications to your security business overall in the long run?
+When do we start to see maybe certain sort of drivers to your security business from that front?
+Mark, for you, with the restructuring that you're announcing today, should we think about the operating leverage in the business to be marginally better next year compared to what we saw this year?
+How should we think about sort of how much of those savings get reinvested in the business, and how to think about operating leverage next year?
+Thank you.
+Chuck Robbins
+Chair and CEO, Cisco
+Thanks, Samik.
+I appreciate the kind words.
+On Glasswing, yeah, I think the implications.
+First and foremost, we're using it meaningfully to test our own code.
+I think you're just gonna see us accelerate, you know, patches and things of that nature out to our customers.
+That's all positive.
+From a business implication perspective, which I think is the crux of your question, I think there will clearly be security implications for us.
+I think it could, there could be opportunities for us, for sure.
+I think as we talk to customers today, I've talked to so many of them over the last few weeks since this has become public, there's a lot of concern obviously about unpatched technology in their infrastructure, not just ours.
+There's a particular focus on last day of support equipment or equipment that's past the last day of support and that technology that can't be patched.
+I actually think while there will be a security opportunity, there's going to most likely be a lot of focus from our customers on modernizing their infrastructure so that they don't have this risk from technology that just can't be patched because it's well past last day of support.
+That's how I'd think about it, I would tell you that in Q3, I would effectively say there's really no Mythos-driven orders.
+There may have been one or two from a customer who decided to do it, and they were already planning on it, and Mythos pushed them over the edge.
+I don't think that, I don't think we had any meaningful orders in Q3 as a result of Mythos, but that could change in the future as we continue to work with customers.
+Mark Patterson
+EVP and CFO, Cisco
+Yeah.
+Thanks, Samik.
+Just with regard to the restructuring, this was really not a savings-driven restructure.
+It's really things are moving incredibly fast right now, and this is more realigning from an already strong base, as you're seeing in our financials, but really realigning resources around silicon, optics, security, and AI.
+Being able to move fast, we don't always have the exact resources that we need going forward in the right places.
+That's really what this is about versus savings.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, Samik.
+Michelle, can we move to the next analyst?
+Operator
+Thank you.
+Karl Ackerman with BNP Paribas, your line is open.
+Sam Feldman
+Analyst, BNP Paribas
+Hi, this is Sam Feldman.
+I'm for Karl Ackerman.
+Thanks for taking my question.
+First question, can you comment on why the fiscal 2026 AI orders were so conservative?
+I know you mentioned non-linearity in customer orders, is it also the function of market being larger than you anticipated?
+Any color would be greatly appreciated.
+Thanks.
+Chuck Robbins
+Chair and CEO, Cisco
+Thanks, Sam.
+I would say that I think we've had probably more design wins and more success than we expected at the beginning of the year is one thing.
+The other thing is that sometimes these customers, they make decisions, and when they decide to go, it sometimes you don't know about it three months ahead.
+You find out about it, and they're like, "We're ready to move." The more they use our products, the more comfortable they become with them, the more comfortable they are with our roadmaps.
+I think it's just led them to have more confidence in continuing to invest with us.
+I don't think it's anything more than that.
+It's really that in some cases, these massive opportunities will arise, and you won't know about them, and then all of a sudden you have a big number in the pipeline 30 days later.
+Hopefully it continues, but that's sort of what I would, what I would attribute it to.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, Sam.
+Give our regards to Karl.
+Michelle, can we move to the next analyst in queue?
+Operator
+Thank you.
+Ben Bollin with Cleveland Research.
+Your line is open, sir.
+Ben Bollin
+Analyst, Cleveland Research
+Good afternoon, everyone.
+Thanks for taking the question.
+Chuck, I was hoping you could elaborate a little bit about this internal inference effort you guys have with Circuit.
+Could you talk a little bit about what that's solving for, top line, OpEx, efficiency, just what you're seeing from that?
+Then also, I'm curious where you think big enterprise is with their own efforts around other activities that's in that category.
+Chuck Robbins
+Chair and CEO, Cisco
+Yeah.
+A lot of companies have done exactly what we're doing by creating Circuit as a front end to these models.
+It allows us to put Cisco-based guardrails in place for how we want these models to be used in addition to the guardrails that they provide.
+It allows us to combine both public model information with proprietary Cisco information and give our teams the ability to leverage AI on both public internet data as well as our own proprietary data.
+It's, you know, as an example, a sales rep can go in and leverage it and have the Circuit actually build a sales presentation on our products based on internal information about our products.
+That's a, that's a simple example of how it could, how it could work, in addition to having, you know, APIs out to the different models.
+The individual can choose the model they want to use or we will default to what we believe to be the best model.
+We're also working on delivering independent agents for every employee in the company so that they can have agents that are working on their behalf.
+There's a lot of work that our teams are doing.
+I'm really pleased with where we are.
+Was there a second?
+There wasn't a second, was there?
+Sami Badri
+Head of Investor Relations, Cisco
+It was it.
+Chuck Robbins
+Chair and CEO, Cisco
+Okay.
+Sami Badri
+Head of Investor Relations, Cisco
+Just how other companies, yeah.
+Chuck Robbins
+Chair and CEO, Cisco
+Oh, yeah.
+I think other companies are doing the same.
+I would say on the inferencing front, I think you see customers actually doing exactly that.
+They're trying to build up their own infrastructure to support a combination of you know, inferencing applications, leading then to agentic applications they're using a combination of APIs into public models as well as information in their proprietary data sources, you know, using different protocols that are available today.
+MCP connectivity, et cetera.
+I think that's a part of what's driving the increase in our private data center business is customers just preparing for this.
+Sami Badri
+Head of Investor Relations, Cisco
+All right.
+Thank you, Ben.
+Michelle, can we move to the next analyst?
+Operator
+Thank you.
+Michael Ng with Goldman Sachs, your line is open, sir.
+Michael Ng
+Analyst, Goldman Sachs
+Hi, good afternoon.
+Thank you for the question.
+Mine's just on pricing.
+In response to an earlier question, I think you said there was 4 to 5 percentage points of benefit on ex-web scale order acceleration from pricing.
+I was just wondering if you could talk a little bit about the pricing strategy this year, you know, across what products that you guys implemented and anything that you guys are doing around changing your approach to leaving offers open.
+Like, are you repricing POs?
+Just anything that you're seeing around price elasticity as well, that would be helpful.
+Thank you.
+Mark Patterson
+EVP and CFO, Cisco
+Yeah, sure.
+Hey, Michael.
+A couple of things.
+I think, you know, in terms of, I'll just hit the last piece first, actually.
+In terms of the terms and conditions that we really shored up, we had about 30 days that we would give notice.
+We would announce a price increase, but then it didn't take effect for 30 days.
+Then you had between 30 and sometimes 45 days to still honor quotes that were at the previous price.
+You ended up having, you know, a couple of months plus there of exposure.
+As you know, the market's moving much faster than that, and we're just in unprecedented times relative to memory pricing.
+Really what we did was we just tightened that up, and we said, "We'll give you 15 days notice and then another 15 days on the back end of that to honor quotes." Basically cut the time in half or maybe even a little bit better.
+That's really helped us.
+You're right on the amount of price increase impact that we had in the quarter for Q3.
+If you look at that non-web scale business, again, it grew at a 19% clip in Q3 and a 10% clip in the prior quarter.
+What we did was we just ran basically those SKUs in Q3, and essentially about 4-5 points worth of acceleration was just purely based on price.
+Not incremental units, but just price.
+That's spot on there.
+How we've dealt with the price increase, I think, you know, we haven't put anything really on software at all, so it only applies to the hardware side of the business.
+We've tried to be very thoughtful on the hardware side to just say, you know, where are we most competitive, where is the memory utilization the highest, and try to really apply it with some strong logic there.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, Michael.
+Michelle, can we move to the last analyst in the queue?
+Operator
+Thank you, sir.
+George Notter with Wolfe Research.
+Your line is open, sir.
+George Notter
+Analyst, Wolfe Research
+Hi, guys.
+Thanks very much for getting me in here.
+I was just curious about the pricing impact.
+You mentioned 4 to 5 points in this past quarter.
+As you look forward, is it fair that in the July quarter, you'll get a more significant impact from pricing being fully baked into the full quarter?
+Is that a dynamic here that is part of your guidance?
+Thanks.
+Mark Patterson
+EVP and CFO, Cisco
+Hey, George.
+You know, I think that as you look forward, there's a little bit of a difference between orders and revenues.
+On the order side, I think that that is a fair assumption that you would see a higher impact from price increases as the price increases are now sort of fully absorbed, if you will, as we get into Q4.
+On the revenue side, you really didn't see any impact in Q3 per se that was due to the price increases just based on timing of when you take the order and when it goes into the build plan, et cetera.
+You'll start to see some of that benefit in Q4, which is good because that's really those are the actions that are helping us stabilize gross margins.
+You know, the impact of higher memory prices is actually much more acute in Q4, but you also have the price increases helping us in terms of what we'll ship out in Q4, then that's really been a big part of what's helped us stabilize gross margins.
+Thanks.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, George.
+I'm going to hand it over to Chuck for some closing remarks.
+Chuck Robbins
+Chair and CEO, Cisco
+First of all, thanks to all of you for joining our call today, and I wanna thank our teams.
+I'm very proud of what we've been able to achieve, the great results, really driven by the relevance of our technology and our role as what we believe to be the critical infrastructure player for this AI era.
+We've made incredible progress with hyperscalers based on Silicon One and optics positioning us so well.
+We continue to be incredibly relevant in the enterprise and see this AI build-out and modernization continuing.
+As AI continues to highlight the importance of security posture, I think it underscores the criticality of fusing security into the fabric of the network, and we're uniquely positioned to do that.
+I'm very confident about what's ahead.
+Big thanks to our teams again, and thanks to everyone who joined us today.
+Sami, back to you.
+Sami Badri
+Head of Investor Relations, Cisco
+Thank you, Chuck.
+As a reminder, Cisco will be welcoming thousands of Cisco customers and stakeholders to its annual user conference, Cisco Live, in Las Vegas from May 31st through June ``4th.
+The keynotes and other content will be live streamed and be available on demand.
+We look forward to connecting with some of you there.
+Cisco's next quarterly call outlining our fourth quarter FY 2026 results will be on Wednesday, August 12 th, 2026 at 1:30 P.M.
+Pacific Time, 4:30 P.M.
+Eastern Time.
+This concludes today's call.
+If you have any further questions, please feel free to contact the Cisco investor relations department.
+We thank you very much for joining the call today.
+Operator
+Thank you for participating on today's conference call.
+If you would like to listen to the call in its entirety, you may call 18008392232 .
+For participants dialing from outside the US, please dial 203
+Data Source:
+Quartr
+Last updated:
+May 13, 2026
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (15)
+Quarterly report
+Slides
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

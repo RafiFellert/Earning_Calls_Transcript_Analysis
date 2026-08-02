@@ -1,0 +1,1038 @@
+Cisco Systems (CSCO) Q3 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Cisco Systems, Inc. (CSCO)
+NASDAQ: CSCO · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+115.99
++2.43 (2.14%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+116.40
++0.41 (0.35%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q3 2022
+May 18, 2022
+Quarterly report
+Earnings release
+Slides
+Play Audio
+Download Transcript
+Operator
+Welcome to Cisco's third quarter fiscal year 2022 financial results conference call.
+At the request of Cisco, today's conference is being recorded.
+If you have any objections, you may disconnect.
+Now, I would like to introduce Marilyn Mora, Head of Investor Relations.
+Ma'am, you may begin.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Welcome, everyone, to Cisco's third quarter fiscal 2022 quarterly earnings conference call.
+This is Marilyn Mora, Head of Investor Relations, and I'm joined by Chuck Robbins, our Chair and CEO, and Scott Herren, our CFO.
+By now, you should have seen our earnings press release.
+A corresponding webcast with slides, including supplemental information, will be made available on our website in the Investor Relations section following the call.
+Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements, and other financial information can also be found in the Financial Information section of our Investor Relations website.
+Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results, and we'll discuss product results in terms of revenue and geographic and customer results in terms of product orders, unless stated otherwise.
+All comparisons made throughout this call will be done on a year-over-year basis.
+Please note, included in the materials that accompany this call is a slide which summarizes the impacts from the war in Ukraine and the extra week in Q3 fiscal 2021.
+The matters we will be discussing today include forward-looking statements, including the guidance we will be providing for the fourth quarter and full year of fiscal 2022.
+They are subject to the risks and uncertainties, including COVID-19, that we discuss in detail in our documents filed with the SEC, specifically the most recent reports on forms 10-K and 10-Q, which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.
+With respect to guidance, please also see the slides and press release that accompany this call for further details.
+Cisco will not comment on its financial guidance during the quarter unless it is done through an explicit public disclosure.
+I will now turn it over to Chuck.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Thanks, Marilyn, and good afternoon, everyone.
+When we spoke with you back in February, we entered Q3 in the second half of our fiscal year with optimism, despite the supply and component challenges and other headwinds impacting us and many of our peers.
+Many of those factors that fuel that optimism remain unchanged today.
+We continue to see strong demand resulting in record backlog.
+Our business transformation is progressing well, and our differentiated innovation across our portfolio is helping our customers embrace and adopt the multiple technology transitions happening.
+However, there were two unanticipated events since our last earnings call, which impacted our Q3 revenue performance.
+The first is the war in Ukraine.
+This resulted in us ceasing operations in Russia and Belarus and had a corresponding revenue impact, which Scott will discuss.
+The second relates to COVID-related lockdowns in China, which began in late March.
+These lockdowns resulted in an even more severe shortage of certain critical components.
+This, in turn, prevented us from shipping products to customers at the levels we originally anticipated heading in the Q3.
+Our Q4 guidance incorporates a wider than usual range, taking into account the revenue impact of the war in Ukraine and the continuing uncertainty related to the China COVID lockdowns.
+Given this uncertainty, we are being practical about the current environment and erring on the side of caution in terms of our outlook, taking it one quarter at a time.
+We believe that our revenue performance in the upcoming quarters is less dependent on demand and more dependent on the supply availability in this increasingly complex environment.
+While certain aspects of the current situation are largely out of our control, our teams have been working on several mitigation actions to help alleviate many of the component issues that we've been facing.
+We believe that we will begin to see the benefits of these actions in the first half of next fiscal year.
+Now let me talk more specifically about our third quarter performance.
+As I just mentioned, many of the positives we've discussed over the past few quarters remain, resulting in continued solid demand for our solutions.
+Total product orders grew 8% year-over-year, leading to yet another record backlog of well over $15 billion, up 10% sequentially and up 130% year-over-year.
+This momentum reaffirms the critical role we play in our customers' futures.
+Our business transformation also progressed nicely.
+In Q3, we saw ARR growth of 11%, ending the quarter at over $22 billion and product ARR growth of 18%.
+We also exited the quarter with over $30 billion in remaining performance obligations or RPO.
+We also delivered non-GAAP EPS at the high end of our guidance range.
+This was driven by effective pricing actions and spending discipline, all of which allowed us to offset lower volumes and deliver both gross and operating margins above the high end of our guidance range and deliver on our bottom-line profitability target for the quarter.
+I want to reiterate what I said earlier.
+The fundamental drivers across our business are strong.
+While we are facing some short-term challenges, it does not change our long-term outlook, our alignment to our customers' most critical challenges, or our belief in the tremendous opportunities in front of us.
+Last week, we hosted our Global Customer Advisory Board meeting, where we met with close to 100 customers, and they consistently shared that technology is at the heart of their strategy and has become even more important to everything they do.
+It's driving not just their strategies, but also their overall business transformation.
+The technology they are adopting from Cisco is driving their business agility, allowing them to move with greater speed and empowering them to deliver differentiated experiences for their customers.
+Now I'd like to touch on some highlights from the quarter.
+We continue to see strong demand in several areas of our business.
+Our web scale business remains strong as we continue to help these customers build their capabilities to connect and serve their customers and end users at scale from the data center to the edge. This is leading to continued strength in orders, which grew over 50%, and on a trailing four-quarter basis, we had over 100% growth.
+This marks our ninth consecutive quarter of solid demand as we are winning new franchises, expanding our design wins, and taking share in web scale.
+I remain incredibly proud of the progress we've made and the momentum we have in this space.
+We are also extremely pleased with the traction of our 400 gig solutions, including the Cisco 8000, which is the fastest-growing SP routing platform in Cisco's history.
+In addition, our Silicon One portfolio, ZR and ZR+ optics, and our Acacia portfolio of optical networking products also continue to perform well.
+From a product revenue perspective, our performance was led by solid demand across a majority of our portfolio, including switching, SP routing, wireless, security, and SD-WAN.
+Our performance in these areas reflect the ongoing investments that our customers are making to rapidly digitize their organizations to deliver differentiated experiences.
+Looking forward, the shift to hybrid cloud, 5G, 400 gig, IoT, hybrid work, and the explosion of applications are driving the increased need for next-generation networking, connectivity, security, and observability solutions.
+Cisco is well-positioned to deliver for our customers with our end-to-end platforms and solutions.
+I'm also very proud of our pace of innovation.
+During the quarter, Cisco announced new innovations across our networking and cloud portfolios, along with technologies to enhance experiences in hybrid work environments.
+We also introduced our new predictive networks to help organizations learn, predict, and avoid network disruptions.
+We have even more innovation, which we'll announce at RSA and our own Cisco Live event in June.
+In addition to our deep passion for innovation, all of us at Cisco believe we have a unique opportunity to help make the world a better place through both the technology we build and the purpose we rally around, to power an inclusive future for all.
+I believe this intersection of technology and purpose is why we were named the number one best company to work for in the U.S. by Fortune and Great Place to Work for the second year in a row.
+In summary, while the quarter clearly did not play out as expected, demand remains solid, and the fundamentals of our business are strong.
+We remain focused on executing against the strategy we laid out at our Investor Day.
+We will also continue to be resolute in our focus to transform our business for more predictability and agility while bringing to market a robust pipeline of innovation.
+We remain confident in our long-term growth and the opportunities that we have in front of us.
+I want to thank our teams around the world for all that they do, executing with dedication, focus, and excellence in an incredibly dynamic environment.
+They continue to focus on our customers with unparalleled innovation, resiliency, and determination.
+With that, I'll now turn the call over to Scott.
+Scott Herren
+EVP and CFO, Cisco Systems
+Thanks, Chuck.
+We saw solid growth in product orders, net income, and earnings per share, despite the challenges Chuck just outlined.
+Product order growth was driven by strength across most of our portfolio, while disciplined spend and supply chain management drove our profitability.
+Total revenue was $12.8 billion, flat year-over-year.
+Our non-GAAP operating margin was 34.7%, up 110 basis points, coming in above the high end of our guidance range. non-GAAP net income was $3.6 billion, up 3%, and non-GAAP earnings per share was $0.87, up 5%, coming in at the high end of our guidance range.
+In March, we stopped business operations in both Russia and Belarus, which had a negative impact to revenue of approximately $200 million or two percentage points of growth.
+Historically, Russia, Belarus, and Ukraine collectively have represented approximately 1% of our total revenue.
+The impact this quarter was a bit higher than our historical run rate due to additional charges to revenue we recorded for uncollectible receivables and other items.
+As a reminder, Q3 of last year included an extra week, which was a benefit to total revenue in Q3 of 2021 of approximately three full percentage points of growth.
+On a combined basis, the impact to the year-over-year total revenue growth rate for the extra week and the war in Ukraine was approximately five percentage points.
+Looking at our Q3 revenue in more detail, total product revenue was $9.4 billion, up 3%.
+Service revenue was $3.4 billion, down 8%, driven by the extra week in the prior year and the war in Ukraine, which combined impacted our growth by approximately eight percentage points.
+Within product revenue, Secure, Agile Networks was solid, with revenues up 4%.
+Switching grew, driven by strength in data center switching with our Nexus 9000 products.
+Campus switching growth was led by our Catalyst 9000 and Meraki switching offerings.
+Wireless had a double-digit increase, driven by broad-based strength across our portfolio, including our Wi-Fi 6 products and Meraki wireless offerings.
+We also had solid growth in servers.
+Enterprise routing declined, primarily driven by edge and access, and slightly offset by strength in SD-WAN.
+Internet for the Future was up 6%, driven by strength in Acacia, optical, optics and core networking products, including double-digit growth in the Cisco 8000.
+Collaboration was down 7%, driven by declines in our meetings, calling, and contact center offerings, partially offset by the continued ramp of our Communication Platform as a Service.
+End-to-end security grew 7%, with broad strength across most of the portfolio.
+Our Zero Trust portfolio performed well, with double-digit growth driven by strong performance in our Duo offering.
+Optimized application experiences was up 8%, driven by double-digit growth in both of our SaaS-based offerings, ThousandEyes and Intersight. We continue to make progress on our transformation metrics as we shift our business to more subscriptions and software.
+Total software revenue was $3.7 billion, a decrease of 3%, with the product portion down 1%.
+Total software revenue growth would have been five points higher, excluding the combined negative impact of the extra week in the prior year and the war in Ukraine.
+83% of software revenue was subscription-based, which is up one percentage point year-on-year.
+Total subscription revenue was $5.5 billion, a decrease of 4%.
+Total subscription revenue would have been seven points higher, excluding the combined negative impact of the extra week in the prior year and the war in Ukraine.
+Total subscription revenue represented 43% of Cisco's total revenue.
+Annualized recurring revenue, or ARR, was $22.4 billion, an increase of 11%, with strong product ARR growth of 18%.
+Remaining performance obligations, or RPO, was $30.2 billion, up 7%.
+Product RPO increased 13%, service RPO increased 3%, and the total short-term RPO grew 9% to $16.2 billion.
+We had solid product order growth in Q3 of 8%, with strength across most of the business.
+Looking at our geographic segments, the Americas was up 9%, EMEA up 4%, and APJC up 11%.
+In our customer markets, commercial was up 19%, service provider was up 8%, public sector was up 4%, and enterprise was flat.
+From a non-GAAP perspective, total gross margin came in above the high end of our guidance range at 65.3%, down 70 basis points year over year.
+Product gross margin was 64.1%, down 80 basis points, and service gross margin was 68.9%, up 20 basis points.
+The decrease in product gross margin was primarily driven by ongoing higher component costs related to supply constraints, as well as higher freight and logistics costs, partially offset by strong positive pricing impact.
+We continue to manage through the supply constraints seen industry-wide by us and our peers.
+To give a sense of scale of the shortages, we currently see constraints in Q4 on roughly 350 critical components out of a total of 41,000 unique component part numbers.
+Our supply chain team is aggressively pursuing multiple options to close those shortages.
+Given our solid product orders, we once again saw a significant increase in our backlog levels for both hardware and software, well beyond our normal historical levels.
+As Chuck said, our ending product backlog grew to well over $15 billion, and software backlog grew to more than $2 billion, both up 10% sequentially.
+Just a reminder, backlog is not included as part of our $30.2 billion in remaining performance obligations.
+We ended Q3 with total cash equivalents and investments of $20.1 billion.
+Operating cash flow for the quarter was $3.7 billion, down 6% year-over-year, primarily driven by advanced payments to secure future supply.
+These advanced payments had a negative nine percentage points year-on-year impact on Q3 operating cash flow.
+In terms of capital allocation, we returned $1.8 billion to shareholders during the quarter.
+That was comprised of $1.6 billion for our quarterly cash dividend and approximately $250 million of share repurchases.
+Year to date, we have returned a total of approximately $10 billion in value to our shareholders via cash dividends and stock repurchases and have more than $17 billion available under our board stock repurchase authorization.
+To summarize, we're navigating the highly complex environment while continuing to make progress on our business model shift and making strategic investments in innovation to capitalize on our significant growth opportunities and expanding addressable markets.
+Now let me provide our financial guidance for Q4.
+In terms of supply, we expect the challenges we experienced in Q3 to continue into Q4.
+For next quarter, we expect revenue growth to be in the range of -1%- -5.5%.
+We anticipate the non-GAAP gross margin to be in the range of 64%-65%.
+Our non-GAAP operating margin is expected to be in the range of 31.5%-33.5%. non-GAAP earnings per share is expected to range from $0.76- $0.84.
+For the full year of fiscal 2022, guidance is as follows.
+We expect revenue growth to be in the range of 2%-3% year-on-year. non-GAAP earnings per share guidance is expected to range from $3.29- $3.37, up 2%-5% year-on-year.
+In both our Q4 and full-year guidance, we're assuming a non-GAAP effective tax rate of 19%.
+I'll now turn it back to Marilyn so we can move into the Q&A.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Thanks, Scott.
+Michelle, let's go ahead and queue up the Q&A.
+Operator
+Thank you.
+Meta Marshall from Morgan Stanley Investment Research, you may go ahead.
+Meta Marshall
+VP, Morgan Stanley
+Great.
+Thanks.
+Maybe Chuck, if you could just kind of give a sense in what you're seeing in macro, from your customers.
+You know, I know that the enterprise orders were flat year-over-year.
+Just are you seeing any change in their behavior, either just given what's happening in the overall macro conditions or just currency and inflation would be helpful.
+Thanks.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Yeah, Meta, thank you.
+On the demand issue, I'd point out a few things.
+Number one, you know, without the two percentage points of orders that we de-booked relative to Russia and Belarus, you know, we grew 10% against a year-ago growth of 10%.
+We feel good about that.
+Our customers are not signaling any real shift at this point.
+We're not hearing that from them.
+Again, we had our Global Customer Advisory Board just a couple of weeks ago where we had 100 of our biggest customers, and they were all talking about projects and the strategic nature of everything they're trying to accomplish.
+The last thing I would point out is on the enterprise side, last quarter we grew 37%.
+Just to keep in mind, the way we define enterprise is a finite list of named customers, so it tends to be more lumpy.
+If I look at how the industry defines enterprise, that would reflect a combination of our enterprise and our commercial business.
+For comparisons to what we're hearing in the marketplace, I thought we would give you that combined number.
+If you combine enterprise and commercial together, we grew 9%, but without the Russia impact, we actually grew 12%.
+On a trailing twelve months basis, it grew 28%.
+We're still comfortable with the demand signals that we're seeing, and our customers aren't telling us anything differently right now.
+Meta Marshall
+VP, Morgan Stanley
+Great.
+Thanks.
+I'll pass it on.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Next question, please.
+Operator
+Thank you.
+Samik Chatterjee from JP Morgan.
+You may go ahead.
+Samik Chatterjee
+Executive Director and Networking Equipment/IT Hardware Senior Analyst, JPMorgan
+Hi, thanks for taking my question.
+I guess, Chuck, on the demand question again, just, you're guiding to the fiscal fourth quarter to be now almost sort of similar to what the third quarter is or even down a bit, which is, if I go back historically, has never really, I don't see many instances of that.
+I mean, is that really a reflection of the supply environment, or are there any other sort of aspects of demand stemming from the geopolitical sort of situation here that's impacting that?
+And when do we sort of start to see you sort of cycle past some of that?
+Thank you.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Yeah.
+Samik, it's a great question.
+Let me start with just the basic answer is there is no reflection of demand issue in our Q4 guide.
+That has nothing to do with the Q4 guide.
+Let me try to describe how we got to that.
+I think it's important for everybody to understand.
+When we look at our Q3 results, we had, from a revenue perspective, we had a $200 million impact from us ceasing operations in Russia and corresponding revenue write-downs that occurred.
+Those were one time.
+We then had, if you recall, our quarter ends at the end of April.
+Most of what you've heard from others, their quarters end at the end of March.
+We experienced an entire quarter of the China lockdowns.
+You know, in Shanghai, it was from March 27th until today.
+Shenzhen shut down, but again, it opened up a week later, so we're talking really about the Shanghai situation.
+We had $200 million from Russia, and then we had $300 million that was completely attributed to our inability to get power supplies out of China.
+That's the simplicity of what caused the problem.
+As an example, we had 11,000 PCB assemblies built we couldn't get power supplies for because of the lockdown.
+That's a simple fact of what happened in Q3.
+When we look at Q4, and you think about the Shanghai lockdown and what we've heard, because in Shanghai, there are lots of components that go into our power supply, so we're not able to get those components.
+Shanghai now is saying they're gonna open up June 1st.
+We don't know exactly what that means and what that means to when that implies that we would start getting any supply out.
+Correspondingly, we believe when they open up and when they do allow transportation logistics to start up, we believe there's gonna be a high degree of congestion.
+We believe that there's gonna be lots of competition for ports capacity, airport capacity, and we just believe that that combined with the inbound efforts, trying to get raw materials back into the country, et cetera, we just believe that it's gonna be impossible for us to catch up on this issue in Q4, which is what led to the guidance in Q4.
+Even though these top-line numbers don't look good, it's a very simple explanation as to what occurred.
+Then the follow-on part of your question is, when do we think this gets better?
+Well, if we make the assumption that China does begin to open up and we do begin to get more natural flow of the power supplies, we also have had our teams over the last six-nine months have been working on a lot of mitigating actions, redesigning 100 products, over 100 products to give us component diversity.
+We believe that a combination of those starting in our Q1 and in the first half of our year, we'll start to see the benefit of that.
+That's when we expect to see it improve to some extent.
+We need to get through the next 90 days, but I'm just being as transparent as I can about what we see and when we think some of that improvement will occur.
+Samik Chatterjee
+Executive Director and Networking Equipment/IT Hardware Senior Analyst, JPMorgan
+All right.
+Thank you.
+Thanks for taking my question.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Thanks, Samik.
+Next question, please.
+Operator
+Thank you.
+Ittai Kidron from Oppenheimer.
+You may go ahead, sir.
+Ittai Kidron
+Managing Director, Oppenheimer
+Thanks.
+Hey, guys.
+I guess I wanna dig into that a little bit, Chuck, on the supply chain.
+You seem to be much more impacted than some of your peers in the industry.
+I'm just trying to gauge whether you have an unusually high exposure to China that others do not.
+Is there any color you can give us on what percentage of your components come from China?
+Why is it that you stand out relative to a couple others?
+I understand that you had an April quarter, some of them had March, but they did report mid, late April, and none of them have signaled anything.
+Clearly they've seen what's happening in April, and they haven't said anything.
+I guess there's a second part to this.
+Ittai Kidron
+Analyst, Oppenheimer
+Just thinking kind of longer term, just given the challenges geopolitically, you know, Ukraine, Russia, and the risks that are associated with China on a geopolitical standpoint, but also clearly in their COVID policy.
+Is there any sort of a long-term planning that disconnects you from China as a source for components longer term?
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Yeah.
+Ittai, thank you.
+Both good questions.
+I think on the first one, I think that the biggest differentiation was April.
+I have spoken to peers who are feeling the same thing we are.
+We're reporting the full month of impact, and it was an April issue for us.
+So now on a normalized basis for that question across the portfolio, all of us design products with different components in, so there's opportunity for us to have a unique issue with one component that we may have designed into a product and or we may have a unique advantage because we designed a certain component into a product.
+Those are the areas where I talked about we're redesigning where we have unique problems or just problems in general.
+Others may have the same problems.
+We think that the exposure in general was because of the month of April.
+Also, we do massive volumes, and in general, you would think that's a huge advantage, but just to put it in perspective, we shipped more revenue in the last week of our quarter than many of our competitors that you're referencing shipped in their entire quarter.
+It's just an issue that it shows up in a bigger number for us than it would.
+If they have the same problem, it might be a $20 million impact.
+For us, it might be a $200 million, $400 million impact.
+That's the first one.
+The second one, what I would say is that we are constantly evaluating our global supply chain.
+It's not about one country, it's about resilience.
+The way we've designed supply chains over the last 15, 20 years as an industry, I think we all realize we're evolving that now at the same time that we're triaging all of the current issues that we have.
+Our teams have a dual challenge, but we are constantly driving geographic resilience.
+You know, the example I would give is that we before COVID had regional redundancy built in.
+We did not have a plan for a country to shut down.
+It takes time to go out and create that geographic resilience.
+But our teams are working on all of those kinds of things right now, they will continue to do that, Ittai.
+Ittai Kidron
+Managing Director, Oppenheimer
+Very cool.
+Thanks.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Thanks, Ittai.
+Next question, please.
+Operator
+Thank you.
+Simon Leopold with Raymond James.
+You may go ahead, sir.
+Simon Leopold
+Managing Director, Raymond James
+Thanks for taking the question.
+Hopefully, I'll make sense here, but I wanna give this a shot.
+Your gross margin looked relatively resilient in the quarter in the outlook, and your revenue was light.
+We've seen the opposite from some of your peers.
+I'm wondering if part of the issue is the usage of brokers and paying very high fees for parts in the, I guess, secondary or tertiary markets.
+Is that something you didn't do and that prevented you from reaching revenue but allowed you to have a better gross margin?
+I'm just trying to understand some of your practices relative to your peers that allowed you to have a good gross margin but the lighter sales.
+Does that all make sense?
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Yeah, it absolutely does, Simon.
+Let me start and then I'm gonna kick it to Scott to talk a little bit about it.
+First and foremost, we are incredibly active purchasers in the broker market.
+You can imagine with our buying power, they call us first.
+No, that has nothing to do with it.
+In fact, we've spent a lot of time with our supply chain team who have given us examples of where they've bought product in the broker market recently.
+I don't think that's it, but Scott can explain what did happen there.
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah.
+It's a great question, Simon.
+What I'd add is, if you recall, we did two price increases this year.
+The first one rolled in right about the end of the calendar year and the second one at the beginning of our second quarter.
+We said at the time that we thought you continued to ask, like, "Hey, when are those price increases?
+When are they gonna show up in the top line?" We said we thought we would begin to see the benefit of those toward the end of the third quarter, which is the quarter we just closed.
+That's exactly what happened.
+While the unit shipments in the quarter were off because of the issues that we've talked about with the supply chain, with the component supply, we were able to offset that with pretty strong pricing, in fact.
+This, you know, we published this in our queue, so you'll see it there.
+Our pricing was up about 160 basis points in Q3.
+While we did have a unit impact from the component supply, it was offset by some of the things that we're doing that we're beginning to realize on the price front.
+We are actively pursuing every avenue.
+It's got to be a qualified vendor, and so we're working to qualify different sources at the same time.
+We are actively pursuing that, whether it's through a broker, obviously directly from the vendor, but through a broker, distributor.
+We're pursuing all those channels, and that is creating a bit of a headwind to us.
+Simon Leopold
+Managing Director, Raymond James
+Thank you.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Michelle, next question, please.
+Operator
+Thank you.
+Sami Badri from Credit Suisse.
+You may go ahead.
+Sami Badri
+Managing Director and Senior Equity Analyst, Credit Suisse
+Hi.
+Thank you.
+First one is a clarification on the product order growth number that was reported at 8%.
+Could you give us an idea on how much price increases contributed to the product order growth number?
+That's the first question.
+And then just a second question is, we're just trying to piece together and explain, even after accounting for the Russia, Ukraine contribution, why enterprise would grow 0% versus some of your peers that are reporting far greater reports and trends in specifically enterprise.
+Could we try to maybe triangulate a little bit more about what's going on there.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Okay.
+First, I'll let Scott add on the price increase in a moment, but first of all, the price increase really did not have significant impact on our growth.
+We only passed through pricing at the time that was offsetting our incremental cost.
+To be honest, we've incurred more costs since then.
+We're at a place right now where we have not even passed through all the costs that we have incurred.
+We're getting price increases all the time now.
+That's the first answer.
+On the second one, the easiest thing for me to tell you is what I said earlier, that the way our peers view and report, and the industry views and reports enterprise would be the combination of our enterprise and commercial business, which last quarter would have grown 9% and would have grown 12% without.
+Or it grew 9%, but would have been 12% without Russia.
+If you think about the size of that, those two businesses combined growing 9%, you know, I'm pretty comfortable with that the demand is still there.
+If you look at our commercial business, which usually is the leading indicator of a shift of demand momentum, they grew 19% in the quarter.
+You know, I'm not concerned.
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah.
+Sammy, to the first part of your question, the 160 basis point impact that we saw in Q3 from pricing is a revenue statement.
+Obviously, you know, to go from bookings to revenue, it first has to flow through the backlog and then get realized.
+The impact on bookings, while we haven't quantified, it would be a little bit higher than that 160 basis points.
+Sami Badri
+Managing Director and Senior Equity Analyst, Credit Suisse
+Got it.
+Thank you.
+Scott Herren
+EVP and CFO, Cisco Systems
+Mm-hmm.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Next question, please.
+Operator
+Thank you.
+Rod Hall with Goldman Sachs.
+You may go ahead, sir.
+Rod Hall
+Managing Director, Goldman Sachs
+Yeah, hi.
+Thanks for the question.
+I guess I wanna come back 'cause I think the main investor question coming out of this will be these product orders, Chuck, and I know you're saying that, you know, combined, that they heard all the things that you said there.
+I think that if you look at the sequential movement on those, it's quite a bit below normal seasonality.
+Even if you give the 10% growth on a year-over-year basis on the product orders, you're still down mid-single-digit sequentially, and that's way below normal seasonality.
+We know that we're coming off historical highs on these product orders.
+I guess what I'm wondering is if you can give us any idea on trajectory on product orders as we head into next quarter.
+'Cause I could see a scenario where product orders decline to kind of 2019 July levels, in which case, you know, you'd be down double digits, but you'd still be in good product order territory, if that makes any sense.
+Hoping maybe you could just give us a little bit more color on, you know, what you think that trajectory looks like and how those orders are normalizing over time.
+And then maybe I have a follow-up.
+I mean, that's kind of a long question.
+Thanks.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+No, I got you.
+I got you, Rod.
+You're actually thinking about it the right way.
+You're thinking about it exactly the way I'm thinking about it.
+First thing I'll say is that I think any seasonality right now is out the window with the current situation and with what we've seen with the order demand.
+We're doing 18-month planning with certain customers, and if they placed 18 months worth of orders last quarter and now they're gonna, you know, they're gonna pause and we may be doing it with 3 fewer customers this quarter.
+I mean, it's just a very difficult thing to get your head around.
+There's two things that I look at.
+Number one, what is our quarterly growth rate vis-a-vis a year ago to see?
+Because I think about momentum of demand from one quarter to the next, sorta.
+You have to look at that delta, right?
+Because if you grow, you know, 30% on 1% and then you grew 30% on 15%, then that would be declining demand momentum.
+That's the way I think about the math, right?
+That's one thing we watch for.
+The second thing is, I think to your point, I've been talking to the team about it.
+When we start comparing against these 30% quarters, I think we have to go back 2 years and get a real assessment because those numbers we know had pull ahead, and we don't know how much, as we've talked about.
+I think you're right.
+We have to sort of do an analysis from two years back to really feel like what are we really seeing right now.
+That's.
+It's gonna be a difficult thing for us to navigate because the historical way we've looked at these metrics just won't apply right now.
+I think once we cycle through a year, another four quarters of this stuff, maybe we get to normalized, you know, a normalized view.
+As I've said, we're gonna go through a phase where our order demand growth will be lagging our revenue growth, and then hopefully we'll get to a point where those two will get back into more of a predictive model.
+We just gotta get there.
+Rod Hall
+Managing Director, Goldman Sachs
+Okay.
+That's great.
+I guess, Chuck, on that subject, I know you talk to a lot of, you know, CIOs, CEOs.
+What are people thinking now?
+I mean, it seems like everywhere you look, there's bad news, and it's hard to believe people are feeling like they wanna spend a lot of money.
+I'm curious, you know, yet the demand still seems pretty good, so I'm just curious what you're hearing from people, how the tone of conversations is going.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+I think COVID changed everything about how our customers think about technology.
+I think that pre-COVID, you know, a lot of customers, when they went to slow spending, they would stop spending on technology.
+I think COVID had them feel the impact of those decisions, and they're gonna be very prudent about stopping key projects that are giving them customer differentiation capabilities or modernization of their infrastructure or supporting hybrid work or making sure they're not falling behind their competitors.
+I mean.
+It's just a different day today relative to how CEOs and public sector leaders think about technology and the importance of it.
+Even though they thought it was really important three years ago, their understanding of it today is just much different.
+I'm not saying they won't make those decisions.
+I just think there's a higher bar for them to make those decisions.
+Rod Hall
+Managing Director, Goldman Sachs
+Great.
+Thank you very much.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Next question, please.
+Operator
+Thank you.
+Tal Liani from Bank of America, you may go ahead, sir.
+Tal Liani
+Technology Analyst, Bank of America
+Hi, guys.
+I still have difficulties to model next year because we still didn't even start comparing the high growth rates of orders.
+We're still comparing 10% to 10% of last year.
+Next quarter, you're getting to 30%, and you have multiple quarters of 30%.
+At that point of time, revenue growth should accelerate just because of supply chain start.
+It's supposed to get better somewhere or your actions, but we're seeing order growth decelerating instead of accelerating.
+When we look at the next few quarters, could there be a combination of both order growth going down materially, maybe even to negative levels, at the same time, also revenue growth being negative?
+I mean, I'm trying to understand how to think about the next few quarters.
+Thanks.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+You wanna take it, Scott?
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah.
+Tal, I think the way to think about it is back to one of the statistics that we gave you first time last quarter and then again this quarter.
+We've got backlog now of greater than $15 billion in product, and within that, more than $2 billion of software sitting in backlog.
+You know, you add that to the $30+ billion of RPO we've got, and we're sitting on about $45 billion of sales we've transacted that have not yet accreted to the revenue line.
+I think as you think about the way you wanna model out next year, you need to think about the rate and pace of revenue growth being dependent on supply versus being dependent on in-quarter bookings growth.
+That's certainly the way I think about it.
+Tal Liani
+Technology Analyst, Bank of America
+When you think about the order trends, I mean, orders, it's dollars, but not all the products have the same trends.
+There are some of the products that are very big in terms of contribution, like service provider side, et cetera.
+I have to guess that the trends there are better than the trends in the enterprise, et cetera.
+Does it mean the order numbers that you provide, can you dig in a little bit deeper below just a single number for orders and tell us the areas where order growth is better and the areas where order growth is actually worse?
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah.
+I think some of that is available in the slides that we'll put up online.
+It may also be in the press release.
+We talked about enterprise.
+Enterprise orders were flat for the quarter, but then you have to normalize for the impact of the Russia and Belarus decision to stop operations in Russia and Belarus.
+That would take it up to a 3% growth in orders.
+You know, that's following a quarter where enterprise grew 37%, and the quarter before that it grew 30%.
+You know, with the way we define enterprise, as Chuck talked about, it's our biggest customers, and that business by definition is gonna be a bit lumpy.
+On a trailing twelve months, it's actually quite strong.
+We continue to see nice growth in SP, particularly in web scale.
+We gave you some of those stats during the call as well.
+Those are doing well.
+Public sector continues to hold up.
+Public sector demand has continued to be fine for us.
+And commercial, you know, commercial, you remember we talked about this when we first went into the pandemic, that we saw commercial tip down before the rest of the sales tip down, and then as things began to recover in late fiscal 2020, we saw commercial tip up.
+It tends to be a leading indicator for us.
+And commercial growth product order growth was up 19% last quarter.
+So we're not seeing, you know.
+If that's the leading indicator, and it certainly has been for us, we're not seeing any weakness in demand at this point.
+Tal Liani
+Technology Analyst, Bank of America
+Got it.
+Thank you.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Mm-hmm.
+Thanks, Tal.
+Next question.
+Operator
+Thank you.
+Paul Silverstein with Cowen.
+You may go ahead, sir.
+Paul Silverstein
+Managing Director, Cowen and Company
+Thanks.
+Guys, if I could ask for two clarifications.
+First off, I think I heard you cite a $300 million China lockdown, Shanghai revenue impact in Q3.
+I didn't hear you cite what the expected revenue impact is in Q4.
+Can you share that with us?
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Hey, Paul.
+Thanks.
+Yeah.
+We had in Q3 it was very simple for us to articulate it because we know exactly what we were expecting and everything else.
+We don't have the ability in Q4 to understand when they're really gonna open up and how much we're gonna get, et cetera, which caused us to create the range we did and just we're just being realistic about what we believe we'll be able to get out the door.
+To actually peg it to power supplies in particular is pretty difficult.
+I mean, most of the issues that we see right now, the concerning area right now is really getting China opened up again, getting that stuff shipping, and we need to see that.
+Scott, you wanna add something?
+Yeah.
+Scott Herren
+EVP and CFO, Cisco Systems
+What I'd add to that is, you know, we give the example of power supplies because that was a constraint in Q3, and part of the issue that we had in Q3 is that constraint came up very late in the quarter, right?
+When Shanghai went into lockdown, we didn't immediately see that hit.
+It hit more toward the second half of April, which of course was within our quarter.
+It wasn't within the quarter of many of our peers, and there was just no time to recover from that.
+I don't want you to oversimplify, and I hope I'm not leading you to that.
+It's not just power supplies.
+We've got issues in a number of different areas.
+I tried to give you a sense of scale because I know it's, you know, 41,000 unique components.
+What we said is, you know, about 350 have potential supply concerns right now.
+We're working those every day.
+Every day some of them get resolved, and then every day a couple more will come onto that list.
+It's not unfortunately.
+It would be convenient if it was just one or two things and we could say, "Yeah, here's exactly what those are." It is a very dynamic situation, and what we're trying to do, if you zoom up a level, is say we're not assuming it gets better or worse as we scroll through Q4, and that's what's built into the guide.
+Paul Silverstein
+Managing Director, Cowen and Company
+Well, Chuck and Scott, the obvious question is to that statement of the $1 + billion shortfall in guidance relative to street expectations, is that all the lack of visibility you have, the understandable concern you have with respect to supply?
+Is that all in the supply portion of the equation?
+You know, going back to all the many questions that have been asked about your order book, the slowdown in orders and the quality of demand, is any of that shortfall in your guidance, you know, concern about demand or is that all on the supply side of the equation?
+Scott Herren
+EVP and CFO, Cisco Systems
+Zero.
+There's no demand impact in our Q4 guide.
+Paul Silverstein
+Managing Director, Cowen and Company
+It's 100% supply.
+Scott Herren
+EVP and CFO, Cisco Systems
+100% supply.
+Paul Silverstein
+Managing Director, Cowen and Company
+One other quick clarification on this topic.
+If we looked at the linearity of your order book, I know normally we talk about linearity of revenue, but if we looked at the linearity of your orders during the quarter, post the quarter up to this call, what will we see?
+Scott Herren
+EVP and CFO, Cisco Systems
+It was normal, very normal.
+Paul Silverstein
+Managing Director, Cowen and Company
+You've seen no degradation, you'd argue?
+Scott Herren
+EVP and CFO, Cisco Systems
+No.
+Month three was right in line with normal pattern.
+You know, I think, Paul, the thing to remember is, you know, we're a little skewed because we had three quarters of 30%.
+If we went back a year and a half, and I said, "We're gonna grow 10% product orders on top of a 10% quarter from a year ago," we would have been quite happy with it.
+We're just worried about it because it's fallen three 30s when there was a lot of planned purchases built in too.
+You know, we'll tell you, obviously next quarter we'll have an update, but right now, it doesn't feel like there's any significant shift.
+Paul Silverstein
+Managing Director, Cowen and Company
+Chuck, a cynic would say you didn't say anything last quarter relative.
+You were talking understandably last quarter about three straight quarters of 30%+ growth.
+You didn't advise about any expected slowdown.
+You weren't looking at any slowdown.
+You know, now the tune's changed.
+I'm just playing devil's advocate here, obviously.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Well, Paul, that's fine, but we don't, we never have any commentary about future bookings expectations.
+Paul Silverstein
+Managing Director, Cowen and Company
+Okay.
+I'll pass it on.
+I appreciate it.
+Thank you.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Thanks.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Thanks, Paul.
+Next question.
+Operator
+Thank you.
+David Vogt from UBS.
+You may go ahead, sir.
+David Vogt
+Managing Director, UBS
+Great.
+Thanks, everyone, for taking the time to take my question.
+I just had a follow-up on backlog and near-term RPO.
+If I'm not mistaken, I think your near-term RPO is flat sequentially at roughly $16.2 billion-$16.3 billion.
+If I tack on sort of a $1 billion increase quarter-over-quarter in your backlog, given sort of the supply chain constraints that you've articulated and maybe what some of your peers are saying, I mean, I guess I'm trying to triangulate on what the revenue trajectory looks like as we go into next year.
+I mean, you mentioned, Chuck, seasonality out the window, but is it, you know, within the realm of possibility that we could start the year next year in the first half at sort of a run rate on where we are today as we exit this year?
+I mean, is that a realistic probability given on how revenue kind of flows through?
+I have a quick clarification follow-up.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Sure.
+On the RPO that we talked about, you got the number right, $16.2 billion of short-term RPO, which is up 9%.
+You know, short-term by definition means that it converts into the revenue stream in the next 12 months.
+That growing by 9% is a pretty good leading indicator of at least what that piece of our business looks as we go into Q4.
+You know, we'll give you an update on how short-term RPO growth looks at the end of Q4, and you can get a sense of it into fiscal 2023.
+David Vogt
+Managing Director, UBS
+Great.
+Then maybe just as a follow-up, when you think about where backlog peaks and where maybe purchase order commitments on your end peaks, obviously, I know supply chains kind of throw a lot of sort of the calculation out the window.
+As you look at your order book and what you see from a demand perspective from your customers, you know, how would you sort of handicap, you know, where we think we reach that sort of peak commitment from your perspective to make sure that you have the appropriate components and parts to meet the demand longer term, right?
+Are we talking about, you know, as order growth decelerates from, you know, 8% in this quarter and ultimately could decelerate a little bit further, are we a little bit closer to peak on both of those metrics than maybe we thought a quarter or two ago?
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah.
+There's kind of two angles to that, David, that I'll try to touch on.
+One is, you know, when does the backlog itself peak?
+You know, while we don't forecast that, it would not surprise me to see it grow again in Q4.
+On the second piece, in terms of purchase commitments, you saw they were up pretty substantially again in Q3.
+I guess back to the earlier question of, you know, is our supply chain team not being aggressive enough in pursuing parts.
+Purchase commitments now sit at a pretty high level and inventory sits at a pretty high level.
+that's so that as we clear the supply constraints on a few critical components, we can actually quickly convert that into finished goods product and get it in the hands of our customers who want those products.
+You know, is the peak now?
+Is the peak in Q4 or Q1?
+Really, a lot depends on the fluidity of availability of these critical components that we're chasing down.
+David Vogt
+Managing Director, UBS
+Great.
+Thanks, Scott.
+Scott Herren
+EVP and CFO, Cisco Systems
+I hope that makes sense to you.
+We're sitting on, you know, both a record backlog and record inventory, which seems like it's in contrast with one another, but it's not, right?
+We're holding onto the parts that we've got, and we just have to get the remainder to square the sets and get those built and out the door.
+David Vogt
+Managing Director, UBS
+Yeah, no, that makes sense.
+We're trying to understand sort of your cash flow conversion, so that's helpful.
+Thanks.
+Scott Herren
+EVP and CFO, Cisco Systems
+Mm-hmm.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+All right.
+Next question, please.
+Operator
+Thank you.
+Pierre Ferragu, you may go ahead from New Street Research.
+Ben Hawood
+Equity Research Analyst, New Street Research
+Hi.
+Thanks for taking the question.
+This is Ben Harwood standing in for Pierre.
+We had a couple of questions
+Firstly, you talk about most of your issues arising in April.
+The full quarter's around 4 % or 5% below expectations.
+Does this mean April activity was around 10%, 15% below your expectations?
+And then secondly, what happens to this demand that you cannot meet in the third and fourth quarter?
+Do you think it spills over into 2023?
+And then what would give you confidence on that?
+And then what kind of timeframe should we expect that lost demand to be met?
+Thank you.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+You want to take it, Scott?
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah.
+Ben, on the first part of your question, I didn't exactly follow your math.
+But you know, relative to expectations, we talked about the.
+Ben Hawood
+Equity Research Analyst, New Street Research
+In April.
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah.
+In the month of April, we talked about the.
+Obviously, the decision we made to stop operations in Russia, Belarus, had a $200 million impact to the quarter.
+Most of that was.
+It was two months of revenue that we had to forgo, and there were some receivables we had to write off within that.
+On the supply chain side, it would have made up the remainder of that delta to our expectations for the quarter.
+I hope that answers your question.
+I'm not quite sure I followed what you were trying to get at with that.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Well, he's just saying that the amount that we said we missed by, if you look at what we would have expected in April.
+Scott Herren
+EVP and CFO, Cisco Systems
+Mm-hmm
+Chuck Robbins
+Chair and CEO, Cisco Systems
+from a linearity perspective, it was a certain percentage of it, so it's just a mathematical issue.
+It's probably correct.
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah
+Chuck Robbins
+Chair and CEO, Cisco Systems
+We can check.
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah.
+I don't actually think about it in those terms.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+I don't either.
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah.
+Again, if that didn't answer your question, Ben, we can follow up afterward.
+Ben Hawood
+Equity Research Analyst, New Street Research
+Okay.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+All right.
+Thanks, Ben.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+He asked a second one, too.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Oh.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+About the backlog rolling over into 2023.
+Scott Herren
+EVP and CFO, Cisco Systems
+Yeah.
+I mean.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Would you-
+The backlog.
+A couple of things.
+I think what you may be trying to get at on the backlog question is the durability of that backlog.
+This is something that obviously we've been tracking very closely.
+What I'd say on order cancellations is they continue to run at a rate that is actually below where it was pre-pandemic.
+We're not seeing any cancellations there.
+We continue to see very strong pipeline and pipeline build, which is something else that I think you would expect to see weaken if there was softening demand.
+You know, as we look at kind of further out, with what's sitting in the backlog, we've also put in place a policy change that says, all orders are non-cancellable within 45 days of the committed ship date.
+That just went into place in the beginning of February, so orders that we've received since then, within 45 days of shipment, are non-cancellable.
+For our biggest customers, we've been working with them on a bespoke basis to put in place agreements where we'll guarantee supply, but they guarantee that those orders will not be rescheduled or canceled.
+Feel good about the durability of the backlog we've got.
+Ben Hawood
+Equity Research Analyst, New Street Research
+Yeah.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Thank you.
+Thank you.
+Next question.
+Operator
+Tim Long with Barclays.
+You may go ahead, sir.
+Tim Long
+Managing Director, Barclays
+Thank you.
+Yeah, two, if I could as well.
+First, Chuck, you know, the gross margins we talked about was good.
+A lot of that was pricing.
+It seems like you guys are in a strong pricing position now.
+If you look out a few quarters, if and when things normalize, do you think pricing pressure remains, or do you think that's something that will be a giveback to the industry or to the customers?
+Is that sustainable from a margin standpoint?
+Second, I was hoping you could dig into software more.
+I heard you know a lot of the kind of unique one-time factors in there.
+Still, you know, if you can exclude those, probably not great growth when you look at, you know, the software opportunities ahead of Cisco.
+Could you just give us, you know, the things to watch over the next few quarters that could, you know, start to reaccelerate growth in that software line?
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Tim, on the first one.
+Thank you for the questions, by the way.
+On the first one, I think that as we see, if we see reductions in our input costs over time, then we'll take, you know, into consideration whether we pass those through to the customers.
+The reality is we've taken on so many input cost increases that we haven't passed on to the customers, that we'll look at it holistically at the time where that stuff begins to occur, is what I would tell you.
+I'm glad you asked on the software growth because I think it's something that we wanna explain.
+It's a little difficult to understand completely, and we have a really interesting quarter because the extra week a year ago and the Russia situation and the supply chain situation.
+Let me try to take you through what's going on in software.
+If you start with the fact that we have well over $2 billion of software and backlog that is connected to a piece of hardware that we will not begin recognizing the revenue until the hardware ships.
+That's up $1 billion year-over-year.
+There's a large component of software that we're not recognizing right now that we would in normal times.
+That's the first piece.
+If you take into consideration the extra week from a year ago, where we do ratable recognition of revenue on a daily basis, we had an extra week, and then you take the software that we wrote down, software revenue that we wrote down as a result of ceasing operations in Russia.
+Those three, the first one is hard to put a number on, but assume it's reasonable.
+The Russia and the extra week was a five-point headwind to our software growth.
+Anyway, I know it's a little complicated, but I wanted to make sure you understood that.
+I would expect this stuff to normalize back, particularly without the Russia and the extra week impact.
+Once supply chain starts to clear, then we'll start to see those normalized growth rates that we would expect.
+Hopefully that wasn't too complicated.
+Tim Long
+Managing Director, Barclays
+No, just curious, any other, you know, standalone software or Nexus 9000 upgrades or what are the kind of things outside of, you know, the macro related that could really help?
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Yeah, the renewal stuff, you know, in 2023 could be helpful.
+We're continuing to make progress on that, you know, across the portfolio.
+I mean, we've got subscriptions running on switching, on routing, enterprise routing, on enterprise wireless.
+We've even built some subscriptions into our mass scale infrastructure group.
+We've got subscriptions now in our data center networking group.
+You know, they'll start layering in over the next few years.
+Tim Long
+Managing Director, Barclays
+Okay, thank you.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Thanks.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Okay, looks like we have time for one more question.
+Operator
+Thank you.
+Amit Daryanani from Evercore, you may go ahead.
+Amit Daryanani
+Senior Managing Director and  Equity Research, Evercore ISI
+Perfect.
+I'm glad I snuck in here.
+You know, I guess I will beat the dead horse on China supply chain issues.
+You know, maybe you could answer from the perspective of the billion-dollar shortfall.
+You know, I know it's supply chain, not just China, that you have in July.
+You know, A, what's your conviction that there's no share loss happening? 'Cause, you know, your peers might be one month off, but they sounded much better.
+Your conviction that others were not able to get the power, you know, analog product that you were not, and they were able to get the demand.
+A, could you just talk about conviction you are not having share loss?
+B, you know, China's had no COVID cases in Shanghai for a few days now, so assuming they open up in June, does that imply that you could be perhaps at the higher end of your guide and things get better in Q1?
+Or just what are you embedding from a Shanghai recovery in your fiscal Q4 guide?
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Yeah.
+Okay.
+It's First of all, I think market share is an incredibly difficult thing to assess right now because of the backlog situation, supply chain situation.
+We have a complex portfolio, so if you know where are we losing share somewhere.
+I suspect there's somewhere that we are losing share.
+But in our core markets, I actually feel really good about how we're performing and the demand that we've seen in, you know, whether it's Wi-Fi or switching or particularly in SP routing and in the web scale space and other areas.
+I don't think there's a widespread problem of share, but I'm sure there are pockets that we, you know, our teams are working on improving.
+That's the first piece.
+Amit, on the China thing, let me.
+What we've built into the guide is just a whole lot of uncertainty right now because we recognize that when they do open up, first of all, we don't know what that means.
+We don't know what open up means.
+Does it mean that they're gonna slowly open grocery stores and salons and things of that nature, and that the logistics side of it, or do they open up the logistics all day one?
+What does it mean about the capacity of resources they have for the logistics side?
+Our concern is that every company there is going to be trying to ship out.
+In some cases, many of the factories have been approved to keep working, and their workers have been working in dormitories, so they have components or ready-to-ship product that is sitting on the floor, and it's all gonna race for the ports.
+It's all gonna compete for the airports.
+We know there's lower air traffic capacity right now for us to leverage.
+We're concerned about how long it takes to clear that up, which is reflected in the guide.
+We also think that once it gets into their ports and it starts coming to the U.S., we have the risk of seeing what we saw in L.A., you know, several months ago.
+Those are all just the unknowns about what does opening up look like and what's the timeframe for recovery that led us to the cautious guide that we put out there.
+I would just remind you that it's not just Shanghai.
+I think as of the last article I read, there were, like, 45 cities that were in lockdown, and it was over a quarter of the population of China, so it's broader.
+That's how we're thinking about it, and we just have to wait and see how it unwinds.
+Amit Daryanani
+Senior Managing Director and  Equity Research, Evercore ISI
+Fair enough.
+Thank you.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Thank you.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Thank you, Amit.
+Scott Herren
+EVP and CFO, Cisco Systems
+Thanks, Amit.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Chuck, I'm gonna turn it over to you for some closing remarks.
+Chuck Robbins
+Chair and CEO, Cisco Systems
+Thanks, Marilyn.
+First of all, I wanna thank everybody for spending time with us and diving into the this the complex situation that we face.
+It's clearly a dynamic and challenging environment.
+We clearly faced unanticipated events during Q3 with the COVID lockdowns and the war in Ukraine.
+We think the short-term challenge is that we will manage through.
+Our teams have been working really hard on these mitigation actions that we believe will begin to benefit us in the first half of our next fiscal year, which is good.
+We're successfully realizing price increases, which is good.
+And also in Q3, even though we had a miss on the top line, I just wanna point out that it was a record EPS quarter for us as a company.
+At the low point of our guidance for Q4, we will deliver record EPS for the full year.
+While the top line is disappointing, we have navigated this complex year and actually will deliver solid EPS when we're done.
+The fundamentals are strong, a lot still in our favor.
+Demand, business transformation is working, the technology transitions and the number that we're participating in.
+We have great teams around the world, and that leads me to have a high degree of confidence despite the short-term challenges that we face.
+Thank you all for spending time with us, and we look forward to connecting with you next quarter.
+Marilyn Mora
+Head of Investor Relations, Cisco Systems
+Thanks, Chuck.
+I'll just wrap it up by saying, Cisco's next quarterly earnings conference call, which will reflect our fiscal fourth quarter and fiscal 2022 results, will be on Wednesday, August 17th, 2022 at 1:30 P.M.
+Pacific Time, 4:30 P.M.
+Eastern Time.
+This concludes today's call, but if you have any further questions, feel free to reach out to the investor relations team.
+We thank you very much for joining us today.
+Operator
+Thank you for participating on today's conference call.
+If you would like to listen to the call in its entirety, you may call 800-388-4923.
+For participants dialing from outside the U.S., please dial 203-369-3800.
+This concludes today's call.
+You may disconnect at this time.
+Data Source:
+Quartr
+Last updated:
+May 18, 2022
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (16)
+Quarterly report
+Earnings release
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
