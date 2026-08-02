@@ -1,0 +1,850 @@
+Applied Materials (AMAT) Q2 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Applied Materials, Inc. (AMAT)
+NASDAQ: AMAT · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+507.67
++5.90 (1.18%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+506.21
+-1.46 (-0.29%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q2 2022
+May 19, 2022
+Quarterly report
+Earnings release
+Slides
+Play Audio
+Download Transcript
+Operator
+Welcome to the Applied Materials Earnings Conference Call.
+During the presentation, all participants will be in a listen-only mode.
+Afterwards, you will be invited to participate in a question-and-answer session.
+I would now like to turn the conference over to Michael Sullivan, Corporate Vice President.
+Please go ahead, sir.
+Michael Sullivan
+Corporate VP of Investor Relations, Applied Materials
+Good afternoon, everyone.
+And thank you for joining Applied's second quarter of fiscal 2022 earnings call.
+Joining me are Gary Dickerson, our President and CEO, and Brice Hill, our Chief Financial Officer.
+Before we begin, I'd like to remind you that today's call contains forward-looking statements which are subject to risks and uncertainties that could cause our actual results to differ.
+Information concerning the risks and uncertainties is contained in Applied's most recent Form 10-Q and 8-K filings with the SEC.
+Today's call also includes non-GAAP financial measures.
+Reconciliations to GAAP measures are found in today's earnings press release and in our quarterly earnings materials, which are available on the IR page of our website at appliedmaterials.com.
+Before we begin, I have a calendar announcement.
+Applied will host its next Master Class one week from today on Thursday, May 26th at 9:00 A.M.
+Pacific Time.
+We'll introduce you to new IMS solutions for chip wiring that solve the resistance challenges of EUV scaling.
+We'll detail how the industry can build backside power distribution networks that increase logic density by up to 30% at the same lithography.
+We'll introduce you to new developments in hybrid bonding and heterogeneous integration, and we'll translate these inflections to our product roadmaps and growth targets.
+We hope you'll join our technology experts for presentations and Q&A.
+Now I'd like to turn the call over to Gary Dickerson.
+Gary Dickerson
+President and CEO, Applied Materials
+Thank you, Mike.
+The global semiconductor industry and Applied Materials continue to navigate an unprecedented set of challenges.
+Demand for semiconductors has never been stronger or broader, while the industry's ability to fulfill this growing demand remains constrained by ongoing supply chain issues.
+I would summarize Applied's second fiscal quarter of 2022 as a two-part story.
+During February and March, we successfully resolved some key component bottlenecks, only for this progress to be offset in April as COVID-related shutdowns further disrupted already stretched supply.
+These shutdowns are impacting a small number of our suppliers and ultimately delayed around $150 million of revenue in the quarter.
+Today, our number one priority is to work quickly and creatively across the supply chain to bring more industry capacity online.
+I would like to recognize the hard work and commitment of our global team and our suppliers who are doing everything possible to meet our customers' needs.
+In my prepared remarks, I'll cover three key topics.
+First, the supply situation and how we see this evolving over the coming months.
+Second, the near-term demand environment and why we believe this remains strong and sustainable.
+Third, our long-term view of the markets, the industry's roadmap, and Applied Materials' unique and differentiated capabilities that together create a rich landscape of opportunities for our company.
+After that, Brice will provide more color on our financial performance and share some of his initial impressions.
+Brice has been with us for eight weeks and we're delighted to have him on board.
+He brings deep and broad experience to our leadership team at this critical time for Applied and the industry.
+Let me begin with the supply side of the equation, which is our biggest area of focus in the near term.
+The supply situation continues to present multiple challenges that we are working hard to address.
+Our key issues are shortages of silicon components, as well as certain other parts that go into the subsystems of our tools.
+We are doing whatever it takes to deliver for our customers, from sending Applied resources to supplier sites, qualifying alternative parts, investing in our supply chain, to working with customers in creative ways to accelerate shipments, including merging system modules at their sites.
+In addition, we're collaborating with customers using our technology-enabled services to fast-track the startup and qualification of equipment once it arrives at their fabs.
+For reference, if you map out a typical timeline, starting with the shipment of a tool from our factory and ending with the first production wafer out in the customer's factory, the time to install and qualify tools for high-volume production can take months.
+We are seeing strong customer pull for new ramp acceleration services to cut down that valuable time significantly.
+A positive consequence of our current challenges is that our supplier engagements are becoming much stronger.
+Not only are we partnering with our suppliers to overcome near-term constraints, we are also building more robust solutions to support industry growth over the coming years.
+As we focus on the needs of our customers by addressing parts scarcity, expediting deliveries, and adding labor in our factories in the field, we are incurring additional costs that are impacting Applied's near-term financial performance.
+As issues are resolved and we implement effective long-term solutions, transitory cost headwinds will abate.
+We're also taking actions to improve value capture, including price adjustments.
+Turning to the demand side of the equation, our outlook remains positive.
+The picture for 2022 is clear.
+We have the orders booked, a full build plan, and a large and growing backlog.
+We believe unconstrained demand for wafer fab equipment would be $100 billion or more. The key question is how quickly supply issues can be mitigated and how much the industry will actually be able to ship this year.
+The primary focus for our customers is now securing supply for 2023.
+The visibility our customers are providing is both longer-term and more detailed than in the past.
+On this basis, we currently see 2023 remaining strong and being higher than 2022.
+There are several additional factors that give us confidence in this assessment.
+First, end demand for silicon continues to grow, driven by content growth in existing and new applications.
+Second, fab utilization is very high, even as newly installed capacity comes online.
+Based on almost 10 years of analytics, this is the highest quarter for industry utilization on record.
+Third, customers are starting up new capacity faster than ever.
+Essentially, all tools are being installed by our Applied Materials service team as soon as they arrive at customer fabs, which we have not seen before.
+As we think about demand sustainability, we also take into consideration the broad-based composition of wafer fab equipment spending.
+In 2022, we expect foundry logic to make up more than 60% of total WFE investments.
+This spending will split relatively evenly between the most advanced nodes and ICAPS, production for the IoT, communications, automotive, power electronics, and sensors markets.
+ICAPS demand has grown significantly over the past several years, and we see sustainable investment by these customers.
+The edge applications are consuming more and more silicon.
+One example is automotive, where the global average silicon content is now $600 per unit, almost twice as much as in 2015, and this will continue to grow with the adoption of electric vehicles.
+Another example is a 5G phone that has 40% more RF content than a 4G handset.
+The need for extreme power efficiency in battery-powered edge applications is enabled by innovation in materials and structures and is driving an increase in layers and process steps.
+Over the longer term, advanced packaging and heterogeneous integration also support sustainable demand for ICAPS nodes as chip designers can use the optimal node for power, performance, and cost for each chiplet in a system.
+ICAPS customers are more focused on innovation than ever, and we are meeting these needs with new application-specific products.
+One example is an implant, where over the past five years we've introduced 10 new systems developed for specific ICAPS applications.
+While navigating near-term challenges remains our top priority today, we are not losing sight of the bigger picture and long-term opportunities.
+It's now consensus within the industry that there's a clear path to a trillion-dollar semiconductor market before the end of the decade.
+That would represent a high single-digit compound annual growth rate from where we are today.
+In other words, it took the industry more than five decades to reach half a trillion dollars of annual revenues, and we will add another half trillion within the next six to eight years.
+We feel even better about where Applied Materials sits within the ecosystem.
+Because technology complexity is increasing, we expect equipment intensity will remain at today's level or increase further over that period.
+As a result, WFE will grow in line or faster than the overall semiconductor market.
+Within equipment spending, major technology inflections are enabled by materials engineering, shifting more dollars to our available market over time.
+We describe the industry roadmap that will deliver future improvements in performance, power, and cost of semiconductor devices as the PPACt playbook.
+While different companies have their own version of the PPACt playbook, the fundamental components of the roadmap are the same, new architectures, new 3D structures, new materials, new ways to shrink, and advanced packaging.
+Within each of these five pillars, clear technology inflections are emerging that can be quantified in terms of impact, value, and timing.
+At our recent master class, we described the industry's transition from FinFET to Gate-All-Around, which is a new 3D structure.
+Applied has the broadest portfolio of solutions to enable next-generation transistor technology.
+With the Gate-All-Around inflection, the total available market for our transistor product portfolio grows by more than 15%.
+Based on our tool of record positions, we expect to increase our share of that available market by more than five points.
+In terms of timing, we expect to start ramping shipments next year.
+In our next master class at the end of the month, we'll talk about wiring and chip integration innovations.
+Contact and interconnect are both major focus areas for our customers as they develop new materials and new 3D structures, including backside power distribution networks.
+Between the 7 nm and 3 nm node, contact metallization steps are growing more than 50%, and our total available market is expanding almost 80%.
+For interconnect layers, process steps are being added even faster and we expect our revenue opportunity to approximately triple.
+We'll also provide an update on our momentum in advanced packaging.
+At the investor meeting a year ago, we said we expected to double our packaging revenue between 2020 and 2024.
+Today, we believe we're on track to hit our 2024 packaging revenue goal one year early by winning more than 60% share of our served market.
+Beyond equipment, we are delivering and capturing more value with advanced services.
+Facing both supply constraints and record fab utilization, customers are seeing significant benefits from using our proprietary parts management and service agreements.
+We see this reflected in our results as AGS delivered record revenue in the quarter, up 15% year-on-year.
+Before I hand the call over to Brice, I'll quickly summarize.
+Semiconductors are the building blocks of the modern world, making them more strategically and economically important than ever.
+Today, the entire industry is working hard to keep up with the world's rapidly growing consumption of silicon.
+Demand for Applied's products and services is strong, sustainable, and broad-based.
+We anticipate our ability to fulfill this demand will remain constrained by ongoing supply chain challenges in the near term, with incremental improvements beginning in our fourth quarter.
+Our number one priority is to continue working collaboratively with customers and suppliers to bring more industry capacity online.
+We are making progress in key areas, although it is not yet visible in our results.
+Longer term, we see incredibly exciting opportunities as secular trends create opportunities for Applied to outgrow the semiconductor market by enabling the PPACt roadmap with our differentiated portfolio of materials engineering solutions.
+Now, I'll hand the call over to Brice.
+Brice Hill
+CFO, Applied Materials
+Thanks, Gary.
+First, I want to thank the Applied Materials team for such a warm welcome.
+Across the company in manufacturing R&D, the business units, operations, and functions, people have shared their enthusiasm for the business and invested in helping me get quickly up to speed.
+The company's dedication to its mission and its customers is tangible in every setting, and I'm thrilled to be included.
+I've been working in the industry for almost 30 years now, and being new to Applied, I'll share a few of my observations so far.
+For most of my career, semiconductor technology advanced almost like clockwork and became the engine of global economic growth and productivity.
+We all knew the playbook.
+Looking to the future, the semiconductor roadmap is fundamental to rapid advances and competitive differentiation in all fields, including healthcare, transportation, and education, where we will leverage massive data collection and analysis and do so using less energy and resources.
+Today, many people are concerned that the growth and benefits we envision are at risk because the traditional playbook has stalled, making progress more difficult and uncertain.
+Applied focuses on exactly this problem, working closely with its customers to identify and invest in the materials innovations we need to create a new playbook and a new roadmap and enable higher semiconductor performance, lower power consumption, and lower cost.
+It feels great to be a part of this team and this important mission.
+Now I'll share three of my first impressions.
+First, the company is highly execution-focused.
+The team has used its in-depth understanding of the global semiconductor ecosystem to battle almost daily challenges with chip and component availability.
+The manufacturing teams have been flexible and relentlessly hardworking to deliver for customers in a way that inspires my confidence that we will resolve these issues.
+Over time, I'd like us to smooth out the heavy quarter end production schedules to make us less vulnerable to supply disruptions.
+Second, Applied's roadmap extends well beyond the emerging technologies we are talking about today, and this gives me confidence in the industry's ability to continue to drive performance, power, and cost for many generations into the future.
+When I was on the customer side, I didn't realize just how much capability there is.
+Third, the business is highly efficient in terms of capital intensity and operating spending.
+It's a great model with an excellent return on invested capital.
+I'm excited to work with Applied's investors and analyst community, and I hope to meet many of you in the near future.
+On today's earnings call, I'll provide more context on Applied's financial performance, position, and outlook and emphasize three key messages.
+One, demand is very strong, both in the short term and long term.
+Two, we are supply chain constrained, but we are poised for growth as the situation improves.
+Three, we are confident in the future of the industry and increasing our capacity to support the growth we and our customers see ahead.
+Now I'll summarize Q2 results.
+First, we generated revenue of $6.25 billion, which was up 12% year-over-year.
+However, revenue was 2% below the midpoint of our guidance because a COVID lockdown in a key region resulted in factory and shipping closures for a number of our suppliers.
+To size the impact for you, if the COVID shutdowns had not occurred, we would have exceeded the midpoint of our revenue guidance.
+We met our non-GAAP gross margin target of 47%, which was down 70 basis points year-over-year, as the higher input costs we have been experiencing flowed through inventory and into our revenue shipments.
+We increased non-GAAP operating profit dollars by 8% year-over-year to $1.91 billion, benefiting from revenue growth.
+Operating margin of 30.6% decreased 110 basis points year-over-year due to higher R&D and infrastructure spending. We grew non-GAAP earnings per share by 13.5% year-over-year to $1.85, which was $0.05 below the midpoint of guidance due to the supply chain constraints.
+Operating cash flow declined to $415 million in Q2 because shipments were back-end weighted during the period, and because we increased raw material and work in process inventory.
+Year-to-date operating cash flow as a percent of revenue was in line with our historical performance.
+During the quarter, we returned over $2 billion to shareholders, deploying $1.8 billion to repurchase 15 million shares of company stock and paying $211 million in dividends.
+During the quarter, we announced a new $6 billion stock buyback authorization and increased the dividend by 8.3%, marking our fifth consecutive annual dividend increase.
+Next, I'll summarize our segment results.
+We continued to generate strong orders in Q2 in both Semi Systems and AGS.
+Our backlog continues to grow, and we have visibility from our customers extending into 2023 and beyond.
+Our Semi Systems revenue grew 12% year-over-year, but was about 3% below our expectation due to the COVID-related supplier shutdowns.
+Semi Systems non-GAAP operating margin declined 200 basis points year-over-year due to increases in manufacturing costs and R&D program spending.
+In AGS, our teams went to extraordinary lengths to keep customer factories running at high utilization, which was particularly difficult in the regions impacted by COVID lockdowns.
+We delivered record revenue and exceeded our segment revenue guidance, growing 15% year-over-year.
+We also increased our non-GAAP operating margin by 70 basis points year-over-year.
+The ability of AGS to deliver sequential growth in Q2 demonstrates the recurring nature of Applied's services business.
+As a reminder, around 87% of AGS revenue comes from services, parts, and software, and this strong services mix enabled AGS to grow despite the supply chain disruptions affecting wafer fab equipment.
+Our strategy is to grow the subscription portion of our services business, which gives us predictable revenue, brings us closer to our customers, and generates over three times the revenue per tool.
+I'll share some of the metrics we use to gauge our progress.
+In Q2, the Applied Materials installed base grew by 8% year-over-year and is over 40,000 systems.
+The systems under subscription agreement grew by 11% year-over-year to over 15,000.
+The average tenure of our agreements grew from 2.3 years last quarter to 2.5 years in Q2, and the subscription renewal rate was 92%.
+Next, our display revenue was at the midpoint of our revenue guidance, up 2% year-over-year, and we increased non-GAAP operating margin by 390 basis points year-over-year.
+Recently, however, there has been weakness in consumer demand for products like smartphones, PCs, and TVs.
+As a result, display equipment demand has softened, and we are making adjustments to our revenue outlook and curtailing our spending in line with the demand environment.
+We will manage the business with the goal of maintaining healthy cash flow, even at lower levels of revenue and operating margin.
+Next, I'll address how we are preparing for our longer-term growth opportunity.
+Today, we are working with our customers using much longer planning horizons and receiving better long-term visibility.
+We are working closely with our supply chain partners to remove bottlenecks and increase capacity, and we are adding incremental capacity at our R&D and manufacturing sites to increase longer-term efficiency and output.
+As a result of these efforts, we expect to achieve a more robust supply chain and manufacturing capability, along with deeper strategic relationships with our customers and suppliers.
+Now I'll turn to our guidance for Q3.
+We expect revenue to be $6.25 billion with a wider range of ±$400 million.
+We expect non-GAAP EPS to be around $1.77, ±$0.18.
+Within this outlook, we expect Semiconductor Systems revenue of $4.48 billion, a number that is well below demand and assumes the supply chain constraints will persist during the quarter.
+We expect AGS revenue of $1.43 billion, up 11% year-over-year, and display revenue of $310 million.
+We project non-GAAP gross margin of 46%, non-GAAP OpEx of $1.06 billion, and a non-GAAP tax rate of 12%.
+Finally, I'll comment on our gross margin outlook beyond Q3.
+We expect to gradually increase our gross margins beginning in Q4 through a number of actions that include pricing adjustments, manufacturing cost reductions, logistics improvements, and product re-engineering.
+Over time, as the supply chain recovers, we expect a number of transitory costs to abate and to ship higher volumes at a richer product mix.
+We are fully committed to achieving our longer-term gross margin targets.
+In summary, our demand outlook is very strong in the short term and in the long term, and we are investing to further strengthen our strategic customer relationships and drive profitable growth and shareholder returns.
+Mike, please begin the Q&A.
+Michael Sullivan
+Corporate VP of Investor Relations, Applied Materials
+Thanks, Brice.
+To help us reach as many people as we can, please ask just one question on today's call.
+If you have another question, please re-queue and we'll do our best to come back to you later in the session.
+Operator, let's please begin.
+Operator
+Thank you.
+As a reminder, to ask a question, you'll need to press star one on your telephone.
+To withdraw your question, press the pound key.
+Our first question comes from CJ Muse with Evercore.
+You may proceed.
+CJ Muse
+Senior Managing Director, Evercore
+Yeah, good afternoon.
+Thank you for taking the question.
+I guess the question is, given supply constraints and rising backlog, how are your commitments with key subsystem suppliers evolving?
+And given these commitments, how are your contracts and engagements with your customers evolving as well?
+It sounds like, on the prepared remarks, you talked about smoothing out build and shipment plans.
+I'm curious, does this mean a vision to work from a longer lead time permanently?
+And does this mean upfront payments from customers?
+I would love to hear your thoughts there.
+Thank you.
+Brice Hill
+CFO, Applied Materials
+Great.
+CJ, thanks for the question.
+A question about supply constraints and commitments from suppliers and commitments to our customers.
+Starting with the supply side of the equation, we've been working, you know, tirelessly with the entire supply chain to improve output to get toward the levels that we see, you know, later in the year and through the horizon on the growing, WFE demand.
+On the commitment side, we've definitely made lots of progress.
+We look at, you know, we look at the situation as frustrated by the lockdowns that we've described, but most of these problems are being solved and we expect to gradually increase output as we get past this quarter that's right in front of us.
+If we think about our customers, you know, we've talked about how orders are at the highest level they've ever been.
+We've talked about how our backlog is increasing.
+We're not intending to change the commitment in terms of deliveries to our customers.
+We're working instead to open the aperture on supply and begin working down the backlog as we start to get more of the critical components in.
+We've described how our Q4 as we think past Q3 and into Q4, we expect to gradually increase revenue from that point on.
+No changes from the customer commits.
+We'll work on improving the performance as we get the supply chain open, and we've made tons of progress with our suppliers.
+Gary Dickerson
+President and CEO, Applied Materials
+Hi, CJ.
+This is Gary.
+Yeah, what I would add is that relative to the customer visibility, it's better than ever.
+A lot of our customers do have longer term contracts with their customers and so, you know, we're unfortunately booking all the way into 2024 at this point in time.
+But as Brice said, we're definitely driving our supply chain to improve delivery times for customers.
+That's priority one.
+I would say our visibility is significantly better.
+Actually, the conversations that we have with customers relative to visibility is further out than we've ever seen.
+CJ Muse
+Senior Managing Director, Evercore
+Thank you very much.
+Brice Hill
+CFO, Applied Materials
+Thanks, CJ.
+Operator
+Thank you.
+Our next question comes from Stacy Rasgon with Bernstein Research.
+You may proceed.
+Stacy Rasgon
+Senior Analyst, Bernstein Research
+Hi, guys.
+Thanks for taking my questions.
+I wanna ask about the backlogs and orders.
+You said the backlog is strong.
+Is the backlog at record levels right now, or has it been stronger in any of the prior quarters in the past?
+I know you talked about obviously you're shipping some tools, they're missing modules.
+How much revenue would you have in that backlog that may be represented by tools that have already been shipped and actually just waiting for final modules in order to recognize that revenue?
+I guess I'm trying to get some feeling for how much, like, where the backlog is and how much of it is actually, like, really baked at this point.
+Brice Hill
+CFO, Applied Materials
+Yes.
+Thank you for the question.
+I think the first question, you know, we've actually seen the backlog continuing to grow, so that's been a dynamic that's been consistent for the last quarters, and it's not something we're celebrating.
+We're looking to open the aperture and begin, you know, supplying at a faster rate and work the backlog down.
+At this point, we still have, you know, more than two quarters of backlog looking forward.
+As far as the missing modules go, we won't specify exactly what the overhang from quarter to quarter is, but you've got the right dynamic.
+We are shipping a number of tools that, you know, are missing one or two parts.
+For the accountants and the investors, we cannot recognize revenue until we complete those tools.
+As we work through the quarter, we work to complete all of the tools we've shipped at customer.
+There are some that are incomplete.
+We haven't recognized revenue for those.
+Those go into the next quarter as we get the critical components.
+It's not a significant overhang and I wouldn't look at it as necessarily a head start into the next quarter.
+When we think about our guidance to the next quarter, you know, we have carefully mapped out all of the supplies from our supply chain and how they'll help us close the machines that we need to complete in the field and also the orders for the quarter.
+When you think about that overhang, it's not overly significant, but it does exist.
+Thanks for the question.
+Stacy Rasgon
+Senior Analyst, Bernstein Research
+Got it.
+Thank you.
+Operator
+Thank you.
+Our next question comes from Vivek Arya with Bank of America.
+You may proceed.
+Vivek Arya
+Managing Director, Bank of America
+Thanks for taking my question.
+I think you quantified $150 million delta, if I heard correctly, in terms of demand and output for Q2 in Semiconductor Systems.
+I was hoping you could give us that delta for Q3.
+Given that we are kind of past the halfway mark for your fiscal year.
+How should we think about the floor for WFE this year?
+Is it something closer to $90 billion instead of $100 billion?
+Or is it a different number, assuming the supply situation doesn't dramatically improve even in your Q4?
+Brice Hill
+CFO, Applied Materials
+Yes.
+Thanks for the question, Vivek.
+On the overhang for the quarter or on the under-ship for the quarter of approximately $150 million, that's the right number.
+That goes specifically toward the lockdowns in April.
+You know, that hit us in the last month of the quarter.
+It affected.
+You know, we have a significant number of our builds in the last month of the quarter, so it definitely put a bump in the supply chain for us.
+We think we would have, you know, exceeded our guidance had that not happened.
+When we think about Q3, again, we've mapped out all of the key components into Q3.
+What I want to communicate here is we are forecasting and relying on the factories, our supplier factories, to continue to reopen, continue to be staffed, and the shipping lanes to continue to open from that area of the world.
+You know, we have intelligence, we have the ramp plans, we have the product plans, so our forecast is built on that.
+When you think about the delta for Q3, I would say that we've done our best on the guidance side.
+Our capability and our demand is much higher than our guidance for Q3.
+What you see there is a forecast that's, you know, metered, if you will, by the speed the supply chain is going to pick back up.
+That's why we're also saying we expect in Q4, you know, we'll say for today that we expect incremental improvements and we'll see how this resolves for the quarter.
+Then on the last piece on WFE, we're sort of running at the same rate.
+You can look at our last few quarters, we've sort of been running at the same rate.
+You know that last year was an $87 billion WFE.
+We're probably running, you know, today, at today's speed, in the low $90s from a WFE perspective.
+So we would say that's the floor, because as you know, we continue to get orders.
+We have a long backlog.
+So at this point, it's just how much can we crank it up as the supply chains open in the Q4, Q1 time frames.
+Thanks for the question.
+Vivek Arya
+Managing Director, Bank of America
+Thanks.
+Brice Hill
+CFO, Applied Materials
+Yep.
+Operator
+Thank you.
+Our next question comes from Mark Lipacis with Jefferies.
+You may proceed.
+Mark Lipacis
+Managing Director, Jefferies
+Hi.
+Thanks for taking my question.
+Excuse me.
+Gary, I believe you said that you were building tighter relationships with your suppliers.
+Brice, you used an expression that I was not familiar with, opening up the aperture on supply.
+I was wondering, could you just spell that out?
+What does that mean to open up the aperture on supply?
+How does that help you close the gap between the demand you have and your ability to supply?
+Gary, when you talked about building tighter relationship with your suppliers, you know, my understanding is you get subsystems also, so then you have suppliers, and your suppliers have suppliers.
+I'm wondering if you could just kind of spell that out.
+Like, how does like, that manifest in, you know, mechanically in, you know, helping to avoid, you know, the situation you're in right now in the future?
+Thank you.
+Brice Hill
+CFO, Applied Materials
+Thanks, Mark.
+This is Brice.
+I'll just make a quick comment on opening the aperture concept there.
+What I'm thinking is if you look at our inventory position, our inventory increased $500 million quarter-over-quarter.
+Our capacity is high, you know, higher than where we're operating today and our backlog is very large.
+From my perspective, we're poised to grow quickly and what we need to do is get the supply chain on the key components operating.
+We need to, you know, ramp the factories in Shanghai, get the supply chains open, and keep going.
+The concept there was just, you know, if you think about the aperture of a nozzle or a hose or something like that, just open it up faster so that we can actually execute what we're prepared to execute.
+I think the best place you can see that is in our inventory position looking forward.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah, Mark, on the supplier relationships, probably the biggest thing that we're doing differently now is the multi-tier visibility in our supply chain.
+You know, previous to this situation, we never really had to focus on chips and components that are deep in our supply chain.
+Now, you know, we have that visibility and just very strong and fast support from our biggest customers to close those gaps.
+Again, those gaps, frankly, are still coming.
+You know, one of the situations we just encountered in this lockdown, COVID lockdown that happened on March 28 , we had wafers that were completed from one of our big customers, and they were packaged in that region.
+Again, prior to this situation, we would have never known those wafers were going into that region.
+I would say that what's encouraging to me is the engagements we have with those suppliers.
+We're also extending our planning horizons with those suppliers.
+We have tremendous focus within all of our different business units with tremendous engineering horsepower focused into the supply chain.
+We've made actually some tremendous improvements in fundamental bottlenecks over the last few months, but you can't see it, again, because of the COVID lockdown that started for some of our suppliers on March twenty-eighth.
+That went on for several weeks, really with no people in those factories, and even today, some of those suppliers have significantly less than 50% of the people back in the factory.
+This multi-tier visibility is dramatically better.
+The engineering horsepower we have focused and really the joint problem-solving, I'd say with our suppliers, it's really been great.
+There's been tremendous support, really joint problem-solving.
+I just have tremendous appreciation for the focus and the work that all of our suppliers are doing.
+Mark, we are making progress.
+Again, as Brice said, the biggest uncertainty right now is in this COVID lockdown.
+You know, how quickly is that going to resolve is really the gating factor for us in terms of incremental improvement.
+Mark Lipacis
+Managing Director, Jefferies
+Very helpful.
+Thank you, guys.
+Operator
+Thank you.
+Our next question comes from Krish Sankar with Cowen.
+You may proceed with your question.
+Krish Sankar
+Managing Director and Senior Research Analyst, Cowen and Company
+Yeah.
+Hi, thanks for taking my question and congrats, Brice, on the new role.
+I have a big picture question for Gary.
+You know, Gary, clearly demand has been strong, and there's been supply constraint for a long time.
+It seems like that has been the theme from semi and semi cap companies for the last nine months or so.
+Now let's just say, assume for argument's sake, demand actually slows down in calendar 2023.
+From your experience, Gary, where would you see that impact WFE first?
+Would it be mature nodes?
+Would it be China?
+Would it be memory WFE or something else?
+Thank you.
+Brice Hill
+CFO, Applied Materials
+Thanks for the comments.
+Its Brice, I'll take a shot at this first and see if Gary wants to add anything.
+You know, the first thing I wanna say in case someone joined and didn't hear the situation early, the situation that we see today is that we're getting more and more orders each quarter.
+Our backlog is increasing.
+Our customers are calling us, telling us to speed up, and our customers' customers are calling us and telling us to speed up.
+When we look at utilization, we've talked about this, you know, in previous calls, and Gary mentioned it in his overview.
+When we look at utilization, we track utilization of equipment across the entire industry, you know, in all applications, in memory, in foundry, in ICAPS, et cetera, and we see utilization at record levels.
+Finding my way back to your question, you ask, where would we see any change if the environment turned?
+We think the first place we would see that is you wouldn't get new orders.
+The fact that we're getting such a high degree of new orders says that not only aren't customers, you know, trying to reschedule their orders or thinking about, you know, a different schedule on their own, they're actually adding to it.
+The second place we would see it is, you know, there's been discussion of some of the consumer demand companies maybe having less demand.
+The second place you would see it is actually wafer starts, and we're not seeing it there either.
+We're not getting any of those signals.
+To be, you know, answer directly, we would see it you know, in the new orders slowing down.
+I think that would be the first place we see it.
+We're not seeing that today.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah.
+Krish, this is Gary.
+What I would add is that I have numerous conversations with a number of different CEOs, and really the focus of those conversations is on supply, and in many cases, they do have long-term agreements, multi-year agreements with their customers.
+You know, the first priority is tools that they need to qualify for that incremental capacity with all of those customers.
+You know, again, the thing I would say that's different from what I've seen in the past, I'm meeting some of our customers' customers, and you know, they're describing really what they need relative to chip content and innovation in the leading edge.
+Certainly, again, a lot of the conversations are also in the ICAPS space, where those customers have multi-year contracts and visibility, again, with those customers.
+I think that's probably the biggest thing.
+I've never seen that in my entire career, in the industry.
+Krish Sankar
+Managing Director and Senior Research Analyst, Cowen and Company
+Thanks, Gary.
+Thanks, Brice.
+Really appreciate it.
+Operator
+Thank you.
+Our next question comes from Toshiya Hari with Goldman Sachs.
+You may proceed.
+Toshiya Hari
+Managing Director, Goldman Sachs
+Hi, good afternoon.
+Thank you so much for taking the question.
+I wanted to ask about pricing, both the timing of some of the adjustments that you guys talked about and also the scope of some of the adjustments.
+On the timing, you know, Brice, I guess you're guiding fiscal Q3 gross margin to 46%.
+Any pricing adjustment or the impact from pricing embedded in that number?
+If not, should we expect, you know, some of the tailwinds to show up in fiscal Q4 and into fiscal 2023?
+On the scope of some of the pricing adjustments, maybe one for Gary.
+As you have these discussions with your customers, should we expect, you know, positive pricing in your leadership products, primarily and not so much in the areas where you have more competition, or are customers receptive to pricing adjustments in areas like etch and say, process control?
+Thank you.
+Brice Hill
+CFO, Applied Materials
+Thanks.
+Thanks, Toshiya .
+I'll start with that.
+On the pricing, you know, first I'd like to communicate that, you know, we're doing everything we can to offset the cost side of the equation.
+You know, we've got more than a couple points of headwind over the last few quarters and, you know, being off our model, and those things go to things that we've described as we've gone along.
+It's the, you know, labor and overtime, that's higher expense, it's the materials inputs, it's the freight and expedites that we're having to pay.
+Because we can't get all the tools out right now, there's a little bit of a mix impact.
+When we think forward in our 46% gross margin guide, it does include some pricing improvements in Q3, and those will grow over time as they get more traction and we work those across along with the cost reduction efforts we have for the company.
+You know, as we think about Q4, we're focused on improving logistics, improving the supply chain, making cost reductions with some of our key projects in terms of re-engineering and finding more commodity solutions for some of our products.
+Those are all things that we'll do to bend back the cost side of the equation and help us and help our customers.
+On the pricing side, you'll see that increase over the coming quarters gradually helping each of Q3, Q4, and then Q1.
+On the scope, I think the scope is very broai and I'll let Gary comment on that.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah, Toshiya, what customers are really focused on with Applied is, you know, really the first focus is accelerating capacity and really closing the gap between supply and demand.
+As Brice mentioned, you know, there's a number of different headwinds there.
+Customers all understand that.
+They want us making those investments.
+Everything that we can do to help them accelerate chip output is a major focus.
+The other thing I would say that, and by the way, the May 26 master class, I would really encourage many of you to come and see that.
+You know, the wiring innovations are really one of the biggest bottlenecks in the entire industry.
+Applied really has many differentiated unique technologies to solve maybe what's the biggest bottleneck in the entire industry for power and performance.
+Obviously technology innovation and value pricing, Toshiya Hari, is also key for our customers in terms of driving innovation and creating value.
+You know, anyway, those are the things that our customers are focused on.
+I-- as Brice said, it's not limited in terms of scope.
+Toshiya Hari
+Managing Director, Goldman Sachs
+Thanks, Gary.
+Operator
+Thank you.
+Our next question comes from Harlan Sur with JP Morgan.
+You may proceed.
+Harlan Sur
+US Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Good afternoon.
+Thanks for taking my question.
+You know, given all of the supply chain disruptions and component shortages that you and your peers are going through, how is this impacting the overall semiconductor industry?
+In other words, foundry and logic all had plans to expand capacity to a certain level to close the industry supply-demand gap, but how much slower will capacity grow with all of the equipment shipment delays this year and next year relative to your customers' targets?
+In memory, right, for DRAM, do you think that your customers are gonna be able to expand bit supply by targeted 15%-17% or NAND output by 28%-30%?
+It seems as if all of this is just gonna result in a longer time to close the semi industry supply-demand gap.
+I know you guys have a good sense and a large team that monitors industry capacity expansion, so wanted to get your views.
+Brice Hill
+CFO, Applied Materials
+Yeah.
+Thanks, Harlan.
+This is Brice.
+I'll start on that one.
+We do think you're right from the perspective of the growth has been metered this year, for sure.
+You know, I think we talked about one of the earlier questions, kind of the level we're running from a WFE versus what the natural level will be if we can open things up and speed up in Q4 and Q1.
+You know, I think the way we would think about it is we're a few quarters behind what raw demand is, and that's probably what's happening across the industry.
+When we think about the sustainability of the demand, you know, we study all the end markets, as you've described, all the different ICAPS markets, the edge devices.
+Harlan Sur
+US Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Mm-hmm.
+Brice Hill
+CFO, Applied Materials
+The leading edge logic area, etc., including the memory components.
+You know, we see a consistent growth across the horizon from a demand perspective.
+This just looks like, you know, it's this supply chain situation is going to meter the beginning of the cycle, and it gives us confidence as we think forward over, you know, Gary mentioned that we're starting to look at demand into 2024.
+We have high confidence that as we ramp up, that demand will continue, you know, through 2023 and even into 2024 as the industry works to work on its backlog and work on catching up to the real demand that's underneath.
+Harlan Sur
+US Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Helpful.
+Thank you very much.
+Brice Hill
+CFO, Applied Materials
+Yep.
+Operator
+Thank you.
+Our next question comes from Joe Quatrochi with Wells Fargo.
+You may proceed.
+Joseph Quatrochi
+Equity Research Analyst, Wells Fargo
+Yeah.
+Thanks for taking the question.
+I think this is the fourth straight quarter you've hired over 1,000 people or added to your headcount.
+I assume a lot of these are manufacturing on-site.
+You know, Semiconductor Systems revenue obviously hasn't really changed over that time period.
+I guess, when we think about the margin structure, how do we think about the cost absorption or the magnitude of that cost absorption, you know, relative to maybe the price adjustments that you're putting through as we think about the improvement in margin over the next several quarters?
+Brice Hill
+CFO, Applied Materials
+Yes, thanks for the question.
+I think first of all, on the hiring, you're right that there's a significant amount of manufacturing hiring.
+As you know, the flow in manufacturing isn't perfect at this point as we have to react to you know sort of less predictable inventory and supply, and we have bursts of manufacturing to meet the customer needs.
+We also highlighted earlier in the call that you know we're actually working a number of re-engineering projects to improve both the cost profile and the use of alternate parts for some of our products, and we have to do the re-engineering and the qualifying of those products.
+So that takes personnel.
+We're also actually helping some of the suppliers with you know improve their supply situation.
+That takes personnel.
+Of course, we're continuing our growth trajectory.
+Looking at the WFE going forward, we have, you know, lots of projects, underway from an innovation perspective to continue the roadmap.
+We're continuing on that path, and it's a fair question whether we should in the current environment, but we're definitely looking at the environment as supply-constrained.
+We're going to solve those problems and you know, get back to the growth that we've been forecasting, and we're ready to do that with both inventory and manufacturing capabilities.
+On the last point, from a gross margin perspective, it is one of the headwinds in the gross margin.
+I listed four headwinds.
+I'll just say them again.
+It's freight and expedites, labor and overhead, and material cost and mix.
+As one of those components, we look at those as approximately equal in strength if you wanna think about how that looks against our gross margin.
+Thanks for the question.
+Joseph Quatrochi
+Equity Research Analyst, Wells Fargo
+Very helpful.
+Thank you.
+Operator
+Thank you.
+Our next question comes from Timothy Arcuri with UBS.
+You may proceed.
+Timothy Arcuri
+Managing Director, UBS
+Thanks a lot.
+Brice, I was wondering if you can help us shape revenue through the, you know, rest of the year.
+You had guided April to $6.35 billion, and you said that, you know, this is, you know, three or so months ago, I know that, you know, you weren't there then.
+The, you know, company had said that revenue would grow kind of mid-singles off of that level throughout the rest of the calendar year.
+You know, off that baseline, that sort of implied $6.65 for July and about $7 billion for October.
+We're coming in about $400 million light of that for July.
+The question is: Can I push that $400 million into October so that October is sort of maybe in the low to mid sevens?
+I guess I'm just asking you to help us sort of like reshape the year, just given that you had, you know, shaped it three months ago.
+Thanks.
+Brice Hill
+CFO, Applied Materials
+Thanks for the question, Tim.
+You know, when we think about, let's start with the guide for this quarter.
+When we think about the guide for this quarter at $6.25, what we did was we carefully have worked through the supply chain to find out, you know, how quickly will the factories, our suppliers' factories, restaff?
+How quickly will the supply lines open?
+When are the exact delivery dates that we'll get through the quarter?
+Will we get them early enough to make the quarter, et cetera?
+We've, you know, we've got a slightly wider range, you'll see, to recognize that we're, you know, we're forecasting based on a continued and accelerating reopening schedule that is our best intelligence today.
+We've got some risk there.
+When we think forward to the next quarter, we're going to enter the next quarter with also no inventory on those critical components because we will have used all that inventory to satisfy our Q3 demand.
+When we think about Q4, we're saying it is gradually or incrementally larger than Q3.
+I think, you know, thinking of the previous discussion, we don't know yet what Q4 will look like, which is one of the reasons we won't guide it.
+It will be metered depending on how quickly the supply chain opens up in Q3.
+We have the manufacturing capability in Q4 to go much faster.
+We have the inventory on the non-constrained components to go much faster.
+There's a wide range of possibilities for Q4, and we just need to, you know, continue progress on the key components and lock down factories in Q3, if that makes sense.
+The last thing I will say, though, is that there's not any perishable demand for us as you think about, you know, one of your questions, would you push that forward?
+I absolutely think you'll push it forward.
+Nothing will perish, you know, in this situation.
+It's just going to be metered in Q4 by where we are with the supply chain.
+Thanks for the question.
+Timothy Arcuri
+Managing Director, UBS
+Cool, Brice.
+Thank you.
+Operator
+Thank you.
+Our next question comes from Joseph Moore with Morgan Stanley.
+You may proceed.
+Joseph Moore
+Managing Director, Morgan Stanley
+Great.
+Thank you.
+You talked a little bit about weakness in display in this coming quarter, tied to smartphone.
+Can you just talk about, you know, it looks like you're gonna track to be down double digits this year.
+You know, what's gonna return that business to growth?
+Is it the smartphone?
+Anything from kind of an application or technology perspective, that'll lead that business to grow down the road?
+Brice Hill
+CFO, Applied Materials
+Thanks, Joe.
+This is Brice.
+I'll start.
+Maybe Gary will make a comment about the long term there.
+This is the one place in the business where we have seen, you know, some impact from the change in consumer demand at this point.
+Definitely weakness in the outlook for display for the next few quarters, sort of corresponding to, you know, what's been characterized as weakness in smartphone and PC and TV, etc, .
+What we're doing is, you know, resizing the business from a spending perspective to make sure that we can deliver the amount of cash returns that we've been delivering for the past few years and still leave us ready to grow as the demand picks back up and some of the new applications pick back up.
+You'll see us make those adjustments as we go forward in the next few quarters.
+It'll be a lower revenue number but it'll still be a good return on investment.
+Last thing I'll say there is, you know, most of our investment has largely been made in that business, so we're able to, you know, deliver to customers and execute against investments that haven't made.
+It's a good cash flow business, good cash returns, and that's sort of our perspective, and it does leave us ready for new demand on some of the new applications.
+Gary, if you wanna comment.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah.
+Joe, thanks for the question.
+As you mentioned, this year, double digit.
+We'll probably be down roughly 10%, you know, versus where we've been.
+We'll be down about 10% this year.
+As Brice said, you know, we really have resized our spending.
+We've made a lot of investments.
+I think, as you know, we have very, very high share in the parts of the market that we participate in.
+We are committed, as we've discussed in our investor meeting, to returning free cash flow from this business.
+We'll be, as Brice said, able to deliver similar free cash flow even at a lower level.
+I would say right now, you know, if we looked out into 2023, you know, we don't really see strengthening today in terms of where that market is going.
+You know, we will be able to continue to deliver similar levels of free cash flow with the resizing that's in progress.
+That business really is leveraging semiconductor deposition technology into larger panels.
+One thing that's also another synergy for us, if you look at the advanced packaging roadmap going to larger substrate sizes, there is technology in display that will strengthen our already strong position in packaging in the longer term.
+There are synergies there.
+It's a good free cash flow business.
+Longer term, you know, some of the OLED technology barriers, once those are solved, we could see a step up back in that market, but we really don't see that, you know, over the next several quarters.
+Joseph Moore
+Managing Director, Morgan Stanley
+Great.
+Thank you.
+Operator
+Thank you.
+Our next question comes from Sidney Ho with Deutsche Bank.
+You may proceed.
+Sidney Ho
+Equity Research Analyst, Deutsche Bank
+Great.
+Thanks once again for my question.
+My question is on the services business, the AGS revenue.
+In Q2 came in better than you expected, and I appreciate all the metrics you disclose in your prepared remarks.
+Considering last quarter you talked about supply constraints impacting the 200 mm product line, can you talk about what drove the upside?
+The follow-up to that is you previously suggested low double-digit growth for AGS in fiscal 2022.
+Has anything changed there?
+Can you touch on the risk that COVID lockdowns may have on AGS?
+Thanks.
+Michael Sullivan
+Corporate VP of Investor Relations, Applied Materials
+Yeah.
+Operator, this will be our last question that we'll have time for, just so you know.
+Thanks, Brice.
+Brice Hill
+CFO, Applied Materials
+Okay, thanks for the question.
+Yeah, on the services business, thanks for the question.
+I think it is important to recognize that the business did grow quarter-over-quarter 5%, and it did grow 15% year-over-year.
+You know, our investors probably know it's been a key part of our strategy to shift more and more of our services business to the subscription format, because that's better for our customers, and it lets us plan better also and provides them more technology advice and capability.
+When we think about you know, the indicators that we give for that business, that portfolio is getting stronger and stronger.
+When we see the, you know, supply constraints for the rest of the business, it's not surprising to us that that recurring revenue, you know, the way that business is set up is, low beta or a little bit more, you know, resistant to changes in the rest of the business.
+What drove the upside was really the high utilization across the ecosystem.
+There's still a, you know, transactional element to that business.
+When we talk about utilization across 200 mm, 300 mm, all of the different product types, it's just 92%, 93%, 94% record levels we talked about.
+That drives, you know, spares and parts and service components, across the entire ecosystem.
+That's where really where you see the strength in the quarter.
+We would have been even higher had we had more supply, but you know, we're working on that.
+The last piece on COVID lockdown, I guess that was related to supply.
+We do think the business could have been stronger in Q2, and we would have served more parts on the parts side of the business.
+You know, it's first priority for us, and we're working on improving that as we look forward.
+Thanks for the question.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah.
+Sidney, this is Gary.
+Just another point.
+One of the things that's driving our growth in subscription revenue and subscription services, our customers are really focused on increased output.
+We have part management services, and I can tell you that many of those customers that have those services are very happy.
+They don't have shortages, and they're increasing chip output.
+We have managed services to increase yield and optimize productivity for good chip output.
+That's, you know, another one we see tremendous pull from our customers.
+By the way, this is driving increased headcount as we're supporting, you know, some of these service opportunities.
+The other thing is ramp services, ramp acceleration services.
+Time to ramp, as I said in my prepared remarks, is months for many of our customers.
+Every week that we can accelerate the time for those tools to drive chip output, everybody is focused on that.
+There are a number of these services that are increasing our subscription percentage, increasing our subscription revenue.
+Again, that's really in the theme of everybody's focused on good chips out as fast as they can.
+Michael Sullivan
+Corporate VP of Investor Relations, Applied Materials
+Great.
+Thanks, Gary.
+Thanks, Sidney.
+Brice, would you like to give us your closing thoughts for today's call?
+Brice Hill
+CFO, Applied Materials
+Absolutely.
+Thanks, Mike.
+Thanks, everybody, for joining.
+Important messages today.
+Demand very strong, sustainable.
+We're committed to improving our gross margins and committed to our long-term model.
+We're working hard to improve our supply situation every day.
+I just wanna say I'm eager to meet some of our investors.
+I'll be at the B of A conference in San Francisco and looking forward to that.
+Gary will be at the Bernstein conference in New York in two weeks.
+Thanks, everybody, for joining.
+Michael Sullivan
+Corporate VP of Investor Relations, Applied Materials
+Okay, thank you, Brice.
+We'd like to thank everybody for joining us today.
+A replay of the call is gonna be available on our website by 5:00 P.M.
+Pacific Time today.
+We'd like to thank you for your continued interest in Applied Materials.
+Operator
+Thank you.
+This concludes today's conference call.
+Thank you for participating.
+You may now disconnect.
+Data Source:
+Quartr
+Last updated:
+May 19, 2022
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (15)
+Quarterly report
+Earnings release
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

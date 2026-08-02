@@ -1,0 +1,863 @@
+Applied Materials (AMAT) Q2 2026 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Applied Materials, Inc. (AMAT)
+NASDAQ: AMAT · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+507.67
++5.90 (1.18%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+506.21
+-1.46 (-0.29%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q2 2026
+May 14, 2026
+Full Transcript
+Full Summary
+Quarterly report
+Earnings release
+Slides
+Play Audio
+Download Transcript
+Full Transcript
+Full Summary
+Summary
+Record Q2 revenue and earnings were driven by surging AI demand, with strong growth in foundry logic, DRAM, and advanced packaging. Guidance points to continued double-digit growth, margin expansion, and robust multi-year outlook, supported by new products, acquisitions, and the EPIC Center.
+Operator
+Welcome to the Applied Materials second quarter fiscal 2026 earnings call.
+During the presentation, all participants will be in a listen-only mode.
+Afterwards, you will be invited to participate in a question- and- answer session.
+I would now like to turn the call over to Mike Sullivan, Corporate Vice President of Investor Relations.
+Please go ahead.
+Mike Sullivan
+Corporate VP of Investor Relations, Applied Materials
+Good afternoon, everyone, and thank you for joining today's call.
+With me are Gary Dickerson, our President and CEO, and Brice Hill, our Chief Financial Officer.
+Before we begin, I'd like to remind you that today's call includes forward-looking statements which are subject to risks and uncertainties that could cause our actual results to differ.
+Information concerning these risks and uncertainties is discussed in our most recent Form 10-Q and other filings with the SEC.
+Today's call also includes non-GAAP financial measures.
+Reconciliations to GAAP measures can be found in today's earnings press release and in our quarterly earnings materials, which are available on our website at ir.appliedmaterials.com.
+In addition, any comments regarding calendar 2026 refer to Q2 of this fiscal year through Q1 of fiscal 2027, which will be a 14-week quarter.
+Next, I'll share some calendar items.
+I'm pleased to announce the second event in our 2026 Master Class series.
+We'll cover DRAM and advanced packaging on a live webcast on Thursday, June 25th at 9:00 A.M.
+Pacific Time.
+Next, I'd like to remind you about our two special events during SEMICON West.
+On Monday afternoon, October 12th, we invite you to the unveiling of the new EPIC Center in Sunnyvale, California.
+On Tuesday morning, October 13th, we hope you'll join Gary Dickerson, Brice Hill, and our business unit leaders for our investor breakfast presentation at the Yerba Buena Center in San Francisco.
+You can join us in person or on a live webcast.
+With that introduction, I'd now like to turn the call over to Gary Dickerson.
+Gary Dickerson
+President and CEO, Applied Materials
+Thank you, Mike.
+In our second fiscal quarter, Applied Materials delivered record revenue and earnings, along with our highest gross margin in more than 25 years.
+With rising demand and increasing long-term visibility from customers, we see an exceptionally strong foundation for sustained multi-year revenue and profit growth.
+The momentum in our business is being driven by three key factors.
+First, the rapid global build-out of AI computing infrastructure.
+Second, Applied's leadership positions in the most enabling and highest value areas of the market, particularly leading-edge foundry logic, DRAM, and advanced packaging.
+Third, strong execution across our operations and supply chain.
+In my prepared remarks, I will provide an update on how our markets are evolving, explain how Applied is enabling the AI roadmap with our differentiated technology and exciting pipeline of new products, and outline how we're transforming the way we work with customers, partners, and across the company to drive higher velocity, increase operating leverage, and scale more efficiently.
+Over the past several months, global AI adoption has continued to accelerate as improvements in the performance and cost of AI computing are translating into real-world applications that deliver compelling returns for users.
+If I look at our own company as an example, today we have more than 35,000 AI users across our global workforce.
+We are deploying AI to drive new scientific breakthroughs, accelerate research and development programs, optimize factory and supply chain operations, increase innovation and productivity and services, and automate workflows across our corporate functions.
+This enables us to redirect resources towards higher value work and grow the business significantly faster than our head count.
+Similar dynamics are playing out across a broad range of industries and organizations.
+Publicly available data indicates that global token generation has increased more than threefold in just the past three months.
+Importantly, AI demand is not only growing rapidly, it's also diversifying.
+Since the beginning of the year, there's been a meaningful increase in agentic applications which layer on top of continued growth in generative AI training and inference workloads.
+AI computing architectures are workload-specific and optimized for different generative, agentic, or physical AI models.
+Agentic AI models do more than respond to queries.
+They plan, reason, and execute tasks autonomously.
+They therefore require a computing architecture that is more CPU-intensive while also increasing demand for DRAM and NAND.
+As agentic AI applications grow, they provide an additional tailwind for wafer fab equipment.
+Last quarter, we said the availability of clean room space was a key factor pacing the rate of industry investment.
+As customers find new ways to reallocate or create space, we are seeing incremental requests for equipment deliveries in 2026.
+We now expect our semiconductor equipment business will grow more than 30% this calendar year.
+Given the unprecedented demand environment, we are working closely with our customers on longer-range planning.
+Our largest customers are providing rolling eight-quarter forecasts.
+We can prepare the required manufacturing capacity and service resources for their ramps.
+With this improved visibility, we see continued growth across this extended planning horizon into 2027 and beyond.
+We are investing to support our customers' expansion plans.
+For AI computing, leading-edge foundry logic, DRAM, and advanced packaging have the greatest impact on overall system performance, power efficiency, and cost.
+As a result, we expect these three areas to account for more than 80% of the year-over-year growth in total wafer fab equipment spending in 2026 and see a similar profile in 2027.
+These are also the areas where Applied has strong leadership positions and an innovative pipeline of next-generation technologies.
+In leading-edge foundry logic, Applied is the clear number 1 process equipment provider with highly differentiated solutions in materials deposition, modification, and treatments, Conductor etch, and E-beam technologies.
+Gate-all-around nodes grow our available market considerably while also providing a catalyst for multiple points of market share gain.
+This quarter, we announced two new products that further strengthen our gate-all-around portfolio.
+To meet the requirements of different AI workloads in the data center and at the edge, chipmakers provide designers with a range of transistor options, with some tuned for peak performance and others tuned to use the lowest amount of power.
+This tuning is achieved through precise optimization of the materials in the metal gate stack.
+Our new Trillium ALD integrated material solution precisely deposits metals in the most complex gate-all-around transistor gate stacks.
+By integrating multiple metal deposition steps in a single platform, Trillium ALD provides angstrom-level thickness control of metal gate stack layers, giving chipmakers maximum flexibility to tune threshold voltages across different transistors.
+In advanced foundry logic, shallow trench isolation, or STI, is used to electrically separate neighboring transistors.
+These narrow isolation trenches are some of the smallest structures in a gate-all-around device.
+Our new Precision PECVD system uses an industry-first selective bottom-up deposition process to place material exactly where it's needed and protect the STI structure from damage during subsequent processing steps.
+By preserving the original shape and height of the isolation trench, our new PECVD solution reduces parasitic capacitance and lowers leakage to boost device performance.
+In advanced packaging, Applied is also the overall leader with strong positions in high-bandwidth memory and 3D chiplet stacking.
+We expect to grow our packaging revenues more than 50% in calendar 2026 and are very well-positioned at upcoming packaging inflections.
+We recently announced our intent to acquire NEXX to further strengthen Applied's portfolio of panel-level technologies, which are designed to enable larger body packages for AI accelerators.
+In DRAM, AI computing is driving incredibly strong demand, and customers are aggressively adding capacity at 6F² nodes while accelerating their development of next-generation device architectures.
+Applied is the number one process equipment provider in memory today, thanks to our very strong position in DRAM wiring, patterning, and peripheral logic steps.
+We expect to gain additional DRAM market share at upcoming transistor and device architecture inflections.
+We will provide more details at our next Master Class in June, which will cover both our DRAM and advanced packaging technology roadmaps.
+To accelerate the industry's roadmap further, we are changing the way we work with our customers and partners by creating a new model for collaboration and innovation.
+Applied's global EPIC Platform is designed to significantly reduce the time it takes to commercialize breakthrough technologies all the way from early-stage research to full-scale manufacturing.
+For chipmakers, EPIC provides earlier access to Applied's R&D portfolio and faster cycles of learning through the co-location of key innovators from customers, partners, and Applied.
+In addition, EPIC co-innovation programs will provide us with greater multi-node visibility to guide R&D investments and resource allocation, increase R&D productivity and value sharing, and accelerate design wins for Applied equipment and services.
+The centerpiece of the platform is the new EPIC Center in Silicon Valley, which remains on track to begin operations in the fall.
+Earlier this week, we announced our EPIC co-development engagement with TSMC, who joined as a founding partner together with Micron, Samsung, and SK hynix.
+We're also excited to announce our first three EPIC university partnerships with ASU, RPI, and Stanford, as well as a development partner agreement with Advantest.
+We are finalizing additional EPIC agreements that we will publicly announce in the coming months.
+To accelerate the transfer of new technologies from Applied's labs to customers' fabs, we are also driving new innovations in service.
+Service is another important growth driver for Applied as we increase the revenue we generate per tool on top of a growing installed base.
+As a result, we expect Applied Global Services to deliver a sustainable annual growth rate in the mid-teens and potentially higher this year.
+Our advanced service solutions enable customers to accelerate production ramps and optimize output, yield, and cost in their high-volume manufacturing environments.
+Today, we have more than 35,000 chambers connected to our proprietary AIx software capabilities that use AI-powered monitoring, diagnostics, and analytics.
+Before I hand it over to Brice, let me briefly summarize.
+AI adoption is accelerating and diversifying, fueling broad and durable demand for semiconductors and semiconductor equipment.
+Leading-edge foundry logic, DRAM, and advanced packaging are the most critical drivers of performance, power efficiency, and cost for AI computing.
+As a result, we expect these three areas to account for more than 80% of the year-on-year growth in total wafer fab equipment spending in 2026 and see a similar profile in 2027.
+These are areas where Applied has strong market leadership today and a high-value pipeline of next-generation products, providing us with an exceptionally strong foundation for sustained multi-year revenue and profit growth.
+Finally, through EPIC, our advanced services portfolio, and rapid AI adoption across our operations, we are transforming how we work with customers, partners, and inside Applied Materials, driving higher velocity, improving value capture, and efficiently scaling the company as the industry grows.
+Brice, over to you.
+Brice Hill
+Senior VP and CFO, Applied Materials
+Thanks, Gary.
+AI is driving wafer fab equipment spending to the areas where Applied has been investing the most, and we see the positive mix continuing in the second half of the calendar year and well beyond.
+As the market shifted to our areas of strength in Q2, we delivered double-digit sequential and year-over-year growth across revenue, operating profit, and earnings per share.
+I'd like to thank our teams and partners for making these results possible by meeting strong customer demand for our AI-enabling materials engineering technologies and systems.
+On today's call, I'll provide an update on the demand environment, discuss several strategic priorities, summarize our Q2 results, and provide our Q3 guidance.
+Since we spoke in February, the demand outlook has strengthened across almost every leading indicator we track.
+Cloud service providers continue to increase capital investments.
+Most leading-edge logic and DRAM fabs are running at full capacity.
+Our customers have announced more fab projects and are giving us the clearest and longest visibility we've ever had.
+Customers have been using a variety of techniques to increase clean room capacity this year, which is growing the market and our revenue expectations.
+Based on our latest discussions with them, we expect 2027 will be another strong record year for the industry.
+Next, I'll summarize several of our strategic priorities.
+Our top priority is increasing output to serve our customers' growing demand.
+We've nearly doubled our manufacturing capacity to support them with expansions in the U.S. and Europe, and an additional new manufacturing center in Singapore.
+We've increased our build plan, inventory positions, and logistics capacity.
+We are systematically translating our eight-quarter customer demand forecast into a consolidated signal to our suppliers, ensuring they have the visibility they need to make their own capacity and resource additions.
+Next, I'll share how this translates to profitability.
+Funding our collaborative R&D process helps us identify the highest value technology challenges and gives us line of sight to the most compelling solutions.
+As we bring newly developed tools to market, our portfolio becomes more valuable and our gross margins expand.
+In fact, our non-GAAP gross margin has increased 800 basis points since Gary became CEO in 2013.
+It is now crossing 50% at the company level and approaching 55% in Semiconductor Systems.
+In addition, we are focused on driving higher operating profit and leverage with productivity tools and plans being deployed across the company.
+While fully investing in the R&D that grows our business and gross margins, we also expect to increase spending more slowly than revenue and deliver increasing operating profit.
+Next, I'll summarize our Q2 results.
+We generated record revenue of $7.91 billion, which is up 13% sequentially and 11% year-over-year.
+Non-GAAP gross margin reached 50% in the quarter, increasing 80 basis points year-over-year, driven by value-based pricing from our most differentiated products, coupled with ongoing manufacturing cost innovations.
+Non-GAAP operating margin expanded to 32.1%, up 140 basis points year-over-year.
+We delivered record Non-GAAP earnings per share of $2.86, which was up 20% year-over-year.
+Turning to the segments, Semiconductor Systems delivered record revenue of $5.97 billion, which is up 16% sequentially and up 10% year-over-year.
+The transition to gate-all-around nodes, along with capacity additions at leading-edge FinFET nodes, drove record foundry revenue as well as record revenue across ALD, epitaxy, and materials treatments.
+DRAM revenue of $1.7 billion grew 18% year-over-year.
+Advanced packaging revenue is accelerating this calendar year within both foundry logic and DRAM, and investments are shifting toward our leadership positions in 3D stacking.
+Segment gross margin and operating margin both increased year-over-year.
+Applied Global Services delivered record revenue of $1.67 billion, which is up 17% year-over-year, reflecting the benefit of higher fab utilizations.
+Services growth remains strong as our installed base expands and customers choose our most advanced services to boost output and yield.
+AGS also generated year-over-year increases in gross margin and operating margin.
+Other revenue of $280 million was in line with our expectations.
+China represented 24% of our Semiconductor Systems plus AGS revenue.
+We expect our business in China and our ICAPS business worldwide to be flat to slightly higher in the calendar year.
+Cash from operations was $845 million.
+Capital expenditures were $635 million, resulting in free cash flow of $210 million.
+We distributed $765 million to shareholders, including $365 million in dividends and $400 million in stock repurchases.
+In March, we announced a 15% increase to the quarterly cash dividend and achieved a goal we set several years ago to double the dividend per share.
+Now, I'll share our guidance for Q3.
+We expect company revenue of $8.95 billion, ±$500 million, which is up nearly 23% year-over-year.
+We expect non-GAAP EPS of $3.36, ±$0.20, which is up nearly 36% year-over-year.
+Within this outlook, we expect Semiconductor Systems revenue of around $6.9 billion, AGS revenue of about $1.75 billion, and other revenue of around $300 million.
+We expect non-GAAP gross margin to increase modestly to approximately 50.1%, and we expect non-GAAP operating expenses of around $1.485 billion.
+Finally, we're modeling a non-GAAP tax rate of around 11%.
+In summary, the growth in AI that we've been investing for is now in full force.
+As a result, the industry spending mix has shifted to leading-edge foundry logic, DRAM, and advanced packaging, where Applied has built the number one process equipment market positions.
+We are investing with confidence to support the strong long-term growth our customers are giving us visibility into and ensuring our suppliers do the same.
+Finally, we are using the benefits of the AI technologies we enable to accelerate innovation and revenue generation and increase operating leverage and shareholder returns.
+Now, Mike, please begin the Q&A session.
+Mike Sullivan
+Corporate VP of Investor Relations, Applied Materials
+Thanks, Brice.
+To help us reach as many people as we can on today's call, please ask just one question and no more than one brief follow-up.
+Operator, let's please begin.
+Operator
+Certainly.
+Our first question for today comes from the line of CJ Muse from Cantor Fitzgerald.
+CJ Muse
+Analyst, Cantor Fitzgerald
+Yeah, good afternoon.
+Thank you for taking the question.
+You talked about, you know, eight-quarter rolling visibility with customers, and I'm curious, you know, how that might be causing order patterns to change, perhaps upfront payments, you know, a change in the pricing environment.
+Would love to hear, you know, how you're thinking about your relationship with customers given, you know, how tight equipment is and will likely be for years to come.
+Brice Hill
+Senior VP and CFO, Applied Materials
+Hi, CJ It's Brice.
+Thanks for the question.
+Yes, for the large customers, we're definitely working on 8-quarter rolling visibility with them.
+That helps us, you know, primarily plan the supply chain.
+Our supply chain needs that kind of lead time in order to make their investments and expansions, you know, across the large group of suppliers.
+We've said before, we have, you know, on the order of 2,000 direct suppliers and a large number of components for each tool.
+That's the primary reason.
+From a payments perspective, you know, as you know, some of our customers, we do require deposits, but that's not across the board. On the pricing side of things, our pricing generally works as long-term contracts with customers based on projects.
+You can picture it as, you know, a two to three-year pricing contract for a particular project.
+Pricing moves relatively slowly in the environment.
+What has been driving our pricing up over the past couple of years and helping us grow our gross margin over the past couple of years, has been the gradual enriching of the portfolio.
+Every time we launch a new solution, it's typically a more important solution in terms of its value to customers solving complex problems.
+That makes the portfolio stronger, and we price accordingly for that, and that's why you've seen our systems gross margins improve, you know, over the last two years.
+I'll leave it at that.
+No, you know, at this point in time, no change in the overall model.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah, CJ, this is Gary.
+I would say relative to pricing, really, we're in a great position in the industry in that the most critical innovations for AI computing are in the sweet spot for Applied and leading-edge foundry logic, DRAM, and advanced packaging.
+You know, really Applied innovations are enabling these architecture inflections that are providing tremendous improvements in computing.
+That puts us in a good position with tailwinds to drive pricing in the near term, and then also as we're creating more value for our customers, it creates an opportunity for us to capture more value from Applied Materials.
+You know, I have high confidence that the margin progress that we've seen over the last few years is gonna continue as we go forward.
+CJ Muse
+Analyst, Cantor Fitzgerald
+As a quick follow-up, just on the gross margin side, you know, great guide with, I'm assuming, depressed China.
+How should we think about gross margins beyond the July quarter, particularly as it appears as silicon, you know, will continue to grow sequentially, you know, well into 2027 and beyond?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Hi.
+Yep.
+CJ, thank you.
+We guided 50.1% for the company-level gross margin.
+I'll just remind investors that we're now reporting our gross margin for each operating segment, they'll be able to see that our Semi Systems gross margin is 54.8% in Q2, you know, that represents the improvements we're talking about.
+On the systems, to your point, we expect to continue to make improvements.
+That's really driven by the, you know, gradual, you know, strength in portfolio as we launch new equipment.
+The improvement will be slow, but we expect continued improvement in the gross margins, that's really where you get that guide of 50.1.
+A slight increase for Q3 from Q2, and we would expect to be able to continue that process going forward as we launch new tools and solutions.
+CJ Muse
+Analyst, Cantor Fitzgerald
+Thank you.
+Operator
+Thank you.
+Our next question comes from the line of Stacy Rasgon from Bernstein Research.
+Your question please.
+Stacy Rasgon
+Analyst, Bernstein Research
+Hi, guys.
+Thanks for taking my question.
+For a 30% year-over-year equipment growth, so that looks like you're suggesting something like $14.5 billion-$15 billion in the second half of the calendar year for equipment.
+I guess I just wanna verify that's true.
+I guess what are your thoughts, maybe it's too early about calendar 2027, but I mean, given 2026 is still a constrained year, I guess what are your thoughts on WFE growth versus your own growth in 2026?
+Is there any reason to think that 2027 couldn't be even better as clean rooms become more available?
+I guess just how do we think about the trajectory of growth into 2027 as the clean rooms, like, come online, relative to what you're suggesting as we see into the back half of this year?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Yep.
+Hi, Stacy.
+Good to hear from you.
+On the 30% year-over-year equipment growth, it does suggest, you know, a second half on the order that you described.
+We do think that the demand signal is very strong.
+Our customers increased orders, you know, in the last 90 days, as Gary described, as customers are finding new floor space and clean room solutions.
+I think investors should think about, you know, when they think about the roadmap of capacity, you know, we've said before, we're tracking over 100 factory projects globally.
+We added more than 10 just in the last quarter.
+You should expect a pipeline of new clean room coming on board so customers can continue to grow the wafer starts across the end markets that we're talking about.
+We do expect growth in WFE.
+We do expect growth in wafer starts overall.
+We think that's, you know, headlined by the AI demand function.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah.
+Stacy, again, as Brice indicated, 2027 still looks like a strong growth year for us.
+I can tell you that I'm having constant conversations with customers, and they're looking at 2027, and they're looking at 2028, again, because the compute demand is growing so quickly.
+Earlier on the call, we talked about agentic AI, on top of the, you know, what we've been seeing, and that we're modeling, incremental CPU demand, incremental, DRAM and NAND demand.
+That's a meaningful increase on top of what we had been forecasting previously.
+You know, you go beyond that with physical AI coming in the future, and we think this demand environment is gonna continue strong for a number of years.
+Certainly, you know, as I'm having many conversations with customers, that is a major focus for them.
+Stacy Rasgon
+Analyst, Bernstein Research
+Got it.
+That's helpful.
+Thank you.
+For my follow-up, I wanted to ask about your manufacturing capacity.
+You said you doubled it.
+Is it all ready to go?
+How much revenue I guess, how full is it?
+Maybe the question I'm asking is, if it was full, how much revenue capacity could you actually support?
+I s there actually more margin upside as that capacity that you brought online actually starts to fill up?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Stacy, yes.
+On the first part, from a floor space perspective, it's ready to go and available.
+We would have to fit that up and hire people as we ramp.
+We have the capability of significantly expanding the output.
+Last quarter I said we could double as we're growing, you know, it leads into that a little bit, but that's a rough approximation.
+We have significant capacity available.
+Our job is to work with the supply chain and have the supply chain work at the same speed we are.
+Stacy Rasgon
+Analyst, Bernstein Research
+Got it.
+Thank you, guys.
+Operator
+Thank you.
+Our next question comes from the line of Vivek Arya from Bank of America Securities.
+Your question please.
+Vivek Arya
+Analyst, Bank of America Securities
+Thanks for taking my questions.
+You know, if we look at WFE growth this year, it's very strong, but it is still below semiconductor industry growth, mainly because semis are being driven more by pricing rather than units.
+Gary, I'm curious that as you look over the next, you know, one to three years, do you think that semi industry growth comes more from units or it still continues to be reliant on pricing?
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah, thanks for the question, Vivek.
+I, again, when I'm talking to our customers or customers' customers, I think everyone sees tremendous increase in computing demand going forward.
+I talked about all these layers of demand that are increasing as we go forward.
+You know, I think that, and as I mentioned also with customers, I was just with a customer two days ago.
+They were worried about the supply all the way into 2030.
+Again, the computing demand, I think, is increasing.
+I'm not gonna speculate on pricing.
+What we do see, again, is a broadening in terms of the customers that we're working with because everyone sees this increase in compute demand.
+That is really great for Applied because all of the markets that are growing the fastest, the leading edge foundry logic, we're seeing a broadening of demand, very strong demand for DRAM and high-bandwidth memory.
+The ecosystem working on new packaging architectures that drive major improvements in performance and power tokens per second per watt.
+Again, all of this is great for Applied.
+I'm not gonna speculate on, you know, the units versus pricing, but what I would say is that the market environment for Applied has never been better, and our positions in the market have never been better.
+Vivek Arya
+Analyst, Bank of America Securities
+Got it.
+For my follow-up, if your system sales are growing over 30% and, you know, there's a lot of discussion that maybe growth accelerates next year, how should we think about growth in AGS given that level of growth?
+Is there some kind of correlation?
+Is there some kind of, you know, kind of lagging growth that we can start to see acceleration even in AGS at some point?
+Thank you.
+Brice Hill
+Senior VP and CFO, Applied Materials
+Hi, Vivek.
+It's Brice.
+Thanks for that question.
+We had previously communicated low double digits growth expectation for AGS, our services business.
+To your point, as the systems business is running higher and we've raised expectations for the systems business, that means the AGS installed base will grow.
+The service opportunity for AGS grows and as well as the, you know, the spare parts, and as factory utilizations have improved.
+We are going to raise our expectations for AGS to mid-teens for sort of the normal environment.
+We think this year will end up being a little bit higher than that because we have so much utilization improvement across the industry and so many new factories that that gives it extra bump.
+I would say, you know, mid-teens from a medium-term modeling perspective and higher than that this year.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah.
+The other thing I would say on AGS, there's never been a time where output yield innovation is more valuable than today.
+I mentioned earlier on the call that we have over 35,000 chambers connected to our AIx servers.
+We're also driving service innovations with AI-enabled applications, predictive models to improve wafer fab output, yield and cost.
+I think in addition to the growing equipment business that will help accelerate AGS growth, we're also driving higher value service innovations that will also support that growth.
+Vivek Arya
+Analyst, Bank of America Securities
+Thank you.
+Operator
+Thank you.
+Our next question comes to the line of Timothy Arcuri from UBS.
+Your question please.
+Timothy Arcuri
+Analyst, UBS
+Thanks a lot.
+Brice, I wanted to go back to this up $30, at least $30 this year as well.
+If I just do the math, I mean, it sort of implies that you barely grow off of the July levels, which doesn't seem possible given that you're booked out for at least one year.
+I would think you can probably grow at least the same number of dollars in systems that you've been growing the last two quarters.
+That would put you, like, more above $40.
+I'm surprised you said above $30 and not above $40.
+Are you just being conservative or is there something, like, in the back half of the year where the sequentials can't grow as fast from an absolute, you know, systems level?
+Can you just talk about that?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Sure.
+Just to reiterate, we're saying 30% growth year-over-year in our Systems Business.
+Tim, I think, we're not giving explicit linearity for the out quarters, but we'd be comfortable if you just assumed it was linear from Q3 - Q4 to our fiscal Q1.
+Timothy Arcuri
+Analyst, UBS
+Okay.
+It's gonna grow about the same on a dollar basis, Brice.
+Is that?
+Sorry, just to clarify.
+Brice Hill
+Senior VP and CFO, Applied Materials
+On a dollar basis, I would just draw a line and say it grows linearly from our Q3 guide through Q1.
+Timothy Arcuri
+Analyst, UBS
+Okay, got it.
+Gary, can I ask you about the Huawei story?
+How do you think about, you know, that letter in and of itself is not, like, it doesn't really hurt you at all, how do you think about the risk of that broadening?
+There's a lot of examples of these fabs being commingled in these clusters, some of which you can ship to and some of which you can't.
+You know, is there a risk that this spreads and maybe, you know, it sort of encaptures more in the net where you can't ship to these fab complexes that have stuff that's allowed and stuff that's not allowed, commingled in the same complex?
+Can you just talk about that?
+Thanks.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah.
+Thanks, Tim.
+Let me just clarify.
+You know, relative to our semi equipment business, we'll grow 30% or more in the year.
+It's really supply chain.
+You know, that's one thing that is, I think, an issue for everybody.
+As Brice mentioned earlier, our operations can scale significantly beyond where we're at right now.
+It takes time for the supply chain to respond, certainly we're working at as rapidly as we can.
+I really do believe we've made tremendous improvements in our supply chain and our operations over the last several years, so I feel really good about that.
+Relative to restrictions, I don't really wanna comment on that.
+All of that has been factored into our guide for the quarter and our viewpoint on growth in the calendar year.
+Again, what I would say, if you look at the mix of business going forward, the AI compute innovations are really going to drive, in 2026, 2027 and going forward, leading-edge foundry logic, DRAM, high-bandwidth memory and advanced packaging.
+Those are the areas where Applied has tremendous strength, and we are absolutely positioned to gain share as these inflections happen in all of those different markets.
+Timothy Arcuri
+Analyst, UBS
+Thanks a lot, Gary.
+Operator
+Thank you.
+Our next question comes from the line of Harlan Sur from JP Morgan.
+Your question please.
+Harlan Sur
+Analyst, JPMorgan
+Yeah, good afternoon.
+Thanks for letting me ask a question.
+You know, in addition to technology migration and greenfield capacity build-outs, your customers are looking at their existing capacity footprints.
+They're trying to figure out how they can squeeze more wafers out of their fabs, more good die per wafer.
+Focusing essentially on throughput and/or focusing on yield or both ways.
+Is the Applied team seeing this, and is this an incremental driver of growth, more tool sales to alleviate bottlenecks, maybe upgrades to improve tool throughput or maybe advanced services and analytics adoption to improve productivity and yields?
+Is this driving some of the incremental growth?
+Gary Dickerson
+President and CEO, Applied Materials
+Thanks for the question, Harlan.
+Absolutely, I mentioned this a little bit earlier.
+Output and yield innovation is really a key focus for all of our customers.
+It takes time for them to create more floor space to ramp their factories.
+There is a huge focus and engagement, and this is really helping us to drive our service growth rate at, you know, at a higher pace than we've seen in the past or even that we were anticipating in the past.
+That's where I would also come back to how we're implementing AI inside Applied Materials.
+We have all of these connected chambers.
+Most of them are connected remotely, we can have instantaneous experts connected into all of those different chambers.
+Again, this is elevating, increasing our expectations for our service growth rate going forward.
+Harlan Sur
+Analyst, JPMorgan
+Yeah.
+Thank you for that.
+Then, maybe for Brice.
+You know, in addition to the strong growth in AGS, those margins improved 30 basis points sequentially, 120 basis points year-over-year.
+Operating margins grew 100 basis points sequentially to 29%, right?
+I think that's, like, the highest level in, like, the past two or three years.
+On the gross margin improvements, how much of this is just more a touch of some of the higher value-added services like your AIx software suite, remote tool monitoring solutions, which I assume are all gross margin accretive?
+Then on the strong operating margins, I did notice that your OpEx for that segment was down about 8% sequentially.
+Was that just cost efficiency activities, or does that delta come back this quarter?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Hi, thanks for the question.
+On the gross margins there, I think the mix, to more transactional and more spare parts, in the quarter have helped us, so that's one of the drivers.
+You're right, the new service, products that we're providing also help from a margin perspective.
+I think those are the major drivers.
+I think on the expense side, you know, we did some restructuring that helped us with expenses.
+I would expect that, you know, we're continuing to invest in that business.
+We're building a training center.
+We're adding to our, customer engineers and, essentially expanding for the ramp, at this point.
+No change in expectations, from a spending perspective.
+I think the margins are at, you know, at a healthy spot at this point.
+Harlan Sur
+Analyst, JPMorgan
+Oh, agree.
+Thank you very much.
+Operator
+Thank you.
+Our next question comes from the line of Atif Malik from Citi.
+Your question please.
+Atif Malik
+Analyst, Citi
+Hi.
+Thank you for taking my question.
+Gary, with your acquisition of NEXX in panel level packaging, can you help us understand how does that fit with your JV with Besi, and what is the adoption timeline for a large panel packaging?
+Gary Dickerson
+President and CEO, Applied Materials
+Thanks for the question, Atif.
+I would say that we are the leader in packaging.
+I mentioned earlier on the call we're gonna grow that business over 50% this year.
+I would say that in the entire semiconductor industry, this is one of the most exciting areas, driving compute architecture innovation.
+How you connect computing components together in large body sizes is an enormous focus for everybody.
+At Applied, we have been investing.
+You mentioned the hybrid bonding technology and the acquisition of NEXX, that's a leading supplier of large area packaging electroplating.
+There are a number of different innovations that we're driving, this fits into that overall strategy where we also have a full flow packaging EPIC Center that is the only one in the industry.
+We're engaged with all of our existing customers.
+Also there are a number of people working on new large body size architectures, again, to really drive tremendous improvements in performance and power, the tokens per second per watt.
+This is all part of that overall strategy that we've been investing in the last few years.
+You see, again, over 50% growth this year in our packaging business.
+Next year, we anticipate also strong growth.
+The timing for those architectures, I would say that, you know, there is a tremendous amount of focus to bring those architectures to market as fast as possible.
+I'd really rather not comment on specific timing.
+I would just say that Applied, we have deep connectivity across the entire ecosystem, with all of those people that are driving those new architectures.
+We have the broadest packaging portfolio in the industry, and we are really at the foundation of the key innovations needed to enable those new architectures.
+Atif Malik
+Analyst, Citi
+Great.
+As a follow-up, Brice, I understand you guys do not comment on a particular project, but you said there are 10 new projects in the pipeline, and there's a lot of investor interest in Taylor fab.
+Will that be a project that will be in the pipeline, or is that more like next year?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Well, just to correct the record, I said more than 10.
+You're right, I can't name any, I can't be specific about any of those.
+Atif Malik
+Analyst, Citi
+Thank you.
+Brice Hill
+Senior VP and CFO, Applied Materials
+Sorry.
+Operator
+Thank you.
+Our next question comes from the line of Krish Sankar from TD Cowen.
+Your question please.
+Krish Sankar
+Analyst, TD Cowen
+Yeah, thanks for taking my question.
+Gary, the first one for you.
+Applied had an interesting slide at SPIE that showed DRAM 1-delta node to be more litho intensive compared to 1-gamma.
+Obviously you have 4F² coming after that, which is more dep and etch intensive.
+I'm wondering, do you expect 1-delta to be a big node, and if so, could that slow down the dep and etch intensity in DRAM on an interim basis?
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah, thanks, Krish, for the question.
+Let me, from an overall standpoint, DRAM, we are the number one process equipment provider.
+There's innovation happening at 6F², 4F², and certainly, you know, going forward to 3D DRAM.
+If I look at Applied in terms of near term innovation, periphery CMOS logic being upgraded for higher performance and lower power transistors is a strong driver for our DRAM business, including very strong growth in epi.
+Of course, in DRAM, HBM packaging is a huge focus for everyone, stacking more chips vertically.
+Then, you know, for Applied, materials deposition with wiring and patterning, we have very strong positions, leadership in conductor etch and E-beam technologies in DRAM.
+What I would say is that there is a lot of innovation happening in 6F² that really extends our process equipment leadership and is contributing to the growth that we're talking about on the call here today, and we're even better positioned for 4F² and 3D DRAM.
+I think if you remember over the last little more than 10 years, we gained 10 points of overall share in WFE and DRAM.
+We've been really performing incredibly well over the last few years, this year is another great year for our DRAM business.
+You know, I think for Applied, we're in a great position.
+Relative to litho intensity, I believe that going forward, for sure, materials intensity will increase, especially with 3D DRAM, and we're in a great position with 6F² innovation, 4F², and 3D DRAM.
+Krish Sankar
+Analyst, TD Cowen
+Thanks for that, Gary.
+A quick follow-up maybe for you, Brice.
+I understand your customers are giving visibility into 2028.
+I understand it's for your capacity and personal planning purposes, but also some new greenfield in NAND scheduled for 2028.
+Is it fair to assume 2028 could be another growth year for WFE after impressive 2026 into 2027, or is it too early to make that call?
+Brice Hill
+Senior VP and CFO, Applied Materials
+We don't think it's too early, Krish.
+I think, we think it's secular growth.
+You know, AI is the headline workload that's driving the secular growth.
+We think you'll see more and more capacity plans from customers.
+That's the expectation is You know, right now it is factory limited as we've said, but we expect customers to continue adding projects to grow the outlook.
+Krish Sankar
+Analyst, TD Cowen
+Thanks, Brice.
+Operator
+Thank you.
+Our next question comes to the line of Shane Brett from Morgan Stanley.
+Your question please.
+Shane Brett
+Analyst, Morgan Stanley
+Thank you for letting me ask a question.
+My first question is, the Gartner data showed that your conductor etch market share picked up about 300 basis points in 2025, despite, you know, weaknesses in other areas of your portfolio.
+Apologies, this is a bit of a trailing, you know, backwards-looking question, how should we think about where those share gains came from?
+How should we think about your path towards being a market leader in this space?
+Where are those sort of incremental share gains going forward going to come from for your conductor etch business?
+Thank you.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah, Shane.
+Thanks for the question.
+Etch, let me talk about going forward, and then I'll talk about the overall market environment.
+This year, etch will be one of our fastest-growing businesses this calendar year, and Applied is number one in conductor etch for leading-edge foundry logic, gate-all-around nodes, and number one in conductor etch for DRAM.
+Both of those areas I talked about earlier on the call are some of the fastest-growing, certainly in 20 26 and going forward.
+You know, we've been building a stronger position in leading-edge foundry logic.
+We've always been very strong in DRAM.
+In our products, Sym3 is the fastest-ramping product in Applied's history.
+We recently talked in one of our Master Classes about our new Sym3Z platform.
+We've seen strong adoption there with more than 250 chambers, multi-hundreds of millions of dollars of growth in etch.
+I think we're really in a great position, as I said, one of the fastest-growing businesses this calendar year.
+The other thing is really the opportunity for us to co-optimize across our whole portfolio.
+When we're working with our customers on new architectures, whether it's gate-all-around or wiring or new DRAM architectures, you know, really that opportunity to co-optimize helps us.
+We have great technology, but also we have great integration capabilities that's helping us grow this business at a high rate.
+Shane Brett
+Analyst, Morgan Stanley
+Great.
+Thank you.
+For my follow-up, this may be a little bit critical, but your process control market share continues to decline, contrary to Conductor etch, where you are seeing share gains.
+My question is just how do you see the strategic importance of your process control business within your broader franchise?
+Thank you.
+Gary Dickerson
+President and CEO, Applied Materials
+I believe this is one of our best opportunities overall within Applied Materials.
+Last year, we grew this business at a high rate.
+This year, PDC is gonna be one of our fastest-growing businesses.
+You know, I'm very, very positive on the growth in 2026, and I'm even more positive about our growth going forward.
+We have clear leadership in E-beam with our cold field emission technology that gives us the highest resolution and the fastest imaging.
+This year, our optical inspection business is also on track for strong growth.
+We have a great pipeline of new technologies that we're going to introduce over the next couple of years that will also drive significant growth in PDC.
+One of our fastest-growing businesses this year, positioned for strong growth in 2027 and as we go forward.
+The other thing I would add is there's great synergy with our E-beam leadership with the rest of Applied Materials in accelerating learning rate.
+Our process equipment teams, they're using this leadership in E-beam imaging to optimize processes at a faster pace.
+That is helping us to drive growth in our process equipment business on top of PDC being a great growth business in and of itself.
+Again, I don't share your view on, you know, the perspective on the business.
+I think this is a great business, one of our fastest-growing this year, and I'm very optimistic we're gonna keep this growth going forward.
+Shane Brett
+Analyst, Morgan Stanley
+Great.
+Thank you very much.
+Operator
+Thank you.
+Our next question comes from the line of Joe Quatrochi from Wells Fargo.
+Your question, please.
+Joe Quatrochi
+Analyst, Wells Fargo
+Yeah.
+Thanks for taking the questions.
+I was wondering if you could talk about just Applied's position for greenfield versus upgrades.
+I would assume given their portfolio depth and just the number of new greenfield fab projects, you know, expanding into next year, how do we think about just the accelerating growth opportunity for Applied relative to peers?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Hi, Joe.
+It's Brice.
+Yeah.
+I think most of the projects we track are greenfield projects, especially on the logic side.
+We, you know, we do very well on greenfield.
+That's probably the best intensity from a Applied perspective.
+We also do well on upgrades.
+The one place that that's different is NAND.
+We don't participate as much in upgrades.
+I think what you're seeing in the environment is just a continued search for more and more floor space and more equipment being put in place.
+You see that in DRAM, you see that in leading logic, and of course, that's been the case in ICAPS as significant new capacity has been added over the last several years.
+I think a lot of that investment is greenfield.
+Joe Quatrochi
+Analyst, Wells Fargo
+Thanks.
+As a follow-up, you know, increasing the AGS long-term growth expectation, can you help us just kind of bridge the gap?
+You know, I think the prior target had included the 200 millimeter business, you know, that's now moved into Systems.
+I guess, like, how do we think about the impact of that for the increase in the growth expectation?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Joe, that should be a clean look at this point.
+We've moved the 200 millimeter equipment business and restated our financials or recast our financials.
+That's all in our systems business at this point.
+When we look forward on AGS, we're only talking about the services business, and you may have heard, I just updated our outlook for that and said mid-teens for the AGS business is sort of a good multi-year growth rate assumption.
+We expect to be higher this year because we have a increase in utilization across the ecosystem and an increase in the number of new fabs ramping relative.
+There's a step up this year that helps that business be higher than the mid-teens.
+Joe Quatrochi
+Analyst, Wells Fargo
+Great.
+Mike Sullivan
+Corporate VP of Investor Relations, Applied Materials
+Thanks.
+Operator, we have time for two more questions today, please.
+Operator
+Certainly.
+Our next question comes from the line of Toshiya Hari from Goldman Sachs.
+Your question please.
+Toshiya Hari
+Analyst, Goldman Sachs
+Good evening.
+Thanks for taking my question.
+You know, your mix of business this quarter pivoted quite strongly again to foundry logic.
+I'm curious, as you look into the back half of this year, whether you see more of a return to spending in greater concentration to DRAM, and then on a preliminary basis, as you look into 2027, which do you expect to be the fastest growing technology area?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Hi.
+Thanks, Toshiya.
+Yes, in the second half, it goes back to the theme that we've been describing.
+You're gonna see strong growth in leading edge logic, in DRAM, in advanced packaging, and actually NAND also.
+You're seeing a pull really, you know, from the headliner AI across the entire end market grouping, with the exception of ICAPS.
+ICAPS, you know, goes back to there'll be some digestion with all the capacity that's been put in place the past couple of years.
+We didn't call, you know, we didn't call a fast grower between DRAM and leading logic.
+I think both of those will be accelerating in the second half.
+Toshiya Hari
+Analyst, Goldman Sachs
+Thank you.
+As you look at your customers' longer term plans, can you maybe share where they are seeing the greatest upside to the longer term forecast across those same areas?
+Thank you.
+Brice Hill
+Senior VP and CFO, Applied Materials
+That's a good question.
+I think we haven't answered, you know, which one between DRAM and leading logic will be the most growth across the multi-year horizon.
+We think both of those will be very strong, and actually advanced packaging goes right with it.
+On the NAND, you know, we did raise our bit growth forecast for NAND, so probably a few percentage points.
+At least our view is it will still be satisfied by upgrades, so we don't expect a lot of new wafer starts on the NAND side, but we do think the demand forecast for bits has gone up on NAND.
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah, Jim, just also part of the question you asked earlier, we see a similar profile in 2027 to what we're seeing in 2026, and really that's being driven by AI computing.
+The markets that are growing the fastest in 2026, we think they continue to grow at that same rate as a percentage of the mix in 2027 and going forward.
+Toshiya Hari
+Analyst, Goldman Sachs
+Thank you.
+Operator
+Thank you.
+Our final question for today then comes from the line of Melissa Weathers from Deutsche Bank.
+Your question please.
+Melissa Weathers
+Analyst, Deutsche Bank
+Hi, thank you so much.
+I just wanna touch really quickly on the ICAPS side that, Brice, you kind of just talked about.
+I think if we look at a lot of the analog reports, this earning season, it does seem like inventories are starting to lean out and maybe utilizations at those fabs are starting to get better.
+I realize it's not the fastest growing part of your business, but any updated outlook you guys have on maybe when we could see some more material spending on that core ICAPS's business going forward?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Hi, Melissa.
+Good question.
+That's a great point.
+There are some strong areas in ICAPS.
+I think analog and photonics, power chips are all areas that, you know, we're seeing that are very strong.
+That makes sense to us.
+I would just encourage investors to think, you know, ICAPS is still a very strong market.
+It's one of our largest markets.
+I think this is the first year in a few years where leading logic is actually ahead of ICAPS is still plugging along, still adding capacity at a significant rate.
+It'll just be, you know, it just won't grow a lot year-over-year until we digest the capacity.
+The utilizations have improved in ICAPS, to your point, I think 300 millimeter utilizations are in a very healthy range at this point.
+When we look forward, we expect ICAPS's, you know, from an equipment perspective, to eventually start growing at the same rate the devices are, which is mid to high single digits.
+We just have to get past this period where, you know, utilizations catch up with the installed capacity.
+Melissa Weathers
+Analyst, Deutsche Bank
+Got it.
+Thank you.
+If I can squeeze one last one in in the end of the call, just the EPIC Center.
+I know you guys are a couple of months away from unveiling that, so just any last couple statements you can make on what that could do to drive innovation and, I don't know if it would be share gains or competitive advantage, but anything on the EPIC Center we should look forward to?
+Gary Dickerson
+President and CEO, Applied Materials
+Yeah.
+Thanks, thanks, Melissa.
+I'm really excited about the EPIC Center.
+I mean, again, all of our customers in the entire ecosystem really is in a race for leadership for AI computing.
+That is really driving our businesses in leading edge foundry logic, DRAM, high-bandwidth memory, and advanced packaging.
+Really, when you think about architecture innovation, Applied's material innovations are really at the foundation of all of those architecture innovations across all of those fast-growing segments.
+Having our customers and partners co-located with these technologies that are enabling the architecture innovations here in our EPIC Center and co-located with our innovators is going to be an acceleration for Applied and for the entire industry.
+We've announced eight partners that we talked about earlier, TSMC, Samsung, Hynix, Micron, Advantest, ASU, RPI, Stanford, and we will be adding more soon.
+For Applied, it gives us better multi-node visibility because, again, we're working many generations out in the future with all of these different companies and really co-innovating.
+We are working with them to create these new architectures in the EPIC Center, and it also enables us to be designed in with our equipment and our advanced services for those new architectures.
+I'm really excited about the EPIC Center.
+I think this is the right strategy at the right time, and it's going to be an accelerator for our customers and for Applied Materials.
+Melissa Weathers
+Analyst, Deutsche Bank
+Thank you.
+Mike Sullivan
+Corporate VP of Investor Relations, Applied Materials
+Well, thank you, Melissa, for your questions.
+Now, Brice, would you like to give us your closing thoughts?
+Brice Hill
+Senior VP and CFO, Applied Materials
+Excellent.
+Thanks, Mike.
+We're really pleased with the investments we've made, puts us in a great position as AI drives incremental demand across the industry.
+We're in a strong position to grow revenue, expand margins, and increase operating leverage.
+We have a number of upcoming events to call to your attention.
+Next week, Tim Deane from our services business will be at the JP Morgan conference in Boston.
+The following week, Gary will be at the Bernstein conference in New York, and the week after that, I'll be at the BofA conference in San Francisco.
+We hope to see many of you at those events.
+Mike, please go ahead and close the call.
+Mike Sullivan
+Corporate VP of Investor Relations, Applied Materials
+All right, great.
+Thank you, Brice.
+We'd like to thank everybody for joining us today.
+A replay of the call is gonna be available on the IR page of our website by 5:00 P.M.
+Pacific Time.
+We would now like to thank you for your continued interest in Applied Materials.
+Operator
+Thank you, ladies and gentlemen, for your participation in today's conference.
+This does conclude the program.
+You may now disconnect.
+Good day.
+Data Source:
+Quartr
+Last updated:
+May 14, 2026
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (15)
+Quarterly report
+Earnings release
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
