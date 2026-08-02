@@ -1,0 +1,841 @@
+Moderna (MRNA) Q2 2021 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Moderna, Inc. (MRNA)
+NASDAQ: MRNA · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+54.82
+-3.10 (-5.35%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+54.64
+-0.18 (-0.33%)
+After-hours:
+Jul 31, 2026, 7:57 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q2 2021
+Aug 5, 2021
+Quarterly report
+Earnings release
+Slides
+Play Audio
+Download Transcript
+Operator
+Good morning.
+Welcome to Moderna's second quarter earnings call.
+At this time, all participants are in listen-only mode.
+Following the formal remarks, we will open the call up for your questions.
+Please be advised that the call is being recorded.
+At this time, I'd like to turn the call over to Lavina Talukdar, Head of Investor Relations at Moderna.
+Please proceed.
+Lavina Talukdar
+Head of Investor Relations, Moderna
+Thank you, operator.
+Good morning, everyone, and thank you for joining us on today's call to discuss Moderna's Second Quarter 2021 Financial Results and Business Updates.
+You can access the press release issued this morning, as well as the slides that we'll be reviewing, by going to the investor section of our website.
+On today's call are Stéphane Bancel, our Chief Executive Officer; David Meline, our Chief Financial Officer; Stephen Hoge, our President; Paul Burton, our Chief Medical Officer; Corinne Le Goff, our Chief Commercial Officer; and Jackie Miller, our Senior Vice President, Therapeutic Head of Infectious Diseases.
+Before we begin, please note that this conference call will include forward-looking statements made pursuant to the Safe Harbor Provisions of Private Securities Litigation Reform Act of 1995.
+Please see slide two of the accompanying presentation in our SEC filings for important risk factors that could cause our performance and results to differ materially from those expressed or implied in these forward-looking statements.
+On slide three, please see the important indication and information for our COVID-19 vaccine, which has been authorized for emergency use in the United States and in many countries around the world.
+I will now turn the call over to Stéphane.
+Stéphane Bancel
+CEO, Moderna
+Thank you, Lavina.
+Good morning or good afternoon, everyone.
+Welcome to our Q2 2021 conference call.
+Today, I will start by a quick business review of the quarter before Corinne walks you through the commercial update.
+David will present the key financials.
+Stephen and Jackie will provide the clinical update, highlighting new human data about the final analysis for COVID-19 vaccine phase III COVE study and human data for COVID-19 booster candidate phase II.
+I will come back to close to share some thoughts about where we are heading.
+Let me start with Moderna COVID-19 vaccine or Spikevax.
+We are pleased to announce today that our final analysis vaccine efficacy, or VE, in our phase III COVE study is holding very nicely at 93%.
+We are starting to get authorizations for adolescent indication 12-17 years of age, receiving authorization in Japan this week and a positive recommendation from the European Medicines Agency in July.
+An important step toward our vision of an annual respiratory combination booster is the start of a phase I/II for mRNA-1010, which is a quadrivalent seasonal flu vaccine.
+Our teams are already preparing the phase II/III for this program.
+We were delighted to get fast track designation from the U.S.
+FDA for RSV vaccine candidate, mRNA-1345, in adults over 60 years of age.
+There is no approved RSV vaccine.
+The burden for RSV infection is very high.
+In adults over 65 years of age, according to the CDC, 177,000 hospitalizations and around 14,000 deaths occur annually in the U.S. due to RSV.
+Our teams are also preparing the phase II/III for this program.
+Our Zika vaccine has now moved to phase II. mRNA-3927 for propionic acidemia, or PA, a rare genetic disease, has also started dosing patients in our phase I/II.
+We are pleased to announce recently that we started dosing healthy volunteers in our first autoimmune disease program, mRNA-6231, coding for IL-2.
+Moderna is now in the clinic in five large therapeutic areas: infectious diseases, cancer, cardiology, autoimmune disease, and rare genetic diseases.
+We have a strong pipeline momentum, and the research teams are working hard to bring the next wave of development candidates to the clinic.
+Moving to slide six.
+We have also a strong commercial momentum.
+Let me start by giving you an update about Advanced Purchase Agreements, or APAs, for our COVID-19 vaccine Spikevax.
+For fiscal year 2021, we have now signed APAs for $20 billion versus $19.2 billion announced in our Q1 call.
+We are now capacity constrained for 2021, and we are not taking any more orders for 2021 delivery.
+For fiscal year 2022, we have already signed APAs for $12 billion.
+We have also signed an additional $8 billion in options.
+We are having numerous discussions ongoing as we speak with countries around the world to enter into new APAs for 2022.
+We'll continue to give you updates on a regular basis.
+What is very interesting to see is that forward-thinking countries like Israel and Switzerland have already signed APAs for 2023 to ensure supply for the endemic market.
+On the financial front, we delivered $4.4 billion of revenue and $2.8 billion of net income.
+The cash generation in the quarter was strong at around $4 billion, bringing our cash balance to over $12 billion at the end of June. We're also announcing today our first share buyback plan.
+Our board of directors has authorized share repurchase for up to $1 billion.
+David and I will give you more color in a few minutes.
+For 2021, we continue to forecast supply between 800 million and 1 billion doses.
+For 2022, we forecast supply between 2 billion-3 billion doses, depending on the final dose approved by the regulators for our booster.
+At 50 microgram, up to 3 billion doses.
+At 100 microgram, up to 2 billion doses.
+As we continue focusing on scaling the company, I am delighted to have three new executive committee members who joined recently.
+By start date at the company, Shannon Klinger as our Chief Legal Officer and Corporate Secretary.
+She joined us from Novartis, where she was the Chief Legal Officer.
+Dr. Paul Burton, our Chief Medical Officer.
+He joined us from Janssen Pharmaceuticals, a Johnson & Johnson company, where he was Chief Global Medical Affairs Officer.
+More recently, Kate Cronin as our newly created role of Chief Brand Officer.
+Kate was until recently the CEO of Ogilvy Health.
+I look forward to working closely with Shannon, Paul, and Kate as we scale Moderna to the next level.
+On slide nine, you will find our usual summary slide.
+A few important things to note.
+We are now preparing phase II/III for quadrivalent seasonal flu and our RSV program.
+Our team continues to grow as we increase manufacturing capacity for our COVID-19 vaccine, as we move programs from early-stage clinical study to late-stage clinical studies, and as we increase investment in research for the next wave of development candidates.
+Let me now turn to Corinne to give you a commercial update.
+Corinne?
+Corinne Le Goff
+Chief Commercial Officer, Moderna
+Thank you, Stéphane, and good morning or good afternoon, everyone.
+I am happy to share the productive quarter the commercial organization has had in the second quarter that continues into today as we ramp up our efforts to supply the Moderna COVID-19 vaccine, or Spikevax, to countries around the world.
+Let me start by recapping the advanced purchase agreements that we have signed for delivery in 2021 on slide 11.
+Since the last quarterly call, I am very happy to highlight that we have signed APAs with COVAX for 34 million doses this year, an additional 110 million doses to the USG, bringing the total of doses for the United States to about 400 million doses, and 10 million doses to Australia for delivery in 2021.
+In total, we anticipate up to $20 billion in sales from these agreements as we deliver against them throughout the remainder of the year.
+We are proud to distribute our vaccine directly or through our network of partners across all continents, and most importantly, to ensure access to our vaccine to all countries, regardless of their income level, notably through the COVAX facility structure.
+I also want to mention that we are doing our utmost in supporting the U.S. government to execute the donations of Moderna doses of vaccines.
+Slide 12 lists out signed APAs for deliveries in 2022 and even in 2023.
+The construct of the APAs signed for 2022 and 2023 include both confirmed orders as well as options to be triggered at a future date.
+To date, we have already contracted for 2022 product sales of $12 billion and an additional $8 billion in options.
+Some of these APAs are for primary series vaccines and others are for potential boosters.
+In light of the possibility of needing booster vaccines to increase immune responses against waning immunity and the emergence of variants of concern, Moderna has already started our COVID booster strategy that Stephen will speak to shortly.
+In the meantime, the commercial team is currently engaged in multiple conversations that are gaining urgency as we watch the Delta variant surge among unvaccinated populations.
+We are notably actively talking to many countries in South America, in Asia, and in the Middle East.
+All these countries are keenly interested in securing both primary series vaccines or booster vaccines for their citizens next year.
+In the United States, as you know, Moderna has initiated the rolling submission process for BLA approval and expects to complete its submission in August.
+This approval will represent an important milestone in achieving herd immunity as it might help combat vaccine hesitancy.
+It will also allow the commercial organization to start preparing for the private U.S. market.
+Turning to slide 13, which reviews the sales breakout for the second quarter 2021.
+Total product sales in the quarter were $4.2 billion, representing 199 million doses delivered in the quarter.
+Sales in the U.S. were $2.1 billion, representing 126 million doses delivered to the U.S. government.
+Sales to the rest of the world, to the countries that are listed on this slide, were also $2.1 billion, representing 73 million doses delivered in the quarter.
+With that, let me hand it over to David to take you through the financial details.
+David Meline
+CFO, Moderna
+Okay.
+Thank you, Corinne.
+We're providing today the analysis of actual 2021 second quarter results, along with an updated view of key drivers of financial performance going forward.
+As in previous quarters, we're presenting our results primarily on a U.S.
+GAAP basis.
+In some cases, we also provide additional detail to provide greater clarity on underlying trends.
+Turn now please to slide 15.
+The transformation of Moderna from an R&D focused biotech to a commercial company is very apparent when reviewing our financial results.
+The comparison of the second quarter of 2021 to prior year is not as meaningful due to our dynamic growth, which is why we'll primarily focus on the quarter-over-quarter comparison relative to Q1 on this slide.
+Total revenue was $4.4 billion in the second quarter of 2021, compared to $1.9 billion in Q1.
+The increase of total revenue is primarily resulting from the sale of the company's COVID-19 vaccine.
+Product sales in Q2 were $4.2 billion compared to $1.7 billion in the first quarter, an increase of 142%.
+Cost of sales were $750 million, or 18% of the company's product sales in the second quarter, compared to $193 million in the first quarter.
+Research and development expenses were $421 million in Q2 2021, compared to $401 million in Q1, and $152 million in the same period in 2020.
+The higher spend versus prior quarter and prior year was driven by increased COVID-19 vaccine clinical development activities, including our announced efforts around booster, variant specific, and multivalent vaccine candidates.
+Selling general and administrative expenses were $121 million for Q2 compared to $77 million for the prior quarter.
+The growth in spending was driven by commercialization of our COVID-19 vaccine globally, with the biggest increases being in personnel and outside services.
+Provision for income taxes was $283 million in Q2 after $39 million in Q1, and an insignificant amount in the prior year.
+Our effective tax rate for Q2 was 9%.
+Let me remind you of the following.
+The significant investments to develop the mRNA platform over the last decade resulted in a net operating loss carry-forward with a balance of $2.3 billion at the end of 2020.
+As of December 31, we maintained a full valuation allowance against our deferred tax assets related to these loss carry-forwards.
+As discussed in our last call, we started to release the valuation allowance this year.
+The majority of the allowance will flow through the P&L over the course of this year through our effective tax rate, prorated based on the cadence of our expected pre-tax quarterly earnings.
+Over the course of 2021, the resulting non-recurring benefit due to the release of the valuation allowance is about five percentage points on our effective tax rate.
+Our Q2 effective tax rate was lower than the U.S. statutory rate, primarily due to the benefit related to the release of the valuation allowance, the foreign-derived intangible income deduction, as well as a discrete item for excess tax deductions related to stock-based compensation.
+We recorded net income of $2.8 billion in Q2 after $1.2 billion in Q1, an increase of 128%.
+Diluted earnings per share for Q2 were $6.46.
+Turning now to year-to-date financial results compared to prior year on slide 16.
+Total revenue was $6.3 billion for the six months ended June 30th, compared to $75 million for the same period in 2020.
+The significant growth was driven by the sales of 302 million doses of the company's COVID-19 vaccine.
+Cost of sales was $943 million, or 16%, of the company's product sales for the six months ended June 30th, including third-party royalties of $232 million.
+Reported cost of sales was reduced by three percentage points due to the consumption of previously expensed inventory of approximately $200 million.
+Research and development expenses were $822 million for the six months ended June 30th, compared to $267 million for the same period in 2020.
+The growth in spending in 2021 was largely driven by increased mRNA-1273 clinical development and headcount.
+Selling general administrative expenses were $198 million for the six months ended June 30th, compared to $61 million for the same period in 2020.
+The growth in spending in 2021 was mainly attributable to the company's COVID-19 vaccine commercialization activities. For the six months ended June 30th, we recorded provision for income taxes of $322 million, compared to an insignificant amount for the period in 2020.
+Our effective tax rate for the six months ended June 30th was 7%.
+It was lower than the U.S. statutory rate, primarily due to the non-recurring benefit related to the release of the valuation allowance, the ongoing benefit of the foreign-derived intangible income deduction, as well as a discrete item for excess tax deductions related to stock-based compensation.
+Net income was $4 billion for the six months ended June 30th, compared to a net loss of $241 million for the same period in 2020.
+Diluted earnings per share were $9.30 for the six months ended June 30th, 2021.
+Turning to cash and selected cash flow information on slide 17.
+We ended Q2 with cash and investments of $12.2 billion, compared to $8.2 billion at the end of Q1.
+The increase is driven by our commercial sales and additional customer deposits received in the second quarter for future purchases of our COVID-19 vaccine.
+Net cash provided by operating activities was $4.1 billion in Q2 after $3 billion in Q1, totaling $7 billion year to date.
+This compares to net cash used in operating activities of $130 million in the prior year.
+Cash used for purchase of property and equipment was $65 million for the six months ended June 30th, compared to $25 million for the same period in 2020.
+Similar to last quarter, before providing an updated financial framework for the remainder of 2021, let me point out a few areas that are important to keep in mind when modeling expected 2021 financial performance, starting with cost of sales on slide 18.
+Cost of sales includes the cost of goods manufactured, third-party royalties, as well as logistics and warehousing costs.
+You may recall, we began capitalizing our COVID-19 vaccine inventory costs in December 2020, following emergency use authorization.
+Prior to the authorization, inventory costs were recorded as research and development expenses in the period incurred.
+In Q1, a zero cost inventory balance of $184 million was sold and benefited our cost of sales.
+If inventory sold during the first quarter was valued at actual cost, our cost of sales would've been $377 million or 22% of product sales.
+In Q2, cost of sales of $750 million, or 18% of product sales, were no longer materially impacted by the zero cost inventory, hence the relevant comparison is the adjusted ratio in Q1.
+The reduction of cost of sales as a percent of product sales when comparing to the adjusted cost of sales in Q1 is primarily driven by a customer mix-driven increase in our average selling price during the second quarter.
+Turning to our cash and investment position on slide 19.
+The cash and investment balance reported as of June 30th was $12.2 billion, up from $8.2 billion as of March 31.
+The increase is driven by our commercial activities, including net increase in customer deposits for future product supply of COVID-19 vaccine.
+The net cash balance of customer deposits increased from $5.6 billion at the end of Q1 to $6.8 billion as of June 30th.
+Turning to slide 20, I wanted to share our capital allocation priorities.
+We seek to optimize our capital deployment and maximize long-term shareholder returns.
+Our top investment priority will continue to be reinvesting in the base business across multiple areas.
+For R&D, we have more than tripled spending in the first half of 2021 relative to the prior year, and we will continue to significantly increase spending in this area to advance and accelerate our pipeline.
+For manufacturing, we previously disclosed our 2021 capital expenditure plans, which will allow us to increase our production capacity.
+Additionally, we're investing heavily in digital, automation, and AI, as well as scaling up our global commercial operations, which will allow us to maximize the impact of our mRNA platform.
+Our second investment priority is to seek attractive external investment and collaboration opportunities to further expand the reach of Moderna's technology and capabilities.
+We are considering attractive strategic opportunities that enable and complement our platform and take a disciplined approach in evaluating potential outside investments.
+After evaluating internal and external investment opportunities, we then assess additional uses of cash.
+As part of today's press release, we announced that the board has authorized a $1 billion share repurchase program.
+This program is authorized for a two-year period.
+Based on the strength of our financial results for the first half of the year and our confidence in our business outlook, we believe it is an appropriate time to initiate this program. Turning now to the 2021 updated financial framework on slide 21.
+Signed advance purchase agreements for expected delivery in 2021 reflect a current full-year total of approximately $20 billion in anticipated product sales, including the $5.9 billion of product sales already generated in the first half of this year.
+For the full year, we continue to expect a minimum supply of 800 million doses at the 100 microgram dose level.
+Our manufacturing team and our partners continue working to supply up to 1 billion doses for 2021.
+We have signed advance purchase agreements for expected delivery in 2022 for total product sales of approximately $12 billion and options for an additional $8 billion.
+Numerous additional negotiations are still ongoing for 2022 APAs.
+We have also started to sign APAs for 2023.
+As we previously announced, we continue to make investments to increase our supply of vaccine, including by working with contract manufacturing organizations.
+We currently anticipate that our supply could be as high as 3 billion doses for 2022 if our sales are primarily at a 50 microgram dose level.
+If sales are primarily at the 100 microgram dose level, we anticipate that supply will be approximately up to 2 billion doses.
+The ultimate approach on dosage levels for 2022 and where we might end up in that range is subject to ongoing internal review as well as discussions with regulators and customers and will also be impacted by the mix of primary and booster series.
+Our total cost of sales includes the cost of goods manufactured, third-party royalties, as well as logistics and warehousing costs.
+For 2021, we now expect the average cost total of sales as a percent of product sales to be between 18%-20%, compared to our previous outlook of approximately 20% of product sales.
+This reflects the successful ramp-up of this global manufacturing network.
+With regard to planned R&D and SG&A expenses, Q2 expenses of approximately $542 million reflect a quarter-over-quarter increase of 13%, in line with the outlook we gave in Q1.
+We continue to plan for an increase on a quarter-over-quarter basis for the remainder of this year and expect this growth rate to accelerate as the business rapidly expands.
+Based on further increased visibility of the utilization of our accumulated net operating loss carryforward, expected global sales mix, and the mentioned discrete benefits in the first half of this year, we now expect our all-in 2021 tax rate to be approximately 10%.
+This compares to our previous forecast in the low teen range.
+This forecast is based on current U.S. tax policy and does not include any future potential discrete benefits related to stock-based compensation.
+Finally, regarding capital investments, we maintain our forecast for a range of $450 million-$550 million, including the planned capacity expansion investments as announced on April 29th of this year.
+This concludes my remarks.
+I turn the call over to Jackie Miller.
+Jackie Miller
+Senior VP and Therapeutic Head of Infectious Diseases, Moderna
+Yes, good morning, good afternoon, everyone.
+My name is Jacqueline Miller, and I lead the therapeutic area for infectious diseases, and it's my pleasure today to give you an update to the ongoing accumulation of data in our phase III clinical study and also to talk about some of the publications of real-world evidence that have occurred outside of Moderna with the use of our COVID-19 vaccine.
+On slide 24, you'll see the top-line updates to our COVE efficacy trial, and these are efficacy data that have now been followed through four to six months after subjects received their second vaccination of either mRNA-1273 or placebo.
+Recall that at the time of our EUA submission, our primary efficacy analysis demonstrated efficacy to COVID-19 of 94.1%.
+Now, four to six months after second dose, we see a maintenance of that efficacy of 93.2% with a lower limit of the 95% confidence interval of 91%.
+We continue to maintain efficacy against severe COVID-19 disease with updated vaccine efficacy of 98.2% and currently have 100% of efficacy against deaths caused by COVID-19.
+Unfortunately, there were three deaths in the placebo group and up till now, none in the mRNA-1273 group.
+We continue to see consistency in our subgroup analyses, including analyses by gender, by race, and by preexisting medical condition.
+Our safety profile continues to be consistent with the phase III data over the longer period of safety follow-up and also continues to be consistent across population subgroups.
+Next slide, please.
+On slide 25, you'll see the efficacy data broken out by time interval.
+What you see at the top of the table is the overall efficacy we just discussed.
+According to the primary endpoint, we start measuring vaccine efficacy at 14 days after dose two, and again, that's 93.1%.
+If you look between 14 days post dose two to less than two months after dose two, we observe vaccine efficacy of 91.8%, and 94% if you look two months after dose two to less than four months after dose two.
+Finally, greater than four months after dose two, we observe 92.4% efficacy.
+The conclusion we take from these data is that our efficacy has remained consistently high and durable throughout the period of follow-up.
+We intend to continue to follow these data now that the trial is in its open-label phase.
+The reports will be different moving forward, given that subjects in the placebo group have recently been vaccinated.
+We think it's important that we continue to follow as subjects remain further out from their initial vaccination.
+If you go to slide 26, you'll see that these data have been consistent also in studies outside of the Moderna clinical trial.
+We begin to see real-world effectiveness data that demonstrate that Moderna maintains effectiveness consistent with what was seen in the COVE study.
+There are reports from Canada, from the United Kingdom, and from Qatar.
+Importantly, these trials confirm that there is vaccine effectiveness not only against the Wuhan strain, but also against emerging variants of concern, including the Alpha, Beta, Gamma, and Delta variants, and this is even after partial vaccination or vaccination with a single dose.
+If you move to slide 27, I am now going to hand over the presentation to Stephen Hoge, who will review our COVID-19 booster strategy and clinical data, as well as a review of our pipeline.
+Stephen?
+Stephen Hoge
+President, Moderna
+Thank you, Jackie .
+Moving on to slide 28, I want to start with an update of our perspective on COVID-19 and how it's impacting our strategy for boosters.
+First, our emerging perspective.
+We believe today that the increased force of infection that's resulting from the Delta variant, fatigue with non-pharmaceutical interventions, and the seasonal effects of moving indoors will eventually lead to an increase in breakthrough infections in vaccinated individuals.
+In fact, there have been reports of that already.
+While we see durable phase III efficacy through six months, which Jackie just described, we do expect that neutralizing titers will continue to wane, and eventually, that will impact vaccine efficacy.
+Given this intersection between a rising force of infection and waning immunity, we believe a dose three of a booster will likely be necessary to keep us as safe as possible through the winter season in the northern hemisphere.
+How has that informed our booster strategy?
+Our primary approach since early this year has been to advance a portfolio of booster candidates against all of the potential emerging variants of concern.
+We have a large number of ongoing clinical studies, and I'll provide some update on some today.
+Those boosters are being evaluated often at two different dose levels, 50 micrograms and 100 micrograms.
+They fall broadly into three categories.
+First is our prototype vaccine, mRNA-1273, for which Jackie just described the primary efficacy data out of our phase III study.
+We are looking at variant-specific booster candidates, Beta and now a new Delta variant-specific candidate.
+Third, we are looking at a multivalent platform combining different variants into a single vaccine.
+First, our mRNA-211 program, and now a new mRNA-213 program, which includes the Delta antigen.
+The goal of the multivalent platform is to continue to try and stay ahead of where the virus is going by combining different antigens against emerging variants of concern.
+I'd like to provide a brief update today on the three pre-existing programs, mRNA-1273, our variant-specific booster candidate against the Beta strain 351, and our first multivalent vaccine, mRNA-1273.211.
+Moving to slide 29, I have a comparison of those three candidates from our P201 study.
+Quickly starting on the left-hand side, looking in the validated clinical assays, these are the same assays conducted by our collaborators at NIH that were used for our phase III study and earlier clinical work.
+We can look at the wild type virus neutralization of the three different booster approaches.
+Arrayed left to right, you see our prototype mRNA-1273, our Beta specific variant of concern, it's mRNA-1273.351, and the multivalent combination of mRNA-1273 and Beta, which is mRNA-1273.211.
+As a reminder, all three of these were dosed at 50 micrograms.
+What I'm showing you on the left-hand side is the pseudovirus neutralization titers in the validated assays at day one, immediately prior to boosting, day 29, and in some cases, day 15.
+Now, all of the participants in this study would have previously received the Moderna vaccine, two doses, just as Jackie had described.
+At approximately six to eight months after they had participated in one of our clinical studies, we offered them a chance for this booster.
+You can see at the baseline day one, six to eight months after primary series, neutralizing titers are somewhat lower in all three cases.
+With a booster dose of vaccine, all three boosters, we were able to substantially increase the neutralization against the wild type virus.
+As you can see, for mRNA-1273, a 16.7-fold, approximately 11-fold at both day 15 and day 29 for the Beta variant of concern, and 38- to 46-fold with the mRNA-1273.211 multivalent platform.
+That's against the ancestral virus on the left.
+How did we do against the variants of concern?
+At the time when we initiated this study, we were particularly concerned about the B.1.351 variant, that now it's named Beta variant, and the P.1 Gamma variant.
+What we did is we set up assays to evaluate the performance of the booster vaccines two weeks after booster in all of those, and again, compared it against the ancestral virus D614G that we've used thus far.
+What you can see in all three cases is when you compare the boosting that's happening and compare that to the level of titers, neutralizing titers, that was seen in each of those groups of people against their one month post their second dose, you can see strong boosting against all the variants of concern by all three booster strategies.
+In fact, it's very encouraging to see that mRNA-1273, our prototype vaccine, was able to increase titers against the 351 strain and the P.1 Gamma strain.
+As you look to the left, you'll see the level of boosting might be slightly higher with our multivalent platform, which is directionally higher titers, particularly against the 351 and P.1 strain.
+Overall, the boosting remains strong across all three approaches.
+As a result of this data, we've made the determination that against these variants of concern, we believe the prototype vaccine, mRNA-1273, is more than sufficient as a booster and that there's no obvious advantage to working with the Beta, including variant boosters at this time.
+It's also worth noting that the epidemiology has moved away from the Beta variant of concern towards the Delta variant of concern that we've spoken about extensively.
+How did we do then in that mRNA-1273 against the Delta variant of concern?
+Moving to slide 30, I'm presenting data here which has been submitted in a manuscript.
+It's actually in press as we speak.
+Looking at the performance of mRNA-1273 over six months after primary series against the variants of concern.
+The third dose booster of 50 microgram of mRNA-1273 pseudovirus neutralization titers here in our research assays was shown.
+Just to orient you quickly to the slide, we're looking against wild-type Beta, Gamma, and Delta variants of concern.
+The data on the first three columns deals with the month one post dose two.
+Immediately following the primary vaccination series, for which we have the really strong efficacy data that Jackie just described.
+As you can see, we see high titers against the wild-type strain, 1,200 in this assay in this group, and substantially lower titers against the Beta and Gamma variants of concern, as has previously been reported.
+Following those subjects forward to month six to eight after their second dose, what you can see is waning, both for the wild type virus, although it remains detectable levels of titers, but also for the variants of concern, particularly Beta, Gamma, and Delta.
+In fact, as you can appreciate in those middle four bars, Beta, Gamma, and Delta neutralizing titers had fallen below the level of detection of the assay for a decent number of participants in all three cases.
+The great news is that a 50 microgram dose of mRNA-1273 was able to boost against all four of those viral strains. 14 days post dose three, we show the titers on the far right.
+Again, all four bars.
+We saw 23-fold boosting against the wild type strain to levels that are significantly above the level we'd seen just after second dose, one month post dose two.
+Saw 32-fold boosting against Beta, 43-fold boosting against Gamma, and 42-fold boosting against Delta.
+Again, all reaching levels that are significantly higher than previously seen.
+That is very encouraging and we think confirms our selection of the prototype booster as likely to be protective against the circulating variants of concern, particularly Delta presently.
+Advancing that mRNA-1273 program at 50 microgram booster into phase II is something we did in parallel.
+On slide 31, I'm happy to provide an update on the phase II results from that larger study of the prototype booster.
+Earlier this year, our phase II study of mRNA-1273 was amended to offer a third dose of mRNA-1273 at 50 micrograms to all interested participants six months out from their second dose of the vaccine.
+A total of 344 participants elected to receive that dose.
+The top-line results are reported here, and we have a manuscript in preparation that we'll be submitting shortly.
+The results are generally consistent with what I've already shared from the Choi et al. data.
+That was that neutralizing antibody titers had waned significantly prior to boosting at six months.
+No surprise.
+A third dose, 50 micrograms, of mRNA-1273 boosted neutralizing titers to levels that are above the phase III benchmark.
+Again, this now being done in our clinically validated assays with our colleagues at NIH. After a third dose, similar levels of neutralizing titers were achieved across age groups.
+Importantly, a subgroup analysis of older adults over the age of 65 showed they were both able to boost significantly and achieve levels that are comparable to younger adults, which is really encouraging.
+The safety profile following the dose three at 50 micrograms was similar to that observed previously for dose two of mRNA-1273.
+In total, we think this is really encouraging data on the potential for a 50 microgram booster of mRNA-1273.
+Moving to slide 32, where does that leave us on our COVID booster strategy for a delayed third dose approximately 6- 12 months after vaccination?
+Well, we believe a booster dose is likely to be necessary this fall, particularly in the face of the Delta variant.
+Our clinical data right now we think supports a 50 microgram mRNA-1273 booster, and we see no obvious advantage for Beta-containing variant candidates, driven both by the data I presented today and the evolving epidemiology.
+We're going to wait for 100 microgram data in the coming weeks to confirm the dose selection of 50 micrograms as the booster before filing.
+Moving off from the COVID booster, I’d like to provide a little bit of an update on the other parts of our pipeline.
+Moving to slide 33, we were excited to update today that mRNA-1010, our first seasonal influenza vaccine candidate, has entered the clinic, and that mRNA-1010 is moving quickly in its ongoing phase I/II study.
+I’ll remind you that mRNA-1010 is a quadrivalent seasonal flu vaccine that’s targeting the WHO-recommended strains.
+Our vision is to eventually combine mRNA-1010 as a seasonal flu vaccine in a pan-respiratory vaccine booster for adult and elderly populations that combines flu, a COVID-19 booster, and potentially our respiratory syncytial virus vaccine.
+Looking at slide 34, across our infectious disease portfolio, beyond 1010, we have a number of other important updates.
+In our RSV vaccine, our positive interim phase I data was announced at Vaccines Day earlier this year, and phase I dosing in pediatric and adult vaccine is ongoing.
+We recently were pleased to announce that we'd received FDA's Fast Track designation for adults over the age of 60 for this vaccine, highlighting the significant unmet need that we believe is there in this disease.
+Our hMPV/PIV3 vaccine, another multivalent respiratory vaccine, is in a phase I-B trial that's currently enrolling in toddlers, and the first cohort has been completely enrolled.
+Our CMV vaccine, again, a significant unmet need, is on track to start its pivotal phase III trial this year with roughly 8,000 participants.
+Lastly, our Zika vaccine phase II trial is ongoing and currently enrolling patients in the United States and Puerto Rico.
+Moving to slide 35, beyond our expanding infectious disease vaccine portfolio, we are advancing in mRNA therapeutics and now have seven programs in ongoing clinical trials.
+In oncology, our cancer vaccines programs with Merck include the personalized cancer vaccine in KRAS.
+We have two intratumoral programs in ongoing phase I studies, one a triplet program ourselves, and an IL-12 program in combination with AstraZeneca.
+In our cardiovascular therapeutic area, we have two programs, the VEGF program ongoing with AstraZeneca in phase II.
+A preclinical Relaxin program.
+In autoimmune, we were excited to announce that we had started dosing our first patients in an IL-2 phase I study, and that continues.
+The PD-L1 program remains in preclinical development.
+Lastly, in rare diseases, we have been dosing for this year in our propionic acidemia program in phase I, MMA, GSD1a, and PKU programs are in preclinical, and we look forward to starting those in the clinic.
+Briefly on page 36, you can see our expanding pipeline of clinical programs and the continued advancement across all of our therapeutic areas, but most notably of our prophylactic vaccines modality in infectious diseases.
+With that, I'd like to turn the call back to Stéphane Bancel for closing remarks.
+Stéphane Bancel
+CEO, Moderna
+Thank you, Corinne, David, Jackie, and Stephen.
+Before taking your questions, let me share a few thoughts.
+On this slide, we articulate how we have been thinking for many years now about using our mRNA platform to maximize our impact on patients.
+On the left, we now have two core modalities.
+For vaccines in blue, we have achieved authorized product, and for systemic secreted and cell surface therapeutics in pink, we have achieved human proof of concept with our chikungunya antibodies, demonstrating we could get therapeutic level of antibodies, and we could repeat those successfully.
+In the middle, we have four exploratory modalities which were in the clinic with six programs to understand if we achieve human proof of concept.
+Four medicines in immuno-oncology, one in cardiology, one in rare genetic disease.
+More are coming in the coming quarters.
+On the right, you see two modalities which are not yet in the clinic, but for which we believe we have achieved important de-risking in non-human primates.
+Delivery of mRNA into the lung and delivery of mRNA into hematopoietic stem progenitor cells.
+Next slide, core modalities.
+In vaccine, we are focusing on bringing to market what we believe could be a game-changing respiratory vaccine.
+That medicine would combine over time COVID-19 boosters plus seasonal flu boosters plus RSV booster in one single annual shot. We have a great vaccine against COVID-19.
+Our RSV clinical data have shown high level of neutralizing antibodies, which has led the FDA to grant a Fast Track designation.
+Our quadrivalent seasonal flu vaccine is in the clinic now.
+The flu market is $5 billion-$6 billion per year.
+Despite flu vaccine efficacy being notoriously sub-optimal, around 60% in a good year, and down to around 30% in a bad year.
+We believe we can do better with our mRNA platform, given what we have demonstrated with COVID-19.
+The Moderna flu vaccine candidate could launch as early as 2023.
+CMV is now close to entering phase III.
+We continue to believe the market opportunity could be $2 billion-$5 billion per year.
+EBV should enter the clinic soon.
+There is no vaccine against CMV infection or EBV infection.
+We are working toward moving the company from COVID-19 prime vaccination sales in 2021, to COVID-19 booster in 2021 and 2022, and beyond.
+Then adding flu as early as 2023, and then adding RSV, and launching CMV, and then EBV.
+I'm excited about this vaccine pipeline and how these vaccines could help prevent deaths, hospitalizations, and disease in billions of people over the years.
+Stephen and his research team are not resting.
+They are working in our labs on more vaccine candidates, and we cannot wait to share with you these new vaccine candidates in the future as we take them into clinical studies.
+This is where the power of mRNA as an information molecule, and the industrialization of Moderna, and the digitalization of Moderna, and our cash position will enable our teams to bring important vaccines to protect people at a scale and at a pace not seen before in the pharmaceutical industry.
+In autoimmune disease, we aim to continue to scale that therapeutic area.
+Next slide, exploratory modalities.
+Six clinical programs in four exploratory modalities.
+If we get positive clinical signal, we'll scale these modalities quickly as well.
+That's where the beauty of a platform comes into play.
+Next slide, modalities in research.
+Very typical of our long-term mindset and our desire to maximize our impact on patients, we continue to invest in science to explore new modalities, like the one in the lung, and more recently presented at our Science Day in hematopoietic stem cells.
+In our lung program, we are both working on using mRNA to express a human protein in a cell.
+That was our first Vertex partnership, but we're excited about our exploration of doing gene editing using mRNA to express a gene editing enzyme that is our second Vertex partnership.
+Next slide.
+I believe that the uniqueness of Moderna is that we're expanding our impact on patients in two dimensions.
+We're expanding in two dimensions at the same time because we have built and industrialized our mRNA platform.
+Because mRNA is an information molecule, once we make a medicine work in a modality, like the COVID-19 vaccine, then we use the same four building blocks of life to make another vaccine.
+We scale within a modality very fast along the first dimension of the Y-axis.
+On the second dimension is to keep expanding new applications of mRNA into new cell types on the X-axis.
+We're doing both at the same time with different dedicated teams, all powered by our science, our digital, and our manufacturing infrastructure.
+David shared earlier our framework for capital allocation.
+That we are generating significant amounts of cash each quarter, our number one priority as a company has always been, and will continue to be, to invest in the business.
+We continue to believe that we are in the early days of a new class of medicines, mRNA, and if small molecules more than 100 years ago and large molecules 50 years ago are any indication, the next 10- 20- 40 years are going to see a very large number of important medicines.
+Because mRNA is an information molecule, it will happen really fast.
+We aim to continue to be the world-leading mRNA company.
+We are talking about investment in acceleration of programs already in the clinic, investment in new development candidates moving from the labs to the clinic, investment in our platform to continue to improve the science and to include new modalities, investment in manufacturing, investment in commercial presence, including our digital commercial presence, investment in digital, so we can scale our company faster and better than traditional biotech or pharma companies.
+Our second priority is to expand our horizons by complementing our platform with external technologies or products.
+This means we're interested in nucleic acid technologies, gene therapy, gene editing, mRNA.
+On the mRNA front, if we find new delivery technologies that could expand our current capabilities, we will look at them carefully.
+We would be interested in technology licenses and/or in development candidate licenses and/or, if it makes sense, M&A.
+You can count on us to be disciplined.
+We know what it takes to go from early research to filing with regulatory agencies.
+For having done it, we know the risk associated with new technologies and everything that works in a mouse will not necessarily work in a human.
+From a strategic standpoint, we are not interested in small molecule or large molecule development candidates, even if they could complement our commercial portfolio. We love information molecules too much to be interested in acquiring analog molecules, like small molecule, large recombinant molecules, or cell therapy.
+The share buyback is our first one.
+We are very optimistic about the future of Moderna.
+We're just getting started.
+Our board of directors will continue to regularly review what is the right thing to do to return capital to shareholders in light of our cash generation balance against investment in our business and external investment opportunities.
+Let me talk now a minute about corporate responsibilities.
+It is very important for us to make Moderna a model of corporate responsibility and to build a sustainable business.
+Like everything we do, we don't just want to do things well.
+We want to do things in the best possible way.
+We were pleased to announce recently the establishment of a charitable foundation with a net fund endowment of $50 million with a significant focus on underserved populations.
+We are humbled to have been awarded the number one spot on Fast Company 2021 for Best Place to Work for Innovators, which complements our last six consecutive years of recognition by Science as a top employer.
+Both awards reflect the importance we place on our employees and the culture of the company.
+Recently, Axios Harris released its 2021 corporate reputation survey, and the Moderna brand ranked third among 100 of the most visible U.S. companies.
+Our first mention on the list, and the highest ranking for any biopharmaceutical company for corporate reputation.
+We have recently worked relentlessly with the U.S. government to facilitate donations of the Moderna COVID-19 vaccine to many low-income countries.
+We are committed to minimizing our energy footprint.
+As I look to the next decade, the same North Star is guiding us than since we started.
+We believe we have a responsibility to maximize our impact to protect healthy people and help patients.
+Our commitment is stronger than ever.
+This is just the beginning.
+We look forward to welcoming you at our annual R&D Day on September 9th, where, as in previous years, we will do a detailed review of our development pipeline.
+The team and I will be happy now to take your questions.
+Operator?
+Operator
+Okay.
+As a reminder, to ask a question, you will need to press star one on your telephone, and to withdraw your question, press the pound key.
+Your first question comes from the line of Salveen Richter from Goldman Sachs.
+Your line is now open.
+Salveen Richter
+Analyst, Goldman Sachs
+Good morning.
+Thank you for taking my questions.
+Could you walk us through the dynamics for 2022 and beyond in terms of APAs for Spikevax, essentially demand in the context of supply of the 2 billion-3 billion doses for 2022, and then how we should think about the years beyond 2022 and pricing?
+Secondly, with regard to external BD, how are you thinking about integrating areas like gene editing and gene therapy with your platform?
+David Meline
+CFO, Moderna
+Maybe I'll start on the answer on 2022, 2023.
+As we said, right now we've announced that we're increasing our capacity.
+We see very strong demand continuing in the context of the pandemic well into 2022.
+Hence, we've given you the range of 2 billion-3 billion doses, depending very much on whether our customers are still purchasing for primary series or if they're looking at boosters, and then depending on the eventual dosage for boosters.
+I think it's really going to evolve as to exactly what that looks like in terms of dosage.
+Going beyond 2022, as we said, we are starting to see now the forward planning countries that are looking beyond the very near term.
+We're starting to then have contract discussions and, in fact, have agreed some contracts into 2023.
+I think it's early to really know as to how this is going to evolve in terms of the transition from pandemic to the endemic phase.
+In terms of pricing, I think it's helpful to start with where we are in 2021 to have a context for understanding pricing going forward.
+Really, three buckets of pricing in 2021.
+We have the U.S. government, where the first 100 million doses was priced at a little over $15.
+The subsequent 400 million doses were contracted at $16.50.
+That pricing was considering two things.
+One is the BARDA funding we received to underwrite our phase III trial and also the size of the contract, the 500 million dose contract, which is very large.
+The second category is the higher income ex-U.S. countries, where, as we've said in the past, we start with a price range of $32-$37 a dose.
+There are some cases where we offer discounts based on volume for high volume.
+Then the third category is low and middle-income countries, which have received the lowest tiered pricing, including those sales to COVAX, which are considerably lower than the price to the U.S. government.
+If we start with that framework for 2021, what we can say is that the contracts that we've signed now for 2022, the pricing constructs are very consistent with that framework that we've had in 2021.
+We see a continuation in the context again of the pandemic with the pricing framework.
+If you look at the average price that you'd calculate on your model, of course, that's going to depend on the mix across these categories.
+Of course, we're expecting to see significant sales to the middle and low-income countries, and that increasing in 2022.
+It shouldn't be surprising if the average you see some declines.
+Finally, I would just comment that as we move into a post-pandemic period, then we would expect, as we've said in the past, to market forces to impact our price negotiations.
+Hopefully that answered your questions.
+Stephen Hoge
+President, Moderna
+Salveen , I'll maybe just pipe in at the end with your first question on gene-editing, which is how do we see it intersecting?
+I think we have been, as you all know, the innovator in mRNA and lipid nanoparticle delivery and therapeutics for a while.
+We've watched the space quite interestingly or quite significantly in terms of ways that we could help with delivering gene-editing cargos across a range of different tissues where our lipid nanoparticle systems have been shown to go, even in humans.
+We think it's the right time for us to start to expand in that direction.
+There's a general convergence out there in the gene-editing space that messenger RNA and lipid nanoparticles are perhaps the way to go.
+That's something we strongly agree with, having spent the last decade working in the technology.
+You'll be looking for us to bring new payloads, new capabilities, new enzymes into our existing technological capabilities, which we think are best in class.
+Salveen Richter
+Analyst, Goldman Sachs
+Thank you.
+Operator
+Your next question comes from the line of Matthew Harrison from Morgan Stanley.
+Your line is now open.
+Matthew Harrison
+Analyst, Morgan Stanley
+Great.
+Good morning.
+Thanks for taking the questions.
+A couple of related questions on boosters, if I may.
+I guess first question is, maybe you could just put in context some of the information we're hearing from the FDA or the CDC, especially ACIP, on their position on boosters and how you would expect that to evolve over the coming months.
+Second, could you comment on the potential for a multivalent booster, and how you might be thinking about that in the context of the data you presented today, especially just on using a third dose of the existing shot?
+Third, could you maybe just comment on your views of long-term virus evolution?
+Obviously, typically, viruses tend to evolve towards more infectious but lower virulence.
+I'm wondering what your thoughts are on the long-term booster market, obviously, versus the sort of near-term booster market when infections may still be quite high.
+Thanks.
+Stephen Hoge
+President, Moderna
+Sure.
+Thank you, Matthew.
+Let me try and take the first question first.
+I think we are going to always defer to what's happening with the public health officials in terms of when they think the appropriate time to recommend a booster vaccine is necessary.
+Where we see the data ourselves, I can't speak to the challenges they face, but what we see is the potential for waning immunity.
+In fact, if you look at back at our Vaccines Day, we had Professor Davenport come in and present work that he'd done at University of New South Wales in Australia showing what he predicted back in March would be the picture for waning immunity from the vaccines.
+It was recently published in "Nature Medicine." I had a chance to open it, and it's looking remarkably prescient because the predictions he was making about the relative strength of the different vaccines suggested that small differences in efficacy would start to emerge to be larger differences in efficacy at about 200, 250 days as neutralizing antibody titers wane.
+That may be what we're starting to see.
+If you play that forward, if you assume he's been right about those predictions, then that picture continues and continues through a year with continued declining neutralizing antibody titers over that time, and eventually, we therefore believe a real increase in breakthrough infections and disease, even with vaccinated participants, even with mRNA-1273.
+We continue to want to be vigilant because that trend and those predictions, we think, will come to the fore.
+I think the Delta variant has taught us to also be incredibly humble in the face of the virus's ability to fight back and increase its transmission.
+I think most of us would have thought SARS-CoV-2 was a pretty good infector earlier this year.
+Delta has shown us that it can make huge steps forward.
+For all those reasons, we think that it's appropriate to be cautious.
+Our approach is to defer to public health on when boosters are going to be necessary, but to bring forward the best options as we see them based on the science that we see in the evolving epidemiology.
+That's where I think our conclusion today is given Beta, Gamma, and particularly Delta, given the real-world efficacy that we're seeing out there against Delta right after vaccination with mRNA-1273, and the neutralizing titers that we can see that I presented today against Delta with a mRNA-1273 prototype dose, that we feel pretty confident that that's actually the right way to approach this round of the fight with the SARS-CoV-2 virus.
+If I pivot to the second and third questions you asked, this is not the last round of the fight with SARS-CoV-2.
+We expect it to have at least a couple more rounds, and maybe annually, we're just going to continue to fight this virus back.
+That's where we think multivalent boosters continue to be an important part of the scientific strategy.
+As you look forward to, say, early 2022, Delta is what we're fighting right now.
+What are we going to be fighting in 2022?
+What new variant of concern?
+There will be one.
+I look at the evolving picture with Delta and the overall variants of concern, and there's a couple of specific things that jump out at me.
+There are now, I think, five point mutations in the various variants of concern, three of them present in Beta and Gamma.
+We've talked about them, the 417, 484, and 501 mutations.
+Now there's two mutations in the receptor binding domain in the Delta strain, 452 and 478.
+Those five look like the ways in which the virus has tried to step away from our neutralizing immunity with our vaccine, immune evasion.
+If you think about how this might play forward, it seems logical to us that those three mutations present in the Beta, Gamma line and those two mutations present in the Delta might find some way to combine in new and potentially scary ways.
+If that came with the increased transmissibility, increased force of infection that Delta can achieve, that might be a significant threat.
+We view our multivalent platform as the best place for us to try and anticipate that threat.
+Logically for us right now, that would be looking at a Beta, Gamma or a Beta variant of concern combined with a Delta variant of concern and evaluating that going forward.
+That's the mRNA-1273.213 program that we're going to be looking at.
+We don't think that's for this cycle.
+We do really believe that mRNA-1273, a booster dose, will hold up against Delta right now.
+The long-term virus evolution question is a great one.
+I'll say we just got to be humble.
+We've not faced a variant, a virus quite like this.
+Again, I don't think any of us would have predicted the step change in transmissibility that was seen with Delta over the last five, six months.
+I wouldn't rule out that the virus doesn't have those kinds of surprises in its future.
+If you take a very long view, five, 10 years view, I would say that we continue to think the model for what SARS-CoV-2 will look like in terms of an endemic market is probably predicted by other respiratory infections, the endemic coronaviruses like OC43, which every year have rates of reinfection in adult populations and young kids, every year results in hospitalizations and some deaths, including in this country.
+We therefore believe there will be a long-term endemic market.
+The virulence of those viruses, as you pointed to, is lower, and that's good news.
+Hopefully, it's not as big of a threat as we're seeing right now.
+We need to be cautious and humble because SARS-CoV-2 keeps surprising us, and maybe that virulence will be something more substantial than we see in endemic coronaviruses.
+We're hopeful that virulence will decline, but we really do believe the virus is here to stay for the long term, and therefore, there's going to be a need to regularly boost particularly high-risk older populations against SARS-CoV-2 into the future.
+Hopefully, this answered your questions.
+Operator
+Your next question comes from the line with Ted Tenthoff from Piper Sandler.
+Your line is now open.
+Ted Tenthoff
+Analyst, Piper Sandler
+Great.
+Thank you very much, and thank you for all the thorough information, not just on Spikevax, but also on the pipeline.
+I guess my first question has to do with capacity and really trying to understand a little bit more fully what goes into continuing to grow capacity, especially overseas.
+I guess the second question would be with respect to the orphan disease pipeline, which is, I think you guys know, it's one of my favorites just in terms of application for mRNA.
+How can we be moving faster there?
+Again, appreciating that you guys have a pandemic you're trying to address, but it seems to me like everything's set to go there, and just curious what we can be doing to maybe accelerate some of those important programs.
+Thank you so much for taking the question.
+Stephen Hoge
+President, Moderna
+Thank you, Ted.
+Stéphane Bancel
+CEO, Moderna
+Yeah, maybe I'll take-
+Stephen Hoge
+President, Moderna
+Oh, go ahead.
+Stéphane Bancel
+CEO, Moderna
+Ted, I'll take the capacity, and then Stephen will talk about where it is.
+As you recall, Ted, we've announced, I think it was in February, that based on the market feedback of the countries, given the high efficacy of our vaccine, that there was a lot of demand.
+If you recall, we decided to make very significant manufacturing capacity increase, 50% addition in the U.S.
+It's all at our U.S. sites for drug substance in Norwood, and then the doubling of the OUS capacity at Lonza and ROVI.
+Our goal is to, as I said in my remarks, depending on the booster dose, which until we have final say by the regulator and until we see the 100 microgram data for mRNA-1273 third dose, as Stephen described, we won't know for sure.
+If you model both the prime series APAs that have already been ordered, which will be, of course, at 100 microgram.
+If you model what we anticipate in the mix between prime series and booster vaccines for Spikevax, if the booster dose was 50 microgram, we could have up to 3 billion dose of supply.
+If the booster dose was 100 microgram, that could take us up to two billion of supply.
+It's a bit hard to think about it, but we're trying to do is to not have a challenge we're having this year, which is a happy problem.
+As I said in my remarks, we are still tracking for 800 million to 1 billion dose this year.
+I've also said that we are not taking any more orders for 2021 because we are totally maxed out.
+Of course, we would want to be in a position where we can answer to any countries wanting more vaccines.
+By doing those investments, we really are hoping that next year we can make sure that we can fulfill all the demand we're going to get from the market.
+As Corinne mentioned, while we have already signed $12 billion of APAs for next year, and there is with those countries, an additional $8 billion on top of the 12 options that those countries have.
+There are still a lot of discussions ongoing.
+What we want to do is to maximize the penetration of Spikevax around the world.
+I believe that the new data of this morning showing that the final efficacy of the COVE study is holding very nicely, I think will just be yet another argument for countries to want to vaccinate as many people as they can in that country with mRNA-1273.
+Ted Tenthoff
+Analyst, Piper Sandler
+Yeah.
+That's helpful.
+Stéphane Bancel
+CEO, Moderna
+Stephen, do you want to talk about orphan disease ?
+Stephen Hoge
+President, Moderna
+Sure.
+Yeah, Ted, I think you know we've had a longstanding commitment to these populations, That's as strong today as ever.
+We hear and want to do everything we can to accelerate these medicines for them.
+It's important to say that fast to the finish is the goal, not the fast to the start.
+While we're pleased with the start of the propionic acidemia program and hopefully shortly MMA and others in the clinic, our goal is obviously to rapidly move through those phase I studies that find the right dose, Hopefully then rapidly move into pivotal studies.
+As you know, that can happen very quickly, Particularly in rare diseases, particularly with some early positive clinical data.
+That's what we're trying to do right now, is anticipate that positive data, expand and build out our team in that therapeutic area, and begin the more foundational preparations for closing very quickly if we can get some encouraging positive clinical signs.
+Working every day to try and get that to accelerate the time to those early data, and as well as I said, prepare for that future.
+Ted Tenthoff
+Analyst, Piper Sandler
+Fair enough.
+Thank you, gentlemen.
+Operator
+Your next question
+Stéphane Bancel
+CEO, Moderna
+Thank you.
+Operator
+come from the line of Michael Yee from Jefferies.
+Your line is now open.
+Michael Yee
+Analyst, Jefferies
+Hi, good morning.
+Thanks for the questions.
+Two questions, one on boosting.
+Do you guys have a good sense of what you think the regulatory view or hurdle is to support boosting?
+You show that great data on slide 30 showing the waning of the antibodies, and I think we all see that could be a problem, and how the third dose gets you way up.
+What do you think the specific data is, or put another way, the tighter level for correlative protection would be to support boosting for the fall or the winter?
+That's question one.
+Question two, a little bit similar, on flu with that data coming up later this year.
+Is it your view that significantly higher levels of antibodies will lead to significantly higher efficacy, and that with just a larger study that will also be supportive of a launch, I think you said in 2023?
+Thank you.
+Stephen Hoge
+President, Moderna
+Sure.
+I'll try and take the first question, which was, so as you pointed to well, we do not currently have the correlative protection in the world, unfortunately, for any of the vaccines.
+It's very hard to say objectively what titer, what level is the sort of minimum level.
+Which is why in our minds and subject to the regulators to developing their own perspective, but in our minds, the right way to benchmark this has been, let's look at that really consistent, high, durable efficacy in phase III.
+Let's look at the neutralizing titers that support that, let's do better.
+Let's get above those titers.
+If we can exceed those titers where we were just after the primary vaccination series, then it should stand to reason that we should be able to provide durable protection at or above the levels that we saw before.
+Of course, the virus is evolving, and that's where we see Delta, and we have to be humble about that.
+The good news is, it looks like in the real-world data that the vaccine mRNA-1273 is holding up against Delta, even with partial vaccination, as Jackie mentioned in her slides with some of those references.
+We do think that getting at or above those levels should hold up quite comfortably.
+How much above those levels, is it 1.0?
+Is it 2.0?
+Is it some other number?
+I think that's ultimately going to be a sense that we want to have between ourselves of the data that we have, the benefits of the different dose levels, 50 microgram, 100 microgram, and again, the data we've already seen in terms of phase III, and then a dialogue with regulators about how they see that benefit risk.
+As it stands today, we think the 50 microgram data that we presented really looks encouraging and likely meets that standard.
+We want to hold off, look at the 100 microgram data in just a few weeks here, and decide, nope, that's the right call.
+We've got to the levels we need to.
+We think we can reset immunity in a vaccinated person with a third dose at or above the levels that have been driving this durable protection to date. I'm sorry, I missed the second question.
+Could you just repeat it?
+Michael Yee
+Analyst, Jefferies
+Similar, I guess, in flu, that when you have data later this year, I suspect you believe the titer levels will be extremely high.
+I think there's some better understanding based on regulatory guidance documents that for flu, there's some acceptable levels, and you could certainly compare it to approved products that high levels there would be supportive of a larger study and a faster path to market.
+Stephen Hoge
+President, Moderna
+That's right.
+Yes.
+Thank you for reminding me.
+Obviously we haven't provided guidance on when we expect to be able to get through those subsequent studies and ultimately what that regulatory path is, because we have to engage in that discussion with the FDA and global regulators, and those are ongoing.
+It's really subject to them agreeing.
+I would agree with your characterization.
+It's certainly our hope and view that because it's a well-understood market with things like the HAI titers, that even a new platform like messenger RNA might be able to leverage some of that thinking in terms of immunogenicity and safety as we think about moving forward to approval.
+We'll ultimately have to show efficacy and real-world efficacy as well, because that's what's going to be of interest for payers.
+Again, the regulatory path is going to be subject to discussions with regulators that are ongoing.
+I can't provide more guidance at this time.
+Michael Yee
+Analyst, Jefferies
+Thanks.
+Operator
+Your next question comes from the line of Gena Wang from Barclays.
+Your line is now open.
+Gena Wang
+Analyst, Barclays
+Thank you.
+I have three quick questions.
+The first one is, if boost shot turn out to be 50 microgram, should we still expect similar price range among the three buckets during pandemic phase?
+Number two is, could you walk through the clinical trial development path for a single shot vaccine against COVID flu and RSV?
+The third question is regarding the external investment opportunities.
+You mentioned that expanding to two new modalities, lung and hematopoietic stem cells with gene editing with lipid nanoparticle delivery are currently focusing in the liver.
+Does that mean you are willing to expand to the liver diseases?
+Stéphane Bancel
+CEO, Moderna
+Let me take the first question, Gena.
+On the boost, the price is not linked to the mass.
+We anticipate the price of boosting to be set up and not related to those.
+I will let Stephen talk about the second question.
+Is that okay?
+Jackie Miller
+Senior VP and Therapeutic Head of Infectious Diseases, Moderna
+I'm happy to take that question, Stéphane.
+This is Jackie, and it's around the clinical development plan for a booster combination vaccine.
+The good news is, there have been multiple combination vaccine developments in the past, maybe not for this kind of a groundbreaking indication, but typically what we do is license the initial components first, and you know that we are working on our BLA for COVID.
+We are preparing phase II/III for flu and for RSV, and then we would look to license the combination vaccine through immuno-bridging.
+Stéphane Bancel
+CEO, Moderna
+Thank you, Jackie.
+Stephen Hoge
+President, Moderna
+Thank you, Jacqueline.
+Stéphane Bancel
+CEO, Moderna
+Go ahead, Stephen.
+Stephen, go ahead.
+Stephen Hoge
+President, Moderna
+I was going to take the gene editing, unless you wanted to, Stéphane.
+One comment, too, on Jackie's point.
+We already do have combination vaccines like the hMPV/PIV 3 vaccine, so we hopefully do have some experience there technically.
+On the gene editing question, we do have programs that target the liver, but as we've presented at previous Science Days, and even today, we have a platform technology that also we think allows us to get in broadly into the immune system and particularly hematopoietic stem cells.
+Where we imagine our strong suit to be is in delivering nucleic acid technologies to those areas.
+Of course, as we look to expanding in gene editing, you'll see us look to those technologies that we've got the most experience with first, and then bringing a range of different payloads into our capabilities.
+Gena Wang
+Analyst, Barclays
+Thank you.
+Lavina Talukdar
+Head of Investor Relations, Moderna
+Next question please, operator.
+Operator?
+Hello, operator?
+Stéphane Bancel
+CEO, Moderna
+Lavina, it seems that we have lost the operator.
+Lavina Talukdar
+Head of Investor Relations, Moderna
+Yes.
+Stéphane Bancel
+CEO, Moderna
+Sorry?
+Lavina Talukdar
+Head of Investor Relations, Moderna
+Cory from JPMorgan, if you are online, can you please unmute yourself and ask your question?
+Okay, apologies everyone.
+We seem to have lost the operator, and it is 25 minutes past the hour, so I will hand this over back to Stéphane Bancel to make closing remarks.
+Stéphane Bancel
+CEO, Moderna
+Thanks, Lavina.
+Sorry everybody if you're still hearing us with a technical problem.
+We will work with the provider to figure out what happened.
+If you have any follow-up questions, please don't hesitate to contact Lavina.
+We'll make sure to reply to you quickly.
+Thank you for coming in today, and we look forward to talking to you at the latest for our September 9th.
+Thank you, and have a great day.
+Bye.
+Data Source:
+Quartr
+Last updated:
+Aug 5, 2021
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (12)
+Quarterly report
+Earnings release
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
