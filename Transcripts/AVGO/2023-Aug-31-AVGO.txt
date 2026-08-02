@@ -1,0 +1,657 @@
+Broadcom (AVGO) Q3 2023 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Broadcom Inc. (AVGO)
+NASDAQ: AVGO · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+389.28
++1.44 (0.37%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+387.45
+-1.83 (-0.47%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q3 2023
+Aug 31, 2023
+Quarterly report
+Earnings release
+Play Audio
+Download Transcript
+Operator
+Welcome to The Broadcom Inc.'s Third Quarter Fiscal Year 2023 Financial Results Conference Call.
+At this time, for opening remarks and introductions, I would like to turn the call over to Ji Yoo, Head of Investor Relations of Broadcom Inc.
+Ji Yoo
+Head of Investor Relations, Broadcom
+Thank you, operator, and good afternoon, everyone.
+Joining me on today's call are Hock Tan, President and CEO; Kirsten Spears, Chief Financial Officer; and Charlie Kawwas, President, Semiconductor Solutions Group.
+Broadcom distributed a press release and financial tables after the market closed, describing our financial performance for the third quarter fiscal year 2023.
+If you did not receive a copy, you may obtain the information from the investor section of Broadcom's website at broadcom.com.
+This conference call is being webcast live, and an audio replay of the call can be accessed for one year through the investors section of Broadcom's website.
+During the prepared comments, Hock and Kirsten will be providing details of our third quarter fiscal year 2023 results, guidance for our fourth quarter, as well as commentary regarding the business environment.
+We'll take questions after the end of our prepared comments.
+Please refer to our press release today and our recent filings with the SEC for information on the risk-specific risk factors that could cause our actual results to differ materially from the forward-looking statements made on this call.
+In addition to U.S.
+GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis.
+A reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press release.
+Comments made during today's call will primarily refer to our non-GAAP financial results.
+I'll now turn the call over to Hock.
+Hock Tan
+President and CEO, Broadcom
+Thank you, Ji, and thank you everyone for joining us today.
+In our fiscal Q3 2023 consolidated net revenue, we achieved $8.9 billion, up 5% year-on-year.
+Semiconductor Solutions revenue increased 5% year-on-year to $6.9 billion, and Infrastructure Software grew 5% year-on-year to $1.9 billion.
+Hyperscale continued to grow double digits year-on-year, but enterprise and telco spending moderated.
+Meanwhile, virtually defying gravity, our wireless business has remained stable.
+Now, Generative AI investments are driving the continued strength in hyperscale spending for us.
+As you know, we supply a major hyperscale customer with custom AI compute engines.
+We are also supplying several hyperscalers, a portfolio of networking technologies as they scale up and scale out their AI clusters within their data centers.
+Now, representing over $1 billion, this represented virtually all the growth in our infrastructure business in Q3 this year-over-year.
+So without the benefit of Generative AI revenue in Q3, our semiconductor business was approximately flat year-over-year.
+In fact, since the start of the year, the fiscal year, our quarterly semiconductor revenue, excluding AI, has stabilized at around $6 billion.
+And as we had indicated to you a year ago, we expected a soft landing during fiscal 2023, and it appears this is exactly what is happening today.
+Now, let me give you more color on our end markets.
+As we go through this soft landing, we see, though, that our broad portfolio of products influencing the puts and takes across revenues within all our end markets, except one, and that is networking.
+In my remarks today, we focus on networking, where generative AI has significant impact.
+Q3 networking revenue was $2.8 billion and was up 20% year-over-year in line with guidance, representing 40% of our Semiconductor revenues.
+As we indicated above, our switches and routers, as well as our custom silicon AI engines, drove growth in this end market as they were deployed in scaling out AI clusters among the hyperscale.
+We've always believed, and more than ever now with AI networks, that Ethernet is the best networking protocol to scale out AI clusters.
+Ethernet today already offers the low latency attributes for machine learning and AI, and Broadcom has the best technology today and tomorrow.
+As a founding member of the Ultra Ethernet Consortium with other industry partners, we are driving Ethernet for scaling deployments in large language model networks.
+Importantly, we're doing this based on open standards and a broad ecosystem.
+Over the past quarter, we have already received substantial orders for our next generation Tomahawk 5 switch and Jericho 3- AI routers, and plan to begin shipping these products over the next six months to several hyperscale customers.
+This will replace the existing 400 gigabit networks with 800 gigabit connectivity.
+And beyond this, for the next generation, 1.6 terabit connectivity, we have already started development on the Tomahawk 6 switch, which has, among other things, 200G SerDes, generating throughput capacity, capacity of over 100 terabit per second.
+We are obviously excited that Generative AI is pushing our engineers to develop cutting-edge technology in silicon tech, technology that has never been developed before.
+We know the end of Moore's Law has set limits on computing in silicon technology, but what we are developing today feels very much like a revival.
+We invest in fundamental technologies to enable our hyperscale customers with the best hardware capabilities to scale generative AI.
+We invest in industry-leading 200G SerDes that can drive optics and even copper cables.
+We have differentiating technology that breaks current bottlenecks in high bandwidth memory access.
+We also have X high speed and ultra-low power chip-to-chip connectivity to integrate multiple AI compute engines.
+We also have invested heavily in complex packaging technologies, migrating from today's 2.5D- 3D, which enables large memory to be integrated with the AI compute engines and accelerators.
+In sum, we have developed end-to-end platform of plug-and-play silicon IP that enables hyperscalers to develop and deploy their AI clusters in an extremely accelerated time to market.
+Not surprisingly, in Q4, but moving on to Q4, continuing to be driven by generative AI deployments, we expect our networking revenue to accelerate in excess of 20% year-on-year.
+And this has been driven by the strength, obviously, in generative AI, where we forecast to grow about 50% sequentially and almost 2x year-on-year.
+Moving to wireless.
+Q3 wireless revenue, $1.6 billion, represented 24% of Semiconductor revenue, up 4% sequentially, flat year-on-year.
+Engagement, the engagement with our North American customer continues to be deep and multi-year across Wi-Fi, Bluetooth, touch, RF front-end, and inductive power.
+So in Q4, consistent with the seasonal launch, we expect wireless revenue to grow over 20% sequentially and down low single-digit % year-on-year.
+On our server storage connectivity revenue, it was $1.1 billion, or 17% of Semiconductor revenue, and flat year-on-year.
+With a difficult year-on-year compare, we expect server storage connectivity revenue in Q4 to be down mid-teens % year-on-year.
+Moving on to broadband, following nine consecutive quarters of double-digit growth, revenue moderated to 1% year-on-year growth to $1.1 billion, or 16% of Semiconductor revenue.
+In Q4, despite increasing penetration of deployment of 10G PON among telcos, we expect broadband revenue to decline high single digits % year-on-year.
+Finally, Q3 industrial resales of $236 million declined 3% year-on-year, reflecting weak demand in China.
+In Q4, though, we expect an improvement with industrial resales up low-single-digit % year-on-year, reflecting largely seasonality.
+In summary, Q3 Semiconductor Solutions revenue was up 5% year-on-year, and in Q4, we expect semiconductor revenue growth of low- to mid-single-digit % year-on-year.
+Sequentially, if we exclude generative AI, our Semiconductor revenue will be flat.
+Now turning to Software.
+In Q3, Infrastructure Software revenue of $1.9 billion grew 5% year-on-year and represented 22% of total revenue.
+For core software, consolidated renewal rates average 117% over expiring contracts, and in our strategic accounts, we average 127%.
+Within strategic accounts, annualized bookings of $408 million included $129 million, or 32%, of cross-selling of other portfolio products to these same core customers.
+Over 90% of the renewal value represented recurring subscription and maintenance.
+Over the last 12 months, I should add, consolidated renewal rates average to 115% over expiring contracts, and in our strategic accounts, we average 125%.
+Because of this, our ARR, the indicator of forward revenue at the end of Q3 was $5.3 billion.
+In Q4, we expect Infrastructure Software segment revenue to be up mid-single digit year-on-year.
+On a consolidated basis for the company, we're guiding Q4 revenue of $9.27 billion, up 4% year-on-year.
+Before Kirsten tells you more about our financial performance for the quarter, let me provide a brief update on our pending acquisition of VMware.
+We have received legal merger clearance in Australia, Brazil, Canada, the European Union, Israel, South Africa, Taiwan, and the United Kingdom, and foreign investment control clearance in all necessary jurisdictions.
+In the U.S., the Hart-Scott-Rodino pre-merger waiting periods have expired, and there is no legal impediment to closing under U.S. merger regulations.
+We continue to work constructively with regulators in a few other jurisdictions and are in the advanced stages of the process towards obtaining the remaining required regulatory approvals, which we believe will be received before October 30.
+We continue to expect to close on October 30, 2023.
+Now, Broadcom is confident that the combination with VMware will enhance competition in the cloud and benefit enterprise customers by giving them more choice and control where they locate their workloads.
+With that, let me turn the call over to Kirsten.
+Kirsten Spears
+CFO, Broadcom
+Thank you, Hock.
+Let me now provide additional detail on our financial performance.
+Consolidated revenue was $8.9 billion for the quarter, up 5% from a year ago.
+Gross margins were 75.1% of revenue in the quarter, in line with our expectations.
+Operating expenses were $1.1 billion, down 8% year-on-year.
+R&D of $913 million was also down 8% year-on-year on lower variable spending.
+Operating income for the quarter was $5.5 billion and was up 6% from a year ago.
+Operating margin was 62% of revenue, up approximately 100 basis points year-on-year.
+Adjusted EBITDA was $5.8 billion or 65% of revenue.
+This figure excludes $122 million of depreciation.
+Now, a review of the P&L for our two segments.
+Revenue for our Semiconductor Solutions segment was $6.9 billion and represented 78% of total revenue in the quarter.
+This was up 5% year-on-year.
+Gross margins for our Semiconductor Solutions segment were approximately 70%, down 160 basis points year-on-year, driven primarily by product mix within our semiconductor end markets.
+Operating expenses were $792 million in Q3, down 7% year-on-year.
+R&D was $707 million in the quarter, down 8% year-on-year.
+Q3 semiconductor operating margins were 59%.
+Moving to the P&L for our Infrastructure Software segment.
+Revenue for the Infrastructure Software segment was $1.9 billion, up 5% year-on-year, and represented 22% of revenue.
+Gross margins for Infrastructure Software were 92% in the quarter, and operating expenses were $337 million in the quarter, down 10% year-over-year.
+Infrastructure Software operating margin was 75% in Q3, and operating profit grew 13% year-on-year.
+Moving on to cash flow.
+Free cash flow in the quarter was $4.6 billion and represented 52% of revenues in Q3.
+We spent $122 million on capital expenditures.
+Day sales outstanding were 30 days in the third quarter compared to 32 days in the second quarter.
+We ended the third quarter with inventory of $1.8 billion, down 2% sequentially.
+We continue to remain very disciplined on how we manage inventory across the ecosystem.
+We exited the quarter with 80 days of inventory on hand, down 86 days in Q2.
+Down from, excuse me, 86 days in Q2.
+We ended the third quarter with $12.1 billion of cash and $39.3 billion of gross debt, of which $1.1 billion is short term.
+The weighted average coupon rate and years to maturity of our fixed rate debt is 3.61% and 9.7 years, respectively.
+Turning to capital allocation.
+In the quarter, we paid stockholders $1.9 billion of cash dividends.
+Consistent with our commitment to return excess cash to shareholders, we repurchased $1.7 billion of our common stock and eliminated $460 million of our common stock for taxes due on vesting of employee equity, resulting in the repurchase and elimination of approximately 2.9 million AVGO shares.
+The Non-GAAP diluted share count in Q3 was 436 million.
+As of the end of Q3, $7.3 billion was remaining under the share repurchase authorizations.
+We suspended our repurchase program in early August in accordance with SEC rules, which do not allow stock buybacks during the period in which VMware shareholders are electing between cash and stock consideration in our pending transaction to acquire VMware.
+We expect the election period to end shortly before the anticipated closing of the transaction on October 30, 2023.
+Excluding the impact of any share repurchases executed prior to the suspension, in Q4, we expect the non-GAAP diluted share count to be 435 million.
+Based on current business trends and conditions, our guidance for the fourth quarter of fiscal 2023 is for consolidated revenues of $9.27 billion and adjusted EBITDA of approximately 65% of projected revenue.
+In Q4, we expect growth margins to be down 80 basis points sequentially on product mix.
+We note that our guidance for Q4 does not include any contribution from VMware.
+That concludes my prepared remarks.
+Operator, please open up the call for questions.
+Operator
+Thank you.
+As a reminder, to ask a question, you will need to press star one one on your telephone.
+To withdraw your question, press star one one again.
+Due to time restraints, we ask that you please limit yourself to one question.
+Please stand by while we compile the Q&A roster.
+Our first question will come from the line of Vivek Arya with Bank of America.
+Your line is open.
+Vivek Arya
+Managing Director, Bank of America Securities
+Thanks for taking my question.
+Hock, my question has to do with your large AI basic compute offload contract.
+Is this something you feel, you know, you have the visibility to hold on to for the next several years, or does this face some kind of annual competitive situation?
+Because you have a range of, you know, both domestic and Taiwan-based ASIC competitors, right, who think they can do it for cheaper.
+So I'm just curious, what is your visibility into, you know, maintaining this competitive win and then hopefully growing content in this over the next several years?
+Hock Tan
+President and CEO, Broadcom
+I'd love to answer your question, Vivek, but I will not, not directly anyway, because we do not discuss our dealings, especially specific dealings of the nature you're asking, with respect to any particular customer, and so that's not appropriate.
+But I tell you this in broad generality.
+In many ways, you look over our long-term arrangements, long-term agreements with our large North American OEM customer in wireless.
+Very similar.
+We have multiyear, very strategic, strategic engagement in usually more than one leading-edge technologies, which is what you need to create those kind of products, whether it is in wireless or in this case, in Generative AI.
+Multiple, multiple technologies that goes into creating the products they want.
+And it's multiple, it's very strategic, and it's multiyear, and the engagement is very broad and deep.
+Vivek Arya
+Managing Director, Bank of America Securities
+Thank you, Hock.
+Operator
+Thank you.
+One moment for our next question.
+That will come from the line of Harlan Sur with JP Morgan.
+Your line is open.
+Harlan Sur
+Executive Director of Equity Research, JPMorgan
+Good afternoon.
+Thanks for taking my question.
+Great to see the market diversification, market leadership and supply discipline really sort of allowing the team to drive this sort of stable $6 billion per quarter run rate in a relatively weak macro environment.
+You know, Hock, looking at your customers' demand profiles, your strong visibility given your lead times,
+...
+Can the team continue to sustain a stable-ish sort of $6 billion revenue profile X AI over the next few quarters before macro trends potentially start to improve?
+Or do you anticipate enterprise and service provider trends to continue to soften beyond this quarter?
+Hock Tan
+President and CEO, Broadcom
+You're asking me to guide beyond a quarter.
+I mean, hey, that's beyond my pay grade, Harlan.
+But I know.
+But I just want to point out to you, we promise you a soft landing, late 2022 fiscal late 2022.
+That likely 2023 will be a soft landing.
+And as you pointed out, and to my remarks, that's exactly what we're seeing.
+Harlan Sur
+Executive Director of Equity Research, JPMorgan
+Okay, perfect.
+Thank you.
+Operator
+Thank you.
+One moment for our next question.
+That will come from the line of Ross Seymore with Deutsche Bank.
+Your line is open.
+Ross Seymore
+Managing Director, Deutsche Bank
+Hi, guys.
+Thanks for letting me ask a question.
+Hock, I want to stick with the networking segment and just get a little more color on the AI demand that you talked about growing so significantly sequentially in the fourth quarter.
+Is that mainly on the compute offload side, or is the networking side, contributing as well?
+Any color in that would be helpful.
+Hock Tan
+President and CEO, Broadcom
+Well, they go hand in hand, Ross.
+These things go very hand in hand.
+You know, you don't deploy those AI engines in these days for Generative AI, particularly, in ones or twos anymore.
+They come in large clusters or pods, as what our hyperscalers would call, some hyperscalers call it.
+And with that, it's you need a fabric, networking connectivity among 1,000s, 10s of 1,000s today, of those AI engines, whether it's GPUs or some other customized AI silicon compute engine.
+The whole fabric with its AI engine represents literally the computer, the AI, the AI infrastructure.
+So it's hand in hand that our numbers are driven very, very correlated to not just AI engines.
+Whether we do the AI engines or somebody else, merchant silicon does those GPU engines, also we supply a lot of the net, Ethernet networking solutions.
+Ross Seymore
+Managing Director, Deutsche Bank
+Thank you.
+Operator
+Thank you.
+One moment for our next question.
+That will come from the line of Stacy Rasgon with Bernstein.
+Your line is open.
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein
+Hi, guys.
+Thanks for taking my question.
+If I take that sort of $6 billion non-AI run rate and I calculate what the AI is, I'm actually getting that 15% of Semiconductor revenue that you mentioned last quarter.
+Do you still think it's going to be 25% of revenue next year?
+And just how do I think about how you get to that number, if that's it?
+So I guess two questions.
+One is, is that number still 25, or is it higher or lower?
+And then how do I get it with the two moving pieces, the AI and the non-AI, in order to get there?
+Because that % goes up if the non-AI goes down.
+Hock Tan
+President and CEO, Broadcom
+Well, it's there are a couple assumptions one has to make, none of which I'm going to help you with, as you know, because I don't guide next year.
+Except to tell you our AI revenue, as we indicated, has been an accelerating on an accelerating trajectory.
+And no surprise, you guys hear that, because deployment is being extremely on an urgent basis, and the demand we are seeing has been fairly strong, very strong.
+And so we see it accelerating through end of 2022, now accelerated, and it continues to accelerate through end of 2023, that we just indicated to you.
+And for fiscal 2024, we expect somewhat a similar accelerating trend.
+And so to answer your question, we have always indicated previously that for fiscal 2024, which is just a forecast, we believe it will be over 25% of our revenue, of our Semiconductor revenue.
+Over 25% of our Semiconductor revenue.
+Stacy Rasgon
+Managing Director and Senior Analyst, Bernstein
+Got it.
+Thank you very much.
+Operator
+Thank you.
+One moment for our next question.
+That will come from the line of Toshiya Hari with Goldman Sachs.
+Your line is open.
+Toshiya Hari
+Managing Director, Goldman Sachs
+Hi, thank you so much for taking the question.
+I had one quick clarification then a question.
+On the clarification, Hock, can you talk about the supply environment, if that's a constraining factor for your AI business, and if so, you know, what kind of growth from a capacity perspective, do you expect into fiscal 2024?
+And then my question is more on the non-AI side.
+You know, as you guys talked about, you've done really well in managing your own inventory.
+But when you look across inventory levels for your customers or at your customers, you know, it seems as though they're sitting on quite a bit of inventory.
+So what's your confidence level as it pertains to, you know, a potential inventory correction in your non-AI business, networking business, going forward?
+Thank you.
+Hock Tan
+President and CEO, Broadcom
+...
+Okay.
+Well, on the first question, you talk about supply chain.
+Well, it's we, you know, that these products for Generative AI, whether they are networking or, and the custom engines, take long lead times.
+These are very, very leading-edge silicon products, both of all type, of all in terms of across the entire stack, from the chip itself to the packaging, to even memory.
+The kind of HBM memory that is used in those chips is all very long lead time and very cutting-edge products.
+So we're trying to supply, like everybody else wants to, wants to have within lead times.
+So by definition, you have constraints, and so do we.
+We have constraints, and we're trying to work through the constraints, but it's a lot of constraints.
+It'll never change as long as demand orders flow in with shorter than the lead time needed for production.
+Because the production of these parts are very long, extended, and that's the constraint we see as they come in faster than lead times allow, as orders come in.
+To answer on your second part, well, as far, as far as we do see, you know, we are kind of, as I indicated, I call it soft landing.
+Another way of looking at it is that $6 billion, approximately, of non-AI-related revenue per quarter is kind of bumping up and down on a, on a, on a plateau.
+Think of it that way.
+We—Growth is kind of down to very little, but it's still pretty stable up there.
+And so we have a range, as I indicated, too.
+We have—we don't have any one product in any one end market.
+We have multiple products.
+As you know, our portfolio is fairly broad, diversified, and categorized into each end market with multiple different products.
+And each product runs on its own cadence, sometimes, on its, on the timing, on when customer wants it.
+And so you see bumping up and down different levels.
+But again, it averages out over each quarter, as we pointed out, around $6 billion.
+And for now, we're seeing that happen.
+Toshiya Hari
+Managing Director, Goldman Sachs
+Great.
+Thank you.
+Operator
+Thank you.
+One moment for our next question.
+That will come from the line of Karl Ackerman with BNP Paribas.
+Your line is open.
+Karl Ackerman
+Managing Director of Semiconductors and Networking Hardware, BNP Paribas
+Yes, thank you.
+Just on gross margins, you know, you had a tough compare year-over-year for your semiconductor gross margins, which of course remains some of the best in semis.
+But is there a way to think or quantify about the headwind to gross margins this year from still elevated logistics costs and substrate costs, as we think about the supply chain perhaps freeing up next year, that perhaps could be a tailwind?
+Thank you.
+Hock Tan
+President and CEO, Broadcom
+You know, Karl, this is Hock.
+Let me take a step back on this question, because it's really a more holistic answer, and then here's what I mean.
+The impact to us on gross margin, more than anything else, is not related to transactional supply chain issues.
+They.
+I'm sure they have in any particular point in time, but not as significant and not as material, and not as sustained in terms of impacting trends.
+What drives gross margin largely for us, as a company, is frankly a product mix.
+It's product mix, and as I mentioned earlier, we have a broad range of products, even as we try to make order out of it from a viewpoint of communication and segment them or classify them into multiple end markets.
+Within each end market, your products, and they all have different gross margin depending on where they're used, the criticality and various other aspects.
+So they're different.
+So we have a real mixed bag, and what drives the trend in gross margin more than anything else is the pace of adoption of next-generation products in each product category.
+Just think in that way.
+And you measure it across multiple products, and each time a new generation of product, of a particular product gets adopted, we get the opportunity to lift, uplift gross margin.
+And therefore, the rate of adoption matters, for instance, because for some products, that changes gross margin every few years, vs one that's more extended one.
+You have different gross margin growth profile.
+And this is what is all tied to, the most important variable.
+Now, the more interesting thing to come down to earth on, specifically your question is, during 2021, 2022 in particular, with, you know, an upcycle in the semiconductor industry, we had a lot of lockdowns, change in behavior, and a high level of demand for semiconductors, or put it this way, a shortage of supply to demand, there was accelerated adoption of a lot of products.
+Accelerated adoption.
+So we benefited, among other things, not just revenue, as I indicated, we benefited from gross margin expansion across the board as a higher % of our products out there gets adopted into the next generation faster.
+Past this, there is probably some slowdown in the adoption rate, and so gross margin expansion might actually not expand as fast.
+But it will work itself out over time, and I've always told you guys, the model this company has seen, and it's based, it's empirical, but based on this underlying, basic economics, is simply that when we have the broad range of products we have, and each of them a different product life cycle of upgrading and next generation, we have seen over the years, on a long-term basis, an expansion of gross margin on a consolidated basis for semiconductors that ranges from 50 to maybe 150 basis points on an annual basis.
+And that's a long-term basis.
+In between, of course, you've seen numbers that go over to 200 basis points and happened in 2022.
+And sooner or later, you have to offset that with, with years where gross margin expansion might be much less, like 50.
+I think with that, the process you will see us go through on an ongoing basis.
+Karl Ackerman
+Managing Director of Semiconductors and Networking Hardware, BNP Paribas
+Thank you.
+Operator
+Thank you.
+One moment for our next question.
+That will come from the line of Harsh Kumar with Piper Sandler.
+Your line is open.
+Harsh Kumar
+Managing Director and Senior Research Analyst, Piper Sandler
+Yeah, Hock.
+So congratulations on a textbook soft landing.
+I mean, it's perfectly executed.
+I had a question, I guess, more so on the takeoff timing.
+You've got a lead time that is about one year for your, most of your product lines.
+So I suppose you see visibility a year out.
+The question really is, are you starting to see growth in backlog about a year out?
+So in other words, we can assume that we'll spend time at the bottom for about a year and then start to come back, or is it happening before that timeframe, or maybe not even a year out?
+Just any color would be helpful.
+And then, as a clarification, Hock, is China approval needed for VMware or not needed?
+Hock Tan
+President and CEO, Broadcom
+Let's start with lead times and asking me to predict when the upcycle would happen.
+It's still too early for me to want to predict that, to be honest with you, because even though we have 50 weeks lead time, I have overlaid on it today—a lot of bookings are related to Generative AI.
+A decent amount of bookings related to wireless, too.
+So they're kind of like, you know, biased, what I'm looking at.
+So the answer to you, a very unsatisfactory, I know, answer to your question is, too early for me to tell, but we do have a decent amount of orders.
+Harsh Kumar
+Managing Director and Senior Research Analyst, Piper Sandler
+And then on VMware, how-
+Hock Tan
+President and CEO, Broadcom
+Let me say this.
+You know, I made those specific notes or remarks on regulatory approval.
+I ask that you think it through, read it through, and let's stop right there.
+Harsh Kumar
+Managing Director and Senior Research Analyst, Piper Sandler
+Okay, fair enough.
+Thank you, Hock.
+Hock Tan
+President and CEO, Broadcom
+Thank you.
+Operator
+Thank you.
+One moment for our next question.
+That will come from the line of Aaron Rakers with Wells Fargo.
+Your line is open.
+Aaron Rakers
+Managing Director and Technology Analyst, Wells Fargo
+Yeah, thanks for taking the question.
+And congrats also on the execution.
+I'm just curious, as I think about the Ethernet opportunity in AI fabric build-outs, just Hock, any kind of updated thoughts now with the Ethernet consortium that you're part of?
+You know, thoughts as far as Ethernet relative to InfiniBand, particularly at the east-west layer of these AI fabric build-outs.
+With Tomahawk 5, Jericho 3 sounding like it's gonna start shipping in volume, maybe in the next six months or so, is that an inflection where you actually see Ethernet really start to take hold in the east-west traffic layer of these AI networks?
+Thank you.
+Hock Tan
+President and CEO, Broadcom
+That's a very interesting question, and frankly, my personal view is InfiniBand has been the choice in the old, for years and years, generations of high, what we call, what we have called before, high performance computing, right?
+And high performance computing was the old term for AI, by the way.
+So that was it, because it was very dedicated application workloads and not, not as scale out as large language models drive today.
+With large language models driving, and most of the, all these large language models are now being driven a lot by the hyperscale, frankly, you see Ethernet getting huge amount of traction.
+And Ethernet is shipping.
+It's not just getting traction to the future.
+It is shipping in many hyperscales, and it coexists, best way to describe it, with InfiniBand....
+It all depends on the workloads, it depends on the app, particular application that's driving it.
+At the end of the day, it also depends on, frankly, how large you want to scale your AI clusters.
+The larger you scale it, the more tendency you have to basically open it up to Ethernet.
+Aaron Rakers
+Managing Director and Technology Analyst, Wells Fargo
+Yeah.
+Thank you.
+Operator
+Thank you.
+One moment for our next question.
+That will come from the line of Matt Ramsay with TD Cowen.
+Your line is open.
+Matt Ramsay
+Managing Director and Senior Research Analyst, TD Cowen
+Yes, thank you very much.
+Good afternoon.
+Hock, I wanted to ask a question, I guess maybe a two-part question on your custom silicon business.
+Obviously, the large customer is ramping really, really nicely, as you described.
+But there are many other sort of large hyperscale customers that are considering custom silicon, maybe catalyzed by GenAI, maybe some not.
+I wonder if the recent surge in GenAI spending and enthusiasm has maybe widened the aperture of your appetite to take on big projects for other large customers in that arena.
+And secondly, any appetite at all to consider custom switching routing products for customers, or really a keen focus on merchant in those areas?
+Thank you.
+Hock Tan
+President and CEO, Broadcom
+Well, thank you.
+That's a very insightful question.
+You know, we only have one large customer in our AI engines.
+We're not a GPU company, and we don't do much compute, as you know, other than offload computing.
+Having said that, but that's very customized.
+And, I mean, what I'm trying to say is I don't want to mislead you guys.
+The fact that I may have engagement, and I'm not saying I do, on an AI, on a custom program, should not at all be translated into your minds as, oh, yeah, this is pipeline that will translate to revenue.
+Creating hardware infrastructure to run these large language models of hyperscalers is an extremely difficult and complex task and, for anyone to do.
+The fact that even if there is any engagement, it does not translate easily to revenues.
+So suffice it to say, I leave it a fact, I leave it at that.
+I have one hyperscale who we are shipping custom AI engines to today, and leave it at that, if you don't mind.
+Okay, now, as far as customized switching, routing, sure.
+I mean, that happens.
+Most of the, many of the, those few OEMs, some OEMs who are supplying systems, switch systems, which are switches or routers, have their own custom solutions together with their own proprietary operating network operating system.
+That's been the model for the last 20, 30 years, and today, 70% of the market is on merchant silicon.
+Not yet, I won't say for not the network operating system, but certainly for the silicon is merchant silicon.
+So the message here is there's some advantages to doing a merchant solution here than to trying to do a custom solution, as, behavior or performance over the last 20 years have shown.
+Matt Ramsay
+Managing Director and Senior Research Analyst, TD Cowen
+Thanks, Hock.
+Appreciate it.
+Operator
+Thank you.
+One moment for our next question.
+That will come from the line of Christopher Rolland with Susquehanna.
+Your line is open.
+Christopher Rolland
+Senior Equity Analyst of Semiconductors, Susquehanna
+Hey, thanks for the question.
+So, I think there's been two really great parts of the Broadcom story that has surprised me.
+And the first is the AI upside, and the second is just the resilience of the core business, and particularly storage and broadband, in light of what have been kind of horror shows for some of your competitors, who I think are in clear down cycles.
+So, I've maybe been waiting for a reset in storage and broadband for a while, and it looks like Q4 gets a little softer here for you.
+You know, maybe you're calling that reset a soft landing, Hock.
+So, I guess maybe you can describe a little bit more for us what you mean by a soft landing.
+Does that mean that we have indeed landed here?
+Would you expect those businesses to be bottoming here, at least?
+And I know you've talked about it before, you guys have had tight inventory management.
+But is there perhaps even a little bit more inventory showing up, more inventory burn showing up for these markets?
+Or are the dynamics here just all in demand that has started to deteriorate here?
+Thanks.
+Hock Tan
+President and CEO, Broadcom
+Thanks.
+First and foremost, and you've heard me talked about it in preceding quarter earnings calls, and I continue to say it, and Kirsten re-emphasized it today.
+We ship very much to only end demand of our end customers, and we're looking beyond in many, in enterprise, even beyond, and telcos, even beyond OEM.
+We look to the end users, the enterprises of those OEM customers.
+We try to.
+Doesn't mean we are right all the time, but we pretty much are getting very good at it, and we only ship to that.
+And what you're seeing is why I'm saying this, what you know, you're looking at, for instance, some numbers in broadband, some numbers in service storage, that seems not quite as flat.
+Which is why I made the point of purposely saying, "But look at it collectively, taking out generative AI." My whole portfolio of products out there is pretty broad, and it gets segmented into different end markets.
+And when we reach, I call it a plateau, as we are in, you've got, or soft landing, as you call it.
+You know, you never stay flat.
+There'll be some products, because of timing of shipments, come in more, and some ship out the wrong timing, come in a bit lower.
+And in each quarter, we may show you differences, and we are showing some of it, that differences in Q3 and some even in Q4.
+And that's largely related to logistics, timing of customer shipments, particular customers, and a whole range of products that go this way.
+This is what I referred to in my remarks as revenues, which are puts and takes around a median.
+And that median, I was at pains to highlight to you guys, has sat around $6 billion, and it's been sitting around $6 billion since the start of fiscal 2023.
+And as we sit here in Q4, it's still at $6 billion.
+Now, not quite there because there are some parts of it that may go up, some parts of it go down, and that's the puts and takes we talk about.
+And I hope that pretty much addresses what you are trying to get at, which is, is it a trend or is it just a flutter?
+And to use my expression, I call those flutters or puts and takes around a median that we're seeing here.
+And I wouldn't have said it if I've not seen it now for three quarters in a row, around $6 billion.
+Christopher Rolland
+Senior Equity Analyst of Semiconductors, Susquehanna
+Thanks, Hock.
+Operator
+Thank you.
+One moment for our next question.
+That will come from the line of Edward Snyder with Charter Equity Research.
+Edward Snyder
+Managing Director, Charter Equity Research
+Thank you very much.
+Hock, I want to shift gears maybe a little bit here, and talk about the expectations and actually indications from your customers about the integrated optics solutions that will start shipping next year.
+It seems to me, by looking at what you're offering and the significant improvements you get over performance and size, that this would be something of great interest.
+Is it limited, by, inertia or architectural inertia by the existing solutions?
+Or what kind of feedback are you getting, and why should we expect to see maybe an update?
+Because it's rather a new market for you overall.
+You've not been in it before.
+So I'm just trying to get a feel for, what your expectations are and why maybe we should start looking at this more closely.
+Hock Tan
+President and CEO, Broadcom
+You should.
+I did, I made my investment, at least you should look at it a bit.
+I'm just kidding.
+But we have invested in Silicon Photonics, which is, I mean, literally integrating in a, in one single solution, packaging.
+As an example, I'll switch.
+Our next generation Tomahawk-5 switch, which will start shipping middle of next year, what we call, the program we call the Bailly.
+A fully integrated switch, Silicon Photonics switch.
+And you're right, very low power and, you know, and it's, you make it, you know, optics have always had optical and mechanical characteristics.
+By sucking them into an integrated Silicon Photonics solution, you take away those yield failures on yield rates on mechanical, optical, and translate it to literally silicon yield rates.
+So it's much more reliable than the conventional approach, we like to believe.
+So yeah, your question is: so why won't more people jump at it?
+Well, because nobody else has done it.
+We are pioneering this Silicon Photonics architecture, and we're going to put CPO.
+We have done a PoC, Proof of Concept, in silicon, Tomahawk 4 in a couple of hyperscalers, but not in production volume.
+We now feel comfortable.
+We have reliability data from those instances, and that's why we feel comfortable to now go into production launch in Tomahawk 5.
+But as people say, the proof is in the eating, and we will get it in one or two hyperscalers, who will demonstrate how efficient power-wise and effective it can be.
+Once we do that, we hope it will start to proliferate to hyper, other hyperscalers, because they cannot do it if one of them does it and reap the benefits of this Silicon Photonics solution.
+It's there, you know it.
+As I've indicated, the power is simply enormous, 30%-40% power reduction, and power is a big thing now in data centers, particularly, I would add, in Generative AI data, data centers.
+That's a big use case that could come over the next couple years.
+All right.
+Operator
+Thank you.
+Thank you all for participating in today's question and answer session.
+I would now like to turn the call over to Ms. Ji Yoo for any closing remarks.
+Ji Yoo
+Head of Investor Relations, Broadcom
+Thank you, operator.
+In closing, we would like to highlight that Broadcom will be attending the Goldman Sachs Communications and Technology Conference on Thursday, September 7.
+Broadcom currently plans to report its earnings for the fourth quarter of fiscal 2023 after close of market on Thursday, December 7, 2023.
+A public webcast of Broadcom's earnings conference call will follow at 2:00 P.M.
+Pacific.
+That will conclude our earnings call today.
+Thank you all for joining.
+Operator, you may end the call.
+Operator
+Thank you all for participating.
+This concludes today's program.
+You may now disconnect.
+Data Source:
+Quartr
+Last updated:
+Aug 31, 2023
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (15)
+Quarterly report
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

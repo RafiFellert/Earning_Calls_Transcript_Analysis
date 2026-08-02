@@ -1,0 +1,562 @@
+Broadcom (AVGO) Q1 2021 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Broadcom Inc. (AVGO)
+NASDAQ: AVGO · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+389.28
++1.44 (0.37%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+387.45
+-1.83 (-0.47%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q1 2021
+Mar 4, 2021
+Quarterly report
+Earnings release
+Play Audio
+Download Transcript
+Operator
+Welcome to Broadcom Inc.'s first quarter fiscal year 2021 financial results conference call.
+At this time, for opening remarks and introductions, I would like to turn the call over to Ji Yoo, Director of Investor Relations of Broadcom Inc. Please go ahead, ma'am.
+Ji Yoo
+Director of Investor Relations, Broadcom
+Thank you, operator.
+Good afternoon, everyone.
+Joining me on today's call are Hock Tan, President and CEO, Kirsten Spears, Chief Financial Officer, Tom Krause, President, Infrastructure Software Group, and Charlie Kawwas, Chief Operating Officer.
+Broadcom also distributed a press release and financial tables after the market close describing our financial performance for the first quarter of fiscal year 2021.
+If you did not receive a copy, you may obtain the information from the investor section of Broadcom's website at broadcom.com.
+This conference call is being webcast live.
+A recording will be available via telephone playback for one week.
+It will also be archived in the investor section of our website at broadcom.com.
+During the prepared comments, Hock and Kirsten will be providing details of our first quarter fiscal year 2021 results, guidance for our second quarter, as well as commentary regarding the business environment.
+We'll take questions after the end of our prepared comments.
+Please refer to our press release today and our recent filings with the SEC for information on the specific risk factors that could cause our actual results to differ materially from the forward-looking statements made on this call.
+In addition to U.S.
+GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis.
+A reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press release.
+Comments made during today's call will primarily refer to our non-GAAP financial results.
+I'll now turn the call over to Hock.
+Hock Tan
+President and CEO, Broadcom
+Thank you, Ji, and thank you everyone for joining us today.
+Well, we delivered net revenue of $6.7 billion, up 14% year-on-year.
+Semiconductor Solutions revenue was $4.9 billion, increasing 17% year-on-year.
+Infrastructure Software revenue was $1.7 billion, up 5% year-on-year.
+Let me turn first to Semiconductor Solutions.
+Before I get into the numbers, perhaps it would be very constructive for me to give you my perspective on the situation today, and in fact, what has actually evolved over the past nine months.
+You may recall in our earnings call Q2 fiscal 2020, around middle of last year, that we highlighted supply chain challenges.
+Since then, we have started extending lead times across our product portfolio.
+We stretched these lead times further over the past nine months as we saw demand within end markets continue to increase.
+Fast forward to today.
+We see customers accelerating their bookings for early deliveries and attempting to build buffers and creating the demand-supply imbalance you all hear out there.
+In anticipation of this phenomenon, we put in place in mid-2020 a very rigorous, disciplined process of carefully reviewing our backlog, identifying real end user demand, and aligning our supply chain to more closely match end user consumption.
+Of course, not all end markets are behaving the same way, but we believed we have done a very good job of balancing demand and supply in our end markets.
+What I'm reporting today does reasonably reflect what's been consumed by our end users.
+With that, let me get into the numbers.
+In semiconductors, we grew 17% year-on-year organically.
+Starting with wireless, we hit a seasonal peak in Q1, where wireless was up 52% year-on-year and reached 40% of semiconductor revenue mix.
+This sharp increase was in large part due to a higher content.
+RF content was up.
+We shipped in high volume Wi-Fi 6 and Wi-Fi 6E, the next generation of Wi-Fi 6.
+As expected, Q2 wireless revenue will now show a typical seasonal decline sequentially, even as anticipated revenues will be up 30%-40% year-on-year.
+As we look into the second half of the year, we are planning for typical revenue ramp in this space and structuring our in-house RF fab capacity appropriately. This should result in sustaining the year-on-year growth trend we now see in Q2 through the second half of the year.
+Moving on, networking represented approximately 29% of our Semiconductor Solutions revenue in the quarter and grew 15% year-on-year.
+Demand is strong, driven largely by data center spend in the cloud and global telcos who continue to upgrade their infrastructure and networks.
+Sustainability of this strength is evidenced by bookings as they jump 80% year-on-year and 62% sequentially.
+Demand for switch and routing platforms, both of the current as well as next generation, is robust.
+As anticipated, our AI TPU business was seasonally down this quarter.
+Moving on to Q2, we expect networking to be up sequentially and continue the trend of being up year-on-year, driven by continued strength we see in cloud and telcos, offset partially by continued weakness in enterprise.
+Turning to broadband, which represented approximately 15% of Semiconductor Solutions, revenue was up 8% year-on-year, driven by the work-from-home environment.
+Multiple telcos in Europe and the U.S. continue to roll out PON and cable DOCSIS.
+Embedded in these wireline gateways are our next-generation Wi-Fi 6 access points.
+Softness in enterprise was more than offset by the strong demand from retail home routers, even as telcos continue to spend.
+Looking at Q2, we are enabling the launch of new Wi-Fi 6 enabled platforms with higher value content for North American and European telcos.
+As a result, we do see demand accelerating consumption and consumption increasing, and we expect to generate double-digit year-on-year revenue growth in broadband.
+Server storage connectivity represented approximately 12% of Q1 semiconductor revenue.
+This segment is largely driven by enterprise demand, as we know.
+Not surprisingly, server storage revenue was down 22% year-on-year, reflecting continued softness in end user demand, as well as OEMs, original equipment manufacturers, depleting their inventory in this space.
+While bookings have improved, these are largely for demand in the second half, and accordingly, we expect revenue in Q2 to continue to be down year-over-year by double-digit percentage.
+However, we do expect some recovering based on our bookings received in the second half.
+Finally, industrial represented approximately 4% of Q1 Semiconductor Solutions revenue.
+Resales grew 13% year-over-year in Q1, driven by a recovery of multiple economic sectors in China.
+Turning to Q2, we expect resales to grow at roughly the same level as we see recovering now occurring as well in Japan and Europe.
+Inventory in the channel for us continues to deplete, and we may have to increase shipments and revenues to replenish channel inventory this quarter.
+In summary, Semiconductor Solutions revenue, segment revenue, was up 17% year-on-year in Q1.
+Q2, we expect this year-over-year percentage revenue to continue at around a similar amount in spite of a seasonal decline in wireless.
+The way it looks now, this relatively strong trend appears to be sustaining through most of 2021.
+However, in our view, this very high and unusual secular growth rate merely highlights an accelerated adoption of our connectivity platforms during this pandemic.
+Turning to our other segment, Software, Q1 2021 was our first quarter that on a year-on-year basis provides an organic comparison following the Symantec acquisition.
+In Q1, Infrastructure Software revenue growth was 5% year-on-year.
+In dollar terms, bookings averaged 122% over expiring contracts, while core accounts were averaged 137%.
+Over 90% of these bookings represented recurring subscription and maintenance.
+Our strategy of focusing on core accounts continues to perform well as we cross-sell our portfolio of software tools.
+In other words, our software portfolio continues to perform as we had planned and continues to be on track with our long-term financial model for organic software revenue growth of around mid-single digit percentage year-over-year.
+That's something we expect to continue to see in Q2.
+In summary, our Q1 consolidated net revenue grew 14% year-on-year.
+We expect a similar growth trajectory in Q2, which could bring revenue to $6.5 billion or a 13% year-on-year growth.
+With that, I'll now turn the call over to Kirsten.
+Kirsten Spears
+CFO, Broadcom
+Thank you, Hock.
+Let me now provide additional detail on our financial performance.
+Net revenue was a record $6.7 billion for the quarter, up 14% from a year ago.
+Gross margins were 73% of revenue in the quarter and up approximately 30 basis points year-on-year.
+Operating expenses were $1.1 billion, down 8% year-on-year, reflective of the full benefit of the completed Symantec integration.
+Operating income from continuing operations for the quarter was $3.8 billion and is up 23% from a year ago.
+Operating margin was 57% of revenue, up 420 basis points year-on-year.
+Adjusted EBITDA was $3.9 billion or 59% of revenue.
+This figure excludes $138 million of depreciation.
+Now a review of the P&L for our two segments.
+Revenue for Semiconductor Solutions was $4.9 billion and represented 74% of total revenue in the quarter.
+This was up 17% year-on-year.
+Gross margins for Semiconductor Solutions were approximately 67% in the quarter, up 20 basis points year-on-year, notwithstanding the higher mix of lower margin wireless revenue.
+Operating expenses were $750 million in Q1, down 3% year-on-year as we invested in R&D and streamlined SG&A.
+Operating margins increased to 52% in Q1, up 350 basis points year-on-year.
+While semiconductor revenue was up 17%, operating profit grew 25%, all organic.
+Moving to the P&L for our Infrastructure Software segment.
+Revenue for Infrastructure Software was $1.7 billion and represented 26% of revenue.
+This was up 5% year-on-year.
+Gross margins for Infrastructure Software were 90% in the quarter, up 190 basis points year-over-year.
+Operating expenses were $346 million in the quarter, down 18% year-on-year as we've completed the integration of Symantec.
+Operating profit was up 17% year-over-year on top line growth of 5%.
+Operating margin was 70% in Q1, up 740 basis points year-over-year.
+Moving to cash flow.
+Free cash flow in the first quarter was approximately $3 billion, representing 45% of revenue.
+This is up 35% year-over-year as we carefully manage working capital.
+Day sales outstanding were 35 days in the first quarter compared to 57 days a year ago.
+We ended the quarter with inventory of $952 million, a decrease of $51 million or 5% from the end of the prior quarter.
+You should also know in Q1, we spent $114 million on capital expenditures.
+On the financing front, we extended our weighted average debt maturity to approximately nine years from six by issuing new notes that we used to refinance and redeem existing debt.
+Our weighted average coupon increased about 23 basis points to 3.8%.
+We ended the quarter with $9.6 billion of cash and $41.9 billion of debt, of which $843 million is short term.
+Turning to capital allocation.
+In the quarter, we paid our common stockholders $1.5 billion of cash dividends.
+We also paid $225 million in withholding taxes due on vesting of employee equity, resulting in the elimination of approximately 521,000 AVGO shares.
+We ended the quarter with 408 million outstanding common shares and 450 million diluted shares.
+Note that we expect the diluted share count to be 450 million in Q2.
+Based on current business trends and conditions, our guidance for the second quarter of fiscal 2021 is for consolidated net revenues of $6.5 billion and adjusted EBITDA of approximately 59% of projected revenue.
+That concludes my prepared remarks.
+Operator, please open up the call for questions.
+Operator
+Thank you.
+Ladies and gentlemen, to ask a question, you will need to press star one on your telephone.
+We ask that you please limit yourself to one question.
+To withdraw your question, press the pound key.
+Please stand by while we compile the Q&A roster.
+Our first question will come from Ross Seymore with Deutsche Bank.
+Please go ahead.
+Ross Seymore
+Analyst, Deutsche Bank
+Hi, guys.
+Thanks for letting me ask a question.
+Hock. Some good color on the supply side of the equation and a little bit about your lead times extending.
+I wanted to dive a little bit into that.
+Last quarter, you talked about a backlog, I think the number was $14 billion.
+Can you talk a little bit about the composition of your backlog today, how it is on an absolute level, and the sustainability of it, as investors are wondering if this demand is just too good to be sustainable and what does it mean to excess bookings, double ordering, that sort of inventory digestion that will inevitably follow thereafter?
+Hock Tan
+President and CEO, Broadcom
+Well, that's a very interesting question, a very appropriate question at this time.
+As I said, as I indicated, we started this process almost nine months ago because of seeing demand that are quite strong.
+We start the process of thinking how we best ensure very good use of our supply chain capacity.
+Basically, as I said, we went through this process rigorously scrubbing our backlog.
+By the way, our entire backlog, virtually entire backlog, follow a key set of terms we mentioned before, which is non-cancelable for any of the customers who booked us, and they still apply more so than ever.
+Double bookings, from our point of view, it's never been an issue.
+As we stretch out lead times, we are seeing customers obviously book for delivery dates, for customer request dates that are further out.
+That makes sense too.
+That's why it makes the process of being able to match customer consumption as close as we could do it against what we supply to be something that makes sense.
+We've done that, and I think we could always do better, but we feel pretty good that we have a reasonable process in place that ensures that our customers get their products.
+Maybe just in time, but they do get their products when they need it.
+We believe we have managed this process of supply, demand, and imbalance very well, as I indicated.
+In fact, as I meant to repeat the point I highlighted, our revenue year-over-year in Q1 was up 17%, but as I also indicated, our bookings was up 63%.
+That by itself proves there is a lot of demand, and people are booking out very far.
+We are virtually 90% booked for 2021.
+If you laid out what they need.
+We believe this is real because they can't cancel it.
+Obviously, in order to reach that point, to one of your points, has our backlog as we begin Q2 increased from when we began Q1?
+Yes, it has.
+We have, and quite significantly, as we start to see lead times even stretch out more.
+The strength, we believe, of our products, not only products that are incumbent and used today, but what is coming down the pipe as next-generation products, which have already released, but await launching, is proven by the fact that we have customers, many of them, and reflecting our backlog, who are willing to book out for delivery of those products out through the rest of 2021.
+Operator
+Thank you.
+Our next question will come from Harlan Sur with JPM organ.
+Please go ahead.
+Harlan Sur
+Analyst, JPMorgan
+Good afternoon.
+Thanks for taking my question.
+Hock, the biggest concern by investors right now is your ability to drive growth in the seasonally stronger second half of your fiscal year, your July and October quarters, when you start to ramp into your flagship smartphone customers.
+If I just apply normal seasonal trends in wireless combined with, let's say, sustained networking strength and, as you mentioned, recovery in storage, that would get me revenues in the second half in that sort of $6.7 billion range.
+Now, I'm not asking you to endorse those numbers, but I guess the question is, from a supply chain perspective, has the team secured enough capacity to drive higher revenues in July and October quarter if your backlog supported that profile?
+Hock Tan
+President and CEO, Broadcom
+You are really asking me to guide you, Harlan.
+I'm not guiding you.
+I do understand your question, and you have seen in my prepared remarks just earlier of where we see ourselves planning the trend to go.
+I've also specifically mentioned where we are manufacturing, like FBAR in-house, which is a big part of what is the seasonal upcycle in the back half on wireless side that we have put in place the capacity to handle it. The simple answer to your question is, yes, we have done a decent job, as I said, over the last six months, and we continue to do a decent job of being able to meet the critical needs of all our customers.
+Operator
+Thank you.
+Our next question will come from Vivek Arya with Bank of America Securities.
+Go ahead, please.
+Vivek Arya
+Analyst, Bank of America Securities
+Thanks for taking my question.
+Hock, you mentioned you expected this 30%-40% kind of year-on-year growth rates in wireless to sustain in the back half.
+I was hoping if you could give us some color on what kind of content growth you are expecting this year.
+Looking forward, how much does Broadcom benefit from all these C-band spectrum auctions that were conducted recently?
+I assume that's more of an outer year benefit.
+Hock Tan
+President and CEO, Broadcom
+On the latter part, yes, it's an outer year.
+These things don't get implemented so fast.
+On the former part of your question, I can't answer that.
+I'm sorry, for obvious reasons.
+It's too early.
+We'll tell you about it when the time is appropriate.
+Thank you.
+Operator
+Thank you.
+Our next question will come from John Pitzer with Credit Suisse.
+Please go ahead.
+John Pitzer
+Analyst, Credit Suisse
+Yeah.
+Thanks for letting me ask the question.
+Hock, I just want to get back to the supply-demand imbalance.
+You did a really good job kind of explaining how you guys are trying to call your backlog.
+I'm kind of curious, as you look out over the next couple of quarters, when do you think supply will catch up to demand enough such that your customers don't feel obligated to have to build that cushion?
+Hock Tan
+President and CEO, Broadcom
+Another way of answering that question, John, I think, is when do you see lead time to reduce?
+Maybe to not reduce and perhaps normalize.
+That's probably the other way of looking at that equation.
+Right now, I don't know the answer to that.
+What we do know is we have extended lead time today in place, and we've been extending the lead time over the past several months, as I indicated.
+We have a fairly extended lead time today, and we're getting the bookings from the customer.
+When the bookings disappear is probably when you know you're headed to a situation of demand starting to disappear.
+We have not reached that point yet.
+Far from it at this point.
+Operator
+Thank you.
+Our next question will come from Stacy Rasgon with Bernstein Research.
+Please go ahead.
+Stacy Rasgon
+Analyst, Bernstein Research
+Hi, guys.
+Thanks for taking my question.
+Hock, you're saying that you're stretching out lead times.
+I get it, but I think before you told us the lead times were six months.
+If you're stretching them out, where are they actually sitting today, and how does that maybe vary by end mark?
+I guess to that end, you said you're kind of convinced that what you're shipping now sort of represents end user consumption.
+How do you actually have any visibility into that?
+Do you think the products actually going into end products?
+How do you know the users aren't stockpiling them and ordering them while they can?
+How do you have any visibility into what they're doing with them?
+Hock Tan
+President and CEO, Broadcom
+That's a hell of a good question, by the way.
+It cuts to the core of the work we've been doing.
+We've never been working harder simply because, number one is, don't forget, we supply a range of products, and we do supply to a bunch of customers.
+Keep in mind, if I could remind you of the business model we've built up, the structure we've built up.
+We provide technology leadership products in multiple verticals, mostly connectivity into the IT space.
+Where we are, we're the leader.
+Where we play, we tend to be leader, and we play with leading customers worldwide.
+We know who those guys are.
+We know their level of consumption.
+In many areas where we go, we're talking end user demand.
+We're not talking about middle men, like distributors for sure.
+We indicated for our leading customers, we don't go through distributors.
+For OEMs, we track that because who they sell our products to is where it counts at the end of the day.
+In many cases, in one segment, in particular, server storage, but it also applies to some extent and part of our networking business and to a much lesser extent in our broadband business, for sure.
+We actually see the difference in terms of whether it's just inventory depletion at original equipment manufacturers or even buffer inventory sitting in end users versus actually using the products in the same quarter we ship them the products.
+We track that.
+For us, it's not that complex when you think about our revenues.
+In semiconductors, 75% of our revenues really goes to just over 100 customers worldwide.
+We can track that.
+Operator
+Thank you.
+Our next question will come from Craig Hettenbach with Morgan Stanley.
+Please go ahead.
+Craig Hettenbach
+Analyst, Morgan Stanley
+Yes, appreciate the color on the software bookings relative to revenue.
+Now that you have Symantec for a year and CA for a couple of years, can you just talk about the confidence of the growth rates on a longer-term basis that you're talking about?
+I know you touched on the 90% recurring, but just really how the global large accounts are kind of how that transition is playing out.
+Hock Tan
+President and CEO, Broadcom
+Yes.
+As I indicated in my prepared remarks on some of the key metrics we go by, we feel very, very good about those two.
+We feel very good that things are moving along, tracking along both the business and financial model, where we expect them to go, which is about focusing on core customers and truly uplifting capacity, entitlements, products to those core customers across our portfolio.
+You've seen the metrics we indicated, they increase.
+On non-core, what I said previously is we do see a level of attrition, manageable, but it will.
+As they attrit, but it's offset by improvement in core, we expect to be able to reach a stabilization, as I said, around mid-single digits on a very consistent basis.
+We have seen that two years now that we have gone through, over two years now, we have seen eight quarters, nine quarters, to be exact, of that level of performance, it's a great line of sight.
+The other thing I might add that is also interesting, and I know stating the obvious to some extent, is most of all our customers, if not all of them, are enterprises, even in this environment.
+You heard what I thought about enterprise in semiconductors and how the different approach, the different characteristics and behavior enterprises have in terms of demand requirements in this environment of a pandemic, work from home, compared to telcos, broadband, and public cloud.
+We don't see that in software, in the infrastructure software we have, simply because these are mission-critical products, tools, embedded in the business process of these largest enterprises in the world, who, if anything else, during this environment, consume more of those products rather than less.
+Operator
+Thank you.
+Our next question will come from Timothy Arcuri with UBS.
+Please go ahead.
+Timothy Arcuri
+Analyst, UBS
+Hi, thanks a lot.
+I guess I also had a question on the supply-demand.
+Hock, orders obviously were up quite a bit in fiscal Q1, given that revenue was up and backlog, I think you said, was up significantly.
+As you look into fiscal Q2, wireless orders are obviously going to come down a lot.
+I'm wondering if orders in the other parts of the business are going to be strong and as such that total orders will be up in fiscal Q2.
+Again, thanks.
+Hock Tan
+President and CEO, Broadcom
+Tim, when you say orders, and I hear you say orders, let me say the orders as we ramp up to this current generation of phones for a large North American customer, as we ramp it up for this current generation, bookings started ramping up as early as Q3, really shot up in Q4, and started declining late Q4 and Q1.
+Bookings was already declining.
+When I indicated Q1 bookings year-over-year improvement of 80%, what I'm also saying is that is netting out a decline in bookings of our wireless in a fairly substantial manner, as you would expect seasonally.
+The answer is yes.
+What I'm reflecting out to you guys when I show those bookings, the revenue is the bookings that we're showing in Q1, which is fairly strong, reflects declining bookings in wireless as we all fully expect seasonally during that time frame.
+Operator
+Thank you.
+Our next question will come from Toshiya Hari with Goldman Sachs.
+Please go ahead.
+Toshiya Hari
+Analyst, Goldman Sachs
+Thanks so much for taking the question.
+Hock, I wanted to ask about capital allocation.
+The dividend component is pretty predictable.
+Outside of the dividend, how are you thinking about paying down debt, buying back stock, and M&A in software?
+The markets are clearly very volatile right now.
+How are you thinking about those three buckets on a relative basis?
+Thank you.
+Hock Tan
+President and CEO, Broadcom
+That's a very interesting question.
+I was wondering when one of you guys will get to that, and sure enough.
+You're right.
+We are accumulating cash, and you heard Kirsten mention it.
+We are generating cash.
+In Q1, we generated $3 billion of cash, and Q1 also is the time we pay out bonuses to all our employees.
+If I normalize that, we're generating at $3.5 billion a quarter.
+It's a free cash flow.
+Half of it goes to dividends, or almost half of it, as you correctly said, so that's predetermined.
+The other half, for now, we are putting into an increasing cash portfolio.
+You're right, our business model and strategy, as you know, long term, is to acquire and add on to our portfolio, add on to our earnings stream for our shareholders.
+We take that very seriously, and we continue to look at it very seriously.
+This takes time, and we continue to look at it, and we will take an approach with my point that we would be somewhat flexible to, that as we accumulate cash, and if by end of this calendar fiscal year, we haven't done an acquisition, we'll obviously take a hard look at our two other choices.
+One is pay down debt, and that may even happen before then, pay down debt.
+Interest rates are very low, and money is very available, and we're still very investment grade.
+The other alternative is buyback shares.
+All of these are open.
+Operator
+Thank you.
+Our next question will come from Blayne Curtis with Barclays.
+Please go ahead.
+Blayne Curtis
+Analyst, Barclays
+Hey, good afternoon.
+Thanks for taking my question.
+Hock, I was just curious a little bit more on the wireless.
+We don't have the right compares year-over-year.
+Maybe if you just give us a little color as to what you're expecting.
+I just don't know what that 30%-40% year-over-year really compares to.
+Maybe just some color as to what you're seeing from that wireless channel versus normal seasonal patterns that would help us kind of dial in as to what you're really saying for April.
+Hock Tan
+President and CEO, Broadcom
+As I indicated in my prepared remarks, when it comes to wireless, this is for 2021.
+Don't forget there is some timing adjustment by quarter too, Blayne, in the sense that what used to be a peak quarter in our wireless seasonality of a fiscal Q4, in this recent generation, the peak quarter, as I indicated, became Q1 2021.
+Obviously things roll down perhaps somewhat slower.
+Because we're also assuming as it rolls down slower in the course of fiscal 2021, that we have to assume, for lack of knowing no better, that we might be back to a normal seasonal cadence of a wireless launch, a launch of new phones, and assume that it will be back to that normal cadence.
+2021 might look kind of compressed, only thing, so in terms of revenue, in terms of availability of a market for us to address.
+Couple that with a content increase between 2020 and 2021.
+You therefore could understand why I indicated that for the rest of 2021 begin to look like a fairly significant 30%- 40% increase on a year-on-year basis as we run through the remaining quarters of 2021.
+Operator
+Thank you.
+Our next question will come from C.J.
+Muse with Evercore.
+Please go ahead.
+C.J. Muse
+Analyst, Evercore
+Yeah, good afternoon.
+Thank you for taking the question.
+I just wanted to dig a little into your EBITDA margin guide.
+It would suggest that either gross margins are flat, which would not seem likely given the fall off in wireless or OpEx is moving higher.
+Can you walk through the moving parts there and, as part of that, can you help us understand how to model gross margins and OpEx through the remainder of the fiscal year?
+Thank you.
+Kirsten Spears
+CFO, Broadcom
+In Q1, we said that from year over year, gross margins were up 30 basis points.
+That's largely because of wireless.
+When you look at Q2, we'll have less wireless revenues in the margin mix, and therefore, look back at Q4, how I would model Q2.
+Then as you look at margins for the rest of the year, it'd be similar to Q2.
+Look back at Q4 and then consider the fact that we'll have probably more normal seasonality on wireless towards the second half.
+Operator
+Thank you.
+Our next question will come from Harsh Kumar with Piper Sandler.
+Please go ahead.
+Harsh Kumar
+Analyst, Piper Sandler
+Yeah, hey, thank you.
+Hey, guys, congratulations.
+Solid numbers.
+Hock, I had a question for you.
+I'm trying to wrap my head around some stunning numbers you threw out for networking, 80% increase in bookings, some 62% odd sequential increase.
+I appreciate the process of identifying real demand.
+With that, is there something going on in bookings that is specific to your end markets or your product set that is driving it?
+Could you just highlight what is going on there?
+Hock Tan
+President and CEO, Broadcom
+Great question.
+I've been dancing around saying it in nice words.
+Let me call it directly.
+People need our products, each of our products, and particularly, whether it's broadband or networking, our customers, our end user customers truly need the product.
+They're in the business.
+They're in the business of launching more broadband, improving their networks.
+The cloud guys have to scale out data centers because there's more demand for hosting and demand from public cloud in this work from home environment of social media and also online retail and everything else.
+They need to buy those products of ours, whether it's the current generation which we have that works or soon to be the next generation.
+If we stretch our lead time to an extended basis, the thinking in their mind is, these are non-cancelable orders.
+Do I still need it six months, nine months from now?
+If they need it, they place the order.
+Otherwise, they have a gap in being able to scale out capacity or scale out launches.
+They'll do that.
+It's a real test of how strong our product franchises and how mission critical it is to our end user.
+As we stretch our lead time, whether it goes from three months to six months to eight months, they just book what they need eight months out or first three months out first, then six months out, then eight months out.
+You only do that if you truly believe you need that product to enable your business.
+What I'm trying to say is, it is nothing more fundamental than why we are seeing as we stretch out lead time, because we match it against our ability to get those products out, is a great way to indicate whether our products are needed.
+They don't need it now as much as people might seem to indicate.
+They may need it three and six months from now, but they're willing to lock in and say they need it so that we can manage our supply chain to get them those products.
+Which is why I'm also saying the management of a supply chain to match demand is not that extreme and simple as may be made out there, that you hear around.
+It's all about being able to tell your customers and get your customers to behave in a rational manner and for us to manage it in a rational manner.
+If I ship half my entire backlog today, assuming I can even do that, of course they'll take it, because they're all in a panic mode.
+If on the other side, they know they can get it when they need it six months from now, they're happy to wait until then.
+Meanwhile, they book it ahead of time because that's what I need to reserve my capacity.
+That's the perspective I want to give to you guys.
+It is what it is.
+This is not a panic mode.
+This is a very structured and reasonable process, which we believe at the end of it all, still shows real underlying demand, and the way we want to report it.
+Operator
+Ladies and gentlemen, thank you for participating in today's question and answer session.
+I would now like to turn the call back over to Ms. Yoo for closing remarks.
+Ji Yoo
+Director of Investor Relations, Broadcom
+Thank you, operator.
+In closing, please note that Broadcom and Morgan Stanley will be hosting a presentation on our broadband business on Monday, April 12th after market close.
+Hock will be joined by Rich Nelson and Greg Fischer, general managers of our broadband businesses.
+That will conclude our earnings call today.
+Thank you all for joining.
+Operator, you may end the call.
+Operator
+Ladies and gentlemen, this concludes today's conference call.
+Thank you for your participation.
+You may now disconnect.
+Data Source:
+Quartr
+Last updated:
+Mar 4, 2021
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (15)
+Quarterly report
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
