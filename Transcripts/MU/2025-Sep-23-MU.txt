@@ -1,0 +1,611 @@
+Micron Technology (MU) Q4 2025 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Micron Technology, Inc. (MU)
+NASDAQ: MU · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+823.03
+-51.63 (-5.90%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+812.50
+-10.53 (-1.28%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q4 2025
+Sep 23, 2025
+Full Transcript
+Full Summary
+Annual report
+Slides
+Earnings release
+Play Audio
+Download Transcript
+Full Transcript
+Full Summary
+Summary
+Fiscal Q4 2025 set records for revenue, gross margin, and EPS, with strong year-over-year growth driven by data center and AI demand. Fiscal 2026 guidance projects further records, with tight DRAM supply, robust end-market demand, and higher CapEx planned.
+Operator
+Thank you for standing by and welcome to Micron Technology's Fiscal Fourth Quarter 2025 Financial Conference Call.
+At this time, all participants are in a listen-only mode.
+After the speaker presentation, there will be a question- and- answer session.
+To ask a question during the session, you will need to press star one one on your telephone.
+To remove yourself from the queue, please press star one one again.
+I would now like to hand the call over to Satya Kumar, Investor Relations.
+Please go ahead.
+Satya Kumar
+Investor Relations, Micron Technology
+Thank you, and welcome to Micron Technology's Fiscal Fourth Quarter 2025 Financial Conference Call.
+On the call with me today are Sanjay Mehrotra, our Chairman, President, and CEO, and Mark Murphy, our CFO.
+Today's call is being webcast from our Investor Relations site at investors.micron.com, including audio and slides.
+In addition, the press release detailing our quarterly results has been posted on the website, along with prepared remarks for this call.
+Today's discussion contains forward-looking statements that are subject to risks and uncertainties.
+These forward-looking statements include statements regarding our future financial and operating performance, including our guidance, as well as trends and expectations in our business, market, industry, and regulatory and other matters.
+These statements are based on our current assumptions, and we assume no obligation to update these statements.
+Please refer to our most recent financial report on Form 10-K and our other filings with the SEC for more information on the risks and uncertainties that could cause actual results to differ materially from expectations.
+Today's discussion of financial results is presented on a non-GAAP financial basis unless otherwise specified.
+A reconciliation of GAAP to non-GAAP financial measures can be found on our website.
+I'll now turn the call over to Sanjay.
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+Thank you, Satya.
+Good afternoon, everyone.
+Micron had an outstanding finish to fiscal 2025, delivering fiscal Q4 revenue, gross margin, and EPS all above the high end of our updated guidance ranges.
+We achieved record revenue in Q4, driven by pricing execution and strong performance across end markets.
+In our March 2024 earnings call, we said that we expect Micron to be one of the biggest beneficiaries of AI in the semiconductor industry and that we expect to deliver record revenue and significantly improved profitability in fiscal 2025.
+I'm pleased to report that in fiscal 2025, Micron's revenue grew nearly 50% to a record $37.4 billion, and gross margins expanded by 17 percentage points to 41%.
+This performance was supported by the ramp of our high-value data center products and our broad-based DRAM pricing strength across end markets.
+The combined revenue from HBM, high-capacity DIMMs, and LP server DRAM reached $10 billion, more than a five-fold increase compared to the prior fiscal year.
+Our data center SSD business reached record revenue and market share in fiscal 2025.
+I want to thank our global Micron team for their focus and execution, which made these results possible.
+As we enter fiscal 2026, Micron is positioned better than ever.
+Our leadership in advanced technologies, including HBM, 1-gamma DRAM, and G9 NAND, enables a differentiated product portfolio that drives strong ROI.
+AI-driven demand is accelerating, and industry DRAM supply is tight.
+Our HBM performance has been strong, and robust demand, tight DRAM supply, and disciplined execution have significantly strengthened the profitability of the rest of our DRAM portfolio.
+In NAND, our higher mix to data center and improving industry conditions are contributing to profitability.
+Our fiscal Q1 guidance reflects new records for revenue and EPS.
+In addition to being a demand driver, AI is also a powerful productivity driver for Micron, contributing to our strong competitive position and financial performance.
+We are using AI throughout the company across product design, technology development, manufacturing, and other functional groups.
+We have seen strong adoption and, as much as a 30%- 40% productivity uplift in select gen AI use cases, such as code generation.
+In design simulation, AI is accelerating our silicon-to-systems design cycle through advanced modeling and reduced iterations.
+In manufacturing, we have driven a 5x increase in wafer images analyzed in the past year and doubled the amount of useful data and telemetry collected and analyzed from our fab tools, all of which improve our yield performance.
+These AI capabilities enable us to achieve superior product specifications, quality, and time to market at scale.
+Turning to technology and operations, we are proud to announce that our 1-gamma DRAM node reached mature yields in record time, 50% faster than in the prior generation.
+We are the first in the industry to ship 1-gamma DRAM and will leverage 1-gamma across our entire DRAM portfolio to maximize the benefits of this leadership technology.
+We achieved first revenue from a major hyperscale customer on our 1-gamma products for server DRAM in the quarter.
+Our G9 NAND production ramp has been progressing well while scaling at a pace aligned with market demand.
+We have ramped our G9 NAND node for both TLC and QLC NAND and have qualified our G9 QLC NAND for enterprise storage.
+In fiscal Q4, we received a CHIPS grant disbursement following the completion of a key construction milestone for our new high-volume manufacturing fab in Idaho, with the first wafer output expected to begin in the second half of calendar 2027.
+We began design work for our second Idaho manufacturing fab, which will provide additional capacity beyond 2028.
+In New York, we have completed initial phases of our environmental impact study and continue to work with State and Federal Authorities towards starting ground preparation.
+In fiscal Q4, we installed the first EUV tool for our Japan fab to enable 1-gamma capability, which will complement our existing 1-gamma supply from our fabs in Taiwan.
+The time from receiving this tool to completing installation was a record for all EUV tools globally, demonstrating Micron 's expertise with this equipment.
+We plan to continue to invest in our Japan production capability to meet requirements of the advanced memory technologies of the future.
+Our continued HBM assembly and test investments position us well to meet growing HBM capacity requirements in calendar 2026.
+We are making good progress on our Singapore HBM assembly and test facility construction, which is on track to contribute to our HBM supply capability beginning in calendar 2027.
+Turning to our end markets.
+In data center, we now expect calendar 2025 total server units to grow approximately 10%, up from our prior expectations of mid-single-digit percentage growth.
+The calendar 2025 traditional server growth outlook has strengthened significantly from flat to growth in the mid-single-digit range.
+We believe this change in outlook is in part related to the growth of AI agents and the traditional server workloads agents initiate as they execute tasks on behalf of users.
+Continued growth in traditional server applications in enterprises is also contributing to additional demand growth.
+In addition to traditional servers, AI server growth continues to be very robust.
+This growth in both traditional and AI servers is driving strong demand for our DRAM products.
+Data centers require some of our industry's most complex and high-value products, and meeting this demand has presented several opportunities to enhance our product mix and profitability.
+In fiscal 2025, Micron 's data center business reached a record 56% of total company revenue, with gross margins of 52%.
+Our HBM business has posted many quarters of strong growth.
+In fiscal Q4, our HBM revenue grew to nearly $2 billion, implying an annualized run rate of nearly $8 billion, driven by the ramp of our industry-leading HBM3E products.
+We are pleased to note that our HBM share is on track to grow again and be in line with our overall DRAM share in this calendar Q3, delivering on our target that we have discussed for several quarters now. Micron 's HBM4 12-high remains on track to support customer platform ramps, even as the performance requirements for HBM4 bandwidth and pin speeds have increased.
+We have recently shipped customer samples of our HBM4 with industry-leading bandwidth exceeding 2.8 TB per second and pin speeds over 11 Gb per second.
+We believe Micron 's HBM4 outperforms all competing HBM4 products, delivering industry-leading performance as well as best-in-class power efficiency.
+Our proven 1-gamma DRAM, innovative and power-efficient HBM4 design, in-house advanced CMOS base die, and advanced packaging innovations are key differentiators enabling this best-in-class product.
+For HBM4E, Micron will offer standard products as well as the option for customization of the base logic die.
+We are partnering with TSMC for manufacturing the HBM4E base logic die for both standard and customized products.
+Customization requires close collaboration with customers, and we expect HBM4E with customized base logic dies to deliver higher gross margins than standard HBM4E.
+Our HBM customer base has expanded and now includes six customers.
+We have pricing agreements with almost all customers for a vast majority of our HBM3E supply in calendar 2026.
+We are in active discussions with customers on the specifications and volumes for HBM4, and we expect to conclude agreements to sell out the remainder of our total HBM calendar 2026 supply in the coming months.
+Micron's LPDDR5 for servers had over 50% sequential growth in the quarter and reached record revenue.
+In close collaboration with NVIDIA, Micron has pioneered the adoption of LPDRAM for servers, and since NVIDIA's launch of LPDRAM in their GB product family, Micron has been the sole supplier of LPDRAM in the data center.
+In addition to our leadership in HBM and LP5, Micron is also well-positioned with our GDDR7 products, which are designed to deliver ultra-fast performance with pin speeds exceeding 40 Gb per second, along with best-in-class power efficiency to address needs of certain future AI systems.
+In data center NAND, AI-influenced use cases such as KV cache tiering and vector database search and indexing are driving demand for performance storage, while AI server growth is driving demand for high-capacity SSDs for capacity storage.
+Micron is gaining share in these markets with our customer focus, technology leadership, vertical integration, and execution.
+We strengthened our portfolio with the industry's first G9 NAND data center products, including first-to-market PCIe Gen 6 SSDs.
+Near-term, we see continued growth in the data center storage market, with HDD supply shortages expected to improve NAND demand and drive a healthier supply-demand environment.
+Turning to PCs, end-of-life of Windows 10 and greater adoption of AI-enabled PCs are driving an improved PC demand outlook.
+We now expect PC unit shipments to grow at a mid-single-digit percentage level in calendar 2025 versus our low single-digit percentage growth expectations previously.
+During the quarter, we achieved our first OEM customer qualification of our 16 Gb 1-gamma-based D5 and commenced volume shipments.
+In NAND, we successfully qualified our first G9 NAND SSDs in both performance and mainstream categories with OEM customers.
+Our strong SSD portfolio enabled us to achieve record client SSD revenue in the quarter and in fiscal year 2025.
+Smartphone unit shipment expectations remain unchanged at low single-digit percentage range in calendar 2025.
+An increasing mix of AI-ready smartphones continues to be a key catalyst for DRAM content growth in mobile devices.
+Notably, one-third of the flagship smartphones shipped in calendar Q2 contained 12 GB or more, and given recent product launches from Apple, Samsung, and other smartphone OEMs, we expect this mix to increase over the coming quarters.
+In fiscal Q4, Micron ceased future mobile managed NAND product development in order to focus our resources and investments on higher ROI opportunities in our portfolio.
+We will continue to support existing mobile managed NAND products.
+Micron remains committed to serving the mobile DRAM market with our industry-leading portfolio.
+In fiscal Q4, we achieved OEM qualification of our first 10.7 Gb per second 1-beta second-generation LP5X products at 16 GB and 24 GB capacities.
+Turning to auto, industrial, and embedded.
+In automotive, trends such as ADAS and AI-enhanced in-cabin experiences require significantly higher memory and storage content, making it a higher-growth part of the industry.
+In embedded, we expect physical AI such as drones, advanced robots, and AR/VR to become a more important driver of demand over time.
+Automotive and industrial demand strengthened throughout the quarter, exceeding our initial forecast.
+We are seeing improved profitability in this business with stronger pricing and an increased mix of advanced technology nodes, with greater adoption of D5 and LP5 products.
+We continue to see supply constraints in D4 and LP4.
+In June, Micron announced investments in our Virginia facility in an effort to support our long- life cycle customers' demand for D4 and LP4.
+Now turning to our market outlook.
+Customer inventory levels are healthy overall across end markets.
+We expect calendar 2025 industry DRAM bit demand growth to be in the high teens percentage range, somewhat higher than our previous outlook.
+We expect calendar 2025 industry NAND bit demand growth to also be higher than our previous outlook, now in the low to mid-teens percentage range.
+We expect Micron's calendar 2025 bit supply growth to be below industry bit demand growth for non-HBM DRAM and for NAND.
+Robust data center demand, including the uptake in server unit growth, has contributed to a tight industry DRAM environment and strengthened NAND market conditions.
+Additionally, broadening of demand across end markets has also constrained DRAM supply.
+On the supply side, we expect low supply in inventories, constrained node migration as industry supports extended D4 and LP4 end-of-life, longer lead times, and higher costs globally for new wafer capacity, all to limit the pace of supply growth for DRAM in 2026.
+In calendar 2026, we anticipate further DRAM supply tightness in the industry and continued strengthening in NAND market conditions.
+Over the medium term, we anticipate industry bit demand growth of mid-teens category for both DRAM and NAND.
+Micron invested $13.8 billion in CapEx in fiscal 2025.
+As we continue to make 1-gamma DRAM and HBM-related investments, we expect fiscal 2026 CapEx to be higher than fiscal 2025 levels.
+DRAM front-end equipment and fab construction will drive higher capital spending in fiscal 2026.
+Our continued technology node migration to 1-gamma will provide the majority of our supply growth for DRAM in calendar 2026.
+As we transition more products to 1-gamma, our 1-beta capacity will support HBM growth in 2026.
+I'll now hand over the call to Mark to provide more color on our fiscal fourth quarter and fiscal 2025 financials.
+Mark Murphy
+CFO, Micron Technology
+Thank you, Sanjay, and good afternoon, everyone.
+Micron Technology delivered strong results to close out the fiscal year with Q4 revenue, gross margin, and EPS all exceeding our updated guidance.
+For the full year, we achieved record revenue of $37.4 billion, up 49% year-over-year.
+Gross margins expanded to 41%, a 17% improvement from fiscal 2024.
+EPS reached $8.29, reflecting a 538% increase compared to the prior year.
+Total fiscal Q4 revenue was $11.3 billion, up 22% sequentially and up 46% year-over-year, and a quarterly record for Micron .
+Higher sequential revenue was driven by growth across our end markets, including record data center revenues and strong sequential growth in consumer-oriented markets.
+Fiscal Q4 DRAM revenue was a record $9 billion, up 69% year-over-year and represented 79% of total revenue.
+Sequentially, DRAM revenue increased 27%.
+Bit shipments increased in the low teens percent, driven by strong demand across all end markets.
+Prices increased in the low double-digit percentage range, driven by tight industry DRAM supply, pricing execution, and favorable mix.
+Fiscal 2025 DRAM revenues were a record $28.6 billion, up 62% year-over-year.
+Fiscal 2025 DRAM all-in costs, inclusive of HBM, were down by low single-digit percentage points.
+Fiscal Q4 NAND revenue was $2.3 billion, down 5% year-over-year and represented 20% of Micron 's total revenue.
+Sequentially, NAND revenue increased 5%.
+NAND bit shipments declined in the mid-single-digit percentage range, and prices increased in the high single-digit percentage range due to favorable mix.
+Fiscal 2025 NAND revenues were a record $8.5 billion, up 18% year-over-year.
+Fiscal 2025 NAND all-in cost reductions were around low teens percentage.
+Now turning to quarterly financial performance by business unit.
+Our new segment disclosures for our business units, which you see starting in today's press release and will see in future filings, highlight the improvements in our profitability and changing business mix.
+The Cloud Memory Business Unit and Core Data Center Business Unit combined represent the totality of our data center business.
+Cloud Memory Business Unit revenue was $4.5 billion and represented 40% of total company revenue.
+CMB revenues were up 34% sequentially, driven by robust bit shipment growth.
+HBM revenues reached a new quarterly record.
+CMBU gross margins were 59%, higher by 120 basis points sequentially, supported by cost reductions.
+Core Data Center Business Unit revenue was $1.6 billion and represented 14% of total company revenue.
+CDBU revenues were up 3% sequentially.
+CDBU gross margins were 41%, up 400 basis points sequentially, driven by higher pricing and favorable mix.
+Mobile Client Business Unit revenue was $3.8 billion and represented 33% of total company revenue.
+MCBU revenues were up 16% sequentially, driven by higher DRAM shipments and improved pricing.
+MCBU gross margins were 36%, up 12 percentage points sequentially, driven by higher pricing and favorable mix.
+Automotive and Embedded Business Unit revenue was $1.4 billion and represented 13% of total company revenue.
+AEBU revenues were up 27% sequentially, driven by higher bit shipments.
+AEBU gross margins were 31%, up 540 basis points sequentially, driven by higher pricing.
+The consolidated gross margin for fiscal Q4 was 45.7%, up 670 basis points sequentially.
+Sequential gross margin improvement was driven by favorable product mix, better DRAM pricing, and strong execution on cost reductions.
+Operating expenses in fiscal Q4 were $1.2 billion, up $81 million quarter- over- quarter and in line with our guidance range.
+The sequential increase was driven primarily by higher R&D.
+We generated operating income of $4 billion in fiscal Q4, resulting in an operating margin of 35%, up 820 basis points sequentially and 12 percentage points year over year.
+Fiscal Q4 taxes were $471 million on an effective tax rate of 12%, lower than our guidance due to favorability in certain discrete items.
+Non-GAAP diluted earnings per share in fiscal Q4 was $3.03, with 59% sequential growth and 157% versus the year ago quarter.
+Turning to cash flows and capital expenditures.
+In fiscal Q4, our operating cash flows were $5.7 billion, and our capital expenditures were $4.9 billion, resulting in free cash flows of $803 million.
+The increase in capital expenditures was driven by planned investments for DRAM.
+For the full year of fiscal 2025, we generated $3.7 billion in free cash flow, representing 10% of revenue.
+Ending inventory for fiscal Q4 was $8.4 billion or 124 days.
+Inventory was down $372 million sequentially, and inventory days down 15 days, driven by strong sequential bit shipment growth and DRAM.
+DRAM inventory days are below target levels, and NAND inventory days improved sequentially.
+On the balance sheet, we held $11.9 billion of cash and investments at quarter end and maintained $15.4 billion of liquidity when including our untapped credit facility.
+During fiscal Q4, we reduced debt $900 million through paydown of $700 million term loans and repurchased approximately $200 million of our senior notes.
+We closed the quarter with $14.6 billion of debt, maintaining low net leverage and a weighted average debt maturity of 2033.
+Now turning to the outlook for the first fiscal quarter.
+We expect price, cost, and mix to all contribute to strengthening gross margins in Q1.
+Operating expenses for fiscal Q1 are projected to be approximately $1.34 billion, with a sequential increase driven by R&D related to data center product innovation and development.
+Micron's fiscal 2026 will be a 53-week fiscal year compared to fiscal 2025, which was a 52-week fiscal year.
+As a result, fiscal Q4 2026 OpEx will reflect the effect of an additional work week in the quarter.
+We expect a fiscal Q1 and fiscal year 2026 tax rate of around 16.5%.
+We expect our fiscal Q1 capital spending to be approximately $4.5 billion.
+While quarterly spend may fluctuate, this level serves as a reasonable quarterly baseline for the planned capital spend in fiscal 2026.
+We will continue to exercise supply discipline as we pursue our growth opportunities.
+We expect free cash flow to strengthen in fiscal Q1, and we project significantly higher annual free cash flow year over year in fiscal 2026.
+Any impacts that may occur due to potential new tariffs are not included in our guidance.
+With all these factors in mind, our non-GAAP guidance for fiscal Q1 is as follows.
+We expect revenue to be a record $12.5 billion, ± $300 million, gross margin to be in the range of 51.5%,  ± 100 basis points, and operating expenses to be approximately $1.34 billion,  ± $20 million.
+Based on a share count of approximately 1.15 billion shares, we expect EPS to be a record $3.75 per share,  ± $0.15.
+I'll now turn it over to Sanjay to close.
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+Thank you, Mark.
+Fiscal 2025 was a year of many records for Micron, as we have highlighted today.
+We have strong momentum entering fiscal 2026 with a robust fiscal Q1 demand outlook led by data center and the most competitive position in our history.
+Over the coming years, we expect trillions of dollars to be invested in AI, and a significant portion will be spent on memory.
+As the only U.S.-based manufacturer of memory, Micron is uniquely positioned to benefit from the AI opportunity ahead.
+Thank you for joining us today.
+We will now open for questions.
+Operator
+Thank you.
+As a reminder, to ask a question, you will need to press star one one on your telephone.
+To remove yourself from the queue, you may press star one one again.
+Please limit yourself to one question and one follow-up to allow everyone the opportunity to participate.
+Please stand by while we compile the Q&A roster.
+Our first question comes from the line of Timothy Arcuri of UBS.
+Please go ahead, Timothy.
+Timothy Arcuri
+Managing Director, UBS
+Thanks a lot.
+Mark, I was wondering if you could help on the guidance a little bit.
+I know you don't want to get into too much detail, but of the $1.2 billion sequential revenue, can you help us how that splits out between DRAM and NAND?
+I guess any gross margin puts and takes you might have as well would be helpful.
+Mark Murphy
+CFO, Micron Technology
+Yeah, Tim, you were breaking up a bit at the end, but I believe I've got it.
+In the first quarter, we'll be heavier, heavier DRAM mix than the NAND and that growth.
+As you mentioned, we're not going to break out, you know, bits in ASP, but we are, you know, guiding up, you know, 580 basis points, sequentially.
+It is split across, you know, mix, pricing, and strong execution on our cost reductions.
+We're in a very constructive pricing environment.
+Supply is tight for DRAM and improving substantially in NAND.
+We've got, you know, we've got essentially strong demand and supply factors at work, as you heard in the script today.
+On the demand side, data center spend remains robust, projected to grow.
+Traditional server spend is improving and expected to grow.
+Refresh and inference workload, demand drivers, and then PC, smartphone, auto, all have increased content growth, and that's becoming clear.
+On the supply side, we'll get into that more in the Q&A here, but that is tight as well due to a number of factors that are structural.
+We're focused on our execution, and again, sequentially here, expect price, mix, and strong execution to drive that 580 basis point margin expansion.
+Timothy Arcuri
+Managing Director, UBS
+Thanks a lot, Mark.
+Sanjay, I guess you had previously guided us to like a $100 billion HBM TAM by 2028, but since you gave us that number, there's been some massive rumors getting out, some, you know, TAM numbers by NVIDIA and some, you know, some of the investments that are, you know, going on at OpenAI and whatnot.
+It's obvious that the compute table is much bigger than what I think you probably would have assumed at that time.
+Do you have an update to that number?
+I would assume it's bigger than that number, and maybe you can comment on sort of what you see next year.
+I know this year you saw like mid-30s.
+I'm thinking you can give us any like mild hope starting next year, and, you know, update for that, you know, $100 billion in 2028.
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+Tim, your connection is poor and you were breaking up a lot, but I think I got the gist of your question.
+What we had said before regarding longer-term HBM TAM, we had said that by 2030, we expect HBM TAM to reach $100 billion, and we had also said that HBM bit CAGR will grow faster than the DRAM CAGR.
+We see that in 2026 as well, in terms of bits in HBM will outgrow the overall DRAM bit.
+Of course, as we look ahead, the value proposition of HBM continues to increase.
+As we talked about, HBM now in 2026 is transitioning to HBM4.
+Micron, of course, is well-positioned. The market is starting to require even higher performances, and we today pointed out that Micron with HBM4 will have the highest performance product with over 11 Gb per second and, of course, highest power efficiency as well.
+The specs of HBM are becoming increasingly more demanding, which is exciting for us because we are very well positioned with these products.
+This just means the value proposition of HBM continues to grow.
+We definitely continue to see strong long-term growth and are very excited about all these various announcements of massive data center infrastructure spend.
+We have talked about trillions of dollars of spend over the next several years, and memory is very much at the heart of this AI revolution.
+This means a tremendous opportunity for memory and certainly a tremendous opportunity for HBM.
+We feel very good about HBM longer-term opportunities, good about HBM opportunities in 2026, and very good about Micron's positioning with our very strong product portfolio and strong execution track record and the trust that we have built with our customers in our ability to supply quality and meet our customers' volume requirements.
+Exciting times ahead, and we are, of course, continuing to work very closely with our customers.
+Timothy Arcuri
+Managing Director, UBS
+Thanks a lot.
+Operator
+Thank you.
+Our next question comes from the line of Vivek Arya at Bank of America.
+Please go ahead, Vivek.
+Vivek Arya
+Managing Director and Senior Analyst, Bank of America
+Thank you for taking my question.
+I'm curious, how do you see the transition from HBM3 to HBM4?
+When do you expect the crossover next year?
+I think as part of that, you mentioned that the pricing for HBM3E is settled for 2026.
+I'm curious, what is the direction of that pricing versus what you're getting now?
+Is it higher or lower?
+Do you expect your HBM3E share to stay the same or change next year?
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+With respect to HBM4, this is, of course, we will be at the forefront of this production ramp, very much aligned with customers' timing.
+As we have mentioned, we have the best product in the industry with highest performance over 11 gigabits per second, and we have sampled that product, as well as low power.
+Industry-leading product performance.
+We will be ramping it up in line with customer demands, of course, first production shipment in CQ2 of 2026 timeframe, and production will ramp during the course of 2026, second half of 2026, again in line with customer demand.
+Overall, in 2026 versus 2025, we see our share growing, product well-positioned.
+We are not commenting on the pricing of HBM3E.
+We have told you that HBM3E, we have pricing agreements completed with almost all customers for the vast majority of our HBM3E supply in 2026.
+We are in discussions regarding HBM4 with our customers.
+What I will tell you is that supply is tight.
+We expect a healthy demand-supply environment in 2026 for overall DRAM, and that bodes well for profitability of DRAM, profitability of HBM, and, of course, profitability of non-HBM as well, which is experiencing tight supply.
+Vivek Arya
+Managing Director and Senior Analyst, Bank of America
+Got it.
+For my follow-up, maybe, Mark, on the gross margin side, what is this conceptually?
+How do you think about the puts and takes of gross margins as you go through the rest of the year, this 51.5%?
+Is this kind of the baseline?
+As long as sales grow, can you expand off of this level?
+Related to that, when I look at your cloud data center business, gross margins 59%, operating margins 48%, how much more room is there to expand from those very strong levels right now?
+Thank you.
+Mark Murphy
+CFO, Micron Technology
+Yeah, Vivek, so we're not providing out-quarter guidance, but what we will say is that we believe or we expect gross margin to improve sequentially first to second quarter.
+It's on this tight DRAM supply, and the associated pricing, along with, you know, NAND business continuing to improve, and then just mix effects as we continue to steer bits towards high-value markets, and then our cost performance continues to be good.
+As I, as you know, mentioned in the prepared remarks, these supply-demand factors are, you know, we believe they're durable on the demand side.
+Data center spend continues to increase.
+I talked earlier about traditional server spend and then the edge and auto having increased content.
+On the supply side, you know, customer inventory levels are healthy.
+Our supply is lean.
+Our DRAM inventories are below target.
+NAND continues to improve.
+You know, we are, you know, we're working to be as efficient as we can in providing a supply response.
+You know, we're doing node transitions, but as the industry extends support for D4, that's constrained those node transitions.
+Finally, it just takes a long time and is expensive to add new clean room space.
+We all know the silicon intensity of HBM, creating the urgency for that capacity requirement.
+It's a good setup as we go into 2026.
+We, you know, delivered this strong guide on the first quarter gross margin, and we expect to see gross margins up in Q2.
+I also want to reiterate something Sanjay mentioned that we expect margins to be healthy in both HBM and non-HBM in 2026.
+I'll leave it at that on the out-quarter guidance.
+Vivek Arya
+Managing Director and Senior Analyst, Bank of America
+Thank you.
+Operator
+Thank you.
+Our next question comes from the line of CJ Muse of Cantor Fitzgerald.
+Your line is open, CJ.
+CJ Muse
+Senior Managing Director, Cantor Fitzgerald
+Yeah, good afternoon.
+Thank you for taking the question.
+I guess first question, it certainly feels like in the last month or two there's been an inflection in DRAM demand led by inference hyperscalers.
+Curious if you could kind of speak to what you have seen, the breadth of demand, and particularly the sustainability of that.
+Would love your thoughts.
+You've talked about tightness expected into fiscal 2026.
+Your thoughts into this, what is typically seasonally slower February quarter?
+Should we see kind of normal seasonality, or are the supply trends so limited that things can hold up much better than kind of normal seasonality?
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+Of course, we are not providing you FQ2 guidance at this point, but you know, certainly, the AI trends are strong.
+As you noted, not just in training, but inference as well.
+As the AI applications broaden, innovations increase, greater, different architectures, all of this is only continuing to broaden the demand vector for AI in the data center as well as on edge devices such as smartphones.
+In the data center, AI servers have driven strong demand, as we have all known, particularly with the increasing demand and increasing demand for all DRAM, not just HBM, but LPDRAM, high-density DRAM modules.
+We are also seeing traditional server demand, as we noted in our remarks, increase as well.
+This is really driving a strong growth trend overall for the industry.
+The demand vectors are broadening, as I noted, smartphones in particular.
+You have seen some recent launches of and shipments already starting of AI-enabled smartphones, which have higher content of DRAM in them versus the prior generation phones.
+PCs is another tailwind, AI PCs, and end-of-life for Windows 10.
+The AI PCs are a tailwind for DRAM content as well.
+Overall, AI trends are strong, and this is across data center, across AI-enabled smartphones and AI-enabled PCs.
+This is what leads to strong demand in 2026, across 2026.
+We have talked about tight supply as well.
+Mark just laid out the factors for tight supply, which we also discussed in our prepared remarks.
+Overall, we look forward to a healthy demand-supply environment in calendar year 2026 for us.
+CJ Muse
+Senior Managing Director, Cantor Fitzgerald
+Very helpful.
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+Customer inventories, customer as well as supplier inventories, are in good place.
+Supplier inventories are actually running lean.
+Micron DRAM supply is very tight.
+CJ Muse
+Senior Managing Director, Cantor Fitzgerald
+Thank you for that.
+As a quick follow-up on CapEx, Mark, it appears net CapEx implied $18 billion versus $13.8 billion last year.
+I think you talked about front-end equipment versus clean room space and DRAM.
+Is there a way to kind of partition how much, you know, on equipment versus clean room?
+Can you share with us what the implied gross CapEx is for fiscal 2026?
+Thanks so much.
+Mark Murphy
+CFO, Micron Technology
+Yeah, we've not laid out in detail.
+It's just that our spend in 2026 will be majority, vast majority will be for DRAM, and we've got construction and facilities related to that, some tools for node transitions and beginning to install for new greenfield.
+As it relates to, you're right that we guided, you know, a framework to be at around $18 billion, we will generally talk about CapEx in the context of net, which is gross CapEx offset by proceeds from government incentives.
+We're not going to talk about the gross and net for 2026, but you can see the components, you can back into the components here on what you've seen in the filings for the gross spend in 2025 and then the government incentives.
+We ended up at $13.8 billion net, and we were at $15.8 billion gross with $2 billion of government incentives in 2025.
+You'll see that going forward, and the government incentives in 2025 are largely the U.S., Singapore, and Japan.
+We can talk more about those in the future.
+CJ Muse
+Senior Managing Director, Cantor Fitzgerald
+Thank you.
+Operator
+Thank you.
+Our next question comes from the line of Harlan Sur of JPMorgan.
+Please go ahead, Harlan.
+Harlan Sur
+Executive Director and Equity Research, JPMorgan
+Yeah, good afternoon.
+Thanks for taking my question.
+Days of inventory are now at your target levels, as you had expected previously, and within that, DRAM is actually below your targets, right?
+Given the strong HBM3E, 12-high RAM, continued strong demand pull for non-AI DRAM, how are you guys thinking about your total and DRAM inventories exiting this quarter?
+Will days of inventory continue to come down?
+Just given the overall supply tightness, are your lead times extending and customers placing orders further in advance?
+Is this better visibility?
+What gives the team confidence on continued tightness into calendar 2026?
+Mark Murphy
+CFO, Micron Technology
+Yeah, Harlan, I'll cover that.
+We do expect inventories to remain at or better on DIO than we've seen in the fourth quarter.
+DRAM will remain very tight, as we talked about through the year, so we would expect to be, you know, below target.
+NAND, you know, we're being very disciplined around NAND, and that market continues to improve, so we would expect NAND DIO to decrease as well.
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+We work closely with our customers, and customers are fully understanding that the demand environment is strong and the supply is very tight, and the DRAM and supply outlook is tight.
+We work closely with the customers.
+I just want to point out that as we look ahead at our supply, we are looking at 1-gamma ramp to support our demand in non-HBM products.
+HBM products, we will support them with our 1-beta.
+We continue maintaining focus on maximum production efficiencies and leveraging the clean room space that is available to implement the technology transitions as well as drive maximum production efficiency.
+Harlan Sur
+Executive Director and Equity Research, JPMorgan
+No, I appreciate that.
+Thank you for the insights .
+Sanjay, as your customers continue to differentiate their GPU and XPU platforms, memory continues to be sort of that key focus area of differentiation.
+As you mentioned, some of your HBM4 customers are looking for as much as 25% more bandwidth versus the plain vanilla JEDEC standard. It looks like the Micron team delivered a solution that's 40% more performant than the JEDEC spec, right, and well exceeding your customers' requirements.
+Did the team have to redesign the base logic die to achieve these impressive results? I'm just wondering if the higher performance HBM4 SKU maybe pushed out customer calls or if the call schedules remained on track relative to your original plan.
+More importantly, even with the higher speeds, is your power consumption still superior to your competitive solutions?
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+Very good question, Harlan, and thank you for asking those questions.
+Very proud of our team's execution, proud of our team's design of our DRAM die and the advanced CMOS technology that is used in that DRAM die, as well as our base die, which has advanced CMOS as well. The combination of all of this, our innovative design, our memory architecture, our advanced CMOS in the DRAM, as well as advanced CMOS in the base die, and of course, that advanced CMOS base die is manufactured here by Micron, giving us a competitive advantage.
+All of this actually has enabled us to achieve customers' increasingly higher requirements, bandwidth at 2.8 gigabytes per second, and speeds at more than 11 gigabits per second as well.
+This has really positioned us well, getting ready for production ramp of our HBM4 product with these kinds of specs.
+As I said, with these kinds of specs, we'll be at the forefront of HBM shipment ramp, keeping it in line with customer demand.
+Harlan Sur
+Executive Director and Equity Research, JPMorgan
+Thank you.
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+I just want to be clear, I think I said for bandwidth 2.8 TB per second.
+I hope that came across clearly. 2.8 TB per second, speed 11 Gb per second.
+Operator
+Thank you.
+Our next question comes from the line of Krish Sankar of TD Cowen.
+Please go ahead, Krish.
+Krish Sankar
+Managing Director, TD Cowen
+Yeah, hi, thanks for taking my question.
+I had told them, Sanjay, you mentioned about getting sold out in HBM, hopefully in the next few months.
+Is there a way to quantify the supply opportunity in calendar 2026, assuming you're fully sold out?
+If the HBM demand is better than expected, can you increase supply in calendar 2026 if you're sold out in the next few months?
+I have a quick follow-up.
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+Yeah, we are not breaking down the supply volumes, et cetera.
+Yes, HBM3E, as we mentioned, pricing agreements are done with a vast majority of our HBM3E supply.
+Volume is also fixed for HBM3E with most customers.
+As our customers are finalizing their plans with HBM4, particularly plans with increased specifications and their own deployment of that in their next-generation platforms, we expect to be concluding our agreement on HBM4 supply, as well as all of 2026 HBM supply here in 2026, in the next few months.
+Really very pleased with our industry-leading HBM4 product specifications, absolutely outperforming the rest.
+We are well positioned with this.
+With respect to your question, we will, of course, manage the mix of our portfolio now that we have reached our HBM share in CQ3 to be in line with our industry DRAM share.
+We will manage, and non-HBM being healthy margins as well, we will now manage the mix of our portfolio, keeping in mind, of course, ROI on our portfolio, as well as staying disciplined with our total investments.
+As you can well understand, we have, of course, flexibility to opportunistically manage share here for HBM because at the front end, it uses the same one-beta wafer as some of the rest of our products as well.
+That gives us fungibility at the front end in terms of supply management and assembly and test.
+With the investments that we have made over the course of the last several quarters, we are well positioned with capacity in assembly and test as well.
+Our investments and our team's strong execution in ramping up capacity and giving us the total confidence gives us now the flexibility to manage the mix of the full portfolio between HBM and non-HBM, keeping ROI in mind, and staying disciplined here with our investments as well.
+Krish Sankar
+Managing Director, TD Cowen
+Got it.
+Thanks, Sanjay.
+Another quick question on HBM4.
+It was nice to see the 11 gigabits per second pin speed.
+You also said that you have the offering of both your in-house base die, also the customized TSMC logic die.
+Is there a way to figure out what do you expect that mix to be?
+Do you expect more customers to go with the in-house die or the TSMC die, and how easy is it for you from the Micron standpoint of switching between the two based on customer demand?
+Sanjay Mehrotra
+Chairman, President, and CEO, Micron Technology
+HBM4 is the product that is with our internal base die, and HBM4E is where we said in our remarks that, you know, we will be offering standard products as well as customized products.
+HBM4E is where we are partnering with TSMC.
+HBM4E is not in the industry.
+It's not a 2026 product.
+That will be, you know, 2027 kind of product.
+We'll share more details with you, and we will have both standard and customized products in HBM4E.
+HBM4 is using our own base die in the industry.
+HBM4 is what will be the product that will be ramping in production.
+As you mentioned, with the value proposition of HBM continuing to increase, and with HBM4E, that value proposition increases even further.
+We would certainly expect the customization to provide higher gross margins, as I indicated in my prepared remarks.
+Once again, I would like to point out that our HBM uses our own logic die.
+That means Micron's own CMOS, and that gives us unique advantages and, of course, has been a key contributor along with our DRAM design and DRAM architecture, as well as the CMOS that is embedded inside the DRAM.
+All of that gives us a unique advantage in terms of industry-leading performance.
+Operator
+Thank you.
+As that is all the time we have for Q&A today, that does conclude the Q&A portion of this call and today's conference call.
+Thank you for participating.
+You may now disconnect.
+Data Source:
+Quartr
+Last updated:
+Sep 23, 2025
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (9)
+Annual report
+Slides
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

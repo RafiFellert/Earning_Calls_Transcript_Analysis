@@ -1,0 +1,571 @@
+Micron Technology (MU) Q3 2026 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Micron Technology, Inc. (MU)
+NASDAQ: MU · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+823.03
+-51.63 (-5.90%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+812.50
+-10.53 (-1.28%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q3 2026
+Jun 24, 2026
+Full Transcript
+Full Summary
+Quarterly report
+Slides
+Earnings release
+Play Audio
+Download Transcript
+Full Transcript
+Full Summary
+Summary
+Record free cash flow and strong demand for DRAM, HBM, and NAND are driving multi-year customer commitments, with supply unable to meet demand through at least 2028. Capital returns remain a priority, and significant investments in capacity expansion are underway.
+Operator
+Ladies and gentlemen, thank you for joining us, and welcome to Micron's post earnings analyst call.
+After the speaker presentation, we will host a question- and- answer session.
+I will now hand the conference over to Satya Kumar, Corporate Vice President of Investor Relations and Treasury.
+Satya, please go ahead.
+Satya Kumar
+Corporate VP of Investor Relations and Treasury, Micron Technology
+Thank you.
+Welcome to Micron Technology's fiscal third quarter 2026 post earnings analyst call.
+On the call with me today are Sumit Sadana, Micron's Chief Business Officer; Manish Bhatia, EVP of Global Operations; and Mark Murphy, our CFO.
+As a reminder, the matters we're discussing today include forward-looking statements regarding market demand and supply, market trends and drivers, and our expected results and guidance, and other matters.
+These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from statements made today.
+We refer you to documents we have filed with [SEC], including our most recent Form 10-K and upcoming Form 10-Q, for a discussion of risks that may affect our results.
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future levels of activity, performance, and achievements.
+We are under no duty to update any of the forward-looking statements or to conform these statements to actual results.
+We can now open up the call for Q&A.
+Operator
+We will now begin the question -and- answer session.
+If you would like to ask a question, press star one to raise your hand.
+To withdraw your question, press star one again.
+Your first question comes from the line of Ben Reitzes of Melius Research.
+Your line is open.
+Please go ahead.
+Ben Reitzes
+Analyst, Melius Research
+Thanks a lot.
+It's great to be speaking with you.
+Mark, looking at the numbers here for the next quarter,  free cash flow is going to be somewhere around $30+ billion .
+I just want to make sure really the buy side and investors understand what you're saying here with regard to cash return.
+You're saying 100% will go back to shareholders.
+I assume the vast majority of that is in buyback.
+If you go from $30 billion in free cash flow and grow it, you could buy back 10% of the company next calendar year.
+Just basically, if we say that something close to this quarter is what you do next year.
+Are you prepared to do that and buy back at that level?
+I just want to have you react to the math and the commentary.
+At a $1.2 trillion market cap, that's where it is, 10% of the company.
+I just want to make sure that you can react to that.
+Thanks.
+Mark Murphy
+CFO, Micron Technology
+Sure, Ben, thanks for the question.
+We're really pleased with the financial trajectory of the business.
+The combination of memory being so important to so many markets, AI data center, the edge, enabling this or helping enable this technology revolution we have underway.
+When we've got between our technology products and manufacturing performance, we are delivering record cash flow numbers.
+The last two quarters, we've generated as much as the company's history.
+We expect, as you point out, that cash flow growth will increase in the fourth quarter.
+We've paid down quite a bit of debt over the past year, and  cash will build, and we will maintain levels of cash that we feel comfortable that we can invest through all seasons in the business.
+As you heard today, we feel good about the durability of the performance of the business, given the secular growth demand drivers, the need for more and higher performance memory, the structural supply challenges that we've talked about the last couple of years, node migration yielding less, HBM soaking up more wafers, and the need for greenfield for incremental wafer capacity.
+We have these Strategic Customer Agreements, which we announced today, a meaningful number of these, and we expect more.
+We will hold what we believe is appropriate excess cash. W e've always said that we intend to grow the dividend over time.
+You saw us do a 30% increase recently, but the principal capital return we have will be share repurchase.
+I said today in the prepared remarks that we intend to increase our capital return from December 9th, which is the second anniversary of our CHIPS agreement signature.
+The rate and pace from there will determine based on a number of factors.
+Absolutely committed to capital return.
+Ben Reitzes
+Analyst, Melius Research
+Thanks.
+Do you think I could sneak in one more?
+We're really pleased to see 40% and eventually 1/2 of your business on SCAs.
+I cover Apple, and they've never made a comment, basically, that they're willing to pay full price for a component and pass it through to customers ever publicly.
+To me, it was an advertisement that they are open for business, for full price DRAM, let's put it that way.
+Are you tempted to do a lot more in DRAM?
+Given these conditions, do we think that there's an appetite for maybe a higher mix than expected of DRAM, which obviously would then keep maybe some of the SCAs lower, but for very good reason?
+Thanks.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+When you say higher mix of DRAM, you mean versus what?
+Ben Reitzes
+Analyst, Melius Research
+Versus HBM, versus NAND, whatever you're making decisions around.
+Commodity DRAM to consumer would certainly not be on SCAs as much as a hyperscaler would, I would think.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Just a couple of thoughts around that.
+As you know, our mix in our business of DRAM versus NAND, DRAM inclusive of HBM, tends to be oscillating between the 80% DRAM: 20% NAND, to maybe 75% DRAM: 20% NAND, kind of is in that type range.
+We are pretty comfortable with that mix of DRAM versus NAND.
+We intend to obviously, focus on and service customers in both of those product categories.
+As it relates to HBM, we have made a strategic decision that we have also communicated over time that our goal is to have our HBM share consistent over time with our DRAM share.
+Our intention is that we support our customers on HBM and also support our customers on the non-HBM portion of the DRAM business across all market segments.
+We definitely believe in the strength of diversity.
+If you look at the AEBU business and the MCBU business, both of which are non-data center businesses in our business unit structure, that's almost at 40% of our company revenue.
+We like that diversity, and we continue to focus on ensuring that we are servicing customers and their demand, and supporting their growth, across all of the market segments, including non-HBM DRAM, HBM, as well as NAND.
+Ben Reitzes
+Analyst, Melius Research
+Got it.
+Thanks a lot.
+Great quarter.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Thank you.
+Operator
+If you would like to ask a question, please press star one to raise your hand.
+To withdraw your question, press star one again.
+Please limit yourself to one question and one follow-up.
+Your next question comes from the line of Harlan Sur with JP Morgan.
+Your line is open.
+Please go ahead.
+Harlan Sur
+Analyst, JPMorgan
+Good afternoon.
+Thanks for hosting this call back.
+I think it was September of last year when the Micron team said that they were booked out through calendar 2026 on HBM3, HBM3E.
+Obviously, at that time, the team was still in qual and eval on HBM4.
+If you fast-forward to now, and with a stronger, especially XPU ASIC demand profile, is the team already booked up volume and pricing for HBM3E and HBM4 for calendar 2027?
+Obviously, understand you still need to go through qual on HBM4E.
+Are you booked up on current gen HBM3E and  HBM4 for calendar 2027?
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Hi, Harlan.
+The demand that we have for our HBM products - HBM3E, HBM4 and of course, even ahead of the HBM4E quals - the asks from our customers for volume, not just in 2027— but as you know, due to these SCA agreements, one huge advantage of these SCA agreements is we have been discussing these demand requests from customers for multiyear time horizon.
+If we look at this multiyear time horizon, even going beyond 2027, into 2028, et cetera, we are able to get very high confidence demand from our customers that is far in excess of our ability to support using our supply.
+The demand continues to be well above our supply.
+Even when we do these SCAs for multiple years, these SCAs contain volumes that are less than customers would actually like to sign up for.
+In fact, in a lot of these negotiations, we spend a lot of time helping customers understand that this is all we can do in this timeframe.
+Absolutely, our demand for HBM, not just in 2027, but even 2028, is well above our ability to supply across all the different HBM flavors.
+Harlan Sur
+Analyst, JPMorgan
+Right.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+The same thing is also true, by the way, for non-HBM DRAM, as well.
+It's in the same category.
+Mark Murphy
+CFO, Micron Technology
+Harlan, it's Mark.
+Harlan Sur
+Analyst, JPMorgan
+Hi.
+Mark Murphy
+CFO, Micron Technology
+Maybe just something to add while we're on HBM.
+Today, we indicated that we expected market tightness to continue beyond 2027.
+Part of that reason is we did see the HBM TAM increase.
+We saw that.
+We had said previously that it would cross $100 billion in 2028.
+We see that now, the HBM TAM easily crossing $100 billion in 2027.
+Harlan Sur
+Analyst, JPMorgan
+That's great color.
+T hank you for that.
+The other thing I wanted to ask is, it's actually been over a year since the team has given us an update on your midterm to long-term view on industry DRAM and NAND bit demand growth.
+Obviously, much has changed over the past 12 months.
+Inferencing workloads have crossed over training workloads, inferencing workloads themselves continue to evolve and become more complex.
+On the server CPU side, the CPU customers are now forecasting 30%-40% per year CAGRs given agentics like higher CPU intensity.
+I'm sure the mid to long-term bit demand CAGR is also sort of guiding the discussions on these multiyear SCAs.
+Could you guys just give us an update on your midterm views on DRAM and NAND bit demand CAGRs over the next call it few years?
+Sumit Sadana
+Chief Business Officer, Micron Technology
+That's a good question.
+We have provided some updates to you on how we see 2026 bit demand forecasts change versus what we had provided earlier, with DRAM forecasts up a little bit, NAND relatively similar.
+The reason we are not really providing a lot of forward-looking views on the CAGRs is because for the foreseeable future, the shipment growth for bits is not really determined by demand anymore.
+It's actually more determined by the supply.
+The demand is so much above the industry's ability to supply, that the supply growth, in fact, is going to determine how the shipping growth occurs, far less so the demand growth because of this relative position with the supply.
+Because of that, we are trying to point out what kind of growth trajectory we believe.
+We give you some kind of data points here and there around how we think this year's supply growth or demand growth is going to be next year.
+We are not providing sort of an outlook too much further down because how the supply conditions change, we are continuing to constantly evaluate, but our expectation is that the supply growth will continue to remain short of what is needed to meet the demand.
+We don't really see when the supply is going to be able to meet demand.
+That is not something we are able to project at this time.
+Harlan Sur
+Analyst, JPMorgan
+Got it.
+T hank you.
+Operator
+Your next question comes from the line of Tom O'Malley with Barclays.
+Your line is open.
+Please go ahead.
+Tom O'Malley
+Analyst, Barclays
+I just wanted to go back to the long-term agreements that you were signing. I s there any way to kind of walk us through what happens if a customer was to cancel the agreement?
+What financial hooks do you have in it?
+Do you get to keep all the cash from the agreement?
+Just any color that you can add there would be helpful.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Sure.
+I'll start by saying that these Strategic Customer Agreements or SCAs cannot be canceled.
+There is no provision in this agreement to enable a customer or allow a customer to walk away from this agreement.
+These are designed to be take-or- pay agreements.
+Outside of automotive, generally, these are five-year agreements.
+There are annual volume commitments for each of those years, and the  take-or- pay means that whether they want to purchase the bits or not, they are obligated to pay for the price times the volume.
+The price itself for a lot of these large agreements has a price band.
+There is a price ceiling and a price floor.
+The price gets negotiated every quarter based on market conditions.
+The price cannot exceed the ceiling no matter what, cannot go below the floor no matter what.
+Consequently, the value of these agreements can be readily determined.
+There are also premiums in the agreement for products that may be more sophisticated, higher performance, higher capacities, newer products like, for example, when we do LPDDR6 versus LPDDR5 or DDR6 versus DDR5 or a new version of HBM, then there are provisions for those products to be priced differently at a premium to the existing products.
+We have all of those provisions. T he one provision that doesn't exist is any customer's ability to walk away from these agreements.
+Beyond the take-or-pay related obligations that exist in these agreements and its financial obligations that are price times volume, there is also this upfront cash deposit that these agreements entail where customers have provided, in the form of upfront cash deposit and related financial commitments, like a letter of credit, for example, for a minority of the total, that even for the agreements we have already signed, these 16 agreements aggregates to $22+ billion  in terms of total cash and related financial commitments, of which the cash alone is almost $18 billion.
+You can imagine that when we get to our target numbers of agreements, which will go from the roughly 20% DRAM bits, roughly 1/3 of NAND bits, all the way to roughly accounting for 1/2 of the company's revenue, which is what we are likely to end up at, or somewhat more.
+You can imagine that the cash associated with all of those will significantly increase from the current $22 billion number.
+That cash is our customers' commitment to this new business model.
+That's how the structure of these agreements are.
+Tom O'Malley
+Analyst, Barclays
+Thank you.
+That's helpful.
+Just for my follow-up question.  I wanted to clarify on the cash deposits.
+It was my understanding that towards the end of the agreement, you end up returning those back to the customers.
+The general question is, any strategic rationale for receiving those upfront and being able to use that at will, like any plans with that cash, and just any way to think through why it ends up getting returned back to customers instead of just being recognized as part of the revenue that you end up selling them in the agreement?
+Thank you.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Our customers are going to, as per the terms of the agreement,  be purchasing the volumes over the years.
+The cash is sort of a contingency, and a show of good faith and confidence in this new business model from our customers.
+Meaning in the unlikely event that a customer is unable to purchase or does not purchase the volume at the price as determined by the terms of the agreement, then we do have the right to be able to decrement the cash balance that ultimately will get returned to them as one available remedy, but not the only available remedy.
+None of this ultimately relieves the customers of the liability of having to purchase the volumes over the term of the agreement at the agreed-upon prices.
+The cash is just one of the elements of the overall transaction.
+The cash doesn't get returned all in one shot at the end of the term.
+It gets returned over a period of time with the return of the cash weighted towards the second half of the term of the agreement.
+Tom O'Malley
+Analyst, Barclays
+Thank you.
+Operator
+Your next question comes from the line of Melissa Weathers of Deutsche Bank.
+Your line is open.
+Please go ahead.
+Melissa Weathers
+Analyst, Deutsche Bank
+Hi there.
+Thank you for taking my questions.
+I wanted to ask on the non-HBM side of DRAM within the data center.
+You guys have talked a lot about SOCAMM and using low-power DRAM for data center applications, and especially as we see the mix of server CPUs increase with agentic AI.
+I was hoping you could give an update on how you guys are seeing the growth in demand for SOCAMM attach and what kind of trends are you seeing in adoption there.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Sure, Melissa.
+Agentic AI, as you noted, drives a lot of growth in CPU demand and CPU-based servers.
+That is certainly a trend that we are seeing.
+These CPU-based servers are coming from multiple different suppliers.
+You're seeing a lot of companies announce products targeted towards the data center for CPUs.
+You have x86-based CPUs.
+You have CPUs from NVIDIA.
+Qualcomm announced a CPU.
+There's lots of different possibilities for types of CPUs that could be used in the data center over time to drive the use of agentic AI.
+We have CPUs that use DDR5, as well as plans from our customers to increase the use of LPDRAM in the data center.
+When LPDRAM gets used, it will be in the SOCAMM form factor.
+As you know, Micron has been a pioneer.
+We were first in the industry to not just drive the usage of LPDRAM, we were, for the longest time, sole sourced on LPDRAM in the data center.
+We were also the pioneers in bringing out new products, first to market with the  SOCAMM form factor.
+We continue to expect that this is going to be an area of differentiation for us with our customers and be a recognized leader in this space.
+We have market leadership in all of these products.
+We have really strong engagement with customers who intend to use LPDRAM as a way of reducing the power consumption, increasing the performance, and even reducing the footprint of some memory.
+Certainly these SOCAMM s help do all of that.
+There are RAS-related complications - reliability, availability, and serviceability-related complications - that have to be worked through for LPDRAM, because LPDRAM was not really designed for data centers. T hat's where we are bringing in differentiation and helping our customers deal with that.
+We expect LPDRAM to grow over time as a percent of consumption of DRAM in the data center, we expect to be leaders in that front.
+Melissa Weathers
+Analyst, Deutsche Bank
+Thank you.
+Maybe one for, I don't know if it's Manish or Mark, but as we think about Idaho One, Tongluo, Idaho Two, as we think about these greenfield fabs starting to have wafer outs in next year and the year after that, can you remind us how should we think about the impact of startup costs or just the incremental impact on cost per bit that we should be flowing through as those greenfield fabs come online?
+Manish Bhatia
+EVP of Global Operations, Micron Technology
+I'll let Mark handle the technical question on the startup cost accounting.
+We did say, Melissa, on this call that, given the industry-wide trend towards higher performance solutions such as HBM and even within the HBM category, higher trade ratio is expected in the future with HBM— which obviously requires more silicon per bit versus traditional DRAM— as well as with greenfield build-out, which doesn't get the same leverage on existing capacity as our traditional technology transition models for the industry have.
+Both of these trends to higher performance— as well as greenfield investments that take time to ramp scale and are not as efficient— both of these are going to be trends that we expect will actually increase DRAM bit costs here in the near term.
+That was one thing that we did have in the prepared remarks.
+That goes for Idaho One, for Tongluo, for Idaho Two.
+Those are all elements of that greenfield build-out, and that's something that we expect will be an industry-wide phenomenon.
+Mark, you can comment.
+I think you've given some commentary before in terms of timing of the startup costs for facilities and how they'll impact the P&L.
+Mark Murphy
+CFO, Micron Technology
+Melissa, as Manish mentioned, there are a number of factors that will bias the costs up in DRAM over time here.
+T he trade ratios, as he mentioned, for HBM and actually LP, the greenfield facilities.
+To your question on startup, we've talked about this before.
+We begin to see startup costs more meaningfully begin here in the fourth quarter and then into the first half of next year.
+You'll see 2027 at elevated levels, think about $100 million, $200 million per quarter effect versus what we had seen at previous run rates.
+What that will be over time will just be a function, the various ramp profiles of fabs.
+As you point out, Tongluo and Idaho One are the first to go here.
+We provided more color on this, I think it was maybe at the end of maybe 2024, beginning of 2025, because it was a more material effect to the business at that time.
+I think I had said at the time, maybe 0.5 point- 1+ point of margin effect.
+Today, with the size of the business, this effect is much reduced from before.
+Obviously, the faster we can get capacity on, which we're obviously trying to do for our customers to get much needed supply.
+The benefit of that incremental bits is going to outweigh this incremental associated cost at startup.
+Melissa Weathers
+Analyst, Deutsche Bank
+Thank you, guys.
+Operator
+Your next question comes from the line of Vijay Rakesh with Mizuho.
+Your line is open.
+Please go ahead.
+Vijay Rakesh
+Analyst, Mizuho
+Thanks for doing this call back.
+Sumit, Manish, and Mark, on the 16 SCAs that you announced, the four large customers, does it include any HBM?
+Do they include some of the major CSPs within that, or can you give us some more color?
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Sure.
+The SCAs that we have signed already do include some hyperscalers, where the purchasing for those hyperscalers requires HBM, that is part of the overall agreement.
+Vijay Rakesh
+Analyst, Mizuho
+Got it.
+Then, just a quick follow-up on the $20 billion deposit.
+Is the intention that you hold it for the five-year contract period or as the customers buy the product, it's prorated and runs through it?
+If you could just clarify that.
+Thanks.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+I mean, it's not a prorated type of a thing.
+It is a customer cash deposit, it's not a prepaid revenue or things like that.
+It gets returned to customers on a predefined schedule that has been agreed to, that X amount will be returned in Y quarter over time.
+It is back-end loaded, in terms of the second half of the agreement term is when the bulk of the return of the customer deposit occurs.
+Of course, the cash would be returned, assuming it hasn't been decremented for reasons determined by the terms of the [agreement].
+Vijay Rakesh
+Analyst, Mizuho
+Got it.
+Thank you.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Thank you.
+Operator
+Your next question comes from the line of Jim Schneider with Goldman Sachs.
+Your line is open.
+Please go ahead.
+Jim Schneider
+Analyst, Goldman Sachs
+Thanks for taking my question.
+Just stepping back for a moment, as you've had discussions with your customers about their forecast demand needs, let's say through the end of fiscal 2028 or the end of calendar 2028, where do you think you will end up in terms of the percentage of the forecasted demand that they have in terms of your ability to supply?
+I mean, is it something that's going to be 70%, 90%?
+I guess, how do you expect that to close over time?
+Clearly, there is a gap between your ability to build facilities and where the demand is, but maybe give us a sense at a point in time what percentage that represents.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+I mean, there isn't a homogeneous percentage number that we can provide because our strategy is different for each segment of the market.
+Of course, we try to be very diversified, and we are very committed to supporting each of the segments of the market.
+As you can imagine, if the automotive industry can only do 50% or 70% of the units, then that would be a catastrophic problem for that portion of the market.
+We can't have a one-size-fits-all kind of an approach.
+There are a number of complex factors that go into the assessment of what kind of fulfillment rate would be appropriate for what kind of customer in what kind of segment, in what kind of geography.
+There are lots of different factors that play into that.
+With that said, I would say that the general sentiment amongst customers is that we are very short of their demand.
+For some customers, we are extremely short.
+Some of our supply numbers are a fraction of what they want.
+Then in other parts of the market, albeit smaller parts of the market that are super important sectors of the economy, like automotive and some critical parts like defense, aerospace, some important industrial markets, including medical equipment and so on.
+Obviously, we try to do our best to minimize the impact.
+I'm not saying that those customers get everything they want, but at least we try to minimize the impact that they are going through in this very challenging environment of tightness.
+Broadly speaking, the overall aggregate supply is substantially below the aggregate demand for both DRAM and NAND.
+Of course, DRAM is extremely constrained.
+HBM is very constrained.
+All the segments are seeing those challenges.
+Mark Murphy
+CFO, Micron Technology
+Jim, it's Mark.
+If I could just add in this to build on Sumit's comments about supply efforts.
+As you heard, and you heard Manish talk about Idaho site and Tongluo, we're doing everything we can to bring up supply.
+You heard us today, between adding construction and tool installs in the fourth quarter here, we're increasing our fiscal 2026 CapEx number to around $27 billion.
+We're also going to increase substantially CapEx next year, and more than 1/2 of that increase will be construction.
+Now, we did provide some comments last quarter about the increase FY 2027.
+Based on our comments, you may have come up with numbers that are in the low to mid-40%, and we will be spending above that level as we look at it today.
+We'll do about $10 billion this quarter, and we will step up from there into 2027.
+Jim Schneider
+Analyst, Goldman Sachs
+Thanks.
+That was exactly where my next question was, which is, given that run rate sort of implies mid-40%, you said you're going to do above that, but I guess what are the chances you're going to do materially above 50%?
+Is something like 55% or 60% even in the cards?
+Mark Murphy
+CFO, Micron Technology
+No.
+We're not going to give a CapEx number.
+If the number were that order of magnitude, I think we'd owe it to you to update you more specifically.
+We're going to run about $10 billion this quarter.
+We'll step up from there.
+We are going to be, I believe, higher than the mid-40%.
+We're going to remain extremely disciplined as we always are.
+The ops team's been amazing on figuring out how to sweat these assets that we have as much as possible and then accelerating all these greenfield capacity adds that we have.
+Manish Bhatia
+EVP of Global Operations, Micron Technology
+Manish here.
+We've mentioned a couple of times that the majority of the fiscal 2027 CapEx, Jim, is for construction, which kind of also gives you some indication of those construction dollars are not going to be producing bits in that time horizon, which is why we also talked about for us in the industry, the kind of greenfield capacity really starts to contribute to bits in calendar 2028.
+Even with that supply improvement, we don't see, as Sumit was saying earlier, an intercept for supply with demand.
+Jim Schneider
+Analyst, Goldman Sachs
+Very helpful call.
+Thank you all.
+Operator
+Your final question comes from the line of Aaron Rakers of Wells Fargo.
+Your line is open.
+Please go ahead.
+Aaron Rakers
+Analyst, Wells Fargo
+Thanks for doing this call and taking the questions.
+I have one and one follow-up as well.
+On the SCAs, I know it was asked about HBM, but I'm curious about the NAND flash market.
+Obviously, that market seems to be further constrained.
+As you're engaging with your customers on these SCAs, is there a strategic advantage you're finding of having both NAND and DRAM in your portfolio competitively in these engagements?
+Is NAND pervasive across these SCAs or any context around that, particularly as it relates to enterprise SSDs?
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Sure.  Our enterprise SSD momentum is exceptionally strong, and we provided you some data points on that with a $5 billion quarter in FQ3 for enterprise SSDs inside of the $25 billion overall data centers revenue for the quarter.
+Absolutely, we do feel really good about the fact that we have incredibly strong portfolio of products, both on the NAND and DRAM side.
+They, of course, stand on their own feet individually in terms of their capabilities.
+We have hit record share after record share of data center SSDs over time due to the strength of that portfolio.
+You know the strength of our DRAM portfolio, both in terms of HBM and non-HBM products.
+In terms of the levels of constraint, both DRAM and NAND are very constrained.
+Of course, when we talk to customers across this long horizon of time through the end of 2030 calendar year, which is the term of a lot of these large SCAs.
+They are definitely interested in getting their hands on NAND, but DRAM is certainly far more constrained, and more difficult to supply in the quantities and volumes that our customers need.
+Like I said, NAND is very constrained too, but the sense of concern and urgency in the minds of our customers around DRAM is very, very high.
+Aaron Rakers
+Analyst, Wells Fargo
+Very helpful.
+My final question on the competitive landscape, always trying to think about what vector could change some of the dynamics and the backdrop that we're talking very constructively about.
+I'm curious how you've evolved your thoughts around China and the competition from either be it CXMT or YMTC.
+Have you seen any changes on that front or anything you want to share, how you view the competitive landscape from that regard?
+Thank you.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Sure.
+Certainly those two companies have grown over the years in terms of their capabilities and share.
+Most of their output, the overwhelming majority of their output tends to be sold within China.
+We haven't really seen much by way of their product or competition from them outside of China.
+With that said, we are very focused from a competitive perspective in driving really the highest performing, most complex products in the portfolio.
+When you look at NAND, we are focused on data center SSDs in a very single-minded way.
+You have seen us also do really well on QLC across client SSDs, but also in data center SSDs.
+We are the QLC leader in the world.
+We are leaders in Gen 6, first company to come out with Gen 6 drives and we advanced them in volume.
+When you look at that or you look at the highest capacity, 245 TB drives, we are a leader there.
+You have seen the strength of our DRAM portfolio as well, everything from HBM to high capacity DIMMs, to LPDRAM leadership in the data center, to mobile and client LP leadership in those markets as well.
+We could go on and on on that, but our focus is to look for these complex, difficult to get right type of products, get into deep customer engagements across multiple years, on the roadmap, gain their confidence in terms of being able to have a track record of meeting and beating time to market with the best specs in the industry, have a track record of innovation.
+You've seen how many nodes in a row of DRAM and NAND we have been first to market on, how many products are first to market across the board.
+Of course, I would be remiss to not mention that we have one of the best intellectual property portfolios in the world, almost 65,000 patents.
+We are very aggressive and have a great track record in defending our IP, over a number of years, a number of decades, in fact.
+Overall, we feel very good about where we are and the structural foundational changes in our business model that the combination of demand, the combination of structural supply challenges in the industry, and the place that AI is creating for memory and its newfound relevance and importance and strategic nature, and now combined with these SCAs are completely transformative for our business.
+Aaron Rakers
+Analyst, Wells Fargo
+Thank you.
+Sumit Sadana
+Chief Business Officer, Micron Technology
+Thank you.
+Operator
+This concludes today's call.
+Thank you for attending.
+You may now disconnect.
+Data Source:
+Quartr
+Last updated:
+Jun 24, 2026
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (12)
+Quarterly report
+Slides
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
