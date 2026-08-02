@@ -1,0 +1,726 @@
+PayPal Holdings (PYPL) Q1 2021 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+PayPal Holdings, Inc. (PYPL)
+NASDAQ: PYPL · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+57.21
+-0.44 (-0.76%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+57.13
+-0.08 (-0.14%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q1 2021
+May 5, 2021
+Quarterly report
+Slides
+Earnings release
+Play Audio
+Download Transcript
+Operator
+Relations, please go ahead.
+Gabrielle Rabinovitch
+SVP of Corporate Finance and Investor Relations, PayPal
+Thank you, Gabrielle.
+Good afternoon, thank you for joining us.
+Welcome to PayPal's Earnings Conference Call for the First Quarter 2021.
+Joining me today on the call are Dan Schulman, our President and CEO, and John Rainey, our Chief Financial Officer and EVP, Global Customer Operations.
+We're providing a slide presentation to accompany our commentary.
+This conference call is also being webcast, both the presentation and call are available on the investor relations section of our website.
+In discussing our company's performance, we will refer to some non-GAAP measures.
+You can find the reconciliation of these non-GAAP measures to the most directly comparable GAAP measures in the presentation accompanying this conference call.
+Management will make forward-looking statements that are based on our current expectations, forecasts, and assumptions, involve risks and uncertainties.
+These statements include our guidance for the second quarter and full year 2021.
+Our actual results may differ materially from these statements.
+You can find more information about risks, uncertainties, and other factors that could affect our results in our most recent annual report on Form 10-K and quarterly reports on Form 10-Q filed with the SEC and available on the investor relations section of our website.
+You should not place undue reliance on any forward-looking statements.
+All information in this presentation is as of today's date, May 5, 2021.
+We expressly disclaim any obligation to update this information.
+With that, let me turn the call over to Dan.
+Dan Schulman
+President and CEO, PayPal
+Thanks, Gabrielle. And thanks everyone for joining us today.
+I'm pleased to say that on the heels of the strongest year in PayPal's history, we just completed our strongest quarter ever with record financial and operating results.
+Customers across the world have clearly embraced the digital economy, and PayPal has become an essential platform for both consumers and merchants.
+Consequently, I'm pleased to share that we are raising our annual targets for revenue, EPS, TPV, and Net New Active Accounts.
+As much of the world begins to shift its attention towards a post-pandemic recovery, we continue to see strong demand for a comprehensive set of services from both our merchants and consumers.
+Over the coming year, we will accelerate our customers' digital engagement through the rapid innovation of our digital wallet and merchant commerce platform.
+Our addressable market continues to significantly expand, driven by accelerating secular trends and the proactive steps we are taking to become a full commerce and payments platform.
+We believe that the shift in consumer digital behavior will remain essentially unchanged in a post-COVID-19 world.
+Consumers have expanded their digital lives into a seamless online and offline experience.
+Our products are an essential enabler of the digital economy, and our mission to shape a future where everyone can participate fully in this new digital paradigm has never been more important.
+Our Q1 trends are strong across the board and were further accelerated by favorable comps from a year ago.
+Our TPV grew by 50% on a spot basis, or 46% on an FXN basis to $285 billion. eBay now represents 5.5% of our volume, and we expect their TPV to be approximately 3% of total volumes by year-end.
+Excluding eBay, our MS volumes grew by an all-time high of 54% on a spot basis and 50% on an FXN basis.
+Our transactions in the quarter were approximately 4.4 billion, growing 34% year-over-year.
+We added 14.5 million Net New Active Accounts, ending the quarter with 392 million active accounts, up 21% year-over-year.
+We added 1.4 million new merchants in the quarter, continuing the heightened pace from prior quarters.
+We now have 31 million merchant accounts on our platform.
+By the end of Q2, we expect to exceed 400 million active accounts.
+For the year, we now believe our NNAs will be between 52 million-55 million, up from our previous expectations of approximately 50 million last quarter.
+I'm particularly pleased to see our transactions per active account begin to accelerate due to increased engagement across our portfolio.
+Normalizing for Honey, our Q1 TPA grew by 8.3% year-over-year to 44.1.
+We generated $6.033 billion of revenue in Q1, growing a record 31% spot and 29% on an FXN basis. eBay revenues declined 12%.
+We expect they will substantially complete their migration to Managed Payments by year-end.
+On the back of this strong revenue growth, we delivered non-GAAP EPS in Q1 of $1.22, up 84%.
+Venmo continued its strong performance in Q1 with $51.4 billion in TPV, up 63% year-over-year.
+We recently launched the ability for Venmo customers to buy, sell and hold cryptocurrencies.
+We are heavily investing in Venmo's commerce capabilities, which include rapidly upgrading the Pay with Venmo customer experience with initial rollout beginning this quarter.
+The Venmo Credit Card is outpacing our expectations for both new accounts and transactions.
+We're also making it easier for small businesses and casual sellers to accept Venmo payments.
+We now have over 300,000 small business profiles currently established, including 200,000 in Q1 alone.
+Our Venmo commerce TPV and revenue growth continue to accelerate, and we remain confident in our $900 million revenue target.
+We expect to roll out our next generation digital wallet in Q3.
+It will be an all-in-one personalized app that will empower our users to make the most of their money and strengthen their financial lives every day.
+We will provide increasingly customized and unique shopping, financial services, and payments experiences for our customers.
+Consumers are turning to brands that they trust when it comes to choosing a super app.
+That clearly plays into our strength, as a recent external survey of over 300,000 consumers across the globe selected PayPal as the second most trusted brand in the world.
+Merchants continue to turn to PayPal in record numbers as we are now an essential platform to enable their transition into the digital economy.
+Small businesses who used PayPal during the peak of the pandemic saw their overall revenues grow by 25%, versus a - 9% for all other small businesses in the same time period.
+Small businesses who used PayPal last year drove 75% of their online sales from outside their local neighborhood, clearly expanding their addressable market. 65% of small businesses in the U.S. who use PayPal have cross-border sales, versus less than 5% of all other small businesses.
+Across the shopping journey, merchants who use PayPal see a substantial lift.
+According to market research reported by Nielsen, merchants with PayPal experience 17% more repeat buyers.
+Their checkout completion goes up by 34%, and PayPal consumers spend an average of 12% more at PayPal merchants.
+Finally, PayPal consumers are loyal to PayPal merchants, buying 11% more often when PayPal is accepted.
+These are powerful facts that support our brand promise to retailers as we add more and more capabilities to our platform.
+For instance, our buy now, pay later product continues to move from strength to strength.
+In the short time from our launch, we've processed over $1 billion in TPV in the U.S. alone.
+Early results continue to show a significant 15% engagement lift in transactions and TPV.
+In addition, nearly 30,000 merchants have implemented our buy now, pay later capabilities upstream on their product pages with a corresponding lift in our overall share of checkout.
+Demand for our PayPal and Venmo QR codes and in-store payments remains strong, with an additional merchant signing up every 28 seconds.
+We now have nearly 1 million merchants accepting our QR codes with continued momentum across our large enterprise merchants.
+Our early adopters of QRC are spending 19% more TPV on the PayPal platform.
+Our overall in-store efforts across QR and cards equaled $6.4 billion in Q1.
+As I discussed during our Investor Day, we believe the current technological underpinnings of our financial system will be substantially upgraded over the coming years.
+Both cryptocurrencies and central bank-issued digital currencies can play a critical role in shaping a more inclusive recovery and a more equitable financial system. Our leadership in all forms of digital currency has been widely embraced, enabling numerous positive conversations with central banks, regulators, and government officials around the world.
+I'm also pleased to share that we closed our Curv acquisition last month, and Curv's talented team will bolster our existing technology resources and accelerate our efforts to shape a new financial infrastructure that is efficient, low cost, and inclusive.
+We have an extensive roadmap ahead of us, and our innovation will be pursued in partnership with governments and in compliance with local, national, and global regulatory frameworks.
+The expiration of our operating agreement with eBay has enabled us to launch an extensive partnership with Alibaba.
+This global agreement will enable hundreds of millions of consumers outside of China to shop across Alibaba sites in China.
+PayPal is now available as a payment method on Alibaba's wholesale marketplace, as well as AliExpress, its global retail marketplace.
+We are excited at the pace of our current ramp and the ultimate potential of this new partnership.
+Additionally, our commercial agreement with Flutterwave enables businesses across Africa to have significantly more access to PayPal consumers in order to receive and make payments online.
+In this quarter, we also collaborated with Telr in the Middle East, allowing merchants in the UAE to accept PayPal for customers shopping online.
+These efforts serve to significantly broaden our reach and tap into rapidly growing marketplaces across the globe.
+We clearly have a lot of momentum as we exit Q1.
+We will continue to accelerate new product innovation throughout the year.
+Our increased expectations for 2021 reflect our conviction that we will continue to grow, share, and increase our addressable market by capitalizing on the accelerating shift to digital.
+I'd like to thank our employees who continue to work tirelessly on behalf of our customers.
+Their hard work drives our market leadership and positions us to continue to deliver value for all of our stakeholders.
+With that, let me turn the call over to John.
+John Rainey
+CFO and EVP of Global Customer Operations, PayPal
+Thanks, Dan.
+I want to start by thanking our customers, partners, and employees for helping us deliver an outstanding quarter.
+We recently marked one year into the COVID-19 pandemic.
+Notwithstanding the challenges that our teams have faced, our focus on execution and culture of collaboration are allowing us to deliver very strong results.
+We're off to a great start to the year.
+In Q1, we outperformed on both revenue and earnings and built on our operational and financial momentum exiting 2020.
+In looking at our results for the quarter, the year-over-year growth rates benefit from the comparison to a softer March last year, when we absorbed the most meaningful negative COVID impact.
+That said, our business is growing at structurally faster rates than pre-pandemic.
+As a result, we're raising our guidance for this year.
+Before discussing our updated outlook, I'd like to highlight our Q1 results.
+Total payment volume grew 50% at spot and 46% on a currency neutral basis.
+This is the strongest quarterly growth we've ever reported.
+Our Q1 TPV grew at a two-year compound annual growth rate of 33%, accelerating from 30% in Q4 and reflecting our strong momentum and user growth.
+Notably, while we typically experience a sequential decline in volumes from Q4 to Q1, this year our volume grew 3% quarter-over-quarter.
+Versus the first quarter last year, Merchant Services volume grew 50% currency neutral, and volume contributed by eBay marketplaces declined 3% on the same basis.
+In Q1, eBay represented 5.5% of our volume, down 53 basis points sequentially and down 260 basis points from Q1 last year.
+Revenue increased a record 31% on spot basis and 29% currency neutral to $6 billion.
+Transaction revenue grew 33% to $5.6 billion, representing 20 points of acceleration from last year on a spot basis and eight points of acceleration sequentially.
+Strong performance across core PayPal, Braintree, and Venmo drove these results.
+Excluding eBay, transaction revenue grew 42%, indicative of the ongoing strength of our diversified two-sided platform.
+Other value-added services revenue grew 2% on a spot basis and 1% currency neutral to $412 million.
+These results were driven by strengthening credit performance, which was partially offset by lower interest income on customer balances.
+In the first quarter, transaction take rate was 1.97%, and total take rate was 2.11%.
+Nearly 1/3 of the 24 basis points decline in transaction take rate resulted from the mix effect of eBay. A reduction of $101 million in international transaction revenue from foreign currency hedges, growth in bill payment volumes, and accelerating Venmo volumes also contributed to this decline.
+The 31 basis point decline in total take rate resulted from these factors, as well as lower growth in other value-added services revenue.
+Volume-based expense performance was the strongest in our history.
+These expenses increased only 9% to $2.5 billion on 31% revenue growth.
+As a result, transaction margin dollars grew 52% in the first quarter, and transaction margin reached 57.8%.
+Normalizing for the macroeconomic-related credit loss provisioning last year, transaction margin dollars grew 38%.
+Going into the expense highlights, transaction expense improved 12 basis points as a rate of TPV to a record low of 80 basis points, driven by both volume and funding mix.
+Continued improvements in our risk decisioning and mitigation strategies resulted in transaction losses improving three basis points to another record low rate of 10 basis points overall.
+In discussing our credit losses for the quarter, I want to provide additional context given the increased provisioning last year and the complexity in the year-over-year comparison.
+As a reminder, in Q1 2020, we increased reserves by $227 million for expected credit losses due to the deterioration in the macroeconomic environment.
+After taxes, this represented a negative $0.17 per share impact.
+During 2020, we increased our reserve coverage ratio and ended the year at 23%.
+In addition, our gross receivables balance declined from $4.5 billion at the end of the first quarter last year to $3.6 billion at the end of 2020.
+Tightened underwriting and strong repayment activity contributed to lower balances in our merchant loan portfolio.
+This decline was partially offset by growth in our consumer portfolio.
+These trends continued in the first quarter of 2021, and we ended the quarter with $3.5 billion in receivables.
+More favorable economic conditions and portfolio performance resulted in a partial release of reserves in Q1.
+This reserve release benefited credit losses by approximately $87 million and provided an approximate $0.06 benefit to EPS.
+As a result, at the end of the first quarter, our reserve coverage ratio declined to 21%.
+In the quarter, non-transaction related operating expenses increased 31% and represented 30% of revenue, remaining essentially flat to last year.
+We are prioritizing growth, and to advance our key initiatives, we're continuing to invest more in sales and marketing and technology and development.
+On a non-GAAP basis, operating income was $1.67 billion, and our operating margin was 27.7%, our strongest performance for any first quarter.
+Normalizing only for the macro-related provisioning last year, operating income grew 46%, and operating margin expanded approximately 300 basis points.
+In Q1, on this normalized basis, inclusive of our elevated investment spend, we earned an incremental $0.38 of operating income for every additional dollar of revenue generated.
+Non-GAAP other income declined by $39 million relative to last year.
+This was driven by reduced interest income from lower interest rates and higher interest expense from our debt issuance last May.
+The negative impact on Non-GAAP EPS from the decline in other income was largely offset by a lower effective tax rate.
+For the first quarter, Non-GAAP EPS grew 84% to $1.22.
+Again, normalizing for the $0.17 negative impact last year related to increased credit provisioning, Non-GAAP EPS still grew 47%.
+We ended the quarter with cash equivalents, and investments of $19.1 billion.
+In addition, we generated $1.54 billion in free cash flow, representing 27% growth from the first quarter last year.
+For every $1 of revenue in the first quarter, we generated $0.25 of free cash flow.
+Now I'd like to discuss our updated guidance for 2021 and our guidance for the second quarter.
+This updated outlook reflects our ability to accelerate growth at scale at increasing rates of profitability, as well as the underlying strength of our core business.
+For the full year 2021, based on our record first quarter performance and sustained momentum, we are raising our net new active TPV revenue and earnings outlook.
+Relative to our prior expectations, eBay's Managed Payments transition has accelerated, and we now expect a greater percentage of the migration to be complete by the end of the third quarter.
+This acceleration puts more near-term pressure on our revenue and earnings growth.
+At the same time, this more compressed timing allows for a cleaner exit in 2021.
+Broad-based strength in our Merchant Services business and improving credit performance allows us to more than offset this impact. We now expect revenue to be approximately $25.75 billion, or growth of approximately 20% on a spot basis for the year.
+We are raising our expectations for revenue growth by one point, while at the same time absorbing an additional two points of pressure to revenue growth from eBay.
+In addition, we expect to generate approximately 100 basis points of operating margin expansion this year, relative to the more modest margin expansion we had guided at the start of the year.
+As a result, we now expect non-GAAP earnings per share to be approximately $4.70, representing growth of approximately 21%.
+Relative to the guidance we provided at the start of the year, this is an an additional four points of non-GAAP earnings growth in 2021.
+We're executing from a position of strength and seeing strong adoption of our new products and services.
+Our updated guidance includes increased investment in our digital wallet initiatives to drive further innovation, adoption, and engagement.
+The strong underlying trends in our business and Q1 outperformance are allowing us to offset these incremental investments and the more pronounced eBay headwinds to deliver stronger earnings growth than we previously expected.
+For the second quarter, we expect revenue of approximately $6.25 billion, representing approximately 19% growth at spot.
+In addition, we expect non-GAAP EPS for Q2 to be approximately $1.12, representing growth of approximately 5%.
+As a reminder, last year operating margin expanded more than 500 basis points in the second quarter.
+Favorable volume and funding mix dynamics, combined with COVID-related underspend and non-transaction related expenses, contributed to the strong margin performance and resulted in 49% growth in non-GAAP EPS.
+This record growth last year creates a tougher comparison.
+On a two-year compound annual basis, our earnings guidance reflects 25% growth.
+I'd also like to discuss our updated Net New Active outlook.
+We're raising our guidance for 2021 Net New Active Accounts.
+Based on the 14.5 million additional accounts in Q1 and our current trends, we now expect to add in the range of 52 million-55 million net new users this year.
+This is an increase from the 50 million Net New Actives that we guided to start the year.
+On top of the approximately 73 million users added last year, at our current pace, we'll add more new users between last year and this year than we did in 2016, 2017, 2018, and 2019 combined.
+As a reminder, in Q2 last year, we added 21.3 million accounts, and are now lapping this growth.
+Given this tougher comp and the ramp of our initiatives throughout the year, we expect Q2 Net New Actives to be lower than Q1, and for Q3 and Q4 adds to be sequentially stronger.
+It's worth noting a couple of points related to our guidance and our business overall.
+First, the environment in which we are operating, while more stable than a year ago, continues to be very dynamic and more challenging to predict than in normal times.
+In many of our core markets, we're on the threshold of some degree of a return to normalcy.
+People are getting vaccinated.
+There's a return to physical experiences.
+Travel is resuming.
+Some of this is certainly pent-up demand from the void that resulted from COVID-19 over the last year.
+For some, perhaps, it may be a reversion to the way things were prior to 2020.
+The pace and degree of this change and its impact on the trends on our business is challenging to predict from one quarter to the next with the same level of certainty that we had in normal times.
+This brings me to my second point, which is unassailable.
+Our business has and will continue to benefit from the changes in consumer behavior that have resulted from this pandemic, namely, the acceleration of the continuing trend of the growth in e-commerce penetration, and importantly, the growing ubiquity of digital payment experiences.
+We continue to see elevated e-commerce spending well above pre-pandemic levels, even in countries and markets that have begun to reopen.
+We're positioned to be a long-term beneficiary of these secular trends, and as we've repeatedly said, are investing heavily to help shape this outcome.
+That said, our short-term forecasting is susceptible to more variability than normal.
+To wrap up, our first quarter results underscore the ongoing strength, diversification, and relevance of our scaled two-sided global platform.
+We extended our leadership position in digital payments and delivered some of the best performance in our history on both an absolute and relative basis.
+Our strong trends across the business reflect enduring secular trends and continued business momentum.
+We're continuing to invest aggressively to drive accelerated growth in a post-pandemic world and capture the significant opportunity ahead.
+At the same time, our meaningful scale enables us to realize additional efficiencies, expand our operating margin, and support significant free cash flow generation.
+With that, I'll turn it over to the operator for questions.
+Thank you.
+Operator
+At this time, I'd like to remind everyone, in order to ask a question, please press star, then the number one on your telephone keypad.
+We ask that you please limit yourself to one question, then return to the queue for any follow-ups.
+Thank you.
+Your first question will come from Darrin Peller of Wolfe Research.
+Please go ahead.
+Darrin Peller
+Analyst, Wolfe Research
+Okay, thanks, guys.
+Great results here.
+When we look at coming out of last year's record NNAs, we thought 50 million was a good number.
+Now you're raising that.
+If you could just touch on the dynamics you're seeing around the Net New Actives, what's driving the upside, even after these kinds of record rates, especially as we go into reopening in the market.
+Can you just talk through the activity and the churn levels?
+Maybe on the other side of the funnel, if you could touch on the incremental users coming on, even as the world reopens.
+Is it partnerships like Baba you mentioned today, or other kinds of international, or just really what's the big driving force for that confidence?
+Thanks, guys.
+Dan Schulman
+President and CEO, PayPal
+I think maybe I'll start with the answer to that, Darrin, and then see if John wants to supplement anything.
+We had a strong Q1.
+It was up 46% ex the one-time Honey adds that we had last year.
+Ended the quarter with 31 million merchants, 392 million active accounts.
+We're really getting to a scale right now, Darrin, that has a huge network effect on it.
+We brought on, in Q1, two new customers every second throughout the quarter.
+We brought on a new merchant every five seconds throughout the quarter.
+We brought on somewhere between 1.4, 1.5 million new merchants.
+That was up over 100% from a year ago.
+I think the drivers, it's predominantly PayPal.
+It's predominantly still in our core markets.
+Still seeing great growth from Venmo.
+My view on net new actives, how do I say this without being too aggressive here?
+Look, I think we have a lot of opportunity yet here.
+We have a lot of expansion into international markets.
+I think our marketing programs are really beginning to deliver excellent results.
+I think we're just scratching the surface there.
+When I think about what's going on inside the base, our engagement levels are going up substantially.
+You saw our TPA grow by 7%.
+If you normalize for Honey, our TPA went up 8% in the quarter.
+If you normalize for the huge amount of NNAs that John just talked about.
+When you put on huge amounts of NNAs, and they don't have the full year to do their full TPA.
+Maybe a bunch came on this quarter, and they had one and a half months to do transactions, then we count them in that TPA.
+If you normalize that to, say, the 37 million we used to be doing, then that TPA grew by 14% in the quarter.
+That is really a result of our daily active users coming on.
+Our daily active users were up 33% in Q1 across the base.
+Our new products and services right now are driving huge engagement levels.
+I'll just give you a couple of examples.
+Buy now, pay later.
+I'm sure somebody will talk about it later because we have a lot of fun things to talk about. 50% of the customers who have used buy now, pay later have repeated within three months, and 70% have repeated within six months.
+If you look at our in-store cohort now, they're driving an incremental 60-120 incremental transactions.
+We talked about this last call, and it's holding true.
+About half of our crypto users open their app every single day.
+We're clearly beginning to see both at the top of the funnel, the potential for increases into the top of the funnel, and really narrowing the bottom of the funnel, which is why I'm bullish on actually our NNA trends.
+The one thing I'd point out, Darrin, that I think is really important is the cadence of those NNAs.
+Q1 was a good solid quarter for us.
+Q2 is always going to be the lowest quarter of the year because we did 21.4 million net new actives last year, even though our churn rates are down, and that was one of the best cohorts we ever activated.
+It puts incremental pressure at the bottom of the funnel for Q2.
+We see really increasing amounts of NNAs as we go through the year.
+In general, really strong on the NNA front, really strong on the engagement front, and hopefully more of that to come.
+John Rainey
+CFO and EVP of Global Customer Operations, PayPal
+I'll just add real quickly, Darrin.
+If you go back to a year ago or maybe three quarters ago, and you saw the record amount of Net New Actives that came in the second quarter, I think that, I mean, can't really probably surprise everybody, right.
+That was an enormous number.
+You think about it sort of like, okay, well now what?
+We've got to make sure that we're engaging these customers and they're using us in all the ways that they can.
+Even going back to that point in time a year ago. We knew that the second quarter of this year was going to be our toughest comp from a Net New Active perspective.
+Even as Dan said, despite the improvements we've made in reducing churn, there's still a lot of pressure there.
+Q2 is going to be sort of the low point for the year for us, and then we expect 3Q and 4Q to see strengthening acceleration there.
+The thing that I will say that sort of gives us confidence in this, and we've talked about this for a period of time, but we've consistently said that these have been our most engaged cohorts that we've ever seen.
+We're continuing to see those trends.
+They haven't waned like what you might expect related to people returning to the physical world.
+That gives us the conviction around raising this and really what it bodes for the rest of our business as well.
+Darrin Peller
+Analyst, Wolfe Research
+Okay, that's great.
+Thanks again, guys.
+Congrats again.
+John Rainey
+CFO and EVP of Global Customer Operations, PayPal
+Yeah.
+Thanks, Darrin.
+Operator
+Our next question will come from Tien-Tsin Huang of JP Morgan.
+Please go ahead.
+Tien-Tsin Huang
+Analyst, JPMorgan
+Thank you.
+Really impressive results on many fronts.
+I wanted to ask on the first quarter revenue.
+You beat your revenue guidance, looks like by three percentage points.
+I think that's the widest margin of upside we've seen in a few quarters.
+I'm curious what surprised you?
+Can you rank for us what surprised you?
+What drove the upside?
+How does it change your revenue outlook for the year?
+It sounds like it's enough to offset the bigger eBay drag, would love it if you could rank it for us, maybe.
+Thanks.
+John Rainey
+CFO and EVP of Global Customer Operations, PayPal
+Yeah, Tien-Tsin.
+Do you want me to start, Dan?
+Dan Schulman
+President and CEO, PayPal
+Yeah.
+John Rainey
+CFO and EVP of Global Customer Operations, PayPal
+Okay.
+I think starting with the full year, you're right.
+The momentum that we're seeing in the business really has allowed us to overcome the headwinds that we're seeing from a more accelerated migration for eBay to its Managed Payments.
+To specifically address your question on Q1, there's actually a handful of things that I think performed differently than what we expected, starting with January.
+There was an extended holiday shopping period.
+Like the first couple weeks of January, we saw much stronger e-commerce activity than normal.
+On sort of the other bookend, getting to March, we saw a resumption in travel that happened more quickly than what we had estimated.
+Sort of in between that, you've got the stimulus.
+I don't want to overstate the effect of stimulus because we had assumed some of that in our forecast.
+I think it was pretty clear at that point in time that that was going to happen.
+I think fundamentally, if you step back and you think about these things that I described that maybe are more transitory, what has been, I think, a more permanent shift is what we're seeing around, call it the displacement of cash.
+You're just seeing more and more digital experiences that are replacing cash.
+I'll give you one sort of silly example, Tien-Tsin, but last Saturday night, I went out to dinner.
+A restaurant had reopened.
+I'm sitting inside.
+When it gets time for me to get my check, I'm not handing off my credit card to the waiter for them to run and put it through the machine.
+They're printing a receipt with a QR code on it right there.
+That's a physical world experience that is happening digitally.
+This is the transformation that is happening right in front of our eyes right now.
+We are on the threshold of this.
+That's fundamentally, I think it's a small anecdote, but I think it's a good example of kind of what we're seeing in our business, where there's this convergence of online and offline that is really benefiting our business.
+Dan Schulman
+President and CEO, PayPal
+I'll just add on to that T ien-Tsin, because I think that is the strength that we're seeing even in markets that are opening.
+If you think about we did 100 point raise in guidance for revenues, yet 200 incremental points of pressure from eBay.
+That's really an effect, a 300-point raise on our core business.
+That's because we are now seeing people living a digital life.
+What used to be, and for us as well, like a year and a half ago, is there was a separate distinction between in-store or the physical world and e-commerce in the online world.
+Now what we're seeing is that it's just a digital world.
+Even as economies open, more and more of those payments are moving to digital.
+Think about it like Uber would be a good example.
+As more and more rides start there, they're moving into a physical environment, but it's all done through a digital platform and digital payments.
+Clearly, that is something that we see as a sustaining and growing trend going forward.
+I think John mentioned cash is definitely being replaced.
+There was just a study done a week or two ago by one of the major networks that said anywhere between 60%-70% of consumers are going to use cash less frequently.
+That's moving to digital.
+It's moving to digital forms of payment, and it's moving to P2P.
+By the way, when it moves to digital, it's moving predominantly to debit, which obviously is also great from a funding perspective on that.
+I think we have this portfolio of services right now, whether it be Xoom or Braintree or QR codes or just what's happening in the physical world that complements now what's happening in the online world with our more traditional products.
+That's kind of a one-two punch that I don't think any of us really understood the extent of or the depth of the transition to a digital economy.
+John Rainey
+CFO and EVP of Global Customer Operations, PayPal
+Just if I can add one more thing.
+For those reasons that Dan mentioned, it's also why we are investing as heavily as we are.
+At no point in time in our six years as a public company have we invested as heavily as we are right now, because we want to capitalize on these secular tailwinds, and we think it's really important.
+That's why you see us not rolling through the entirety of that in terms of our EPS guidance, because we think it's more important to invest right now, and that is clearly our bias.
+Fortunately for us, we're able to do that while still expanding our operating margin in terms of our guidance 100 basis points for the year.
+Tien-Tsin Huang
+Analyst, JPMorgan
+Yeah.
+That's very clear.
+Thank you both.
+John Rainey
+CFO and EVP of Global Customer Operations, PayPal
+Yep.
+Thank you.
+Operator
+Your next question will come from Lisa Ellis of MoffettNathanson.
+Please go ahead.
+Lisa Ellis
+Analyst, MoffettNathanson
+Hey, good afternoon, guys.
+Thanks for taking my question.
+I had a follow-up on your comments, Dan, on digital currencies and their ability to potentially drive financial inclusion globally.
+As you're engaging with governments around the world that are experimenting with CBDCs, how are they thinking about the role of the private sector, and specifically, what role or roles could you see PayPal playing?
+Meaning, more broadly, how should we think about how CBDCs could impact your business?
+Thank you.
+Dan Schulman
+President and CEO, PayPal
+Yeah.
+We have had quite a number of conversations here in the U.S. and really across the world with the leaders of those regulatory bodies, and some of the key players in government.
+I won't obviously talk about the specifics of any of our conversations that we've had with them.
+What I would say is, it is a conversation that is very much one of learning from each other, understanding the capabilities that each of us have, what some of the concerns that some of the central banks might have or governments, what some of the benefits of a platform like PayPal could do in various forms of how CBDCs could be issued.
+I believe based on all my conversations, that each country is going to go at different speeds.
+They're going to have different regulatory oversight in it.
+There isn't one country around the world in which we've engaged in where I don't think that they're envisioning a future that isn't one of a digitized fiat currency.
+I think obviously there's a lot of synergy with digital wallets.
+There's a lot of interesting things as you think about next generation technology that can add utility to payments, that can take down perhaps costs through the elimination of unnecessary intermediaries, and certainly can speed the time in which somebody can access their money.
+We've got a tremendous amount of really great results going on tactically with our cryptocurrency efforts right now.
+We're excited about those.
+We're investing in those.
+This whole idea around establishing a digital currency and blockchain business unit inside PayPal is to think about what is the financial system going to start to move towards, and how can we be a shaper of that, a leader within that, and not a reactor to how that's happening.
+Those conversations have gone well beyond my expectations in terms of the openness of governments and central banks to think about new ways of managing and moving money through the system.
+Lisa Ellis
+Analyst, MoffettNathanson
+Very exciting.
+Thank you.
+Dan Schulman
+President and CEO, PayPal
+It is actually.
+Yep.
+Thanks.
+Operator
+Your next question will come from Sanjay Sakhrani of KBW.
+Please go ahead.
+Sanjay Sakhrani
+Analyst, KBW
+Thanks.
+I had a question on the reopening trends seen thus far this year and any discernible trends that you might have observed, like how it's affecting volume mix, funding mix, and just overall engagement with the PayPal ecosystem.
+Thanks.
+John Rainey
+CFO and EVP of Global Customer Operations, PayPal
+Sure, Sanjay.
+I'll start there.
+Dan may want to add a little bit.
+I think there's a number of things there that we're observing.
+I think building on your question around debit, that's certainly something that stands out.
+We see a shift in funding towards more debit versus credit.
+That's across our broad portfolio of products.
+A good example is even like take buy now, pay later, where in the previous quarter, about 78% of that was funded with debit.
+That moved up to 82% in the most recent quarter.
+Clearly, we're seeing a shift there.
+Again, going back to an earlier answer, we believe some of that is the displacement of cash.
+In terms of overall trends that we're seeing around reopening, certainly travel has picked back up.
+That happened a little bit earlier than what we had anticipated.
+Among the verticals that sort of stand out, fashion still is one of the single largest growth verticals in terms of overall volume for us.
+In terms of the highest year-over-year growth rates, still food and groceries.
+Incidentally, even in markets where you're seeing some reopening.
+Again, it really supports what consumers have been telling the world in surveys for 12 months now.
+Now we're seeing it in behaviors.
+Again, this sort of plays into a lot of the themes that we're talking about here in terms of this convergence of the physical world and online, and the need to have these omnichannel experiences for your customers.
+Those would be a couple things that I would call out that we're seeing.
+Sanjay Sakhrani
+Analyst, KBW
+Okay.
+Thank you.
+Operator
+Your next question will come from Colin Sebastian of Baird.
+Please go ahead.
+Dan Schulman
+President and CEO, PayPal
+Colin?
+Hey, Colin.
+Colin Sebastian
+Analyst, Baird
+Hi, Morning.
+How you doing?
+Dan Schulman
+President and CEO, PayPal
+Good.
+Colin Sebastian
+Analyst, Baird
+How you're feeling at this point about the original full-year revenue target for that business?
+Related to that, if you have any feedback on how crypto integration and business profiles are impacting how people are using Venmo.
+If you could just remind us how the pipeline of other enhancements to the app will sequence over the course of the year.
+Thank you.
+Dan Schulman
+President and CEO, PayPal
+Yeah, sure.
+First of all, Venmo had another really strong quarter.
+TPV up 63%.
+It's off to a great start in Q2 as well.
+One really interesting thing, Colin, that John and I were remarking on the other day is if you look at the annualized TPV of Venmo right now, call it about $205 billion-$210 billion of TPV.
+Think back when we went public with PayPal, our TPV for the year was $285 billion.
+You basically have another PayPal inside of PayPal from when we went public a year ago, and there is such huge monetization opportunity on that.
+I think obviously we feel very confident in the $900 million, but that is scratching the surface of what Venmo can be.
+This is a huge base that's growing, and the great thing is that the team there is executing on all of their initiatives.
+Credit card, we knew it was a great experience, but it's performing beyond our expectations.
+New sign-ups, transactions.
+That's what happens when you have a great value proposition consumer experience.
+Crypto launch at 1% ramp.
+It just went to 5% ramp.
+It will be 100% ramped by the end of this month, the end of May.
+Obviously, if you look at, again, surveys that have come out recently, and you look at millennials, something like 74% of them anticipate that they're going to use crypto in the next year or two in some way.
+Business profiles growing above plan.
+We're going to be introducing things like Goods and Services Buyer Protection.
+That's a huge revenue generator on the PayPal P2P side.
+That same thing will be happening on the Venmo side.
+Pay with Venmo, which by the way, is very little of this year's $900 million.
+That Pay with Venmo is going to be the majority of revenues as you look out several years from now.
+We're really excited about that rolling out.
+Eventually, Venmo is going to move down the same path that the PayPal Super App digital wallet is going down.
+It's going to become a super app itself, putting in more and more capabilities and services around, again, shopping and basic consumer financial services and payments.
+It has international expansion in front of it, and there's just so much opportunity.
+I think we've all been bullish on the potential of Venmo.
+We are now beginning to see it realized, and we just think that just want to keep investing in that because the opportunity is quite large.
+Colin Sebastian
+Analyst, Baird
+Great.
+Thanks, Dan.
+Dan Schulman
+President and CEO, PayPal
+Yeah.
+Operator
+Our next question will come from David Togut of Evercore ISI.
+Please go ahead.
+David Togut
+Analyst, Evercore ISI
+Thanks so much.
+Good to see the strong growth and engagement from buy now, pay later customers.
+Can you talk about your expectations for buy now, pay later for the balance of this year?
+More broadly, how you expect the most engaged buy now, pay later customers to engage in the PayPal ecosystem overall?
+Dan Schulman
+President and CEO, PayPal
+Yeah, sure.
+I'll start, and then maybe John can go in.
+First of all, it's a great value proposition in the market.
+I think everybody clearly understands that and sees that.
+It's no incremental cost for a merchant to have buy now, pay later.
+It is just part of their take rate, easy integration.
+By the way, PayPal is a trusted brand, so consumers see it, they recognize it, they have no problems taking part in that value proposition.
+Because we have now 392 million customers on the platform, we know them, we know their behaviors, we have higher approval rates and less defaults than what we are seeing out in the buy now, pay later space.
+Just to give you a sense, David, of results since launch, we have over $2 billion of TPV globally since launch, over $1 billion in the U.S.
+Over 14 million loans have been done, over 5 million unique customers.
+We have over 500,000 unique merchants, more hundreds of LE customers, as I mentioned, 30,000 upstream, and that's growing every single day.
+One of the great things we're seeing with customers that are engaged in buy now, pay later is there's a 15% halo lift in TPV on the platform.
+Because of funding it with debit's increasing.
+There's a 16% reduction in our cost per transaction.
+It's a great proposition for merchants.
+Tons of conversations going on with all the leading merchants.
+Big uptake with consumers, and we're going to expand into Australia by the end of Q2 and into much more of Europe by the end of the year.
+David Togut
+Analyst, Evercore ISI
+Thanks for all those great metrics.
+Just a quick follow-up on bottom of the funnel impact from the growth of buy now, pay later.
+Dan Schulman
+President and CEO, PayPal
+Yeah.
+Well, again, it's a little bit early because we've launched all of these things in the last six or eight months or so.
+Given we look at 12-month actives.
+If you look at the repeat behavior and the increased engagement, that probably bodes pretty well for both TPA and churn reduction, especially given that this is now scaling quite...
+This is meaningful scale even for a company of our size.
+David Togut
+Analyst, Evercore ISI
+Thanks so much.
+Congratulations.
+Dan Schulman
+President and CEO, PayPal
+Yeah.
+Thank you.
+Operator
+Your next question will come from Bryan Keane of Deutsche Bank.
+Please go ahead.
+Bryan Keane
+Analyst, Deutsche Bank
+Hi, guys.
+I wanted to ask John on the impressive operating leverage, and we saw the raise of non-GAAP operating margins to, I think it's about 100 basis points.
+Just thinking about what caused the increase in confidence there, and even though eBay is a bigger headwind and you're investing more, you're still increasing operating margins.
+There's a lot of things going in the positive direction there.
+Just like to get the details from you.
+Thanks.
+John Rainey
+CFO and EVP of Global Customer Operations, PayPal
+Happy to address that, Bryan.
+Again, I want to repeat the number because it's a whopping number. 38% incremental operating margins in the quarter.
+That really demonstrates the scalability of our platform, particularly when you think about the level of investment that we've had internally.
+You can look at some of the year-over-year comps in our expense line items and get an idea of that.
+I think there's a number of different areas, but a couple that obviously stand out are the transaction-related operating expenses of transaction expense and transaction loss.
+To have record lows in both those, again, the improvements that we've made in our risk capabilities to drive down transaction losses has just been tremendous.
+We started talking about this probably five or six quarters ago.
+Look, I don't know if we're going to come in at 10 basis points every quarter.
+I certainly would hope so.
+That is a performance that was really hard to imagine a couple of years ago.
+The improvements there that we've made in terms of the capabilities are definitely sustainable.
+On transaction expense, look, I think you can pick at any one part of our P&L and take rate as an example.
+We saw declines there.
+Some of that's related to mix.
+We're obviously doing, as an example, more bill payment right now, which carries a lower take rate.
+At the same time, it carries a lower transaction expense.
+We've always focused on that margin between the two.
+Again, to have a transaction margin approaching 60% this quarter, we're really pleased about it.
+The obvious question is, where does that level out over time?
+Does it go down from 80 basis points?
+Does it go up from 80 basis points?
+It's tough to tell, I certainly don't think that we're going to see levels that we saw pre-pandemic.
+There may be some inflation.
+I think all of the mix changes in our business and what we're seeing around the pull forward of e-commerce, we would expect transaction expense to remain at lower levels pre-pandemic, which again, gives us the just amazing leverage that we have on this platform.
+Bryan Keane
+Analyst, Deutsche Bank
+Got it.
+Congrats on the quarter.
+John Rainey
+CFO and EVP of Global Customer Operations, PayPal
+Thank you.
+Dan Schulman
+President and CEO, PayPal
+Thank you.
+Operator
+That was the last question for the call today.
+I will now pass the call back to Dan for closing remarks.
+Dan Schulman
+President and CEO, PayPal
+Yeah.
+Thanks so much.
+Thanks everybody for all of your questions, and thank you for the time you spent with us today.
+I hope that all of you and your families are safe and healthy.
+We look forward to not just speaking to all of you soon, but hopefully seeing all of you soon as well.
+Again, thank you for your time.
+Take care, and goodbye.
+Data Source:
+Quartr
+Last updated:
+May 5, 2021
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (11)
+Quarterly report
+Slides
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
