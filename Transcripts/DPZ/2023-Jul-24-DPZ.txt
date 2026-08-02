@@ -1,0 +1,858 @@
+Domino's Pizza (DPZ) Q2 2023 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Domino's Pizza, Inc. (DPZ)
+NASDAQ: DPZ · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+347.44
+-4.81 (-1.37%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+346.22
+-1.22 (-0.35%)
+After-hours:
+Jul 31, 2026, 7:58 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q2 2023
+Jul 24, 2023
+Quarterly report
+Earnings release
+Play Audio
+Download Transcript
+Operator
+Thank you for standing by.
+Welcome to Domino's Pizza's 2nd quarter 2023 earnings conference call.
+At this time, all participants are in listen-only mode.
+After the speaker's presentation, there will be a question-and-answer session.
+To ask a question during the session, you'll need to press star 11 on your telephone.
+To remove yourself from the queue, simply press star 11 again.
+As a reminder, today's program is being recorded.
+Now I'd like to introduce your host for today's program, Mr. Ryan Goers, Vice President, Finance, Investor Relations.
+Please go ahead, sir.
+Ryan Goers
+VP of Finance and Investor Relations, Domino's Pizza
+Good morning, everyone.
+Thank you for joining us today for our conversation regarding the results for the second quarter of 2023.
+Before we begin, I would like to announce that we will hold our Investor Day on December 7th in Ann Arbor, Michigan.
+Chief Executive Officer, Russell Weiner, the entire Domino's leadership team look forward to hosting you at our headquarters.
+Today's call will feature commentary from Russell and Chief Financial Officer, Sandeep Reddy.
+As this call is primarily for our investor audience, I ask all members of the media and others to be in a listen-only mode.
+I want to remind everyone that the forward-looking statements in this morning's earnings release and 10-Q also apply to our comments on the call today.
+Both of those documents are available on our website.
+Actual results or trends could differ materially from our forecast.
+For more information, please refer to the risk factors discussed in our filings with the SEC.
+Please refer to the 8-K earnings release to find disclosures and reconciliations of non-GAAP financial measures that may be referenced on today's call.
+A request to our coverage analyst: We want to do our best this morning to accommodate as many of your questions as time permits.
+We encourage you to ask only one one-part question on this call.
+Today's call is being webcast and is also being recorded for replay via our website.
+I'd like to turn the call over to our Chief Executive Officer, Russell Weiner.
+Russell Weiner
+CEO, Domino's Pizza
+Well, thank you, Ryan, and good morning, everybody.
+I'm gonna open today with some brief remarks regarding our current focus and the momentum we're creating here at Domino's Pizza.
+Sandeep will then provide a high-level overview of our quarterly financial performance, followed by ample time for your questions and discussion.
+We are executing our plan to restore delivery growth here in the United States.
+Efforts to improve service and staffing and drive value and innovation will continue to make a difference in driving order counts in this important segment of our business.
+Our delivery service levels ended Q2 nearly 2 minutes better than Q2 of last year.
+With the agreement we recently announced with Uber Eats, Domino's will benefit from a large and growing cohort of delivery customers.
+We believe these transactions will be incremental and provide a meaningful increase in the number of customers who leverage the Domino's delivery experience.
+Domino's delivered 1 out of every 3 pizzas in the U.S. prior to our decision to compete in the aggregator marketplace.
+According to Circana, aggregator sales for delivery among U.S. quick-serve pizza restaurants has grown to almost $5 billion for the 12 months ending May of 2023.
+We plan to get our fair share of this market over time.
+The opportunity represents over $1 billion in incremental sales for our U.S. business, and our research indicates that most of the transactions we gain from participating in this segment will be incremental customers and sales.
+This has also been supported by what we've learned from our Domino's Pizza International master franchisees, who've already developed a billion-dollar business taking orders from aggregators.
+We have here at Domino's a common sense process for making business decisions.
+We ask ourselves this important question: Is it the right thing to do for the long-term growth of our brand and the business?
+Our extensive evaluation indicates that by participating in the aggregator marketplace, we'll drive net incremental orders over the long term by tapping into a new group of consumers.
+In addition, our contractual agreement has secured the protections that we require to maintain control over our customer data and assess the incrementality of the platform.
+Most importantly, orders placed through the Uber Eats platform will be delivered by Domino's delivery experts.
+We're excited to begin accepting orders through the Uber Eats channel later this year and look forward to reporting the results of this important growth initiative.
+Successfully executing an aggressive plan to get our fair share of a scaled pizza distribution channel isn't new to us.
+We approached the carryout pizza segment in a similar manner back in 2011.
+Carryout pizza was a smaller percentage of our business before we took thoughtful, aggressive action.
+Today, our carryout business is almost $2.5 billion larger than it was in 2011, making Domino's the number one carryout pizza brand in the U.S.
+Despite this impressive growth, our current aspiration is to drive our carryout market share even further to at least the same market share we enjoy in pizza delivery today.
+We need to earn an additional 10 points of market share to reach our fair share in the carryout segment, and this 10 points represents about $2 billion in additional retail sales.
+Outside of the U.S., Domino's and Uber Eats operate in 27 of the same markets.
+Our new global deal has the potential to bring Uber Eats customers to 70% of Domino's stores around the world, with improved economics for our international franchisees.
+Next, I want to talk about another important initiative for us, the new and improved loyalty program that we'll be launching in the U.S. in September of this year.
+The program will reduce the requirements to earn and redeem loyalty points.
+This will positively impact our carryout customers, as well as help us retain our current and new delivery customers.
+Finally, we have two exciting innovations that are coming to the U.S. market in the 3rd quarter.
+This keeps with our stated intention of increasing the pace of innovation.
+We launched Domino's Pinpoint Delivery in late June.
+Delivery innovation, as you know, is the core of who we are, so we're thrilled to give customers this new delivery option by allowing them to receive their order nearly anywhere, just with the drop of a pin on our app.
+In late August, we're gonna launch Pepperoni Stuffed Cheesy Bread.
+Pepperoni Stuffed Cheesy Bread follows the successful launch of Domino's Loaded Tots, and it is delicious.
+It brings news to our Stuffed Cheesy Bread platform, which was launched over a decade ago.
+The Stuffed Cheesy Bread line is a significant part of our menu mix and provides a healthy margin for franchisees.
+My message to you today is more.
+More sales in both carryout and delivery, more ways to reward customers with our new loyalty program, and more innovation, both technology and product related.
+We'll drive orders with innovation and value.
+We'll tap into those incremental marketplaces I talked about.
+Then we'll bring customers back with best-in-class service and a new and improved loyalty program.
+This is our go-forward plan at Domino's Pizza.
+Our momentum will build starting in Q4 and will significantly impact the performance of our business in 2024 and beyond.
+As important, this momentum should drive continued EBITDA growth for franchisees.
+Our Mix and Match offer at $6.99 remains a strong value for customers and has helped our franchisees accelerate store-level profitability through Q2.
+That profitability is higher than it was this time last year, despite inflationary headwinds.
+I expect it to continue to grow as a result of the sales-building initiatives I just outlined.
+There are many exciting things underway here at Domino's Pizza, and now for an overview of our Q2 financial results, I'll turn things over to our CFO, Sandeep Reddy.
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+Thank you, Russell, and good morning to everyone on the call.
+I'll begin with updates on our actions to drive the long-term profitability of Domino's and our franchisees.
+First, pricing.
+During the second quarter, the average price increase across our U.S. system was 3.9%.
+We expect average pricing to be similar in the third quarter before moderating in the fourth quarter to approximately 2% when we lap the carryout Mix and Match pricing change from October 2022.
+Second, cost efficiencies as we continue to drive margin recovery.
+We drove improvement in our operating income margin, which grew by 240 basis points versus Q2 2022.
+This was despite foreign exchange rates having a 15 basis points negative year-over-year impact on operating income margin during the quarter.
+We now expect full-year operating income margins in 2023 to reach or exceed 2019 levels.
+Third, positive same-store sales growth, excluding foreign currency impact in our U.S. and International businesses for the third consecutive quarter, drove operating income improvement.
+For our financial results for the quarter.
+Excluding the negative impact of foreign currency, global retail sales grew 5.8% due to positive sales comps and global net store growth.
+U.S. retail sales increased 1.7%.
+International retail sales, excluding the negative impact of currency, grew 10.1%.
+During Q2, same-store sales for the U.S. business increased 0.1%.
+The increase in U.S. same-store sales was driven by a higher average ticket, including the pricing actions I mentioned earlier, partially offset by order count declines.
+Our carryout business remained strong in Q2, with same-store sales +5.6%, rolling over a +14.6% performance in 2022.
+The U.S. delivery business continues to be challenged.
+Q2 delivery same-store sales declined 3.5%, rolling over a -11.7% in Q2 2022.
+We expect Q3 same-store sales trends in our delivery business to be challenged, similar to Q2.
+However, we expect a slight improvement in trend in Q4 as our updated loyalty program begins to roll out, followed by a considerable improvement in 2024 as a result of transaction growth from our Uber Eats partnership and other initiatives Russell has shared with you.
+Shifting to unit count.
+We added 27 net new stores in the U.S., with 30 store openings and 3 closures, bringing our U.S. system store count to 6,735 stores at the end of the quarter, and our 4-quarter net store growth rate in the U.S. to 1.8%.
+Domino's unit economics remains strong, with continued EBITDA growth for our U.S. franchisees.
+We are on track to deliver average U.S. franchise store profitability of at least $150,000 in 2023.
+Moving to international.
+Same-store sales in our international business, excluding currency impact, increased 3.6%.
+Our international store count increased by 170 net new stores, comprised of 223 store openings and 53 closures.
+Closures were driven by the closure of the Denmark market, closures in Brazil, as our master franchisee there continues to optimize its store base, and some closures in Russia, where the master franchisee has indicated an intention to exit the market.
+Domino's Pizza Enterprises, one of our publicly traded master franchisees, recently disclosed their intention to close an additional 65-70 underperforming stores.
+This will likely occur during our third quarter.
+These reductions in underperforming stores will pull down our net store growth rate in the upcoming quarter and for the full year.
+Our new store builds in international continued to be robust, and we anticipate returning to our full-year run rate of net store growth in 2024, once these store closures are behind us.
+Our additional 170 net stores brought the current trailing four-quarter net store growth rate in international to 6.3%.
+When combined with our U.S. store growth, the trailing four-quarter global net store growth rate was 4.7%.
+We now expect our 2023 global retail sales growth to track between the low end and midpoint of our two to three-year outlook of 4%-8%, driven by stronger international same-store sales.
+We continue to expect our 2023 global unit growth to track to the low end of our 5%-7%, two to three-year outlook.
+Despite strong gross openings, we will be pressured by international store closures this year.
+Since these closures will be underperforming stores in certain challenged markets, this is not anticipated to materially impact the financial benefit of our new international store openings.
+Finally, a capital structure update.
+A debt leverage ratio of 4 to 6 times is the appropriate leverage for our company and moves within the range, depending on the level of interest rates.
+We have operated with this range of leverage for almost 20 years.
+In today's interest rate environment, you should expect us to use our free cash flow to make investments to grow the business, create strong shareholder returns through our dividend and share repurchase strategies, and retire debt when it's in the best interest of our shareholders for us to do so.
+As always, we will be opportunistic if credit markets warrant additional borrowing or refinancing.
+Thank you.
+We will now open the call to questions.
+Operator
+Certainly.
+As a reminder, ladies and gentlemen, if you have a question at this time, please press star 11 on your telephone.
+One moment for our first question.
+Our first question comes from the line of Brian Bittner from Oppenheimer.
+Your question, please.
+Brian Bittner
+Managing Director and Senior Analyst, Restaurants, Oppenheimer
+Good morning.
+Thank you.
+It seems like you really do have two new tangible catalysts to stimulate incremental demand, with 1 being the Uber Eats partnership, and 2, being the relaunch of your loyalty program in September.
+You've talked about the size of the prize, with the Uber Eats partnership being $1 billion, how quickly could it be impactful to the business once it's launched?
+As it relates to the relaunch of loyalty, have you attempted to size up how powerful of an opportunity this could be?
+Or maybe you can rank order it, you know, in importance relative to the Uber Eats partnership for us.
+Thanks.
+Russell Weiner
+CEO, Domino's Pizza
+Morning, Brian.
+Actually, what I'd say is, I think we've got three catalysts.
+You know, you talked about the Uber piece, you talked about loyalty.
+We also talked a lot about carryout on the call, and we've gained two and a half billion dollars since we leaned into carryout in 2011.
+We've got another $2 billion just to get our fair share.
+Our feeling here at Domino's Pizza is, if there's a category that sells pizza that we compete in vigorously, we should get our fair share, which is our share of delivery, 1 out of every 3.
+We've got a lot more to go on carryout as well.
+There are a lot of questions within there, so let me unpack a couple, and then if I missed anything, just you come back.
+First is the $1 billion number that we're talking about here in the US, $1 billion incremental.
+As we're first starting with Uber.
+We're really excited to launch with them as exclusive partners for the 1st 12 months.
+After that, we've got optionality in the contract that we can choose to take however we'd like.
+The $1 billion is a signal of our fair share of the entire $5 billion US aggregator pizza delivery business.
+Obviously, that's something that would happen when we get onto the broader competitors in the platform, which we intend to do at some point.
+On the loyalty program, by the way, you really listened to Ryan's what, one- part questions.
+I'm totally joking with you.
+On the loyalty, from the loyalty standpoint, you know, the way I like to think of it is, how do I feel as a customer when most brands redo their loyalty programs?
+Usually, as a customer, I'm on the short end.
+A new loyalty program for a company usually means they're trying to drive a little bit more profitability, which means things are taken away from me as a customer.
+We're doing the exact opposite here.
+The changes we're making in the loyalty program are there to scope the changes and the opportunity in our business.
+We talked about carryout being one of the catalysts.
+One of the things that's going to be true in the new loyalty program is we're gonna recognize that a carryout customer's ticket's lower, and so the hurdle for getting points will be lower.
+Secondarily, we want to engage people at all levels.
+We expect to have a big influx of new customers coming in today, and, you know, our current program, you need 60 points.
+There'll be points at various levels from a redemption standpoint.
+We, we think this is a truly new and improved program for our customers and a profitable one for our franchisees.
+Brian Bittner
+Managing Director and Senior Analyst, Restaurants, Oppenheimer
+Thanks.
+Thanks for working with me on that.
+Russell Weiner
+CEO, Domino's Pizza
+Sure.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Peter Saleh from BTIG.
+Your question, please.
+Peter Saleh
+Managing Director and BTIG Restaurants and Food Distributors Analyst, BTIG
+Great, thanks.
+Russell, I just wanted to come back to the conversation around the loyalty program and the changes that are happening in September.
+Can you elaborate a little bit?
+Are we moving from a transaction-based to a spend-based model, or how is this going to be configured, I guess, come September?
+Just trying to understand if you do change from transaction-based to spend-based, do you anticipate any sort of additional pressure on order counts, or just trying to understand the structure here on the new loyalty program?
+Russell Weiner
+CEO, Domino's Pizza
+Yeah, sure.
+Good morning, Peter.
+Yeah, on the loyalty side, we are big fans in general.
+We look at, as I said in the opening remarks, we look at lifetime value, we look at long-term business decisions, it's clear that in the long term, order counts drives franchisee profitability, this will continue to be a transactions-based program.
+Yeah, like I said, the big change on the transaction-based is actually we will allow people to transact at a lower level, and we think this is really important in bringing in incremental frequency into the program.
+Today, you need to get 60 points.
+In the future, you'll be able to still get a pizza at 60 points, but at lower value with different products, you'll be able to participate, and we think that'll be a nice driver of order counts.
+Ticket, in general, is something that through our multiple platforms with Mix and Match, customers end up usually doing themselves, and obviously, we've got a robust A/B testing system, and so there's a lot of upselling, appropriate upselling on the website and on the apps.
+Peter Saleh
+Managing Director and BTIG Restaurants and Food Distributors Analyst, BTIG
+Thank you.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Sara Senatore from Bank of America.
+Your question, please.
+Sara Senatore
+Managing Director and Senior Research Analyst, Bank of America
+Great.
+Thank you.
+Russell, I guess I have another two-part, one-part question.
+The first is, I'm just trying to understand the sort of carryout opportunity.
+You know, I guess I always thought the distinction between Domino's and, you know, independents was perhaps a little bit more evident in delivery, just because the speed of service and things like the tracker.
+So from a carryout perspective, I guess, you know, is it harder to make inroads because perhaps the advantages are less pronounced, or how are you thinking about that?
+Then, a separate question is just on pricing, and the gap versus the industry, and it sort of seems to me that it keeps widening the industry ahead of you.
+Is that gonna translate into better traffic trends, or is, you know, is there an opportunity to take price?
+Thanks.
+Russell Weiner
+CEO, Domino's Pizza
+Yeah, sure.
+I'll give you a two-part answer.
+I'm sorry.
+It's, you know, Sandeep Reddy made me do this 8:30 call this morning.
+Usually, we do 10:30, my apologies.
+You know, on carryout, the interesting thing that drives the carryout business, and it kind of makes sense when you think about it, is just proximity.
+The great piece of our fortressing strategy is that we're opening up stores closer to customers.
+Just like our delivery drivers make more efficient deliveries when they're closer to customers, the same thing is, if we put a Domino's Pizza, you mentioned, for example, competitors being local pizza companies.
+If we put a Domino's Pizza right in the middle, that's a great thing.
+Those are really incremental transactions from us.
+In fact, the incrementality of carryout when we split a store is even more incremental than delivery from a customer standpoint.
+The second piece is carryout customers, they really want value, and one of the reasons they're doing carryout is they, you know, want to avoid the tip.
+They want to avoid the delivery fee, and nobody provides better value than Domino's Pizza.
+Part of the scale that we're able to get through our purchasing is then passed along to customers, and I think we're very competitive from a carryout standpoint.
+With pricing, you know, to me, the pricing at Domino's has always been volume-based.
+We certainly wanna have, on a order-by-order basis, we wanna make sure our franchisees are making the profit they need to, and Sandeep talked to the increase in franchisee profitability.
+Once the profit per order is established, we have what we call a high volume mentality.
+We price for proper profitability on a per order basis that will help drive consumer to buy Domino's more frequently.
+That's kinda how we look at it.
+I don't expect all to be at the high end of pricing.
+What I expect to do, and I think if you look at other restaurants in our category, is I expect our franchisees to be at the high end of profitability while we're offering best-in-class value to customers.
+Sara Senatore
+Managing Director and Senior Research Analyst, Bank of America
+Thank you.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Dennis Geiger from UBS.
+Your question, please.
+Dennis Geiger
+Executive Director and Senior Equity Research Analyst, UBS
+Thank you.
+Thanks for all the details on the sales drivers.
+Definitely helpful.
+The third-party partnerships, the carryout and loyalty all seem quite impactful.
+Russell, wondering if you could just speak to some of the other, maybe slightly less impactful sales drivers, you know, that e-commerce upgrade, the Summer of Service, some of the tech and the menu innovation that you spoke to and seemingly will be a bigger part of the business going forward.
+Just curious if you could sort of help frame up how impactful, you know, you think about some of those other drivers are.
+Thank you.
+Russell Weiner
+CEO, Domino's Pizza
+Yeah.
+No, sure.
+I appreciate you because, you know, a lot of times the headlines are what grabs folks, but actually it's the subtext that actually drives the headlines, if you think about it.
+You know, maybe not talking about those three drivers, but talking about the things behind it, some of which we've mentioned already.
+Really what we've done is, in addition to the significant carryout growth that you've seen this year, is we've improved the underlying fundamentals of the business, and those fundamentals are gonna help us really get the most out of those other drivers that you've talked about.
+Improved profitability for our franchisees and for us, frankly.
+You know, Sandeep talked about our operating income margins.
+Summer of Service is leading to improved service.
+Dennis, the service this quarter versus quarter last year, we're 1.9 minutes, almost 2 minutes better than just a year ago and actually better than, you know, even last quarter.
+The discussions, the best practices, just the fact that we're leaning into service with our franchisees is making an immediate difference.
+We.
+It's funny, we've got this morning a bunch of franchisees here for Summer of Service, so I can tell you firsthand how excited, you know, people are to be here.
+We've already had the equivalent of essentially 50% of our stores represented through this building already in Summer of Service.
+Again, improved profitability, improved service, and then obviously, the new loyalty program that we discussed.
+From an innovation standpoint, what I would tell you is our approach to innovation is purposeful innovation.
+When I say purposeful innovation, it's, you know, we don't sit and say: All right, we need this many new products.
+We need this many technologies.
+It's what's the global purpose that we're trying to achieve for this brand over time, right?
+So we look at obviously product being important, and we've got 2 product launches, you know, this year, which is significant for us, at least, that we've mentioned, you know, so far.
+We also, we believe innovation is more than just new products.
+In fact, if all you're doing is new products, in a way, you're kind of degrading your base product and you're hurting your service.
+What we'd like to do is also lean into other things.
+Pinpoint Delivery is a great example that we just launched right now.
+It's a technology innovation.
+We call those types of innovations, tequity drivers.
+It drives our technology equity.
+What it does, too, is it shows our consumers, from an innovation standpoint, how incredibly obsessed we are with delivery.
+Whenever we do that, whether it's in this case, with Pinpoint, we built our own vehicle.
+If you remember, years ago with the DXP, we had the electric vehicle launch earlier this year.
+When we show our customers that we are obsessed with the delivery process or even the ordering process, you know, there are 20 different ways to order a Domino's Pizza, they realize and recognize that means we're obsessed with every piece, and what that does is it drives long-term brand love.
+That's why we are, and we have to be, delivering these aggregator orders, right?
+We are obsessed with delivery.
+We do have Pinpoint Delivery.
+We do have fleets of vehicles out there, and we do it because we think there's a competitive advantage to owning the entire customer experience.
+That is why, you know, we're really leaning in and making sure we were the delivery, that us, as the delivery experts, were delivering the pizzas that we were getting through this platform were really important.
+You had a one-part question, I gave you a four-part answer to your one-part question.
+As you can tell, we're really excited about delivery here at Domino's Pizza.
+Dennis Geiger
+Executive Director and Senior Equity Research Analyst, UBS
+That's, that's great.
+Thanks, Russell.
+Russell Weiner
+CEO, Domino's Pizza
+Sure.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Gregory Francfort from Guggenheim.
+Your question, please.
+Gregory Francfort
+Managing Director and Senior Restaurant Analyst, Guggenheim Securities
+Hey, hey, thanks.
+Thanks for the question.
+Russell, my question just around the data and in terms of the new agreement with Uber and what you're gonna get.
+I think you put in the release a comment about getting sufficient data.
+What did you go into the negotiations wanting to have that relationship look like?
+Kind of what did you end up, what's going to be the go-forward arrangement?
+Thanks.
+Russell Weiner
+CEO, Domino's Pizza
+Yeah, sure, Greg.
+On the data standpoint, it was really important for us to get the data that we need to have in order to analyze the incrementality of the platform.
+So we are getting that.
+We appreciate that, you know, in the partnership.
+The other thing, and it probably hits you over the head as of course, but we are delivering the pizzas.
+If we deliver the pizza, that means we need every piece of information in order to deliver that pizza, which is the customer's name and address and contact information.
+So maybe those two things, the ability to analyze the incrementality and the fact that we're delivering the product, hopefully gives you a sense of what kind of data we'll be getting here.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Andrew Strelzik from BMO.
+Your question, please.
+Andrew Strelzik
+Managing Director and Senior Research Analyst, BMO Capital Markets
+Hey, good morning.
+Excuse me.
+Thanks for taking the question.
+I guess, this is a question really about value, but also about food costs.
+I'm curious if you expect to continue realizing food deflation going forward.
+I guess where I'm coming from is, you know, if the broader environment for delivery is pressured by, you know, price sensitivity or something like that, I mean, do you see an opportunity to maybe leverage deflation to alleviate some of those consumer pressures, or how do you think about that?
+Thanks.
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+Hey, Andrew, Sandeep.
+I think really important points that you bring up.
+I think from a value and food cost standpoint, as you know, we've actually had pretty significant volatility on the food basket over the last, call it, 7 quarters.
+I think when you look at 23 specifically, the food basket is basically up on a year-to-date basis, about 1%.
+Last quarter was a deflationary quarter with the -2.4%.
+Obviously, when you look at the guidance that we provided on 3%-5%, if the current level of food basket deflation that happened in Q2 continues, it's mostly driven by cheese, by the way, we should continue to see material upside on the food basket as we go through the balance of the year.
+This makes a huge difference to profitability of our franchisees, and I think that helps repair some of the pressure that they took last year in their profitability.
+From a price opportunity standpoint, I think what we've been very clear about from the get-go is value to the consumer.
+If there is a way to actually pass value to the consumer through all of our different promotional platforms, we always look to actually maximize that opportunity.
+That'll be continually be the way we actually approach this as well.
+It's too early to actually talk about where we're gonna take this, but the framework through which we'll analyze it is exactly the same as what we've always had on pricing.
+Russell Weiner
+CEO, Domino's Pizza
+I would just add to Sandeep's answer.
+You know, now that we're going to be in this incremental channel of aggregators, I think it's important to really understand that we have a new unlock for value.
+The best value, the best prices, the best offers, will be at dominos.com or our apps.
+The only way to get our great new loyalty program will be our apps or dominos.com.
+The only way to get Pinpoint Delivery, that's going to be our value channel.
+Essentially, what the aggregator platform opens up for us.
+Maybe let me give you my point of view on it.
+I don't think we need to get every customer on that platform.
+I think we need to get the right customers.
+Like I said, the value customers, we want them to come to dominos.com, but this will be a premium price channel for us, and specifically, the higher income customers that they've got, are the ones that we're going to be, you know, targeting here.
+I think if anything, this gives us more levers to unlock value for customers, but also value from our franchisees as far as a kind of a higher income, higher price marketplace.
+Andrew Strelzik
+Managing Director and Senior Research Analyst, BMO Capital Markets
+Great.
+Thank you very much.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Chris Carril from RBC Capital Markets.
+Your question, please.
+Chris Carril
+Senior Restaurants Analyst, RBC Capital Markets
+Thanks, good morning. on development, thanks for all the context around international, but I did wanna follow up on the U.S. outlook.
+Can you expand on just the pacing of U.S. development that you're expecting here for the balance of the year, and then beyond this year?
+How soon do you think that improving profitability and all the top-line drivers that you already spoke of can actually translate into more meaningful acceleration in U.S. store growth?
+Thanks.
+Russell Weiner
+CEO, Domino's Pizza
+Hey, great question, Chris.
+I'll take that one.
+I think, you know, internationally, I know your question was on the U.S., I'll get to that in two seconds.
+When you think about it on a global basis, every eight hours, somewhere around the world, we are opening up a Domino's Pizza, and I just think the magnitude of that is something that our team takes a lot of pride on.
+As Sandeep said, you know, we certainly expect the store growth to inflect towards the end of the year and especially into 2024.
+Let me give you some kind of perspective why.
+What I'd ask is just put yourself in the seat of our franchisees or as an investor and say, then now I'm specifically talking about the U.S. per your question, is, okay, if I'm gonna open up a store, if I'm gonna spend my money on a store, what do I wanna ensure?
+I wanna ensure profitability, right?
+Sandeep said, you know, we expect to be at least at $150,000 this year for our franchisees, which is, you know, up $11,000 if, you know, versus last year.
+You wanna see growing profits.
+The other thing you wanna do is you wanna look at the track record.
+Let me tell you a little bit about the track record of Domino's Pizza.
+When I say track record, look, there are always gonna be hiccups, right?
+The one thing that I think is really special is if you look at our domestic business over the last 12 months, we've only closed 16 stores. 16 stores, that's 0.2% of our base.
+I think the QSR average is about 1.5%-2%.
+We closed only 16 stores.
+Actually, the last time we closed more than 20 stores was in 2016.
+That to me is the, the reason to believe why we're gonna take a system that's already opening up more stores than its competitors and really lean in more because the profitability is better and the track record is fantastic.
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+I just wanted to add one thing to this, Chris, which I think is super important, because when we talked about the development outlook last quarter, we talked about it beginning to inflect in Q4 and then actually be very strong in 2024.
+This was before thinking about the Uber partnership.
+I think when you think about the Uber partnership, this is a tremendous value to the franchisees.
+The reason I say that is, if you think about what Russell just talked about, all of our national promotions and all the special deals that we have will only be on our platform, which means that what is actually being sold on the aggregator platforms will be essentially menu price, which actually drives great profitability for the franchisees and great flow-through to them.
+Those are all incremental transactions, as we talked about, going into 2024.
+The increase in profitability for the franchisees is going to be very material on top of what we already talked about last call.
+This, if anything, further accelerates the momentum in unit development in the US going into 2024.
+Chris Carril
+Senior Restaurants Analyst, RBC Capital Markets
+Great.
+Thanks so much.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Brian Harbour from Morgan Stanley.
+Your question, please.
+Brian Harbour
+Managing Director and Senior Equity Analyst, Morgan Stanley
+Yeah, thank you.
+Good morning.
+So just on the aggregator partnership, could you remind us again, it sounded like the $1 billion number you've cited was, you know, over multiple years, and as you perhaps add other partners?
+Have you thought about any sort of incrementality internationally?
+Then related to that, you know, you talked about kind of fighting for your fair share on those platforms.
+How else will you kind of do that besides just appearing?
+Do you intend to market that heavily?
+You know, do you intend to emphasize kind of service times relative to some of your peers?
+What are the other ways in which, you know, you actually compete against most of your peers, who, of course, are already on those platforms?
+Russell Weiner
+CEO, Domino's Pizza
+Yeah, Brian, you know, on the, on the international piece, you know, we already got a billion-dollar business there, and so we're expecting the same type of incrementality as we, as we take this from, you know, to those 13 incremental, you know, Uber Eats markets.
+Just wanna remind everyone on the call that, you know, between the U.S. and international, we'll be on 28 markets that we are overlapping with Uber Eats, and that means that because of where these stores are located, the markets and where the stores are located, 70% of our stores will be getting this incremental volume that we talked about.
+The billion US number is a net number, just to be clear.
+I think, you know, you did a great job answering some of the questions about how we're gonna distinguish ourselves on the platform here on the U.S.
+One of the key pieces is service.
+We will have the best service experience, we believe, in the pizza or restaurant industry.
+The only thing we care about is getting the pizza to your house warm and hot and delicious.
+The important thing, this is actually part of my opening remarks to our franchisees in Summer of Service, we're the only ones who, from the time you order, make your product, and the only person who touches it next is you, as the customer.
+We make it, and we deliver it, and we just think that's really, really special.
+Second, it's a premium price.
+Domino's has good prices.
+Even our menu prices, we've got a significant number of things that are going on on menu prices.
+I fully expect us to be of value there.
+Yeah, you're right, on service times, I expect not only the service to be at the, you know, high end, and when I say high end, the good end of that.
+You know, when you get the product, that experience is gonna be great because it will never have left Domino's hand.
+Finally, we will be spending marketing money.
+It's important to understand two things.
+One is, the only place we'll be spending our marketing money is on the platform.
+We won't be spending our money to drive consumers to the platform, but once they're on the platform, we of course, want to drive them to Domino's, and we've negotiated a return on advertising spend.
+That's in line with how we buy the rest of our digital media.
+We think it's gonna be a profitable one, but we know how to buy digital media on any platform.
+I'm excited to see what we can do there.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of David Palmer from Evercore ISI.
+Your question, please.
+David Palmer
+Senior Managing Director and Head of Restaurants and Food Producers, Evercore ISI
+Thanks.
+In the prepared remarks, you talked about how Domino's was on its way to restoring growth in U.S. delivery, and it's great to just hear mention of that.
+Is your thinking that the Uber Eats deal will get you to U.S. delivery same-store sales growth, or are there other major factors you're contemplating when you're targeting that?
+I ask that because the lower check minimum for loyalty sounds like it would be helpful to carry out transactions, but it's unclear what that would mean for delivery, if anything.
+Then maybe for Sandeep, did you contemplate this move to aggregators over a multi-year period when you lowered the multi-year growth targets earlier?
+Thanks so much.
+Russell Weiner
+CEO, Domino's Pizza
+Yeah, David, the loyalty program is really not just focused on carryout.
+I mentioned the carryout piece because that's really the front end on ticket.
+We expect, you know, obviously, through this deal as well, to get a lot of customers really interested in Domino's Pizza.
+We wanna have interactions for delivery customers, you know, at the low end, and that's one of the incremental things that we're driving here.
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+Yeah, and Dave, just to add on to your second question, which was the aggregator deal contemplated when we lowered the 2-3 year outlook that we provided in February?
+No, it was not.
+At that time, we had not gotten to the point where we thought we were gonna actually do it.
+I think this is, that's just the context you should have.
+David Palmer
+Senior Managing Director and Head of Restaurants and Food Producers, Evercore ISI
+Thank you.
+Russell Weiner
+CEO, Domino's Pizza
+Thanks.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of John Ivankoe from JPM organ.
+Your question, please.
+John Ivankoe
+Managing Director and Equity Research Analyst, JPMorgan
+Hi, thank you.
+I wanted to talk about delivery in general, but maybe specifically, what you've learned or have taught or have picked up as part of Summer of Service in terms of how that could, you know, change some of the mechanics of the way that delivery is working to make you more efficient.
+You know, certainly, you know, it's good to hear about an improvement of 2 minutes in service times.
+It's better than the 1 minute we were talking about before, how big of an opportunity is it to significantly improve the service times?
+You know, if you can make some comments about, you know, your access of attracting and retaining, you know, delivery drivers, is that a headwind or tailwind at this point, as you see it?
+Thank you.
+Russell Weiner
+CEO, Domino's Pizza
+Hey, John, thanks for the question.
+Yeah, I'll start with the attraction of delivery drivers.
+We actually have more applications coming in now for delivery drivers than we did back in 2019, we're excited about that.
+Some of that is what's translating to the improved service.
+Is we've got more drivers, I haven't really spent a lot of time talking about our electric fleet vehicles, we got about 1,000 of them coming on, actually, we have over 1,000 non-electric fleet vehicles.
+What that's done is, it's really opened up...
+Not every store really needs them, but the ones that are having trouble, getting delivery drivers, there are plenty of people with driver's licenses that don't have access to vehicles, that wanna drive for Domino's Pizza, and we're really seeing that make a difference.
+That's part of why you're seeing the current increase in momentum.
+The desire with Summer of Service is to, you know, continue to drive that in a few ways, right?
+One of it is just bringing it top of mind.
+Every franchisee in the U.S. is coming to Ann Arbor to do this, and so driving the importance and top of mind, driving the accountability on what it is that, you know, we expect from the delivery experience.
+Then lastly, driving some best practices, and these are best practices that already exist in the system, but new ones.
+You know, I'm really looking forward to sharing some of the things that we're sharing with our franchisees now in Summer of Service during Investor Day.
+What you'll see is the circle of operations for a Domino's Pizza today is very different than it was even just a couple of years ago.
+And those changes are really impacting service.
+Then there's the technology aspect of it.
+We've got systems, new systems that are gonna be running in our store as part of our next generation store system to really upgrade the level of service because we're helping our franchisees and our team members more.
+These systems are running in many of our stores today.
+For example, many of our stores are making pizzas before customers actually complete their orders online.
+Some of them are dispatching orders to drivers before those drivers are even back in the stores.
+If you're making pizzas before people finish ordering them, and you're dispatching them in a way that doesn't require your driver to come back into the store and find a parking spot, that's gonna help.
+Summer of Service is about best practices, but it's about, you know, introducing these kind of AI-enabled suite of services to help our franchisees and team members do their job more efficiently.
+John Ivankoe
+Managing Director and Equity Research Analyst, JPMorgan
+Thank you very much.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Brian Mullan from Piper Sandler.
+Your question, please.
+Brian Mullan
+Director and Senior Research Analyst, Piper Sandler
+Hey, thanks.
+Just a question on international business, specifically on China.
+Just wondering if you could comment on how the business is doing today, give a sense of how things feel in regards to the macro and the consumer over there right now and for the balance of this year.
+You know, understanding long-term opportunity is quite big.
+Just hoping to get your current take on the state of operations in the market and maybe the development outlook over the near term.
+Thank you.
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+Hi, Brian.
+Thanks for the question. look, we're really excited about the China market.
+I think we're doing extremely well.
+I think now that we've actually come out of the COVID years, we've actually seen a very strong growth in productivity over there.
+Great development actually happening, and huge potential for runway in terms of future development. it is going to be one of the biggest growth opportunities in the international portfolio.
+We are super excited about it.
+Russell Weiner
+CEO, Domino's Pizza
+You know, when we talk about our top 15 international markets and the fact that there are 10,000 plus stores still to build in those markets, obviously, China plays a big role there.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Joshua Long from Stephens.
+Your question, please.
+Joshua Long
+Managing Director and Research Analyst, Stephens
+Great.
+Thank you for taking my question.
+Was curious if you could give us some insight into how you're thinking about marketing and messaging as you build out your platform of seemingly disparate consumers.
+We've talked about in the past, how the delivery consumer, very different than the carryout consumer, and now thinking about the third-party opportunity.
+You're sitting on a wealth of transaction data.
+What kind of, you know, where, maybe where are we in terms of the opportunity to dig into that and really utilize it?
+What kind of changes or investments might be needed?
+Any sort of high-level thoughts you could share there around, you know, just really bringing this whole picture together from a marketing and communications perspective.
+Russell Weiner
+CEO, Domino's Pizza
+Yeah, sure, Josh.
+You know, what's really important to understand is there is a common marketing message really throughout, which is, you know, I'm not going to go in detail.
+I think it's a little bit of our special sauce, but suffice it to say, what a customer is looking for is a great overall pizza experience, no matter what channel they're ordering through.
+That drives the consistency and the strong brand messaging we've had, you know, for the last 10, 15 years.
+What I think, and actually, we're in a great place in the world now because there are so many different mediums out there.
+There's the marketing message, but also then there's the media buy.
+What we can do with the media buy is be very targeted.
+Yeah, that carryout customer that wants control and value, we can reach out to them that way.
+The delivery customer that's looking for, you know, maybe quick delivery times and a big bundle for a birthday party or whatever, we can do that as well.
+I think, you know, Domino's as a brand will have a singular meaning to customers.
+But what we'll do is we're gonna leverage media and really what I think is a best-in-class marketing or highest-in-class marketing budget in order to more personalize the message.
+That probably gets me to the last part of your question, which is: What am I excited about that we're doing today, but we're gonna lean into a little bit more?
+That is just personalization.
+As you said, we've got millions of users on the database and we're personalizing our message today.
+The tools are just getting better.
+That's where our investment's going.
+We're going to be at the forefront of that.
+Joshua Long
+Managing Director and Research Analyst, Stephens
+Thank you.
+Russell Weiner
+CEO, Domino's Pizza
+Thanks.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Andrew Charles from TD Cowen.
+Your question, please.
+Andrew Charles
+Managing Director and Equity Research Analyst, TD Cowen
+Great, thank you.
+I'm trying to fuse a two-part question on Uber into one part, so, please bear with me here.
+First, just given the reduction in ad fund earlier this month, will Uber Eats be funding advertising the platform in 2024?
+Then secondly, I appreciate that you're structuring the partnership, you know, with franchisee profitability at the center.
+What I'm curious about is qualitatively, not quantitatively, will the commission borne by franchisees be a fixed fee for these orders or a percent of the order volume?
+Russell Weiner
+CEO, Domino's Pizza
+Well, let me first answer the.
+I appreciate that.
+That's pretty good, the one-part question.
+I'm gonna have to I'm not as good as you, so I'm gonna have to give you a two-part answer.
+On the Uber piece of it, you know, first on the marketing funds.
+The marketing funds that we talked about earlier that are being used right now to cover some of the tech investments we're trying to do that are marketing related, by the way, came out of a surplus of that budget.
+That money was never, you know, could have been, should have been spent this year or even next year.
+We have plenty of money to continue to do what we do every year, which is increase the amount of GRPs out there to our customers, despite inflationary environment.
+That hasn't held us back at all.
+I'll let Uber comment on, you know, what kind of funding they plan to do.
+I think I talked to you a little bit about how our funding or marketing message is gonna be driving, you know, within the platform.
+Sandeep, you want to talk a little bit about the commission structure?
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+I think it's a really good question, there's quite a few things that are in there, Andrew, I'm gonna actually kind of unpack them a little bit for you.
+I'll start with the tech fee itself.
+Well, the tech fee is based on order counts.
+Every incremental order that actually comes through the platform, a tech fee will apply, same with any other order.
+I think that's one.
+I think the rest of it is what will royalties be payable on, basically, in terms of what we report?
+It's really the food, the food sales as well as the delivery fee.
+Our calculation of same-store sales and retail sales will include those.
+If there are any service fees or service charges that Uber actually charges, those really won't appear in our numbers.
+Those will be directly from Uber.
+Hopefully that this helps you kind of understand the structure of how this is gonna work.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Jim Sanderson from Northcoast Research.
+Your question, please.
+Jim Sanderson
+Managing Director and Research Analyst, Northcoast Research
+Hey, thanks for the question.
+Just wanted to follow up to the discussion on Uber and marketing programs.
+I'm wondering if you plan to participate in some of the free delivery charges or free promotions that we see often on third-party aggregators, if there's any concern that early on you might see some cannibalization of your own delivery business?
+Thanks.
+Russell Weiner
+CEO, Domino's Pizza
+Yeah, our delivery fee, and franchisee level delivery fees, they're all contemplated in our pricing structure.
+No, I don't think that's gonna be affecting our profitability at all.
+As we're on the platform, anything they wanna do with their customers to drive them to buy Domino's Pizza, that's really upside for us.
+Jim Sanderson
+Managing Director and Research Analyst, Northcoast Research
+That would be at their expense.
+Russell Weiner
+CEO, Domino's Pizza
+Yeah, I wanna be clear that the ways we're spending our money is specifically on things that we can measure with a something called return on advertising spend.
+That would be, you know, how we drive a customer on Google or, you know, any other kind of social media or digital media.
+Jim Sanderson
+Managing Director and Research Analyst, Northcoast Research
+And just-
+Russell Weiner
+CEO, Domino's Pizza
+Thank you.
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+Just to clarify one thing, I just wanna make sure we touch on it.
+Any promotional activity on the platform would have to be agreed with us, and I think we'll do that in partnership with them.
+I think that we'll be thinking through the holistic lens of those promotions.
+Operator
+Thank you.
+One moment for our next question.
+Our next question comes from the line of Danilo Gargiulo from Bernstein.
+Your question, please.
+Danilo Gargiulo
+Senior Research Analyst, Bernstein
+Morning.
+Russell, you started the call saying staffing levels are going to be important, and you're making improvement in staffing.
+I wonder if you could comment on the level of staffing at the Domino's stores and whether you see any staffing challenges to the service to service the incremental demand from aggregators if kind of the opportunity come to fruition as you were expecting?
+Russell Weiner
+CEO, Domino's Pizza
+Yeah, a great question, and I will give you a tongue-in-cheek answer to this one, is I very much hope and expect that we do not currently have the number of delivery drivers we will need for this incremental volume.
+I also know, and I'm confident, based on what we've learned through what's been, you know, a struggling time to hire drivers, that we know what it takes now, whether it's the certain hiring practices, if you look at our new training, if you look at actually our corporate stores and just the turnover numbers going down, as well as the incremental fleet we're talking about.
+Yes, do I expect to need incremental drivers?
+Yes.
+Yes, I expect to be able to get them.
+Operator
+Thank you.
+One moment for our final question.
+Our final question for today comes from the line of Jeffrey Bernstein from Barclays.
+Your question, please.
+Jeffrey Bernstein
+Managing Director and Senior Restaurant Analyst, Barclays
+Great.
+Thank you very much.
+Just I guess to bring some closure around the Uber discussion.
+I know for a long, long time, you guys had deemed that a partnership was presumably not in the best interest of the company and franchisees.
+Something, I guess, very recently maybe tipped the scales to push you to sign up now.
+I'm just wondering if you could talk about what kind of put you over the edge.
+I assume there are still some lingering headwinds that you're still conscious of and watching closely, that perhaps were some of the headwinds you were anticipating before.
+If you could just share, maybe, you know, what will be the consideration set at the end of 2024 to decide who you partner with going forward, whether it's still just Uber or whether you add somebody else, like, what would drive that decision?
+Thank you.
+Russell Weiner
+CEO, Domino's Pizza
+Sure.
+Thanks, Jeff.
+You know, really, for us, it came down to three elements: scale, scope, and incrementality.
+The scale of the aggregator, QSR pizza delivery business is big now.
+It's a $5 billion category.
+We're the number one pizza delivery company in the country, and we don't sell a single order on it.
+If there's a $5 billion opportunity, that kind of scale, you can expect us to compete for our fair share.
+The second is scope.
+The scope of the deal, and the terms of the deal is, are really favorable for us and our international and domestic franchisees.
+I said earlier, how now 70% of the stores will have access to potentially orders from Uber.
+The last piece is just the incrementality.
+It's clear from the work we've done internationally and the studies we've done here in the States, that we know how to manage this as a separate channel and drive incremental volume.
+Those things weren't always there in the past, as frankly, just to be perfectly honest, you know, we are a delivery company, and we needed to be able to deliver our own orders before we took on incremental, and we are absolutely doing that right now, as you can see, with the increased or the improvement in service time, and we're ready for that next wave of orders.
+Operator
+Thank you.
+This does conclude the question and answer session of today's program.
+I'd like to hand the program back to Russell Weiner for any further remarks.
+Russell Weiner
+CEO, Domino's Pizza
+Well, thank you so much, everybody, for joining the call this morning.
+Sandeep, Brian, and I, we really look forward to speaking with you again in October to discuss our Q3 2023 results.
+Have a great day.
+Operator
+Thank you, ladies and gentlemen, for your participation in today's conference.
+This does conclude the program.
+You may now disconnect.
+Good day!
+Data Source:
+Quartr
+Last updated:
+Jul 24, 2023
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (20)
+Quarterly report
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

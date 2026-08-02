@@ -1,0 +1,707 @@
+Domino's Pizza (DPZ) Q1 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Domino's Pizza, Inc. (DPZ)
+NASDAQ: DPZ · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+347.44
+-4.81 (-1.37%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+346.22
+-1.22 (-0.35%)
+After-hours:
+Jul 31, 2026, 7:58 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q1 2022
+Apr 28, 2022
+Quarterly report
+Earnings release
+Play Audio
+Download Transcript
+Jenny Fouracre
+Senior Director, Communications, Domino's Pizza
+Thank you for joining us today for our conversation regarding the results for the first quarter of 2022.
+Today's call will feature commentary from Chief Executive Officer Ritch Allison, and from our new CFO, Sandeep Reddy, and incoming CEO, Russell Weiner.
+As this call is primarily for our investor audience, I ask all members of the media and others to be in a listen-only mode.
+I want to remind everyone that the forward-looking statements in this morning's earnings release and 10-Q also apply to our comments on the call today.
+Both of those documents are available on our website.
+Actual results or trends could differ materially from our forecast.
+For more information, please refer to the risk factors discussed in our filings with the SEC.
+In addition, please refer to the earnings release to find disclosures and reconciliations of non-GAAP financial measures that may be referenced on today's call.
+Our request to our coverage analysts, we would like to accommodate as many of you as time permits, so we encourage you to ask only one-part question on the call.
+Today's conference call is being webcast and is also being recorded for replay via our website.
+With that, I'd like to turn the call over to our CEO, Ritch Allison.
+Ritch Allison
+EX-CEO, Domino's Pizza
+Thank you, Jenny, and thanks to all of you for joining us this morning.
+Before getting into the details of the first quarter, I would like to publicly welcome our new CFO, Sandeep Reddy, to the Domino's leadership team.
+Sandeep officially joined us on April 1, and we are thrilled to have found such an accomplished finance leader.
+You will hear from Sandeep in a few minutes.
+You'll also hear from Russell Weiner on today's call.
+Russell will officially step into the CEO role 3 days from now on May 1.
+With Russell and Sandeep in place alongside our outstanding leadership team, I have enormous confidence in the future of this company and of our great brand.
+Let's now turn our attention to the first quarter.
+As you saw in our release this morning, Q1 was a challenging quarter, particularly on the top line for our U.S. business.
+We got off to a slow start in January due to the Omicron surge, which impacted our stores and supply chain centers, further limiting our capacity to serve customer demand, particularly in the delivery channel.
+After a return to modestly positive U.S. same-store sales in February, we turned negative again as we began to overlap the impact of the 2021 federal government stimulus in March and have continued to face that overlap in April.
+While we saw momentum continuing to build in Q1 in our U.S. carry-out business and in particular digital carry-out, we are disappointed in our Q1 delivery results and still have a lot of work to do to restore growth in that important channel.
+I will also acknowledge that we are not satisfied with the sales or the margin performance in our corporate store business in the first quarter.
+Our team is fast at work on a comprehensive assessment and recovery plan to restore that business to the leadership role in our U.S. system that we expect it to play.
+Consistent with our communications during our prior earnings call, we faced significant inflationary cost increases across the business in Q1.
+Those cost pressures, combined with the deleveraging from the decline in U.S. same-store sales, resulted in earnings falling short of our high expectations for the business.
+While the quarter was certainly challenged, we also saw the solid foundation of the Domino's brand and business model on display, as evidenced by our robust global store growth that continues to demonstrate the strength of the Domino's operating model, along with our franchisees' ongoing commitment to investing in growth.
+During the quarter, we reached another significant milestone with the opening of our 19,000th global store.
+We have action plans in place that are designed to address the issues in our U.S. business as well as other initiatives that we are developing.
+That work will take some time, and we believe that we will continue to face pressure both on the top line for our U.S. business and on our bottom line earnings over the next few quarters.
+While we remain very optimistic about our ability to drive long-term profitable growth, in the near term, 2022 is shaping up to be a challenging year.
+Now, with that as a backdrop, I'll share a few additional observations on the U.S. business, followed by a brief review of our international performance.
+We have completed our analysis of U.S. franchisee P&Ls from 2021 and are pleased to share that our average estimated 2021 U.S. franchisee store-level EBITDA came in at $174,000.
+With our strong four-wall economics, we remain bullish on the long-term unit growth potential in the U.S., and we maintain our conviction that the U.S. can be an 8,000+ store market for Domino's.
+We believe it may take some time to accelerate the pace of U.S. store growth beyond the current 4-quarter run rate, given some of the continued development, supply chain, staffing, and inflationary headwinds we expect to continue to see in the quarters ahead.
+Staffing challenges continued during Q1, resulting in reduced operating hours and other service-related challenges in many stores across the U.S. business.
+To give you a sense for the magnitude, when we add up all the lost operating hours during the first quarter, US stores were cumulatively closed the equivalent of almost six days across the entire US business.
+As I shared last quarter, we believe it is instructive to break our US stores into quintiles based on staffing levels relative to an essentially fully staffed store.
+When we compare sales performance across the quintiles in the first quarter, it gives us a sense for the magnitude of the impact that staffing continues to have on our US business.
+Looking at Q1 same-store sales, stores in the top 20%, those that are essentially or close to fully staffed on average outperform stores in the bottom 20%, those that are facing the most significant labor shortages by 12 percentage points.
+When we look across the U.S. business, we continue to believe that consumer demand for Domino's remains very strong across the country.
+It is our current capacity to serve that strong demand, particularly for delivery customers, that has continued to be our greatest near-term challenge.
+Now, I'll share a few thoughts specifically about the carryout and delivery businesses.
+The carryout business was very strong in Q1, with U.S. carryout same-store sales 11.3% positive compared to Q1 2021, driven by both ticket and order growth.
+On a 3-year basis, our carryout same-store sales were up over 24% versus Q1 2019.
+As of January thirty-first, our $7.99 national carryout offer is now available online only.
+This supports a balanced approach of bringing value and a great experience to our customers online and is aligned with our goals of growing the digital carryout business and enhancing the profitability of our carryout orders.
+Online carryout orders generate a higher ticket and require a lower cost to serve than phone carryout orders, in addition to driving digital engagement and the opportunity to add members to our loyalty program.
+Thus far, we are very pleased with the initial results in our carryout business, with positive impacts on order counts, ticket, store-level margins, and in particular, digital penetration.
+During the quarter, we began a strategic campaign to support a transition to online carryout for our customers by offering a $3 tip for each online carryout order.
+This approach also aims to drive repeat purchases as the tip comes in the form of a coupon that the customer can use on their next order, which must be used the week after the initial purchase.
+Tying back to my comments earlier around the staffing quintiles, it's useful to note that we saw almost no difference in carryout same-store sales performance across the quintiles in the first quarter.
+We believe the relatively low labor intensity associated with carryout has largely insulated this business from the staffing challenges we see impacting delivery.
+Turning now to the delivery business.
+Q1 delivery same-store sales declined by 10.7% relative to Q1 2021, driven by order count declines, offset in part by higher ticket.
+Looking at the business on a three-year stack, Q1 delivery same-store sales remained almost 6% above Q1 2019 levels.
+When we look at the same quintiles relative to the delivery business, we see the stark impact that staffing had during the first quarter.
+We saw a 17 percentage point gap in delivery same-store sales between stores in the top 20% and those in the bottom 20%.
+It is this disparity in delivery performance that is driving the overall contrast in performance across our U.S. business.
+The gap between our top performers and our bottom performers has widened over the past year, and we are keenly focused on lifting up the underperforming stores.
+On March 14, we evolved our long-running $5.99 Mix & Match offer for the first time in over 12 years.
+Our delivery Mix & Match offer is now $6.99 each for any two or more items on the Mix & Match menu.
+We believe that $6.99 is still a great relative value for our delivery customers, offering variety, great taste, and a competitive price, while also reflecting the increased costs inherent in a delivery order.
+This approach can allow our franchisees to achieve balanced growth across ticket and orders, which is key to driving profitable long-term growth for their businesses.
+We are also bringing more value to our customers by adding 3 great products to the Mix & Match menu, 32-piece Parmesan Bread Bites, 6-piece wings, and 3-piece Chocolate Lava Cakes.
+Customers can now have even more variety, with more than a dozen items to choose from as they assemble their meals.
+We made these changes in part to manage through the significant cost inflation facing the business, and we did it using the same balanced approach we have successfully executed over the last decade by offering great value to our customers while giving our franchisees the tools to profitably grow their businesses over the long term.
+As we just implemented these changes to Mix & Match on March 14th, the new offers were only in place for two weeks of the first quarter.
+It is still very early, but so far results are fairly consistent with our expectations.
+Russell will be able to share more with you on the Q2 call in July.
+I'll turn now to our international business.
+It was another strong quarter of performance for our international business. I'm pleased to report that this was our 113th consecutive quarter of positive same-store sales growth in our international business.
+We are also encouraged that growth during the quarter was driven by a mix of ticket and order count increases as franchisees continue to provide great value to their customers globally.
+A clear highlight for the quarter was the outstanding store growth momentum that continued to build across our international business.
+When combined with our U.S. store growth, our trailing 4-quarter global net store growth of 7% aligns squarely within our 2-3 year outlook range of 6%-8%. 40 international markets opened at least 1 new store during the first quarter, demonstrating the broad and balanced growth across the business.
+I'll now highlight a few international markets of note.
+India once again led our international markets in store growth and opened their 1,500th store during the quarter.
+This was accompanied by continued same-store sales growth.
+We also continue to see strong sales and store growth from China.
+I'd like to congratulate Alamar Foods, our master franchisee across 11 markets in the Middle East and North Africa on the opening of their 500th store during the first quarter.
+Other markets of note with strong growth in the quarter included Mexico, Spain, Turkey, Taiwan, Iceland, and Guatemala.
+Our master franchisees across the globe continue to show resilience and a strong belief in the future of the Domino's brand in their markets.
+The combination of our global brand and systems with their local expertise gives me great confidence in both the long and short-term growth prospects in international.
+With nearly 96% of the global population and 75% of the world's GDP residing outside the U.S., we are just getting started.
+I'll turn it over now to Sandeep, who will take you through the details of the quarter, and after that, Russell will share his views on the road ahead and the actions we and our franchisees are taking to drive growth in the U.S. business.
+Sandeep, over to you.
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+Thank you, Ritch, and good morning to everyone on the call.
+I'm thrilled to now be a part of the Domino's team.
+Having had the privilege of working with many great brands over my career, this opportunity to work with such an iconic global brand with enormous growth potential is very exciting to me.
+I look forward to partnering with Russell and the leadership team as we craft a roadmap to continued value creation.
+To start with, I would like to comment on one of my initial observations in the past few weeks as I start to learn the business.
+Given the softness in comparable sales trends in the U.S. and the resulting contraction of operating income as a percentage of sales in the first quarter, we expect margins for the rest of 2022 to be pressured.
+However, we are already actively working on several initiatives to drive improved profitability.
+These include, number 1, exploring further optimization of our consumer pricing architecture in the United States.
+Specifically, this covers our many levers of pricing, which includes our standard menu pricing, national offers, local offers, and delivery fees to enable both our company-owned and franchisee stores to better cover the cost increases we are facing in both the food basket and labor market.
+Number 2, efficiencies in our cost structure as we seek to ensure that revenues consistently grow faster than expenses.
+Number 3, actions to accelerate our capacity to service the demand we see and generate incremental sales growth.
+Once implemented, we expect the initiatives I just covered to enable annual operating income margins to recover to pre-pandemic levels post 2022.
+I will now review our financial results for the quarter in more detail.
+Global retail sales increased 0.3% in Q1 2022 as compared to Q1 2021.
+When excluding the negative impact of foreign currency, global retail sales grew 3.6% due to sustained positive momentum in our international business, lapping 14% growth in Q1 2021.
+We've discussed in the past, we believe it remains instructive to look at the cumulative stack of sales across the business anchored back to 2019 as a pre-COVID baseline and will continue to do so for as long as we believe it is useful in understanding our business performance.
+Looking at the three-year stack, our Q1 2022 global retail sales, excluding foreign currency impact, grew 23.5% versus 2019.
+Breaking down total global retail sales growth, international retail sales, excluding the negative impact of foreign currency, grew 8.4%, rolling over a prior increase of 12.8% and are up 28% on a three-year stack basis relative to 2019.
+U.S. retail sales declined 1.4%, rolling over a prior increase of 15.3% and are up 18.8% on a three-year stack basis relative to 2019.
+Turning to comps. During Q1, same-store sales for our international business grew 1.2%, rolling over a prior increase of 11.8% and were up 14.5% on a three-year stack basis relative to 2019.
+The international comp in the quarter was driven by both ticket and order count growth.
+Same-store sales for our U.S. business declined 3.6%, rolling over a prior increase of 13.4% and were up 11.4% on a three-year stack basis relative to 2019.
+Breaking down the U.S. comp, our franchise business was down 3.2% in the quarter, while our company-owned stores were down 10.5%.
+We believe the difference in the top-line performance in our company-owned stores as compared to our franchise stores continues to be driven by more substantial operational challenges, combined with more conservative price increases as compared to our franchise stores.
+The decline in U.S. same-store sales in Q1 was driven by a decline in order counts, which were pressured by the very challenging staffing environment, which had certain operational impacts, such as shortened store hours and customer service challenges in many stores, both company-owned and franchised.
+The decline in order counts was partially offset by ticket growth, resulting from higher menu prices as well as more items per transaction and increases to our average delivery fee.
+Shifting to unit count, we and our franchisees added 37 net stores in the United States during Q1, consisting of 40 store openings and 3 closures.
+We also completed the purchase of 23 franchise stores in the Detroit DMA during Q1, bringing our total company-owned store count to 400 as of the end of the quarter.
+The purchase of these stores allowed us to consolidate the market along with higher-performing franchisees and should unlock growth in the Detroit DMA.
+We believe there will be some markets where corporate stores can unlock growth and others where franchisees can optimize the market, as was the case with the sale of our New York corporate stores to franchise partners in 2019.
+We believe leveraging our corporate portfolio to unlock growth will be an important strategic use or source of capital in the United States going forward.
+Our international business added 176 net stores in Q1, comprised of 217 store openings and 41 closures.
+More than half of the closures were in Brazil, where our master franchisee remains highly committed to the Domino's brand while making strategic decisions to get out of some underperforming locations to focus resources and grow stores in other areas.
+This brought our net global store openings in the quarter to 213.
+Turning to revenues and operating income.
+Total revenues for the first quarter increased approximately $27.5 million or 2.8% from the prior year quarter, driven by higher supply chain revenues resulting from higher market basket pricing to stores.
+This increase was partially offset by declines in our company-owned stores and US franchise revenues due to the decline in retail sales I mentioned earlier.
+Changes in foreign currency exchange rates negatively impacted international royalty revenues by $4.3 million during Q1.
+Our consolidated operating income as a percentage of revenues decreased by 270 basis points to 16.3% in Q1 from the prior year quarter, primarily driven by food basket and labor increases in excess of pricing increases, as well as G&A deleverage due to the decline in same-store sales in our U.S. business.
+Our diluted EPS in Q1 was $2.50 versus $3 in the prior quarter.
+Breaking down that 50-cent decrease in our diluted EPS, our operating results negatively impacted us by $0.36.
+Changes in foreign currency exchange rates negatively impacted us by $0.08.
+The gain on our investment in DoorDash in Q1 of last year negatively impacted us by $0.05.
+Our higher effective tax rate negatively impacted us by $0.04.
+Higher net interest expense negatively impacted us by $0.15, and a lower diluted share count driven by share repurchases over the trailing twelve months benefited us by $0.18.
+Although we faced operating headwinds in Q1, we continued to generate sizable free cash flow.
+During Q1, we generated net cash provided by operating activities of approximately $79 million.
+After deducting for capital expenditures of approximately $12 million, which included investments in our technology initiatives, such as our next-generation point-of-sale system and investments in our supply chain centers, we generated free cash flow of approximately $66 million. We invested $6.8 million in purchases of franchise operations in our Detroit DMA.
+We repurchased and retired approximately 101,000 shares for $47.7 million or an average price of $473 per share.
+As of the end of Q1, we had approximately $656 million remaining under our current board authorization for share repurchases.
+Subsequent to the end of the first quarter, we also returned $40 million to our shareholders in the form of a $1.10 per share quarterly dividend payment.
+In addition, we would like to update the guidance we provided in March for 2022.
+Based on the continuously evolving inflationary environment, we now expect the increase in the store food basket within our U.S. system to range from 10%-12% as compared to 2021 levels.
+Changes in foreign currency exchange rates are now expected to have a negative impact of $12 million-$16 million compared to 2021.
+We anticipate that we will continue to see fluctuations in commodity prices, including wheat and fuel costs and foreign currency exchange rates resulting from geopolitical risk and the impact on the overall macroeconomic environment.
+G&A is now expected to range from $420 million-$428 million as we cancel or delay some of the investments originally planned for 2022 and prioritize those projects we believe will be more near-term drivers of growth.
+CapEx is not expected to change from the $120 million projection we provided in March.
+Finally, while our global retail sales growth, excluding the impact of foreign currency in 2022, will likely drop below the low end of our 6%-10% 2-3-year outlook, we are confident that the long-term growth algorithm is still very much intact, and we expect to recover back to that range starting in 2023.
+Our practice has been to not comment on short-term sales trends in the business, and we do not plan to make a habit of doing so.
+However, based on the very unusual and volatile operating environment we and others are experiencing, we are making an exception in this case.
+On future investor calls, plan on us sticking with our 2-3-year outlook as the best indicator of our expected global retail sales trends.
+Thank you all for joining the call today.
+Now I will turn it over to Russell.
+Russell Weiner
+CEO, Domino's Pizza
+Thank you, Sandeep.
+Good morning, everybody.
+I wanna start off by thanking our franchisees and their teams for continuing to work incredibly hard to serve their communities during the pandemic.
+Domino's franchisees are the best operators in the business, delivering around 1/3 of the pizzas in this country every day.
+COVID and Omicron, in particular, require that they balance this volume with customer service and team member workload.
+We were faced with the same situation in many of our corporate stores.
+While none of us were satisfied with U.S. sales in Q1, I am confident in our ability to get back to the growth levels we and our franchisees expect.
+As indicated by our carry-out performance and the strength of our business in stores that were less constrained by labor shortages, we believe the demand for Domino's remains strong.
+Our focus now is on addressing the capacity constraints that have impacted our ability to fulfill this demand.
+Such constraints have led to demand shaping activity across the U.S. business.
+Things like reducing store hours, not answering phones, and restricting online orders.
+These bottlenecks are largely in our and our franchisees' control.
+As we distance ourselves from the peak of Omicron's impact, we're addressing them together with our franchisees.
+First, we'll be returning to our core standard operating hours.
+Knowing the last thing our franchisees want is to be closed, we're working with them closely to return to standard hours.
+This will be monitored along with online ordering uptime.
+Second, we have worked with third-party call center providers to facilitate and add capacity that will allow our stores to utilize call centers to take phone orders when necessary.
+This will allow stores to focus on production and delivery when they're short-staffed during peak hours.
+By the middle of May, we believe between 2,500 and 3,000 stores will be leveraging call centers in some capacity.
+That number can grow depending on our needs.
+Our corporate stores will be testing phone center options as part of this process, so we can understand the impact on operations, on store team members, customer service, and the P&L.
+Third, Boost Weeks will return this summer, and we expect they will continue moving forward in a cadence similar to our pre-COVID practices.
+Boost Weeks are key to building our business.
+They drive customer acquisition and grow our loyalty program.
+Now, while these actions will begin to take effect in Q2, we know from the quintile analysis that stores need to solve for different levels of staffing challenges, so it'll take some time for our entire U.S. system to get back to pre-Omicron levels of staffing. Additionally, we're facing two-year same-store sales overlaps of 19.6% in Q2.
+As such, we expect Q2 to be another quarter in which same-store sales will continue to be pressured.
+Next, I'd like to talk about our corporate stores.
+We are disappointed in the results of that business.
+As we've said in prior calls, our current mix of corporate stores, they're concentrated in areas more impacted by staffing shortages.
+That said, when adjusting for uncontrollables, these stores have underperformed similar stores owned by our franchisees.
+This has not been the case historically, and the gap is being addressed by our leaders of that business.
+They are already several weeks into operations recovery plan with 30-, 60-, and 90-day milestones.
+While corporate stores represent only 2% of our footprint around the world, they remain a critical strategic tool to develop talent and to test and refine innovation, and in some instances, to accelerate the growth of an under-penetrated market.
+We must restore their leadership from a performance perspective.
+Next, I wanted to talk through staffing and some of our plans to address it as a headwind on our performance this year.
+First, we're seeing an improvement in delivery service in many Domino's stores.
+By the end of Q1, delivery service has improved versus the same time last year in 42% of stores.
+This number improved sequentially in each period during the first quarter.
+Second, while it may take some time to get to full staffing levels, the majority of our franchisees support the boost week and a return to more aggressive promotions that drive customer acquisition.
+I believe this is an indication of their confidence that staffing and service will continue to improve.
+Third, with Omicron interruptions largely behind us, we were able to roll out a new service assessment program at the end of the quarter.
+The service assessment provides each store with its own specific service improvement objectives based on individual results.
+The service assessment also comes with tools to help stores identify and address where they have opportunities.
+We really expect this new program to help our franchisees as the year progresses.
+Finally, as Rich mentioned during our last call, we are continuing our deep dive on driver labor.
+A lot of the world of delivery has changed because of the pandemic, and we're thoroughly analyzing what all these shifts mean for our business.
+We're still doing the work of this important initiative and believe many of the solutions for how we can evolve and improve our driver staffing already exists within our system, as is evidenced by the performance of our top quintile stores.
+That said, we're coming at this analysis with an open mind and are exploring all avenues at our disposal.
+I am excited for what's ahead at Domino's, and I'm honored at the opportunity to lead the continued evolution of this great brand.
+Together with Sandeep and the rest of our leadership team, we will leverage the learnings from these headwinds we're facing today, and we'll use them to become even better.
+I look forward to talking with you about this in future calls.
+With that said, I'll send it back to Rich for some final words.
+Ritch Allison
+EX-CEO, Domino's Pizza
+Thanks, Russell.
+Looking forward, I have a great deal of confidence in you, our outstanding leadership team, and our incredible team members and franchisees here in the U.S. and all around the world.
+I'm optimistic about the future of this brand with many years of growth runway ahead.
+Today is my last earnings call, and I'll close my remarks this morning with a heartfelt thank you to our franchisees and team members across the globe.
+Over the last 11 years, you have inspired me every day with your passion, your commitment, and your innovative spirit.
+I'm truly grateful for the partnership and the friendship that you have extended to me.
+Serving you as the CEO of this great brand has been the highlight of my professional career.
+To our investors and analysts, it has been a pleasure to work with you over these years.
+Thank you again for joining us on the call today, and we will now be happy to take your questions.
+Operator
+If you'd like to ask a question, please press star then one.
+If your question has been answered and you'd like to remove yourself from the queue, press the pound key.
+As a reminder, we ask that you please limit yourselves to one question.
+Our first question comes from Brian Bittner with Oppenheimer & Co. Your line is open.
+Brian Bittner
+Managing Director and Senior Equity Analyst, Restaurants, Oppenheimer & Co.
+Thanks.
+Good morning.
+Rich, well wishes into the future.
+As we think about the U.S. business and the pressure that you guys are experiencing from staffing, stimulus rollover, et cetera, can you help us understand what your share trends look like year to date so we can better kind of understand how much of this is idiosyncratic to Domino's versus, you know, industry-wide headwinds?
+Just Russell, as you come into this role, is there any new strategic initiatives we could see you pivot towards to really help get the system more staffed more quickly, perhaps even, you know, gaining some operational help maybe through new partnerships?
+Thanks.
+Russell Weiner
+CEO, Domino's Pizza
+Hi, Brian.
+I'll answer your first question.
+On the share trends, you know, on those we rely on NPD information, and there's been so many switches from sit-down to when that sit-down was closed, people would get delivery.
+Now sit-down is open again.
+There's a lot of moving parts kinda up and down.
+When we look at kind of the total DELCO delivery carry-out share performance for us, we've held our own and actually moved up significantly on the carryout side.
+I suspect a lot of people have the same question you did on your second question, so I'm gonna take a little bit more time answering that, if that's okay.
+I wanted to start with a little perspective.
+I just got back from, over the last month, a listening tour where I visited with 155 of our US franchisees over the last month.
+What I can tell you that I heard was the only person more disappointed than the customer who can't order Domino's is the franchisee who owns that store and can't serve that customer.
+We take so much pride, our franchisees take so much pride.
+When I started Domino's in 2008, there's a motto that's thrown around, and I hold it close to my heart because it describes our franchisees, which is, "We are the last to close and the first to open." The fact, and Rich talked to this in his comments earlier, the fact that we were closed almost six days, is not something that our franchisees or us, that's not part of our DNA.
+Omicron is behind us now.
+I can tell you through these visits, they are ready to get after it.
+The question really is, you know, with that, what are we gonna do.
+The energy is there.
+Kinda what are we gonna do to address that capacity?
+I'll give you some, maybe some quantitative information and then a couple of facts along the way.
+First, what we've seen every period during Q1 is an improvement in our delivery service.
+In fact, you know, we ended the quarter with 2,700 stores, a little bit more than that, with delivery service better this year than it was same time last year.
+Like I said, it continued to improve every period.
+We're gonna return to our store hours, the core store hours.
+There were times at which a store had to decide, "Hey, do I let my staff go home because it's been a long day or not?" We are proud that they made the right decisions in that case.
+Again, we're in different situation now, and our franchisees and us feel like we can make that return to core store hours in all of our stores.
+Next, we need to free up capacity.
+Obviously bringing in new team members is one thing, but if phone calls are one of the things that maybe gets second fiddle a little bit if a store is busy, now moving and getting capacity for 3,000+ stores, and the number can increase, to take those phone orders, that's gonna take work out of the store where they can, you know, focus on making the pizza and delivering the pizza.
+Lastly, we haven't done Boost Weeks in, you know, a couple of years.
+Boost Weeks really is what drives new customers into Domino's, and that's where the magic happens with our loyalty program and all our digital and analytical capability.
+When you think about all I went through, hopefully you understand why I'm bullish on this.
+I'm bullish, but I think, you know, we also have to be realistic and that's why Rich talked about the last call, I talked about this call.
+We are undergoing a full assessment of the driver and delivery landscape both, you know, today and into the future.
+We do think a lot of the answers for some of the headwinds that, you know, you mentioned before and how we're gonna overcome them, hey, we're seeing them in our top quintile stores, right?
+A lot of stores are actually doing that.
+Our goal, my job, is to help everyone move to that top quintile.
+Our job as well is to make sure that anyone who wants a Domino's pizza gets a Domino's pizza.
+While we continue to look internally for best practices, I will tell you nothing is off the table when we think about long term and getting folks who want Domino's their delivery order.
+Brian Bittner
+Managing Director and Senior Equity Analyst, Restaurants, Oppenheimer & Co.
+Thank you.
+Operator
+Our next question comes from David Palmer with Evercore ISI.
+Your line is open.
+David Palmer
+Senior Managing Director, Restaurants and Food Producers, Evercore ISI
+Thank you.
+You mentioned the quintiles.
+How is staffing at the bottom one or two quintiles versus pre-COVID?
+You know, perhaps you can talk about how that's changed in recent months and even recent weeks, to the degree that that's given you confidence to this labor capacity getting better perhaps midyear-ish or so.
+Then maybe there's something tied into this call center as a solution.
+I'd love to get a sense of your confidence on getting that bottom up to pre-COVID levels.
+Thanks.
+Russell Weiner
+CEO, Domino's Pizza
+Sure, David.
+I think a couple things.
+One is, it's not just my confidence.
+We and our franchisees are aligned on bringing back Boost Week this summer.
+That means the entire Domino system is confident we'll be where we need to be.
+We're not gonna be perfect, but we're gonna try, and that's been our history, right?
+Last to close, first to open.
+How I'll address the quintile piece is maybe a better way to think about it maybe is what have we learned that the top quintiles do that we can help inform the bottom quintiles to move up?
+What's really interesting to me is only one of the learnings to me is something that's out of your control.
+In general, if you're an urban store, it's a little bit harder to staff than if you're a suburban store.
+As I take you through some of these other points, I think what you'll realize is these are things that are well within folks' control, and we just need to help lead and inform our franchisees.
+I'll take you through some of them, differences again, top quintile versus bottom quintile.
+They're gonna have more drivers on the road, right?
+Their drivers are gonna spend more time on the road, less time in stores doing things other than driving.
+They process their new hires more quickly, right?
+They're in markets that are more fortressed.
+We've been talking about fortressing forever and how important fortressing is from a delivery standpoint, but also how incremental it is from a carryout standpoint.
+I think the results here show that, us and our franchisees, we're really happy we started fortressing because that's a big difference in the quintile analysis.
+Higher AOS is another one.
+The last one, and this is really important, one of the biggest drivers of quintile performance is the strength and the tenure of the general manager.
+When I think about the things that are within our control, all but one of those things are, and we can get after that.
+Thank you.
+Operator
+Our next question comes from Peter Saleh with BTIG.
+Your line is open.
+Peter Saleh
+Managing Director, Restaurants and Food Distributors Analyst, BTIG
+Great.
+Thank you.
+I just wanted to come back to the conversation around delivery drivers and what you guys plan to do, I guess to, you know, attract more delivery drivers and keep the ones that you have.
+I think last quarter you talked about more scheduling flexibility and using technology to make sure you keep the drivers in their cars, I guess, more often.
+Just give us an update on where you are with some of those initiatives.
+If you feel like that's going to be enough, or do you think you have to really step up pay or push the franchisees to step up pay, to really, I guess, retain the drivers that you have and maybe go out and expand and find more drivers?
+Russell Weiner
+CEO, Domino's Pizza
+Thanks, Peter.
+From a pay perspective, obviously I can talk to our corporate stores.
+Over the last three years, we've increased wages well over $30 million.
+I don't think it's pay.
+I think it's a real holistic view.
+As I said earlier, that general manager is a big piece of it, and so you wanna make sure the store around them is, you know, as stable as possible.
+I think the way we look at hiring is really changed from start to finish.
+If you think about what we did this year that we really haven't done in the past to attract new people, is we used our television advertising.
+We had not done that in the past.
+We have a story out there with Lolly, a 27-year-old franchisee who owns two stores, started as a delivery driver, really as an aspirational goal.
+If you wanna be a general manager at Domino's, and an owner at Domino's, it all starts as being a driver.
+Getting awareness out there, we're a marketing company, and marketing staffing is something we hadn't done before.
+That brings in more people.
+Now, when they come in, what happens?
+Well, you have to process their applications more quickly.
+We rolled out a new ATS system, which helps applicants get through in less than five minutes.
+That piece is better.
+Once they start in the store, you need to do what you can to make the job easy, as easy as possible.
+There's a lot of, you know, pressure on those jobs.
+A lot of the technology that we've introduced addresses that.
+We talked last time about some operational best practices.
+Taking box folding away, for example, takes 30-40 hours out of a store.
+When you think about that kind of holistic working in a store, what we try to do is change our approach holistically to that.
+What I can tell you, though, is again, we are doing a full assessment of this area.
+We will have enough people to deliver Domino's Pizza.
+Ritch Allison
+EX-CEO, Domino's Pizza
+Peter, just one thing I would add to Russell's comments.
+You know, we're absolutely also looking at, you know, how we schedule, you know, those drivers once we have them, you know, on the payroll.
+Certainly, there are a lot of folks out there now looking for more flexibility, perhaps shorter shifts, maybe fewer hours over the course of the full week.
+We're taking a look at that scheduling component as well to make sure that the way, you know, we ask our team members to show up, you know, aligns in some cases better with, you know, their expectations of what they want to do.
+Peter Saleh
+Managing Director, Restaurants and Food Distributors Analyst, BTIG
+Thank you.
+Operator
+Our next question comes from David Tarantino with Baird.
+Your line is open.
+David Tarantino
+Senior Research Analyst and Director of Research, Robert W. Baird & Co.
+Hi, good morning.
+I just had one clarification question about the U.S. comps, and perhaps this is a bit nuanced, but I know you mentioned a lot of volatility around Omicron.
+I was wondering if you could comment on whether you've seen some stability in the business post-Omicron.
+You know, meaning, you know, if you look at growth relative to pre-COVID levels in February up through March, did it stay relatively stable in March, decelerate because of the comparison, or are you seeing a further deceleration?
+I guess that's one clarification.
+Then I guess my real question is really about the operational challenges and the impact that might be happening on consumer feedback or consumer perceptions towards Domino's more generally.
+Just wondering if you can comment on what kinda consumer feedback you're getting from some of the issues you're having on the delivery side.
+Thanks.
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+Good morning, David.
+This is Sandeep.
+I'll take the first part of the question, and then I'll pass it over to Russell for the second piece.
+I think when you talk about the cadence of U.S. comps, Rich talked about it in the opening remarks, and it was a very tough January with Omicron.
+February got a little bit better, but then we actually got.
+Backwards a little bit in March.
+We had a bit of a mixed bag as we went through the quarter.
+I think that the challenge that we actually saw was across the quarter quite significant.
+That's why we ended up down 3.6%.
+I think Russell talked about this in the prepared remarks as well.
+We're now up against a very tough comparison on a two-year stack, 19.6% in the second quarter.
+I think that's something to keep in mind, given how we actually finished up in the first quarter, that we're up against tough compares.
+That's really what's been happening from a cadence standpoint.
+Pivoting back to what Russell talked about in the opening remarks, we're doing a whole bunch of things to address this and accelerate demand.
+We're not gonna basically just accept where things are at right now.
+Everything that Russell talked about in terms of, you know, getting back to normal operating hours, using the call center to actually bolster our volume and be able to go create more capacity to take it is all gonna be critical.
+It's amazing that the Boost Weeks haven't been done for so long with the pandemic, but that should be a significant accelerator as well.
+Personally, when I come and take a look at comps in the first quarter, to me, it's an aberration when I look at the business performance over multiple years.
+I've gone back and looked at the history.
+On a three-year stack basis, we're up 11%, despite all these problems with labor that we're dealing with.
+I'm really bullish about our ability to bounce back once we actually start implementing the initiatives that Russell's talking about as we move through the year.
+Russell Weiner
+CEO, Domino's Pizza
+Great.
+Thanks, Sandeep.
+David, on the what are consumers saying question, I'll reflect back.
+You may know I started at Domino's in 2008.
+At 2008, we had a customer problem which affected demand, which is people didn't like the taste of our pizza.
+We actually had plenty of capacity back then.
+In fact, we were closing stores, and we were closing supply chain.
+Demand from a customer perspective is hard to create.
+We did it here at Domino's.
+Where we are now, the customer issue, we actually have plenty of demand.
+We just have that capacity problem.
+I say that just to reflect that this is a company and a group of franchisees that overcame what I think is a much more difficult issue.
+What the headwinds we're up against right now is we just gotta serve the demand that's coming our way.
+Are our customers happy about it?
+No.
+Do we have programs that can address them?
+Sure.
+We have an extreme delivery program.
+If you get your pizza late, you know, you'll get a free pizza next time.
+We've got the loyalty program.
+We got all those things.
+I also think our customers understand, they're not happy, but they understand what our team members are up against.
+If you remember, the amazing thing about the Domino's system is when COVID, you know, first was hitting its peak and everybody was closed, you know, our folks were open.
+And our customers don't forget that.
+Anyway, maybe a long way of answering your question, but I think we've overcome more difficult customer issues before.
+What they'll see soon is we're gonna be back to being the same Domino's as far as a delivery perspective.
+David Tarantino
+Senior Research Analyst and Director of Research, Robert W. Baird & Co.
+Thank you.
+Operator
+Our next question comes from Brian Mullan with Deutsche Bank.
+Your line is open.
+Brian Mullan
+Director, Restaurants & Food Distribution Equity Research, Piper Sandler
+Hey, thank you.
+Just a question on the domestic unit growth.
+You know, last call you'd given a heads-up that this year could be impacted by some COVID-related delays.
+It sounds like from your prepared remarks today that maybe the driver issues and general inflation could have an impact as well.
+You know, but at the same time, you expressed confidence in the unit economics and the 8,000 long-term targets.
+Could you just help us marry those two things?
+You know, can all these issues get sorted out this year and next year should return to that 4%-5% growth range, or could it perhaps take a bit longer than that in your minds?
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+Hi, Brian.
+This is Sandeep.
+I think if we look back at what we've done on unit growth in the past quarter, we've been really thrilled.
+Frankly, if you go back to the trailing twelve months as well, it's been a very impressive growth rate.
+We've on a global basis actually gotten to a growth rate of about 7%, which is very strong, and it's driven by strength both in the international store growth as well as the domestic store growth.
+What we have said is there are certain challenges that we faced in the last few quarters, especially because of supply chain delays and permitting delays and the like that have actually caused our rate of unit growth to be less than we'd like it to be in the past few quarters.
+Those issues probably are likely to persist for the next few quarters as Rich mentioned in the prepared remarks.
+However, when I look at the landscape of where we are in the U.S. business, our unit economics for the franchisees are industry-leading.
+It's amazing how much value they generate. $134,000 in EBITDA for the franchisees enables them to have a fantastic cash-on-cash return and an opportunity to continue expanding their footprint.
+We're at 6,600 stores, give or take, across the system, and the 8,000 plus objective is very much within reach.
+With the clip that we've been through this last trading twelve months, it's not that far away either.
+It's super exciting.
+I'm thrilled about the opportunity that we have because it's such a profitable business for our franchisees, and we're working all the time to make sure that they continue to be profitable.
+I think that's why we're very comfortable with the unit growth projections that we provided of 6%-8%.
+We're committed to that.
+We expect to see that this year and going forward.
+Russell Weiner
+CEO, Domino's Pizza
+Yes, Sandeep, I'll just, you know, add a little bit to your comments.
+You're right.
+I mean, 7%, right, that's right smack in between our 6%-8% guidance.
+I wanna do first a shout-out on the international side.
+You know, we're experiencing, you know, the last 12 months, our highest organic growth from a store perspective internationally.
+When I think about the US business, I really like to, you know, people say half empty, half full, what is your glass?
+My glass on US development is half full, and we're gonna fill it up more.
+Why I say half full is when you look at the pizza category in QSR, there is no one trailing 12 months, 2 years, 3 years, nobody has opened up as many pizza stores in the United States as has Domino's franchisees.
+So that is an absolutely huge accomplishment, and that is why I think the glass starts half full.
+You know, as Sandeep said, there are a bunch of things that they're dealing with now, both on the labor side and on the supply of things that you need to open up a store.
+May take some time to get beyond what you've been seeing.
+Again, wanna thank our franchisees for doing what nobody else is doing.
+They have high expectations, as do we, and that 8,000 number is within reach.
+Operator
+Our next question comes from John Glass with Morgan Stanley.
+Your line is open.
+John Glass
+Managing Director, Restaurant Analyst, Morgan Stanley
+Speaking of Glass, Russell, you didn't mention sort of the consumer reaction to the price increase in March to $6.99, but the business also got softer.
+Can you just talk about, has that been accepted?
+Is that not a factor as you look at your sales?
+Sandeep, I think you talked about, you know, further pricing actions, and I think one of the things on the list was further exploring, you know, price points and national offers.
+I sort of thought this was a one-time raise the price because there was so much equity in that you didn't want to adjust it further.
+Are you now reconsidering that and thinking about further increases in the national price point offers?
+Russell Weiner
+CEO, Domino's Pizza
+John, you totally threw me off my game because I'm just sitting here trying to think of a retort to the Glass comment.
+Well done.
+John Glass
+Managing Director, Restaurant Analyst, Morgan Stanley
+Thank you.
+Russell Weiner
+CEO, Domino's Pizza
+You know, on the two changes that we made from a promotion standpoint, the $5.99 one to $6.99, at least on the delivery side, remember, we held the carryout side, that was middle of March, and so we've got some time before we're gonna see what's happened there.
+I can say on the $7.99, you know, remember there were a couple of things that we did there.
+We did $7.99 to move it online because moving our carryout customer online is really important.
+They become part of the loyalty program.
+We can, you know, do all our data magic with them.
+At the same time, we also did the carryout tips promotion, and the only way you can get the carryout tip is to also go online.
+We've seen a 5 percentage point increase in our online carryout business.
+That strategy is absolutely working.
+I'll start answering the Sandeep question.
+I'll let you finish it.
+You know, John, we've been doing, when it comes to pricing, we've been doing pricing analyses since we launched $5.99 here at Domino's.
+It's not like we wrote it down on a piece of paper and decided to stick with it.
+That architecture is not set in stone.
+There's actually math and there are numbers behind all of it.
+Essentially what Sandeep is saying is true, but we look at pricing every day.
+I looked at pricing before I came down here.
+Doesn't mean we need to change pricing.
+What we do is we optimize our pricing to make sure that our customer has the best value relative to the competition, and that that drives the most bottom line for our franchisees.
+We can understand through our testing demand when we look at different brands, and we know what the input costs are from a labor standpoint, from a food standpoint.
+If things need to change to protect the consumer value proposition or to protect our franchisees' profitability, we will do that.
+That, I think, is what Sandeep was referring to.
+I don't.
+Sandeep Reddy
+EVP and CFO, Domino's Pizza
+Yeah, that's exactly right, Russell.
+I think, Russell hit it exactly because it's, in the end, it's a delicate balance between the value our consumers expect and then our franchisee partners who have to actually make sure that they generate the profitability to keep their growth going and our business continuing to grow the way it has.
+I think what we have to do is be cognizant of the fact that today we're dealing with a highly inflationary economy.
+The food basket is up double digits.
+Labor costs have actually gone up significantly.
+In this environment, I think we just wanna make sure that while we keep in mind that consumer value proposition, and we're making sure that the demand continues to flow, we still find a way to ensure the profitability of the franchisees is where it needs to be to drive that long-term growth for them and for us.
+That's as simple as it is.
+Operator
+Our last question comes from Jared Garber with Goldman Sachs.
+Your line is open.
+Jared Garber
+CFO, Just Salad
+Hi.
+Thanks for taking the question.
+Wanted to get a sense, you know, I know you've talked about this driver economic study, and maybe it's early days in there.
+Just wanted to get a sense of if you have any sort of early reads on maybe what specifically is keeping folks from sort of signing up to work at Domino's or to drive for Domino's.
+Fully understand sort of some of the Omicron-related headwinds in January.
+I think post that, we've heard from several restaurant industry peers that would suggest staffing levels that are back at or above pre-COVID levels.
+Maybe Domino's is seeing something different.
+Just wanted to get a sense of what you're seeing sort of in the early days of that study and how that's starting to inform some of your decision-making going forward.
+Thanks.
+Russell Weiner
+CEO, Domino's Pizza
+Sure.
+You know, when we talk about staffing, I really think you need to think that we essentially have two businesses at Domino's.
+We've got you know, a carryout pizza business and a delivery business.
+The carryout business has not really been constrained because there are no delivery constraints, the customer, as you know, we tip them, and the customer is their own delivery driver.
+That business over the last three years is up 24%.
+What we're really talking about here is, I think, stuff that's a little bit more specific to Domino's as a restaurant.
+I wanna be clear first, nobody in this country delivers more pizza than Domino's Pizza, so we have a lot of fantastic drivers there.
+I think the question is, can we deliver more than more?
+That's part of what this study is, this is part of what we're working with our franchisees on.
+Like I said, I do think we have a lot of the answers internally, we're gonna leave nothing on the table, when we look at options once this study is done.
+Jared Garber
+CFO, Just Salad
+Thanks.
+I guess maybe elephant in the room, but as part of that assessment, is third-party aggregators partnership being considered?
+Russell Weiner
+CEO, Domino's Pizza
+Nothing is off the table, but I've got a lot of faith in the Domino's system.
+We've got quintiles that are doing it.
+Like I said, our job is to fulfill the demand that customers have for us.
+Luckily, we don't have a demand problem right now, but nothing is off the table.
+Jared Garber
+CFO, Just Salad
+Thank you.
+Russell Weiner
+CEO, Domino's Pizza
+All right.
+Well, thanks.
+Operator
+This concludes the question and answer session.
+Please proceed with closing remarks.
+Russell Weiner
+CEO, Domino's Pizza
+Thanks, everybody, for joining the call this morning.
+Sandeep and I look forward to speaking with you in July to discuss our second quarter 2022 results.
+Have a great day.
+Operator
+This concludes the program.
+You may now disconnect.
+Data Source:
+Quartr
+Last updated:
+Apr 28, 2022
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (12)
+Quarterly report
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
