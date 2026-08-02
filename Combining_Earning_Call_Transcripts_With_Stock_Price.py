@@ -38,7 +38,6 @@ for file_path in txt_files:
     date_match = date_pattern.search(filename)
     dt_obj = None
     formatted_date_str = None
-    print(f"Line {inspect.currentframe().f_lineno}:  date_match = {date_match}")
     if date_match:
         raw_date_str = date_match.group(1)
         # Handle numeric month vs abbreviated text month
@@ -124,7 +123,6 @@ if not valid_records.empty:
 
             df_slice = df_ticker.loc[start_str:end_str]
 
-            print(f"Line {inspect.currentframe().f_lineno}:  df_slice.empty = {df_slice.empty}, len(df_slice) = {len(df_slice)}")
             if not df_slice.empty and len(df_slice) >= 1:
                 if isinstance(df_slice.columns, pd.MultiIndex):
                     start_open = float(
@@ -136,10 +134,8 @@ if not valid_records.empty:
                     )
                 end_close = float(df_slice["Close"].iloc[-1])
                 is_up = "YES" if end_close > start_open else "NO"
-                print(f"Line {inspect.currentframe().f_lineno}:  Ris_up = {is_up}")
             else:
                 is_up = "NO DATA"
-                print(f"Line {inspect.currentframe().f_lineno}:  Xis_up = {is_up}")
         except Exception as e:
             is_up = "NO DATA"
             print(
@@ -149,7 +145,6 @@ if not valid_records.empty:
                 f"Message = {e}"
             )
 
-        print(f"Line {inspect.currentframe().f_lineno}:  Zis_up = {is_up}")
         price_movement_map[(t, date_str)] = is_up
 
 # Map results back to main dataframe
