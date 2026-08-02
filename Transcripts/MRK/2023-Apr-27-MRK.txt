@@ -1,0 +1,732 @@
+Merck & Co. (MRK) Q1 2023 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Merck & Co., Inc. (MRK)
+NYSE: MRK · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+130.20
++0.41 (0.32%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+130.31
++0.11 (0.08%)
+After-hours:
+Jul 31, 2026, 7:58 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q1 2023
+Apr 27, 2023
+Earnings release
+Quarterly report
+Slides
+Play Audio
+Download Transcript
+Operator
+Thank you for standing by.
+Welcome to the Merck & Company Q1 sales and earnings conference call.
+At this time, all participants are in a listen-only mode until the question and answer session of today's conference.
+At that time, to ask a question, press star one on your phone and record your name at the prompt.
+This call is being recorded.
+If you have any objections, you may disconnect at this time.
+I would now like to turn the call over to Mr. Peter Dannenbaum, Vice President, Investor Relations.
+Sir, you may begin.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Thank you.
+Good morning.
+Welcome to Merck's first quarter 2023 conference call.
+Speaking on today's call will be Rob Davis, Chairman and Chief Executive Officer, Caroline Litchfield, Chief Financial Officer, and Dr. Dean Li, President of Merck Research Laboratories.
+Before we get started, I'd like to point out a few items.
+You will see that we have items in our GAAP results, such as acquisition-related charges, restructuring costs, and certain other items.
+You should note that we have excluded these from our non-GAAP results and provide a reconciliation in our press release.
+I would like to remind you that some of the statements that we make today may be considered forward-looking statements within the meaning of the safe harbor provision of the U.S.
+Private Securities Litigation Reform Act of 1995.
+Such statements are made based on the current beliefs of Merck's management and are subject to significant risks and uncertainties.
+If our underlying assumptions prove inaccurate or uncertainties materialize, actual results may differ materially from those set forth in the forward-looking statements.
+Our SEC filings, including Item 1A in the 2022 10-K, identify certain risk factors and cautionary statements that could cause the company's actual results to differ materially from those projected in any of our forward-looking statements made this morning.
+Merck undertakes no obligation to publicly update any forward-looking statements.
+During today's call, a slide presentation will accompany our speakers' prepared remarks.
+These slides, along with the earnings release, today's prepared remarks, and our SEC filings, are all posted to the investor relations section of Merck's website.
+With that, I'd like to turn the call over to Rob.
+Robert Davis
+Chairman of the Board, President, and CEO, Merck & Co.
+Thanks, Peter.
+Good morning, thank you for joining today's call.
+We began 2023 with significant advancements across key areas of our pipeline with continued strong performance of our key growth drivers.
+I remain very pleased with the consistency and excellence of our team's execution, I'm confident that our strategy is leading to sustainable success.
+We remain grounded in our shared purpose to bring forward bold science that delivers solutions which address serious unmet medical needs and importantly, save and improve lives around the world.
+Our priorities remain consistent.
+By focusing on our science-led strategy, we intend to bring forward important innovation from our internal discovery pipelines and via strategic business development targeted at accessing the most compelling and complementary external science, leveraging our best-in-class clinical development capabilities.
+We aim to sustain the momentum in our pipeline in 2023 and beyond, we're confident that this will lead to strong commercial and financial performance, as well as value creation for patients and shareholders over the long term.
+Speaking of accessing important external innovation, we're very pleased with our announced acquisition of Prometheus Biosciences.
+Prometheus brings us a potential best-in-class novel treatment that could transform the standard of care for patients suffering from ulcerative colitis and Crohn's disease, potentially debilitating conditions, as well as a broader pipeline and a technology platform that enables a precision medicine approach.
+It accelerates our presence in immunology, increases the diversity of our pipeline, and brings us a potentially significant revenue growth driver through the next decade.
+This transaction is also another example of Merck acting decisively when science and value align.
+Turning now to our first quarter results.
+We delivered very significant underlying growth, excluding the expected year-over-year decline in LAGEVRIO sales.
+This reflects continued fundamental strength and momentum across our key growth drivers, particularly in oncology and vaccines.
+These results reinforce our confidence in the robust demand for our innovative portfolio and in our outlook for the remainder of 2023, which Caroline will speak to in a moment.
+Moving to our research organization, we've made significant advancements.
+In cardiovascular, we shared the remarkable work of our research colleagues at the American College of Cardiology Conference in March.
+The strength of the data from the phase III STELLAR trial studying sotatercept in pulmonary arterial hypertension reinforces our belief in this important new mechanism's potential to change the treatment paradigm for patients.
+In addition, impressive results from the phase II trial studying our oral PCSK9 inhibitor suggests that this could be a globally accessible treatment option for patients in need of LDL cholesterol reduction.
+The successes we are achieving across our cardiovascular pipeline have created excitement across our company and a belief that Merck will build on its strong legacy of bringing forth breakthrough therapies for the benefit of patients suffering from cardiovascular disease. A nd that these programs will contribute significantly to our long-term growth.
+In oncology, we were pleased to share the positive top-line results from KEYNOTE-671, which showed a significant improvement in event-free survival in certain patients with early-stage non-small cell lung cancer, and we look forward to potential approval later this year.
+We are working with our partner, Moderna, to rapidly expand our efforts to study the combination of KEYTRUDA with an individualized neoantigen therapy, which we previously referred to as a personalized cancer vaccine therapy in adjuvant melanoma and potential additional tumor types.
+I'm very encouraged by the substantial progress we've made across our broad pipeline.
+We're now working on a greater number of late-stage programs across more therapeutic areas and modalities than at any time in recent years. In summary, we've begun 2023 with scientific, commercial, and operational momentum, and expect strong full year growth across both our human and animal health businesses.
+I'm proud of the progress we've made, but as always, recognize the need to move with speed and urgency to do even more.
+I want to thank our global team for their steadfast dedication as we build a sustainable innovation engine that will deliver value for patients and shareholders well into the next decade.
+With that, I'll turn the call over to Caroline.
+Caroline Litchfield
+EVP and CFO, Merck & Co.
+Thank you, Rob.
+Good morning.
+As Rob highlighted, we are off to a strong start to the year with robust underlying performance across our key growth pillars.
+These results further demonstrate that our focus on science and innovation at the core of our strategy is working.
+Our success is enabled by the excellent execution of our team of dedicated colleagues, who are delivering our important medicines and vaccines to people and animals across the globe.
+We remain very confident in our ability to continue to deliver in the short term while we make disciplined investments to maximize long-term value for patients and shareholders.
+Now turning to our first quarter results.
+Total company revenues were $14.5 billion.
+Excluding the impact from LAGEVRIO and foreign exchange, the business delivered very strong underlying growth of 15%.
+The remainder of my revenue comments will be on an ex exchange basis.
+Our human health business continued its strong momentum.
+Excluding LAGEVRIO, growth was 18%, driven by oncology and vaccines.
+Our animal health business also delivered solid performance, with sales increasing 5%, driven by growth across both livestock and companion animal products.
+Now turning to the first quarter performance of our key brands.
+In oncology, KEYTRUDA grew 24% to $5.8 billion, driven by robust global demand for metastatic indications, as well as increased utilization driven by approvals in early-stage cancers.
+In the U.S., KEYTRUDA grew across all key tumor types and continues to benefit from uptake in earlier stage cancers, including Triple-Negative Breast Cancer, as well as in certain types of renal cell carcinoma and melanoma.
+We continue to anticipate gradual uptake from KEYNOTE- 091 in earlier stage lung cancer, as we are working with the medical community to increase adjuvant treatment rates for diagnosed patients receiving surgery.
+We, along with others, are also working to improve upon the low level of lung cancer screenings and follow-up through diagnosis, which we anticipate will increase over time.
+We are encouraged by the positive feedback we've received thus far.
+We are excited by the potential to bring an additional treatment option to patients following the positive results of the KEYNOTE-671 study.
+Together, these studies position us well to extend our leadership in non-small cell lung cancer.
+We also look forward to providing a new treatment option to certain adult patients with bladder cancer following the recent approval of KEYNOTE-869.
+Outside the U.S., KEYTRUDA continues to maintain its leadership in non-small cell lung cancer.
+Growth was driven by uptake in metastatic renal cell carcinoma and certain types of head and neck cancer, as well as in earlier stage cancers, including certain types of high risk early stage Triple-Negative Breast Cancer, which continues to launch in additional markets.
+LYNPARZA remains the market-leading PARP inhibitor.
+Alliance revenue grew 8%, primarily due to increased demand in key European markets in certain patients with ovarian cancer.
+LENVIMA Alliance revenue grew 5% due to increased uptake in the treatment of certain patients with advanced renal cell carcinoma in key European markets.
+Our vaccines portfolio delivered excellent growth led by GARDASIL, which grew 43% to $2 billion.
+Performance was driven by strong demand in major ex-U.S. markets, particularly China, as well as increased supply.
+Growth also benefited from an acceleration of shipments to China from the second half to the first half of the year to ensure the availability of product to meet heightened demand following the approval of the expanded indication of GARDASIL 9 for girls and women 9 years- 45 years of age.
+Vaccine sales also benefited from the increasing demand for VAXNEUVANCE following the ongoing pediatric launch, particularly in the U.S.
+In our hospital acute care portfolio, BRIDION sales grew 27%, driven by an increase in market share among neuromuscular blockade reversal agents.
+Our animal health business delivered another good quarter, with sales increasing 5%, reflecting strong demand across our livestock portfolio, particularly in ruminant and poultry products, as well as strategic price actions.
+I will now walk you through the remainder of our P&L, and my comments will be on a non-GAAP basis. Gross margin was 76.9%, an increase of 6.1 percentage points due to favorable product mix, which reflects a benefit from the lower sales of LAGEVRIO.
+Operating expenses increased to $6.7 billion, reflecting $1.4 billion of charges related to the acquisition of Imago and our license and collaboration agreement with Kelun-Bio.
+Excluding these charges, operating expenses grew 12%, driven by increased investments to support our key growth drivers and pipeline.
+Other income was $70 million.
+Our tax rate was 20.4%, reflecting the unfavorable impact from the Imago transaction, for which no tax benefit was recognized.
+Taken together, we earned $1.40 per share, which includes a $0.52 impact from charges related to the acquisition of Imago and our agreement with Kelun-Bio.
+Turning now to our 2023 non-GAAP guidance.
+The continued operational strength of our business enables us to raise and narrow our full year revenue guidance.
+We now project revenue to be between $57.7 billion-$58.9 billion, including approximately $1 billion from LAGEVRIO.
+We expect strong underlying revenue growth of 8%-10%, offset by the decline in LAGEVRIO and an approximate 2 percentage points negative impact from foreign exchange using mid-April rates.
+Our growth margin is still expected to be approximately 77%.
+We have narrowed the estimated range of operating expenses to be between $23.3 billion-$24.1 billion.
+As a reminder, this range includes $1.4 billion of upfront research and development expenses related to the acquisition of Imago and our agreement with Kelun-Bio.
+This guidance does not assume the proposed acquisition of Prometheus or any additional significant potential business development transactions.
+Other income is anticipated to be approximately $250 million.
+We continue to assume a full year tax rate between 17% and 18% and approximately 2.55 billion shares outstanding.
+Taken together, we are increasing and narrowing our expected EPS range to $6.88-$7.00.
+This range includes a negative impact from foreign exchange of approximately 4 percentage points using mid-April rates.
+It is important to note that this guidance does not include the impact of the proposed acquisition of Prometheus, which is expected to close in the third quarter of this year.
+We expect the transaction will result in a one-time charge that will increase research and development expense of approximately $10.3 billion or approximately $4 per share.
+The impact of this charge will be reflected in both our GAAP and non-GAAP results.
+In addition, ongoing investments to advance the pipeline assets as well as the cost of financing will negatively impact EPS by approximately $0.25 in the first 12 months following close.
+As Rob noted, we are very excited by Prometheus' compelling science and confident that this transaction has the potential to create meaningful value for patients and shareholders.
+Our guidance reflects our continued confidence in the underlying strength of our business, driven by our key pillars in oncology, vaccines, and animal health.
+As you consider your models, there are a few items to keep in mind.
+In the U.S., KEYTRUDA has achieved exceptional growth over the past several quarters, driven by recent launches, particularly in early-stage indications such as Triple-Negative Breast Cancer.
+While we continue to anticipate growth from these earlier-stage indications, the year-over-year growth rate is expected to moderate as we anniversary their very strong initial uptake.
+Outside the U.S., we continue to expect strong volume growth for KEYTRUDA.
+However, pricing is an increasing headwind, particularly as we launch new indications in key European markets, which will temper ex-U.S. growth.
+Finally, we are well-positioned to protect many more people from HPV-related cancers now and over the long term.
+Given the strong global demand for the vaccine, we see an acceleration of growth for GARDASIL in the full year 2023 relative to 2022, though not quite at the same level of growth achieved this quarter.
+Shifting to capital allocation, where we remain committed to our priorities following the announcement to acquire Prometheus.
+We will continue to prioritize investments in our business and growing pipeline to realize the value of the many near and long-term opportunities we see.
+We remain committed to our dividend and plan to increase it over time. Business development remains a high priority, and we maintain the ability within our strong investment-grade credit rating to pursue additional science-driven, value-enhancing transactions going forward.
+We will continue to execute a modest level of share repurchases this year.
+To conclude, we remain very confident in the outlook of our business, driven by the global demand for our innovative medicines and vaccines.
+We are in a position of financial and operational strength, and our continued excellent execution will enable us to deliver value to patients and shareholders well into the future.
+With that, I'd now like to turn the call over to Dean.
+Dean Li
+EVP and President of Merck Research Laboratories, Merck & Co.
+Thank you, Caroline.
+Hello, everyone.
+Today, I will provide notable updates since the last earning call, starting with our progress in cardiovascular disease, oncology, then infectious disease, and subsequently immunology with our recently announced acquisition of Prometheus.
+As Rob mentioned earlier, at the American College of Cardiology, in conjunction with the World Congress of Cardiology meeting in New Orleans, results from the phase III STELLAR trial evaluating sotatercept for pulmonary arterial hypertension, as well as data from the phase II-B trial for our oral PCSK9 inhibitor candidate, MK-0616, in development for the treatment of hypercholesterolemia were presented.
+In the STELLAR study, sotatercept, in combination with stable background therapy, met its primary endpoint with a substantial improvement in six-minute walk distance at 24 weeks compared to placebo in combination with background therapy.
+The trial also met eight out of nine secondary measures, including a compelling reduction in time to clinical worsening or death versus placebo.
+These findings were published simultaneously in the New England Journal of Medicine.
+We are working diligently to submit filings from the STELLAR data to regulatory agencies, and at this time anticipate filing in the U.S. in the third quarter of this year, followed by the EU.
+We are advancing the broad sotatercept program, including the Hyperion, Zenith, SOTERIA, and phase II Cadence trials, which are actively recruiting.
+Also at the ACC meeting, detailed phase II-B results for MK-0616 were presented, showing a reduction of LDL cholesterol levels from 41.2 up to 60.9% versus placebo.
+Up to 90% of patients receiving MK-0616 at the highest dose study were able to reach their LDL-C goal.
+An oral PCSK9 inhibitor could provide the opportunity for broad global access.
+We are initiating multiple phase III studies, including in secondary prevention, intermediate to high-risk primary prevention, and for patients with heterozygous familial hypercholesterolemia.
+In parallel, we will conduct a cardiovascular outcomes trial.
+We are making progress towards our goal of developing medicines that improve and extend the lives of patients with cardiovascular diseases and look forward to providing updates in the future.
+Turning to oncology.
+As I have mentioned previously, a key area of focus and execution has been the development of treatments for early stages of cancer where there remains significant unmet need.
+We announced FDA acceptance of our application for KEYTRUDA in combination with platinum doublet chemotherapy as neoadjuvant, followed by adjuvant therapy in patients with resectable stage II, III-A, and III-B non-small cell lung cancer based on the findings to date from the KEYNOTE-671 study.
+The agency has set a PDUFA action date of October 16th, and detailed findings will be presented at ASCO in June.
+Together with the approval of KEYTRUDA in the adjuvant setting for certain patients with non-small cell lung cancer based on KEYNOTE- 091, the KEYNOTE-671 study builds on the wealth of data we have generated.
+Relevant additional ongoing studies include KEYNOTE- 867 and KEYLYNK-012.
+The comprehensive development program underscores our commitment to an area where there is significant opportunity to improve patient outcomes.
+Importantly, it also reinforces the need for early detection through lung cancer screening.
+At the American Association for Cancer Research annual meeting in collaboration with Moderna, we announced detailed results from KEYNOTE-942, a phase II-B study evaluating KEYTRUDA in combination with V940, also known as mRNA-4157, an individualized neoantigen therapy for the adjuvant treatment of stage III and IV melanoma in patients with high risk of disease occurrence following complete resection.
+These results are the first to demonstrate improvement of recurrence-free survival over adjuvant standard of care PD1 blockade in resected high-risk melanoma and provide the first randomized evidence that an individualized neoantigen therapy has potential benefit.
+The FDA has granted this combination breakthrough therapy designation, and the European Medicines Agency has awarded prime designation for high-risk stage III and IV melanoma following complete resection.
+Merck and Moderna plan to initiate a phase III study in adjuvant melanoma this year and rapidly expand to additional tumor types, including non-small cell lung cancer. Together with Astellas and Seagen, we announced the FDA's accelerated approval of KEYTRUDA in combination with enfortumab vedotin, an antibody drug conjugate, for the treatment of adults with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy.
+This accelerated approval followed priority review and is based on data from the KEYNOTE-869 trial.
+This is an important advancement as this is the first U.S. approval of a regimen combining an anti-PD-1 therapy with an antibody drug conjugate in these patients.
+The approval adds to the success of our foundational work evaluating KEYTRUDA in combination with chemotherapy and provides promising evidence for combining immunotherapy with tissue-targeted anticancer agents.
+We are well-positioned to build upon this work with a portfolio of next-generation antibody drug conjugates through our collaboration with Kelun-Biotech.
+Planning is underway for an expansive global clinical development program, and we look forward to initiating phase III trials for MK-2870, our TROP2-targeting ADC, as both monotherapy and in combination with KEYTRUDA.
+We also announced that the FDA has accepted our application for KEYTRUDA in combination with chemotherapy for the first-line treatment of patients with HER2- negative, locally advanced, unresectable, or metastatic gastric or gastroesophageal junction adenocarcinoma.
+This filing is based on results from the phase III KEYNOTE-859 trial, in which KEYTRUDA plus chemotherapy demonstrated a significant improvement in overall survival, reducing the risk of death by 22% compared to chemotherapy alone in these patients, regardless of PD-L1 expression.
+The agency has set a PDUFA action date of December 16th.
+This provides us the opportunity to expand upon our approval for patients with HER2-positive disease based on KEYNOTE-811.
+We recently announced positive data from the phase III NRG-GY018 trial investigating KEYTRUDA in combination with chemotherapy for the first-line treatment of patients with stage III, II-IV, or recurrent endometrial carcinoma.
+This is an important advancement for women with endometrial cancer, building on our approvals from KEYNOTE-146, KEYNOTE-775, and KEYNOTE-158.
+Earlier this year, the American Cancer Society's 2023 annual report on cancer facts and trends noted that survival for uterine malignancies had not improved over the past four decades due to a lack of treatment advances.
+We continue our work to provide better treatment options in women's cancer.
+The treatment of metastatic castrate-resistant prostate cancer remains a significant and growing unmet need and therefore an area of ongoing commitment.
+We have gained important insights to date from our trials evaluating KEYTRUDA and LYNPARZA, and are planning to initiate phase III studies of MK-5684, a novel oral nonsteroidal inhibitor of CYP11A1 from our collaboration with Orion by the end of this year.
+Also with AstraZeneca, we look forward to the discussion regarding the PROPEL study at the upcoming Oncologic Drugs Advisory Committee meeting.
+We are proud of the progress we are making and look forward to hosting an Investor Event at ASCO in Chicago.
+Please mark your calendars for the evening of Monday, June 5th, where we will provide an update on our oncology strategy and development program.
+Turning to the progress of our infectious disease program.
+We are now actively enrolling multiple new phase III studies for once daily islatravir in combination with doravirine, and with Gilead have resumed the phase II study of an oral once-weekly combination treatment regimen of islatravir and Gilead's lenacapavir.
+We are committed to advancing the science to offer new treatment options for the treatment of HIV.
+On LAGEVRIO, we continue to prioritize global access during surges of COVID-19 around the world, including in Japan, where the Ministry of Health, Labour and Welfare recently granted full approval for the treatment of COVID-19.
+We are proceeding with the evaluation of LAGEVRIO for the treatment of other viral respiratory infections and will share more as studies read out.
+Finally, to our recently announced acquisition of Prometheus.
+Prometheus offers a strong scientific pedigree with a candidate that has shown exciting potential in both ulcerative colitis and Crohn's disease.
+TL1A is a novel target which provides the potential opportunity to transform standard of care in a disease area where current therapies are often inadequate and high unmet need remains.
+Prometheus Biosciences' anti-TL1A antibody, PRA023, is a potential first-in-class late-stage clinical candidate with a unique dual mechanism of action, including anti-inflammatory and anti-fibrotic properties.
+PRA023's phase II results in both ulcerative colitis and Crohn's disease demonstrated strong efficacy.
+Further, at an interim analysis, the data in the biomarker-positive subpopulation suggested even greater efficacy, with patients more likely to achieve clinical remission. By combining Prometheus Biosciences' deep understanding of IBD and Merck's deep expertise in developing and implementing biomarkers, we hope to usher in a new era in immunology where patients are matched with the right therapy based on a precision medicine approach.
+Prometheus' biobank of IBD specimens have yielded deep molecular insights that form the foundation for the discovery of PRA052.
+We look forward to building on that knowledge to gain further insights, which will enable the identification and prioritization of additional targets.
+In closing, we continue to make progress towards our goal of creating innovative medicines that will improve the outcomes for patients.
+Now, I will turn the call back to Peter.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Thank you, Dean, Michelle.
+We're ready for Q&A.
+I'd like to ask analysts to limit themselves to one question today.
+We'd like to complete the call by the top of the hour.
+Thank you.
+Operator
+Thank you.
+Ladies and gentlemen, if you wish to ask a question, please press star one on your telephone keypad.
+You may withdraw your question at any time by pressing star two.
+If you are using a speakerphone, please pick up on the handset before pressing the numbers.
+Once again, if you have a question, you may press star one.
+One moment please for the first question.
+Terence Flynn with Morgan Stanley, you may go ahead, sir.
+Robert Cusick
+Biotech Research Analyst, Morgan Stanley
+Hi, this is Robert Cusick on for Terence.
+Thanks for taking our question.
+You and your partner, Moderna, are conducting a phase I basket trial of the PCV.
+Can you elaborate on the design of the trial, and if you have any of the data in-house at this point?
+Thanks.
+Dean Li
+EVP and President of Merck Research Laboratories, Merck & Co.
+Yeah, thank you.
+This is Dean.
+I probably wanna just focus really on the phase III that we're advancing in melanoma and likely in others.
+There is a basket trial that's going through to look at the extent of the tumors that a joint sort of KEYTRUDA plus a personalized or individualized neoantigen therapy will work.
+I can just give you a general sense.
+We have a little bit of a roadmap as to where immune sensitive tumors are, and we would likely prioritize those in our basket trial.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Great.
+Thank you.
+Next question, please.
+Operator
+Thank you.
+Our next caller is Seamus Fernandez with Guggenheim.
+You may go ahead.
+Seamus Fernandez
+Senior Managing Director and Senior Analyst, Guggenheim Securities
+Oh, great.
+Thanks so much for the question.
+My question is actually on the Kelun- Bio opportunity.
+Dean, just hoping if you could update us.
+I believe previously it was stated that we may see some longer-term data later this year.
+Just hoping to see if that is still the case or if competitive dynamics have kinda changed that commitment.
+Maybe if you could just help us understand your enthusiasm for that particular product and where you feel it would be likely differentiated from other products in the category.
+Thanks so much.
+Dean Li
+EVP and President of Merck Research Laboratories, Merck & Co.
+I'll just answer by the competitive dynamics make us more enthusiastic to push our programs harder and faster.
+We will be providing data from the data that we have in a series of cancers at ASCO on June fifth.
+We'll have a investor.
+It will also be in the ASCO, I believe already accepted for presentation there as well.
+We're very interested in that, and we're also very interested in the fact that, as we know, the first evidence of anti-PD-1 with an antibody-drug conjugate in our collaboration with Seagen, has shown good effect, and we postulate that that may be a broader impact, not just with one ADC or one indication, but more broadly, through multiple antibody-drug conjugates, and therefore our interest in advancing not just the TROP2 ADC, but many other ADCs that we haven't provided data as of this point.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Okay.
+Next question, please.
+Operator
+Thank you.
+Luisa Hector from Berenberg, you may go ahead.
+Luisa Hector
+Head of Global Pharma Equity Research, Berenberg
+Hi.
+Thank you for taking my question.
+I wondered if you could give us an update on KEYTRUDA.
+How it's looking in the adjuvant lung setting and relative positioning against your competitor, and how any subcutaneous formulation might change that, either from the competitor or you, and when might we have that phase III data on your newer form of the subcutaneous?
+Thank you.
+Dean Li
+EVP and President of Merck Research Laboratories, Merck & Co.
+Let me just grab the question about the early-stage lung.
+You know, as we've talked, the earlier stages are really important.
+We've already seen it in Triple-Negative Breast Cancer.
+We've seen it in RCC.
+We've seen it in melanoma.
+I think the aperture of being able to do it in lung is going to be substantial.
+Again, for our KEYNOTE-671, which is the first perioperative trial to announce a statistically significant and clinically meaningful improvement in EFS and statistically significant improvement in pathologic complete response, those will be presented in June as well.
+I would also emphasize that event-free survival and overall survival are the primary endpoints of our study.
+Most competitors do not have OS as a primary endpoint.
+I would also emphasize that this is also in the setting where we have perioperative, but we also have adjuvant as well, so we provide a broad treatment choice in relationship to moving forward in the earlier stage.
+In all earlier stage, whether it be lung, Triple-N egative Breast Cancer, RCC, melanoma, I think it'll be increasingly important to provide innovation that allows patients to have quote unquote more normal of a ability to stay on these treatments long term, they're a different profile than a metastatic patient.
+We believe that giving other routes of administration will be important, and we're advancing our subQ pembrolizumab, especially with hyaluronidase, because that gives us an ability to do both a Q3 weeks, and importantly, also allows us to do a Q6 weeks.
+That frequency, I think, will be very important for patients.
+Robert Davis
+Chairman of the Board, President, and CEO, Merck & Co.
+Luisa, I might just add from a commercial perspective, you know, the early-stage launch in lung with KEYNOTE-091 is off to a good start.
+We're actually seeing good uptake.
+As you know, the challenge here is that the overall screening rates are lower, so it's gonna be a slower climb than what we saw, for instance, or we have been seeing with Triple-Negative Breast Cancer.
+As we sit here today, the launch is going well.
+As we look forward, and hopefully once we, you know, with the potential approval of KEYNOTE-671, we'll be the only company that has both adjuvant and neoadjuvant offerings, as well as obviously a leadership position in the metastatic setting.
+As we sit here today, we continue to see this as a meaningful opportunity, and long term will continue to drive growth for us in lung.
+Obviously we gotta get that going to do that in the adjuvant setting.
+From a metastatic perspective, you know, we're continuing to hold our leadership position.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Great.
+Thank you, Luisa.
+Next question, please.
+Operator
+Thank you.
+Chris Shibutani with Goldman Sachs, you may go ahead, sir.
+Chris Shibutani
+Managing Director of Global Investment Research Division, Goldman Sachs
+Great.
+Thank you.
+For sotatercept, certainly a broad scope of potential, not just from the STELLAR results, but in earlier and later line you have Hyperion and Zenith.
+Can you remind us if there's potential for interim readouts, and if so, potentially what timeline?
+Relatedly, what are you thinking about in terms of your overall sort of PH, PAH strategy?
+You have assets now with Prometheus as well that have potential to be used in the systemic sclerosis ILD population.
+A lot of opportunity, if you can just help frame some strategic thinking.
+Thanks.
+Dean Li
+EVP and President of Merck Research Laboratories, Merck & Co.
+Yeah.
+I would just focus on the pulmonary artery hypertension.
+I would kind of keep that a little bit distinct from other forms of lung disease.
+One's a primary vascular, the other one is, could say, primary parenchymal.
+I kind of separate diseases like IPF and interstitial lung disease from scleroderma as distinct from those like pulmonary artery hypertension.
+You're right, we believe that sotatercept will be important.
+We are pushing forward with that sotatercept with the STELLAR.
+We have Zenith, Hyperion.
+There are interim analysis, I don't actually want to sort of lay out, many of them are event driven.
+The Zenith, as you well know, is really in a more advanced situation, and Hyperion is really trying to get it more in the front line.
+We also believe that it will potentially reshape how people think about the treatment of PAH.
+Largely, people have thought about vasodilatation or dilation.
+I think this mechanism, this activin signaling inhibitor, with the mechanism that it has, which remodels the tissue, will reshape the field.
+In reshaping it will potentially reshape the dynamics of the vasodilatory pathways.
+That's why we're so excited with our in-house sGC program, MK-5475, because we think that could be a very important combination agent with other vasodilatory mechanisms that are already approved, as well as in combination with sotatercept.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Great.
+Thank you, Chris.
+Next question, please.
+Operator
+Thank you.
+Chris Schott with JPMorgan, you may go ahead.
+Hardik Parikh
+Equity Research Analyst of U.S. Pharma and Biotech, JPMorgan
+Hi, this is Hardik Parikh calling in for Chris Schott. just one question on the BD front. you know, when you think about the progress that you guys have had in the internal pipeline, and then now you have the Prometheus deal, is there a priority or a bias when you consider, you know, business development from either early or later stage deals or from, you know, therapeutic areas, oncology, CV, or maybe some emerging therapeutic area in your portfolio?
+Robert Davis
+Chairman of the Board, President, and CEO, Merck & Co.
+Yeah, no, I appreciate the question.
+Obviously, and our view of this is really unchanged despite what you've seen us do both recently and to the fact you made point you made, we're seeing good progress in our internal pipeline.
+It starts with asking the question, where do we see the most compelling science that we think we can use to make a difference for an unmet need, and that has a strategic fit, and where we see value align?
+That's where we move.
+As we sit here today, we continue to believe there are opportunities for us to continue to do business development.
+We are very, I would say, pleased with the progress of the internal pipeline.
+As you look about the therapeutic areas where we have been adding, you know, obviously areas where you continue to see great science happening, oncology, there's a lot of science in oncology, immunology, and we've seen in cardiovascular.
+What's been driving us to the therapeutic areas has been the scientific opportunity we've seen.
+As we think about early versus late, it really will depend on the confidence the scientific team has in the particular opportunity.
+We don't target one versus the other, although I will tell you, we continue to not believe that going after, you know, commercialized assets just for the sake of revenue is not our strategy.
+We're focused on building the pipeline, both near and long term, and we do deals across the full spectrum.
+We talk about the acquisitions, in the phase II, phase III area, but we don't talk a lot about the fact we're doing a lot of collaborations and other licensing deals in their early phase.
+We really look at the total phase of development and always will be driven by the pipeline.
+If it brings with it a commercial opportunity, great.
+It always will have to have a pipeline element for us to wanna go there.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Great.
+Thank you.
+Next question, please.
+Operator
+Thank you.
+Carter Gould with Barclays, you may go ahead.
+Carter Gould
+Senior Analyst of U.S. Biopharma Equity Research, Barclays
+Great.
+Good morning.
+Thanks for taking the question.
+I guess for Rob and Caroline, would love to kinda hear your latest thoughts on sort of the EU proposed legislation and how that potentially changes how you think about launching drugs in Europe? A nd I guess also, the read-through would be also to how, you know, potential business development as well as you think about the timing of those revenues and potentially shorter exclusivity periods?
+Any thoughts on that front would be helpful?
+Thank you.
+Robert Davis
+Chairman of the Board, President, and CEO, Merck & Co.
+You know, if you look at what, the EU just put out, obviously the, the high level message is overall on balance we are concerned that it continues to put innovation at a disadvantage in Europe and puts Europe at a competitive disadvantage as we think about where to invest our dollars and where to bring new products.
+Now that said, on balance, there were elements of what were proposed that actually, we support.
+There are elements that we think need to be changed.
+On the side of support, clearly the fact that they have made some efforts to simplify and modernize the regulatory framework, which has the potential to accelerate approvals, that was very much something the industry pushed for, and we feel good about.
+As you point out, the area that balances that is very concerning, is the fact that they have reduced the data exclusivity period and made it largely contingent upon if you're launching in across the member states, whether or not you're doing comparative studies and whether or not you have launches.
+We need to understand that.
+We're gonna continue to try to make sure people understand the implications that can have as we think about where we would launch products, and that's work we will do.
+We have a couple years probably before this is put into place, so we have time to do the negotiation.
+You know, as I sit here today, I wouldn't say that I see specific implications to our business development strategy.
+It's more of just of the general theme of what is a push against innovation that concerns us because Europe's an important market.
+Getting access to our medicines to the people in the European Union is important.
+We wanna be there.
+We just have to make sure it's sustainable from a business perspective.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Great.
+Thank you, Carter.
+Next question.
+Operator
+Thank you.
+Tim Anderson with Wolfe Research.
+You may go ahead, sir.
+Tim Anderson
+Managing Director and Senior Equity Research Analyst, Wolfe Research
+Thank you.
+I have a question on GARDASIL and China.
+The Zhifei contract from your Chinese distributor published a couple of months ago shows really big purchase orders consistently for the next few years, then it kinda trails off and declines.
+If interpreted literally, it could suggest there's kind of a bolus effect going on, where growth isn't linear.
+It goes up for a while, then it contracts as you work through warehoused patients.
+Is that how we should think about the longer-term uptake of GARDASIL in that particular market, that it might not be linear?
+Thank you.
+Robert Davis
+Chairman of the Board, President, and CEO, Merck & Co.
+Yeah.
+Just if you look at the Zhifei contract, it's important to understand that the levels put in that contract are minimums.
+In fact, we have shown, and our history has been that actually we have supplied well over the minimum.
+I wouldn't interpret that as the literal forecast of the business in China because there's opportunities with the expanded age cohorts as we continue to drive penetration in what is still a large unmet population.
+There is opportunities to do better than what's in that contract.
+If history is an indicative of the future, we would expect to see that move forward.
+I would not interpret that as implying a decline in GARDASIL in China over the coming years.
+Caroline Litchfield
+EVP and CFO, Merck & Co.
+The only thing I would add is from a research perspective, we remain focused on studies in China to support gender-neutral vaccination, which could be a great opportunity to protect more lives and provide growth into the future.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Great.
+Thank you, Tim.
+Next question, please.
+Operator
+Evan Seigerman with BMO Capital Markets, you may go ahead.
+Malcolm Hoffman
+VP of BioPharma Equity Research, BMO Capital Markets
+Hi, this is Malcolm Hoffman on for Evan.
+We wanted to ask, with the phase III data, the Prometheus deal and novel assets like the oral PCSK9, does the team now think that this will be enough to grow through the KEYTRUDA LOE?
+Thanks.
+Robert Davis
+Chairman of the Board, President, and CEO, Merck & Co.
+Yeah.
+I'll take the question, Malcolm.
+Obviously, I would start by saying we feel very good about the progress we've made in a very short period of time.
+If you look at the opportunity to be in a situation to have sustainable growth well into the next decade, we feel like we've made significant progress, whether it's, as you point out, the deal with Acceleron, and then I would add the broad and strong internal pipeline we have in cardiovascular that, as you know, we've indicated has eight potential launches in the 2024-2028 timeframe, which has the potential to generate more than $10 billion as we move into the mid-2030s.
+We've talked about the fact from an oncology perspective, if you look at what we have from an ADC portfolio and a lot of the small molecules we've brought into business development, excluding anything from the individualized neoantigen therapy, the formerly what we used to call the personalized cancer vaccine with Moderna, so that's not even counted, we see greater than $10 billion of opportunity from those assets in that same timeframe.
+As we sit here today, we've made a lot of progress.
+I don't wanna, you know, predict do I think we're in a position to grow or not, we're not giving specific guidance.
+I would say, I feel given the rate of progress we've made, in such a short period of time, and given the timetable we have and our resources going forward and the progress that Dean is driving with his team in our lab.
+I am no longer focusing on 2028.
+I am looking at how do we have sustainable gro wth well into the next decade.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Thank you.
+Next question, please.
+Operator
+Andrew Baum with Citi.
+You may go ahead, sir.
+Andrew Baum
+Global Head of Healthcare Research, Citigroup
+Thank you.
+Question for Dean.
+Could you talk to the planned cardiovascular outcome trial for your oral PCSK9, in particular, how you balance some of the historic data supporting the idea that the medium trial treatment duration is closely tied to efficacy, and the parentals were probably dosed for too short a time, suggesting that you need to have a longer trial versus, on the other hand, the impact of the IRA curtailing returns, at least in the Medicare population in the U.S.?
+Thank you.
+Dean Li
+EVP and President of Merck Research Laboratories, Merck & Co.
+I thank you very much for that question.
+First of all, I just wanna emphasize that, you know, we're in active discussions with regulatory agencies in relationship to our program as we define the phase III trial.
+That I'll put out there.
+The second point I would just emphasize is there is an evolving view that I think the field is coming to grips with.
+It's not just that LDL is an excellent biomarker.
+It's not just that PCSK9 is an excellent pathway.
+It is the fact that our MK-0616 interdicts exactly in the same place as some of the antibodies.
+How one interprets that and how one thinks about biomarker data in that setting, I think it will be an evolving discussion with the regulatory agencies.
+The second question that you point out is the historic in the previous, I think you're referring to the fact that there is a view that if those studies with the antibodies had gone out a little bit longer, that they would've had a more profound impact in terms of outcomes.
+Those are things that we are speaking to the regulatory agencies as they think about the difference between a biomarker and the outcomes trial.
+I would echo your point of view, which is one doesn't wanna go too short that one risks the full maximum impact that you can have on the label. that, as you said, needs to be balanced with whatever the IRA looks like how many years from now.
+Those are the balances, but your observation about the other trials is one that we observe as well, and my general thinking is we should try to maximize the impact that we have on patients because whatever that label is, that label will stay forever.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Thank you, Andrew.
+Next question, please.
+Operator
+Mara Goldstein with Mizuho.
+You may go ahead.
+Mara Goldstein
+Managing Director and Senior Biotechnology Research Analyst, Mizuho
+Oh, great.
+Thanks so much for taking the question.
+I wanted to also ask a question on the personalized cancer vaccine with Moderna.
+Coming out of AACR, the response rate for the monotherapy arm, the KEYTRUDA arm, seemed low relative to some of the sort of historical comparisons.
+I'm wondering if you could speak to that, particularly in light of what we have seen, you know, for other, for other therapeutics that are being tested against KEYTRUDA monotherapy comparators?
+Dean Li
+EVP and President of Merck Research Laboratories, Merck & Co.
+Yeah.
+Let me just state that it's always something that we do and everyone else does, which is this cross-trial comparison between companies, but also within companies and their own agent.
+What I will say is that some of the issues that have been discussed was the pembrolizumab monotherapy arm performed comparably to KEYNOTE- 054 in the high-risk subgroups, which is stage IIIC and D.
+Those were also included in the KEYNOTE- 942.
+In general, the KEYNOTE- 942 had more advanced disease than those in KEYNOTE- 054.
+There's a way for us to sort of probabilitize given the same stage.
+We're very comfortable with the pembrolizumab monotherapy arm in the trial that Merck and Moderna proceeded with.
+I just want to just reemphasize that this to us is an important development scientifically.
+This is really the first time that I can recall seeing the impact of a personalized or an individualized neoantigen therapy or a personalized cancer vaccine that has that profound of a readout in a phase II.
+We're excited to advance that to phase III for melanoma and to spool up other trials in phase III, as we look to see how far we can, how far we can push this strategy.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Thank you, Mara.
+Next question, please.
+Operator
+Umer Raffat with Evercore.
+You may go ahead.
+Umer Raffat
+Senior Managing Director, Evercore ISI
+Hi, guys.
+Dean, on TIGIT, we know the doublet arm was not gonna meet the PFS, so by extension, the triplet may have a shot at meeting PFS.
+My question is, what is your confidence in getting to at least a 20% benefit or so on PFS?
+If that plays out, do you just wait for phase III?
+Do you speak to regulator?
+Like, what happens next, considering it's a second-line trial?
+Dean Li
+EVP and President of Merck Research Laboratories, Merck & Co.
+You know, I would just emphasize that the I think you're speaking about the phase II trial, and those phase II trials do provide us You know, the five phase III trials that we have ongoing.
+I will just say that those five phase III trials are going to be the thing that the FDA looks at.
+That's what they're going to look at, and we're advancing those and we're advancing them not just in metastatic situations.
+We have a series of them in lung, but I also just wanna emphasize something that I've said previously.
+It relates to what people have said about KEYNOTE-671.
+It relates to the question about individualized neoantigen therapy, and it will relate here.
+When we think about IO strategies, especially IO + IO strategies, increasingly our eyes are turning into the earlier stages of diseases, both because it's very important for patients, it's a time where we can really interdict early, but we also think that that's an important place for us to re-look at on all of our assets that are IO in that earlier stage.
+Robert Davis
+Chairman of the Board, President, and CEO, Merck & Co.
+Thank you, Umer.
+Next question, please.
+Operator
+Thank you.
+Daina Graybosch with SVB Securities, you may go ahead.
+Daina Graybosch
+Managing Director and Senior Biotechnology Analyst, SVB Securities
+Hi, thanks for the question. related to the previous two in your answer, Dean. in early-stage melanoma, it looks like you're gonna be pursuing two phase III combinations in parallel, adding on your TIGIT-vibostolimab and adding on the individualized neoantigen therapy.
+I wonder if you could talk to why you're taking two large shots on goal in the same indication, and should we expect a similar strategy generally, and for these two add-ons specifically in other early-stage indications?
+Dean Li
+EVP and President of Merck Research Laboratories, Merck & Co.
+I would just step back for just a moment.
+Our ability to go into earlier stage cancers were just unlocked maybe a couple years ago, right?
+In order to do combinations, it's very important that your base molecule actually has an impact, and because that allows you to do contributions of components.
+We're very comfortable moving our IO strategies in earlier stages.
+We are doing it, as you said, both for pembro and TIGIT, and as well as pembro plus the individualized neoantigen therapy.
+We're very confident that the desire of patients to be there is substantial, and our ability to recruit and do important trials there is it's also important.
+I would also say that as you see more readouts of earlier stage cancer for any of our assets, whether it be LYNPARZA, whether it be an ADC, or whether it be KEYTRUDA, it will be likely that we will target multiple combinations in those phases.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Great.
+Thank you, Daina.
+We're gonna try to get to two more questions, please.
+Operator
+Thank you.
+Colin Bristow with UBS.
+You may go ahead, sir.
+Yihan Li
+Associate Director of Biotech Equity Research, UBS
+Hi, this is Yihan for Colin.
+Thanks for taking our question and congrats on the quarter.
+Another question on the KEYTRUDA LOE.
+How much of a protective strategy in terms of the exclusivity could the subcutaneous formulation of the KEYTRUDA would afford you?
+Thank you.
+Robert Davis
+Chairman of the Board, President, and CEO, Merck & Co.
+I appreciate the question.
+As we look at the subcutaneous formulation and where that can be utilized, obviously it's focused more where we have monotherapy as we look at earlier lines of therapy.
+As we continue to advance our adjuvant and neoadjuvant strategy across the multiple tumor types, and then where we are combining KEYTRUDA with small molecules.
+Based on what we see, as we look out, we would expect about half of what we have as KEYTRUDA would be addressable through the subcutaneous route based on that definition of those areas.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Great.
+Thank you.
+Final question, please.
+Operator
+Thank you.
+Trung Huynh with Credit Suisse.
+You may go ahead.
+Trung Huynh
+VP of Equity Research and U.S. Pharma and Biotech Analyst, Credit Suisse
+Hi, guys.
+Just a quick one.
+Given your renewed interest in immunology, I just wanted to ask about gefapixant.
+GSK recently bought a product with a similar mechanism of action for around $2 billion.
+They had described peak sales in the single billion-dollar range.
+Perhaps can you just give us an update of where gefapixant is post the CRL that you have, and what's your expectations for this opportunity?
+Dean Li
+EVP and President of Merck Research Laboratories, Merck & Co.
+I'll start with that.
+As you recall, gefapixant, we had positive phase III trials.
+We had a CRL.
+The CRL has nothing to do with the safety or really any major concern that would require another clinical trial.
+The focus was on the way that the analysis was done and the way that costs were counted.
+We have submitted additional analysis and will be submitting additional analysis to the FDA in the first half of this 2023.
+In general, I believe that the timing is that on submission of all of that data, generally speaking, the FDA then readdresses CRL in within six months.
+We have it already approved in Japan and Switzerland.
+As you said, there is renewed interest given the recent transaction.
+I don't know if Caroline, would you like to answer that?
+Caroline Litchfield
+EVP and CFO, Merck & Co.
+I would just add that today this is a population that is very underserved.
+One in 10 people here in the United States have chronic cough, so it's a market that will need to be built.
+Should we be successful with our work with the FDA, we look forward to bringing forward an option that will be beneficial to patients and will drive revenue for our company.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co.
+Great.
+Thank you, Trung, and thank you all for your very good questions today.
+We look forward to hearing from you and engaging with you in the future.
+Thanks a lot.
+Operator
+Thank you.
+This concludes today's conference call.
+You may go ahead and disconnect at this time.
+Data Source:
+Quartr
+Last updated:
+Apr 27, 2023
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (19)
+Earnings release
+Quarterly report
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

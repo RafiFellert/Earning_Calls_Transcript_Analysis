@@ -1,0 +1,790 @@
+Merck & Co. (MRK) Q3 2025 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Merck & Co., Inc. (MRK)
+NYSE: MRK · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+130.20
++0.41 (0.32%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+130.31
++0.11 (0.08%)
+After-hours:
+Jul 31, 2026, 7:58 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q3 2025
+Oct 30, 2025
+Full Transcript
+Full Summary
+Quarterly report
+Slides
+Earnings release
+Play Audio
+Download Transcript
+Full Transcript
+Full Summary
+Summary
+Q3 saw 4% revenue growth to $17.3B, led by oncology, animal health, and new launches. Guidance for 2025 is $64.5–$65B in revenue and $8.93–$8.98 EPS, with strong pipeline momentum and new product approvals offsetting vaccine and LOE headwinds.
+Operator
+Welcome to the Merck & Co., Inc., Rahway, New Jersey, U.S.A.
+Third Quarter Sales and Earnings Conference Call.
+At this time, all participants are in a listen-only mode until the question-and-answer session of today's conference.
+At that time, to ask a question, press star one on your phone and record your name at the prompt.
+This call is being recorded.
+If you have any objections, you may disconnect at this time.
+I would now like to turn the call over to Mr. Peter Dannenbaum, Senior Vice President, Investor Relations.
+Sir, you may begin.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Thank you, Julie, and good morning, everyone.
+Welcome to the third quarter 2025 conference call for Merck & Company Incorporated, Rahway, New Jersey, USA.
+Speaking on today's call will be Rob Davis, Chairman and Chief Executive Officer, Caroline Litchfield, Chief Financial Officer, and Dr. Dean Li, President, Merck Research Laboratories.
+Before we get started, I'd like to point out that we have items in our GAAP results, such as acquisition-related charges, restructuring costs, and certain other items that we have excluded from our non-GAAP results.
+There is a reconciliation in our press release.
+I will also remind you that some of the statements that we make today may be considered forward-looking statements within the meaning of the safe harbor provision of the U.S.
+Private Securities Litigation Reform Act of 1995.
+Such statements are made based on the current beliefs of our company's management and are subject to significant risks and uncertainties.
+If our underlying assumptions prove inaccurate or uncertainties materialize, actual results may differ materially from those set forth in the forward-looking statements.
+Our SEC filings, including Item 1A in the 2024 10-K, identify certain risk factors and cautionary statements that could cause the company's actual results to differ materially from those projected in any of our forward-looking statements made this morning.
+Merck & Co., Inc., Rahway, New Jersey, USA, undertakes no obligation to publicly update any forward-looking statements.
+During today's call, a slide presentation will accompany our speaker's prepared remarks.
+These slides, along with the earnings release, today's prepared remarks, and our SEC filings are all posted to the Investor Relations section of our company's website.
+With that, I'd like to turn the call over to Rob.
+Rob Davis
+Chairman and CEO, Merck & Co., Inc.
+Thank you, Peter.
+Good morning, and thank you for joining today's call.
+We continue to make meaningful progress in using the power of leading-edge science to save and improve lives around the world.
+We're delivering value to patients and customers today through our innovative portfolio of medicines and vaccines, and we're securing our future by making important investments in our pipeline, the strongest and deepest in recent memory.
+We now have approximately 80 phase III trials underway across a diverse array of therapeutic areas, with important readouts coming over the next year in cardiopulmonary, immunology, HIV, ophthalmology, and, of course, oncology.
+We're investing behind more than 20 compelling launch opportunities, some already underway.
+These programs will transform our commercial portfolio and fuel future growth, with over $50 billion of revenue opportunity by the mid-2030s.
+We remain committed to the pursuit of disciplined, science, and value-driven business development to further augment our expansive pipeline.
+In the third quarter, we continue to successfully execute on our strategy with important pipeline advancements, significant approvals, and successful new product launches.
+Additionally, in October, we completed the strategic acquisition of Verona Pharma.
+This provides us yet another important growth driver with multi-billion-dollar commercial potential into the next decade.
+We're making strong progress across the business, and I remain confident in our ability to further broaden our impact to patients and deliver long-term growth and value for shareholders.
+With respect to U.S.
+Healthcare policy, as I've said before, we share the administration's goal of decreasing patient out-of-pocket costs for our products in the U.S., while at the same time realizing greater prices for our medicines and vaccines in countries that have not been paying fair value for the innovation we provide.
+We're actively engaged with the administration in an effort to find a path forward that achieves these objectives.
+We also want to preserve our ability to invest in the breakthrough innovations we intend to bring to patients in the future while ensuring the sustainability of our business long-term, and we're optimistic about our ability to do so.
+We continue to make significant investments in manufacturing in the United States.
+Last week, we announced a groundbreaking event at our Elkton, Virginia site as part of a broader plan that will result in the investment of more than $70 billion in expanded domestic manufacturing and R&D.
+These investments will support our plans to drive long-term growth and will strengthen the U.S. as a global leader in biopharmaceutical innovation.
+Turning to our third quarter results, we're pleased to deliver solid performance with continued strength across oncology and animal health, as well as increasing contributions from our new product launches: Winrevair, Capvaxive, and most recently, Enflonsia.
+In research, several notable updates highlight our strong progress.
+In cardiovascular, we announced positive top-line results from the CORALr eef Lipids trial, the third and largest phase three study evaluating Enlicitide, our investigational oral PCSK9 inhibitor, and the treatment of hyperlipidemia.
+We look forward to sharing these results at the American Heart Association meeting next week and submitting these data to regulatory authorities.
+In pulmonary arterial hypertension, full results from the Hyperion study in recently diagnosed patients reinforce our confidence in the practice-changing potential of Winrevair.
+Additionally, we secured FDA approval for our supplemental BLA for Winrevair based on the strong results of the Zenith trial.
+In oncology, we're pleased that the FDA approved subcutaneous pembrolizumab, or KEYTRUDA QLEX , and that the CHMP granted a positive opinion.  KEYTRUDA QLEX will provide patients and providers an important new option that can be injected in as little as one minute.
+We're working relentlessly to continue to develop and deliver new treatment options for patients with cancer.
+At ESMO, we presented data across a broad range of oncology medicines and candidates, including important findings from breakthrough therapy-designated ADCs.
+Finally, we continue to expand our efforts in immunology, including for another of our important late-stage candidates, tulisokibart, where we initiated phase II-b trials in three immune-mediated inflammatory diseases.
+These add to the phase II study already underway in SSc-ILD and the ongoing phase IIIs in ulcerative colitis and Crohn's disease.
+We're pleased to welcome our new colleagues from Verona Pharma and look forward to adding our commercial capabilities and scale to accelerate the launch of Ohtuvayre, a novel first-in-class maintenance treatment for chronic obstructive pulmonary disease.
+Strategic business development remains a top priority.
+We're assessing potential targets with urgency given our desire to make additional compelling investments when both science and value align.
+In summary, we remain highly focused on building on the strong clinical and commercial progress we made in the quarter.
+The investments we're making to advance and expand our pipeline are increasingly translating into positive clinical results and successful new product launches.
+This is giving us improved line of sight towards the transformation of our portfolio to one with a far more diversified set of growth drivers.
+With each milestone we achieve, including compelling strategic business development, my conviction that we're well-positioned to drive the next chapter of success for our company increases.
+I want to recognize the commitment and effort of our teams across the world.
+Together, I'm confident we'll achieve long-term growth and create sustainable value for both patients and shareholders.
+With that, I'll turn the call over to Caroline.
+Caroline Litchfield
+CFO, Merck & Co., Inc.
+Thank you, Rob.
+Good morning.
+As Rob noted, we delivered solid performance in the quarter, with growth driven by continued strength in oncology and animal health, as well as increasing contributions from our many new product launches.
+These results reinforce the conviction we have in our science-led strategy and in our outlook for continued growth.
+We remain confident in our ability to deliver strong results in the near term and are committed to making disciplined investments in compelling science to drive long-term value for patients, customers, and shareholders.
+Now turning to our third quarter results, total company revenues were $17.3 billion, an increase of 4% or 3% excluding the impact of foreign exchange.
+The following revenue comments will be on an ex-FX basis.
+In oncology, sales of Keytruda increased 8% to $8.1 billion, with global growth driven by strong demand for metastatic indications and robust uptake in earlier stage cancers.
+Usage in tumors that primarily affect women, including cervical, breast, and endometrial cancers, was a key contributor to growth.
+In addition, we saw increased use of Keytruda in combination with Padcev in first-line, locally advanced, or metastatic urothelial cancer.
+In the U.S., growth benefited by approximately $100 million from an extra Tuesday of shipments, partially offset by other channel movements.
+We are also excited by the recent FDA approval and launch of KEYTRUDA QLEX , which occurred at the end of the quarter.
+Our broader oncology portfolio achieved another quarter of strong growth, driven by Welireg, with sales increasing 41% to $196 million, predominantly driven by increased use in certain patients with previously treated advanced renal cell carcinoma in the U.S., as well as continued uptake from ongoing launches in certain international markets.
+In vaccines, Gardasil sales were $1.7 billion, a decrease of 25%.
+Excluding China, sales declined 3%, primarily due to lower sales in Japan, reflecting the expiration of reimbursement for the catch-up cohort, partially offset by sales growth of 13% in the U.S., which was attributable to price and CDC purchasing patterns.
+In pneumococcal, Capvaxive sales were $244 million, driven by demand from both retail pharmacies and non-retail customers, as well as the expected seasonal inventory build.
+We look forward to helping protect more adults from invasive pneumococcal disease and to driving continued growth of this important product.
+Vaxneuvance sales decreased 7% due to a competitor preferential recommendation in Japan, which more than offset growth in certain international markets.
+In the U.S., sales were roughly flat, as competitive pressures were largely offset by favorable CDC stockpile activity.
+In RSV, Enflonsia sales of $79 million reflect initial stocking ahead of expected demand.
+We look forward to helping protect infants born during or entering their first RSV season.
+In cardiovascular, Winrevair continued its strong momentum with global sales of $360 million.
+In the U.S., approximately 1,500 new patients received a prescription, and over 24,000 total prescriptions were dispensed in the quarter, a testament to the continued strong demand for this important treatment option.
+There was also an approximate $40 million negative impact from the timing of distributive purchases, which fully reversed in October.
+Compelling additional data from ongoing studies, which Dean will speak to in a moment, further support our outlook for steady new patient starts.
+Over time, we expect an increasing proportion of use in patients whose background therapies do not include a prostacyclin.
+Outside the U.S., we continue to make progress with securing approvals and reimbursement, including the recent launch in Japan, which is off to a good start.
+Overall, we look forward to positively impacting the lives of more patients with PAH.
+Our animal health business again delivered strong growth, with sales increasing 7%.
+Livestock sales grew 14%, driven by higher demand across all species, as well as a benefit from timing of sales.
+Companion animal sales declined 3% due to a reduction in vet visits and competition in parasiticides, partially offset by price, improved supply, and new product launches.
+I will now walk you through the remainder of our P&L, and my comments will be on a non-GAAP basis.
+Gross margin was 81.9%, an increase of 1.4 percentage points driven by favorable product mix.
+Operating expenses decreased to $3.6 billion.
+There were $300 million in business development charges in the quarter, compared with $2.2 billion in charges a year ago.
+Excluding these charges, operating expenses were flat, reflecting an increase in investments in support of our robust early and late-phase pipeline, as well as key growth drivers, offset by the timing of expenses.
+Other expense was $106 million.
+Our tax rate of 13.4% benefited from certain discrete items.
+Taken together, earnings per share were $2.58.
+Now turning to our 2025 non-GAAP guidance, which now includes the acquisition of Verona Pharma, as well as the restructured agreement for Koselugo.
+We expect full-year revenue to be between $64.5-$65 billion.
+This range represents growth of 1%-2%, excluding a negative impact from foreign exchange of approximately 0.5% using mid-October rates.
+Our gross margin assumption remains approximately 82%, including an updated estimate of less than $100 million in costs related to the impact of tariffs.
+Operating expenses are now assumed to be between $25.9-$26.4 billion.
+This guidance does not assume additional significant potential business development transactions.
+Other expense is now expected to be between $400 and $500 million.
+We now assume a full-year tax rate between 14% and 15%.
+We assume approximately $2.51 billion shares outstanding.
+Taken together, our EPS guidance is $8.93 to $8.98.
+Relative to 2024, this range includes a negative impact from foreign exchange of approximately $0.15 using mid-October rates.
+Recall, our prior guidance midpoint was $8.92.
+Our current guidance midpoint of $8.96 reflects a benefit from the restructured agreement for Koselugo of $0.09, partially offset by an estimated negative impact related to the acquisition of Verona of $0.04.
+As you consider your models, there are a few items to keep in mind.
+For Keytruda, as previously communicated, year-over-year growth in the U.S.
+In the fourth quarter is expected to be negatively impacted by approximately $200 million due to the timing of wholesaler purchases.
+For Enflonsia, we are pleased with the initial purchases in the U.S.
+Keep in mind that most of this was stocking ahead of expected usage in this RSV season.
+Lastly, as Rob noted, we have one of the most robust pipelines in our recent history.
+Importantly, all of our major programs are advancing, and we are excited about the additional opportunities in front of us.
+As we have said before, we intend to fully invest behind these opportunities.
+And as we look to 2026, we expect an acceleration in underlying operating expense growth, driven by investment in both R&D and SG&A to fuel our pipeline and new launches, including more than $500 million of investment to maximize the potential of Ohtuvayre.
+This will enable us to continue to bring forward innovative medicines and vaccines to make a difference in the lives of patients and drive growth for our company.
+Now turning to capital allocation, where our strategy remains unchanged.
+We will prioritize investments in our business to drive near and long-term growth.
+We will continue to invest in our key growth drivers and expansive pipeline of novel candidates, each of which has significant potential to address important unmet medical needs.
+We remain committed to our dividend, with the goal of increasing it over time.
+Business development remains a high priority, and we are well-positioned to pursue additional science-driven value-enhancing transactions.
+We are maintaining our increased pace of share repurchases and expect approximately $5 billion for the full year.
+To conclude, as we finish the year, we are confident in the outlook of our business, driven by global demand for our innovative inline portfolio, the exciting progress we are seeing with our many product launches, and our exceptional pipeline.
+With continued investment in innovation and our ongoing focus on execution, we remain well-positioned to deliver value to patients, customers, and shareholders now and well into the future.
+With that, I'd now like to turn the call over to Dean.
+Dean Li
+President of Research Laboratories, Merck & Co., Inc.
+Thank you, Caroline.
+Good morning, everyone.
+The third quarter was marked by several notable clinical and regulatory milestones.
+I will start with updates in oncology, followed by vaccines and infectious disease, immunology, ophthalmology, and then cover advancements in our cardiovascular and pulmonary programs.
+I will close by highlighting key upcoming events through the first half of 2026.
+Progress continues across our diverse oncology portfolio.
+Last month, we received FDA approval for KEYTRUDA QLEX injection for subcutaneous administration of pembrolizumab.
+KEYTRUDA QLEX offers a substantially quicker administration time than intravenous infusion of Keytruda and can be administered subcutaneously by a healthcare provider in as little as one minute when given every three weeks.
+It has the potential to provide flexibility in the site of care while helping to increase efficiency in and access to healthcare systems.
+We also see opportunity for use in certain patients with earlier stage disease.
+To date, Keytruda-based regimens have received FDA approval for 10 indications in the earlier setting.
+Last month, the European Medicines Agency's Committee for Medicinal Products for Human Use granted a positive opinion for subcutaneous administration of Keytruda.
+The European Commission has approved Keytruda as part of a perioperative regimen for the treatment of certain adult patients with resectable, locally advanced head and neck squamous cell carcinoma based on the phase III KEYNOTE-689 trial.
+We continue to build upon the extensive body of evidence for Keytruda in multiple indications spanning both earlier and metastatic stages of disease.
+At the European Society for Medical Oncology Congress, data from the Keytruda program were showcased in two presidential symposium sessions.
+These include progression-free and overall survival results from KEYOTE- B96 in certain patients with platinum-resistant recurrent ovarian cancer.
+The FDA has accepted our sBLA for priority review and set a PDUFA date of February 20.
+Also at ESMO, event-free and overall survival data from KEYNOTE- 905 in patients with muscle-invasive bladder cancer who were ineligible for cisplatin-based chemotherapy conducted in collaboration with Astellas and Pfizer were presented.
+The FDA has also accepted this sBLA for priority review with a PDUFA date of April 7.
+The success of Keytruda has enabled us to build a diversified oncology pipeline.
+At ESMO, data from our growing portfolio of antibody-drug conjugate candidates were also presented, including results for Sac-TMT, our TROP2 targeting ADC, from the phase III OptiTROP-L ung0 4 study in patients with EGFR-mutated non-small cell lung cancer conducted by our collaborator, Kelun.
+Findings from Kelun's phase III OptiTROP-B reast0 2 study evaluating Sac-TMT in locally advanced or metastatic HR-positive HER2-negative breast cancer, as well as results from the phase II/III REJOICE-Ovarian01 study evaluating R-DXd, our CDH6 targeting ADC in certain patients with platinum-resistant ovarian, primary peritoneal or fallopian tube cancer in collaboration with Daiichi Sankyo.
+Also, earlier this week, we were pleased to announce positive results for Welireg, our first-in-class oral HIF-2 alpha inhibitor across adjuvant and advanced renal cell carcinoma based on two phase III trials: LITESPARK-022 in combination with Keytruda and LITESPARK-011 in combination with Lenvima in collaboration with Eisai.
+Next, to vaccines and infectious disease.
+Starting with Capvaxive, our 21-valent pneumococcal conjugate vaccine.
+Following the approval in the U.S. and EU, in August, the Japanese Ministry of Health, Labor, and Welfare granted approval for Capvaxive for the prevention of pneumococcal infections in the elderly and adults at high risk.
+We are also evaluating the potential of Capvaxive in additional patient types.
+At the European Society of Clinical Microbiology and Infectious Diseases Conference on vaccines, results of the phase III STRIDE-13 trial examining the safety, tolerability, and immunogenicity in children and adolescents aged two to 17 years who are at increased risk of pneumococcal disease were presented.
+The FDA has accepted for review the sBLA and set a PDUFA date of June 18.
+Regarding RSV, following approval in June, Enflonsia, our long-acting monoclonal antibody for the prevention of RSV disease in infants entering or during their first RSV season, is now available.
+Early this month, we received a positive CHMP opinion from the European Medicines Agency.
+Turning to HIV, we have development programs spanning both treatment and PrEP settings anchored by our investigational NRTTIs islatravir and MK-8527.
+Earlier this month, new findings were presented at the European AIDS Conference, including 48-week phase III data for doravirine and islatravir as a once-daily oral two-drug regimen for the treatment of adults with virologically suppressed HIV-1 infection on antiretroviral therapy, and 96-week phase II outcomes data for the investigational once-weekly oral combination of islatravir with lenacapavir for adults with virologically suppressed HIV-1 infection in collaboration with Gilead.
+Moving to immunology, then ophthalmology.
+Tulisokibart is a humanized monoclonal antibody that targets tumor necrosis factor-like Cytokine 1A that is associated with inflammation and fibrosis.
+The phase III ARTEMIS trial in ulcerative colitis recently completed enrollment, and the phase III ARES trial in Crohn's disease remains on track.
+Building on these studies, we recently announced an expansion of the development program evaluating tulisokibart in dermatology and rheumatology indications with the initiation of three phase II-b trials.
+Since the acquisition of EyeBio last year, we have made significant progress advancing the phase III clinical development program for MK-3000, our novel candidate targeting the Wnt pathway for certain retinal diseases.
+Enrollment in the phase III Brunello study in patients with diabetic macular edema is complete, and the study's primary completion date has been accelerated to September 2026.
+Super Tuscan, a phase II study evaluating MK-3000 in patients with neovascular age-related macular degeneration as well as retinal vein occlusion, is currently enrolling.
+In addition, earlier this month, at the Eyecelerator event hosted by the American Academy of Ophthalmology, we presented promising first-time phase I data from the Rioja study evaluating MK-8748, our tetravalent bispecific antibody targeting Tie2 and VEGF in patients with macular edema secondary to branch retinal vein occlusion and neovascular age-related macular degeneration.
+Based on these data, we plan to initiate late-stage trials in 2026.
+Next, to our cardiovascular and pulmonary programs.
+Winrevair, the first and only activin signaling inhibitor for the treatment of adults with pulmonary arterial hypertension, continues to generate evidence for benefit across a broad spectrum of patients with PAH.
+Results from the phase III Hyperion trial in recently diagnosed adults with PAH were presented at the European Respiratory Society meeting.
+Adding Winrevair on top of background therapy showed a significant 76% reduction in risk of clinical worsening events compared to background therapy alone, despite early termination of the study due to loss of clinical equipoise.
+The findings were also published in the New England Journal of Medicine.
+The FDA also recently approved an update to the Winrevair product label based on the results of the phase III ZENITH trial, with the expanded indication.
+Winrevair is the first PAH therapy to have an indication that includes components of the clinical worsening events, hospitalization for PAH, lung transplantation, and death.
+With the closing of the Verona Pharma acquisition, we welcomed new colleagues to the team.
+Together, we are well-positioned to build upon the success of Ohtuvayre, a first-in-class dual phosphodiesterase III and IV inhibitor for the maintenance treatment of chronic obstructive pulmonary disease.
+We plan to advance the ongoing work in bronchiectasis and evaluate utility in additional indications, combination therapies, and alternative formulations.
+Despite advances in the screening and treatment, there continues to be a cardiovascular disease epidemic with ASCVD as the leading cause of death globally.
+In September, we announced that Enlicitide, our investigational oral PCSK9 inhibitor, met all primary and key secondary endpoints in the CORALr eef Lipid study, demonstrating statistically significant and clinically meaningful reduction in LDL cholesterol for the treatment of adults with hypercholesterolemia on a moderate or high-intensity statin or with documented statin intolerance.
+This is the third positive phase III trial for Enlicitide.
+We look forward to presenting the detailed results of the CORALr eef Lipid study, as well as a CORALr eef study focused on familial heterozygous hypercholesterolemia at the American Heart Association Scientific Sessions meeting next week in New Orleans.
+Please mark your calendars for an investor event at AHA on the evening of Sunday, November 9, where we will highlight these results and provide an overview of our cardiovascular and pulmonary program.
+We continue to see strong momentum across the pipeline.
+As Rob noted, there are approximately 80 phase III trials underway across multiple therapeutic areas.
+We have initiated more than 15 phase III trials this year and expect to have an increasing number in 2026.
+As we look through the first half of 2026, we anticipate a regular CADENCE of milestones across therapeutic areas, including in oncology, the February 20 PDUFA date for certain patients with platinum-resistant recurrent ovarian cancer based on KEYNOTE-B96, the April 7 PDUFA date for certain patients with earlier stage MIBC based on KEYNOTE-905.
+In HIV, the April 28 PDUFA date for the combination of doravirine and islatravir and oral once-daily treatment regimen, and data from the phase III ISLEND I and II trials evaluating islatravir in combination with lenacapavir as a once-weekly oral treatment regimen.
+In immunology, phase II data for tulisokibart from the ATHENA study in SSc-ILD, in cardiopulmonary for Winrevair, data from the phase II CADENCE study in pulmonary hypertension due to left heart disease, or Enlicitide, presentation of detailed results from three phase III trials from the CORALr eef development program.
+We continue to make progress with the diversified pipeline across multiple therapeutic areas, and I look forward to providing further updates on our programs in 2026.
+And now, I turn the call back to Peter.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Thank you, Dean.
+Julie, we're now ready for Q&A.
+If I could request that analysts limit themselves to one question apiece today, we need to end at the top of the hour.
+Thank you.
+Operator
+Ladies and gentlemen, if you wish to ask a question, please press Star 1 on your telephone keypad.
+You may withdraw your question at any time by pressing Star 2.
+If you are using a speakerphone, please pick up the handset before pressing the numbers.
+Once again, if you have a question, you may press Star 1.
+One moment, please, for our first question.
+Our first question comes from Asad Haider with Goldman Sachs.
+Please go ahead.
+Asad Haider
+Analyst, Goldman Sachs
+Great.
+Thanks for taking the question.
+Maybe for Rob on BD.
+I was reassured to hear in the prepared remarks that you are assessing potential targets with urgency, and certainly your Verona deal seemed well received, and it seems that the market wants to see more of those types of transactions from you.
+So I guess any updated framing on what you're looking for would be helpful.
+And then related, there's also been an ongoing pickup in discussions about the potential reemergence of potentially transformative larger transactions in the industry, just given the external environment.
+So curious if you could share your updated views there.
+Thank you.
+Rob Davis
+Chairman and CEO, Merck & Co., Inc.
+Great.
+Asad, thanks for the question.
+As it relates to business development, as you point out, we were very excited about getting the closing of the deal with Verona, and as you know, we continue to see Ohtuvayre as a multi-billion dollar opportunity.
+So excited about that, but as we've also said, we're not done.
+We do need to do more.
+We continue to look across all therapeutic areas.
+I would say, obviously, the areas of focus for us continue to be aligned with what are our key therapeutic areas from the business perspective.
+Oncology continues to see a lot of opportunities.
+Immunology, cardiometabolic, and the like are where we're continuing to focus.
+As is always the case, science will drive us, and when we see a scientific opportunity where there's an unmet need that we think strategically aligned with our approach, if we see value, we'll move.
+So no change in our approach.
+And as you think about deal size, we continue to be focused in that $1 billion-$15 billion range as the primary area, but as we've been clear to say in the past, we are willing to go larger than that, but always with the focus on science and always understanding that if we look and see an opportunity, we're going to do it based on that unmet need.
+As you think forward to your broader question on the reemergence of potential larger scale deals, our view of that has not changed.
+We do not think that a transformative acquisition, a synergy-driven deal is something that we need to do, nor aligns with our future, because, as you know, we have one of the most robust pipelines we've ever had, and we see large synergy-driven deals as disruptive to that activity.
+And so our focus will be on bringing in pipeline assets, not on those types of deals.
+But as you think about that, as we've said in the past, we're open to phase I all the way through phase III, and where we can find it, commercial opportunity.
+So we look across the full spectrum.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thank you, Asad.
+Next question, please, Julie.
+Operator
+Thank you.
+Our next question comes from Jeff Mitchell with Citibank.
+Please go ahead.
+Jeff Mitchell
+Analyst, Citibank
+Great.
+Good morning, everyone.
+Thanks for the question.
+I've had a pipeline one for Dean.
+So on the expanding development of your TL1A immunology, I'm assuming that a broad development program was already in place surrounding the Prometheus deal, but maybe talk about the selection of the indications that you just announced from a mechanism perspective, and maybe what additional development opportunities do you like across the IBD space?
+Thank you.
+Dean Li
+President of Research Laboratories, Merck & Co., Inc.
+Yeah.
+Thank you very much for the question.
+I mean, the focus initially was in the GI space, and our ambition is to be the first and best-in-class TL1A.
+We've always talked about that expansion.
+We've always thought about that expansion, and that expansion has been recently sort of outlined with recent phase II-b studies in rheumatology and dermatology.
+The question is, could we see more?
+I will always leave that open.
+I do think that the phase III for ulcerative colitis, and especially for Crohn's disease, is very important to me, not just because it's in GI, but in Crohn's, there's an element of fibrosis.
+And the other one is the phase II and SSc-ILD.
+I'll need to see that, because if I see that and Crohn's disease, then you all of a sudden start talking about not just similar to other anti-cytokines, dampening down inflammation.
+You then have a leverage in terms of fibrosis, and that would steer us in relationship to what we would do next.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thank you, Jeff.
+Next question, please, Julie.
+Operator
+Thank you.
+Our next question comes from Akash Tewari with Jefferies.
+Your line is open.
+Akash Tewari
+Analyst, Jefferies
+Hi.
+Thanks so much.
+So your team has talked about a 1.0 and 2.0 solid tumor strategy, with 1.0 being Stack Team 3, sorry, Sac-TMT and then 2.0 is combining the ADCs with the PD-1 VEGF.
+At ESMO, it looks like your TROP2 is showing a 6-12-month benefit on overall survival.
+At least it's trending that way in second line.
+And that's triple what we're seeing with the PD-1 VEGF.
+So what gets you more excited?
+The signal you're seeing with your TROP2 or the PD-1 VEGF class, and how does that impact your appetite to potentially run another round of phase III combo trials with the Lenvima asset?
+Dean Li
+President of Research Laboratories, Merck & Co., Inc.
+Thank you.
+Yeah.
+So I should probably reset.
+I don't believe that we've said anything in relationship to how you've talked about it in terms of the different phases.
+We are extremely excited about the TROP2, the Sac-TMT, and we've had a productive relationship with Kelun.
+One of the things I would just emphasize is it's very easy to sit there and say, "Oh, this is a TROP2 ADC," and we throw all the TROP2 ADCs in a bucket as if they're not different.
+I think the recent data suggests that there may be differences, and we're really interested as we move 15 phase III studies, but 10 of them are actually in places where the other TROP2s haven't gone.
+So we're very interested in pushing the Sac-TMT in the appropriate place with IO or with other precision targeted.
+In relationship to the PD-1 VEGF, we're also interested in advancing that and seeing that data just evolve, not just with us, but from the outside world.
+And that will define to us where we would put the PD-1 VEGF in relationship to PD-1.
+But I just want to just make sure that we're very excited about the Sac-TMT.
+We've shown data.
+Kelun has shown data.
+You've highlighted how it's different.
+We believe that we're eager to see the trials that can drive that in not just in the Chinese patient populations, but in the U.S. and globally.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thanks, Akash.
+Next question, please.
+Operator
+Thank you.
+Our next question comes from Evan Seigerman with BMO Capital Markets.
+Your line is open.
+Evan Seigerman
+Analyst, BMO Capital Markets
+Hi, guys.
+I wanted to just touch on the Enflonsia launch in the United States.
+Heading into RSV season, can you just talk about the initial feedback, say, versus the competition, and kind of what you're seeing in terms of potential uptake as we head into RSV season?
+Thank you.
+Rob Davis
+Chairman and CEO, Merck & Co., Inc.
+Yeah.
+Maybe I'll start, and then if Caroline wants to jump in, she can as well.
+Overall, we feel good about where we are with Enflonsia.
+If you look at how that launch has progressed, I would point out that while we did receive, obviously, all the full approvals, we were a couple of weeks later than initially expected.
+So that did play into this because it put us a little bit later into the season.
+We did highlight, as Caroline pointed out in the prepared remarks, there was $75 million or $79 million of initial stocking, and that really was the seeding order from the VFC as well as other wholesaler distributor stocking.
+So as we sit here right now looking at the season and into next year, we really continue to see an opportunity.
+I would point out, if you think about the benefits Enflonsia brings, there's no weight-based dosing, our ability to look at our total contracted portfolio of vaccines.
+All of the things we've talked about continue to make us believe this will be a very important vaccine.
+And as we look forward into 2026 and beyond, we continue to see that.
+We'll see where the rest of 2025 plays out, but all in all, given the timing when we started, we feel good.
+Caroline Litchfield
+CFO, Merck & Co., Inc.
+And just to add to Rob's comments, we had the seeding order in the third quarter.
+We expect that to be utilized during the fourth quarter.
+Feedback from customers has been very good, and we look forward to having an impact this season and much more of an impact as we go into 2026.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thanks, Evan.
+Next question, please.
+Operator
+Thank you.
+Our next question comes from Daina Graybosch with Leerink Partners.
+Your line is open.
+Daina Graybosch
+Analyst, Leerink Partners
+Hi.
+Thank you for the question.
+I wonder if you could give us an update on Keytruda and the proportion of the sales that you have from early stage setting and a breakdown of which of those tumor types of the 10 approved is driving that revenue.
+Thank you.
+Rob Davis
+Chairman and CEO, Merck & Co., Inc.
+Yeah.
+I'll start, Daina, and then Caroline can jump in as well.
+So if you recall, if you look at where we are in the earlier stage setting, we have currently 10 approved indications, now five with overall survival, which is important.
+If you look at where we are going forward, the drivers of that in that cervical continue to be important, RCC.
+We continue to see TNBC and non-small cell lung cancer all are important drivers.
+We're obviously excited.
+We don't have approval yet, but you heard that we have yet another potential OS benefit coming with 905, I believe it is, that Dean spoke about earlier.
+So yet more coming, and that's in muscle-invasive bladder cancer.
+So a lot out there.
+We're excited about where it goes.
+It's driving over half of our growth right now is coming from earlier stage indications.
+And we achieved, if you look back to, we indicated we would be at 25% in 2024.
+In 2025, we're exceeding 25%.
+We've not given specific targets, but we see it growing as a percent overall of total sales, and it's over half of our growth.
+So it is an important driver, especially as we think about the QLex launch that is just starting to get underway.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thanks, Dana.
+Next question, please.
+Operator
+Thank you.
+Our next question comes from Chris Schott with JPMorgan.
+Please go ahead.
+Chris Schott
+Analyst, JPMorgan
+Great.
+Thanks so much.
+Just, Rob, a question on MFN.
+I appreciate the color and the prepared remarks.
+But just following some of the recent deals with administration, both with Pfizer and Astra, should we be thinking about this type of structure as a reasonable framework for the industry and just any updates in terms of where Merck is in terms of its discussion with the administration on MFN?
+Thank you.
+Rob Davis
+Chairman and CEO, Merck & Co., Inc.
+Yeah.
+Yeah.
+Chris, thanks for the question.
+As I said in the prepared remarks, overall, we're aligned with what the administration is trying to achieve, which is to lower the out-of-pocket cost for patients at the pharmacy counter and, at the same time, to get foreign prices up to ensure that foreign governments are paying their fair share.
+So those broad-based principles, we're aligned with.
+We are in continuing discussions with the administration.
+I'm not going to give any specific updates other than to say I am very optimistic that we're going to have a constructive outcome to those discussions, and we'll wait until we actually have something to talk about there to be more specific to how we see ours coming out.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thanks, Chris.
+Next question, please, Julie.
+Operator
+Thank you.
+Our next question comes from Carter Gould with Cantor .
+Your line is open.
+Carter Gould
+Analyst, Cantor Fitzgerald
+Good morning.
+Thanks for taking the question.
+You had a pair of good Welireg data recently.
+So, Dean, I wanted to ask you around your confidence on ultimately hitting on OS in the 022 study and the importance of that in moving the needle on adoption in that setting.
+Dean Li
+President of Research Laboratories, Merck & Co., Inc.
+Yeah.
+So we are equally excited about the Welireg.
+It's a first-in-class treatment.
+We've announced the top-line phase III for the second line as well as the adjuvant.
+And I also think it's important that in one of the trials, the ability of a HIF-2 alpha to do something on top of a VEGF blocking agent is important.
+In relationship to OS, I think OS is always really important.
+It's important for the FDA, but most importantly, it's important for patients.
+So we are really eagerly awaiting to see if and when we cross that boundary.
+And so, yeah, we are excited, and we have a broad portfolio program in Welireg, and so we'll be anxious to share those results when we get them.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thank you, Carter.
+Next question, please, Julie.
+Operator
+Thank you.
+Our next question comes from Terence Flynn with Morgan Stanley.
+Your line is open.
+Terence Flynn
+Analyst, Morgan Stanley
+Hi.
+Thanks for taking the question.
+Caroline, I know you commented somewhat on expenses for 2026.
+I was just wondering if you can give us any comments on the top line in terms of some of the pushes and pulls as we think about that, recognizing you probably don't want to give guidance yet at this point, but just maybe help us think through some of the levers there.
+Thank you.
+Caroline Litchfield
+CFO, Merck & Co., Inc.
+Yes, of course, Terence.
+So as we go into 2026, we are expecting solid top-line growth for our company.
+And that growth will increasingly be fueled by the number of new launches that we have.
+So we're expecting continued patient impact and revenue growth from Winrevair.
+Ohtuvayre now is also part of the Merck portfolio.
+We have Capvaxive, which is off to a very strong start, and Enflonsia.
+And on top of that, we have our animal health business, where growth will also be driven by new launches, including Bravecto Quantum, the 12-month injection, as well as Numelvi, our new dermatology product.
+We also have the expectation of continued growth in oncology.
+So the last question, Welireg has strong growth with greater potential ahead of it as we get into other successful studies and treat a broader range of patients.
+And we do expect continued growth in Keytruda, albeit at a slightly slower pace than we've seen, as we are getting to peak penetration in some of the indications, and we do expect some headwind from price in our ex-U.S. markets.
+The other headwinds that we will face will be related to loss of exclusivity and generic entrants.
+And that really is Dificid that's seen generic entrant halfway through 2025 in the U.S., Bridion, which will have its LOE partway through 2026.
+We also expect the headwind of IRA price setting on the Januvia family and the generic entrant for Januvia midway through next year.
+But overall, confident in our ability to continue to positively impact patients and drive portfolio's growth.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thank you, Terence.
+Next question, please, Julie.
+Operator
+Thank you.
+Our next question comes from Umer Raffat with Evercore.
+Your line is open.
+Umer Raffat
+Analyst, Evercore
+Hi, guys.
+Thanks for taking my question.
+I was wondering if I should ask about the Organon situation, but I realize it's multiple years removed, standalone company, so maybe there's not a whole lot you could say anyways.
+So let me focus instead on CADENCE trial instead.
+Dean, my question is, it finished late September.
+You're indicating first half 2026.
+It sounds to me like that's a little longer than I would have expected to get the readout out there on a 150-patient trial.
+So could you just catch us up on your thought process there?
+Thank you.
+Dean Li
+President of Research Laboratories, Merck & Co., Inc.
+Yeah.
+So just as everyone knows, we have ZENITH, HYPERION earlier in disease.
+Those data have come through.
+We have a primary completion date of CADENCE this year, and we said that we would be presenting the data in a meeting.
+I believe that we will be putting out a top line once we know it as well.
+So when we talked about the first half of or the first quarter or first half of 2026, we were talking about the full data at a medical meeting.
+We are eager to see that result because that result will suggest to us how much we can use Winrevair outside of the patient population that's for PAH.
+And so we're eager to see those results as well.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thank you, Umer.
+Operator
+Thank you.
+Our next question comes from Courtney Breen with Bernstein.
+Your line is open.
+Courtney Breen
+Analyst, Bernstein
+Hi, everyone.
+Thanks so much for taking my question today.
+Just coming back to some of the White House price policy pressures and comments you've made already, I wanted to ask this in a slightly different way.
+If we look at kind of Merck's ratio of revenue today, it's about 50/50 inside the U.S. versus outside the U.S.
+How different do you expect that to be in five years' time, and how much of that could be attributed to product mix, and how much down to kind of equalization of price?
+Thank you so much.
+Rob Davis
+Chairman and CEO, Merck & Co., Inc.
+Yeah.
+Courtney, thanks for the question.
+I'm not going to get into specific guidance.
+Obviously, if you look at where our business is driving, we're excited about the diversity of the pipeline we're bringing.
+A lot of those opportunities disproportionately will be U.S.-based, primarily just because of the nature of the drugs and the uptakes and the value you can assert to the U.S. market.
+So mix will affect how we look forward.
+How MFN or other pricing dynamics change, it's too early to say because we need to see what it is.
+And so I would leave it at that for right now.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thanks, Courtney.
+Next question, please, Julie.
+Operator
+Thank you.
+Our next question comes from Vamil Divan with Guggenheim Securities.
+Your line is open.
+Vamil Divan
+Analyst, Guggenheim Securities
+Great.
+Thanks for taking my question.
+So I appreciate the comments around 2026 and how to think about some of the drivers there.
+I had a question just more on Gardasil.
+Maybe it's a good thing that we haven't talked much about Gardasil yet on this call, but just obviously a challenging year for that product.
+I'm curious how you think about that product sort of in 2026 and beyond, both in the U.S., where obviously there's been sort of evolving sentiment around vaccinations and maybe some could be an adjustment to the guidelines around the U.S. recommendations, but also then ex-U.S., given the annualizing out of the China and Japan impact.
+So just any sense of, I think, consensus that's affecting a sort of robust return to growth for that product over the next several years.
+Just curious how you're thinking about that.
+Thanks.
+Caroline Litchfield
+CFO, Merck & Co., Inc.
+Thank you for the question, Vamil.
+Gardasil remains a very important product, and we're really proud of the impact that we're having in helping protect people from certain HPV-related cancers.
+As we look forward, in the United States, indeed today, we are seeing growth in our vaccinations in the nine, 10 age group as well as the mid-adult segment.
+And that's being offset by a lower level in the adolescent segment.
+And that's really driven by a reduction in the eligible population.
+And there are some macro factors there.
+As we look forward for the United States, we are hopeful for growth, but clearly, as you mentioned, the ACIP recommendation around that dosing schedule will very much impact whether we do or don't grow in the United States, and as we've said before, we will always look at having the appropriate price point in the United States based on the value that we are providing society.
+Outside of the United States, you rightly note that we will lap the impact of China as well as the reduction in the cohort for the catch-up in Japan as we go through 2026, so we look forward to protecting more people around the world.
+What we're seeing in countries outside of the United States, some of the public programs have really reached maturity, so we expect a routine cohort to be vaccinated each and every year.
+The private market is a great opportunity for growth for us, and that's really in the mid-adult segment, age 27 through 45, where we're creating the system to enable people to get vaccinated in many countries around the world, and it's also in some countries in the broad age cohort, so we will be working to activate that cohort.
+It does take time, but we'll be activating that cohort to drive growth in the private segment as we go forward.
+Overall, we expect modest growth for Gardasil in the near term.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thanks, Vamil.
+Next question, please.
+Operator
+Thank you.
+Our next question comes from Luisa Hector with Berenberg.
+Your line is open.
+Luisa Hector
+Analyst, Berenberg
+Hello.
+Thank you for taking my question.
+Just back to Keytruda.
+Could you just update us on your latest expectations for conversion from IV to subcutaneous and the kind of pace that we could expect?
+With that in mind, Caroline, you made a comment on Keytruda growth at a slower pace for 2026.
+So just to check whether that is the overall franchise or IV only, and will you report the sales separately?
+Thank you.
+Rob Davis
+Chairman and CEO, Merck & Co., Inc.
+Yeah.
+This is Luisa.
+This is Rob.
+I'll maybe start, and then Caroline can address the last part of your question.
+So if you look at expectations for QLex, as we've said, it's early in the launch, but everything appears to be on track.
+And there's no changes to what we've previously communicated.
+We continue to expect that we're going to achieve 30%-40% patient adoption and that that'll take us out to 18-24 months to achieve that.
+Nothing has changed there.
+I would highlight, as we've pointed out in the past, that we will have permanent J-code, but we won't get that probably for six months.
+And during that first six-month window, you can anticipate a slower uptick just because with people using temporary J-codes, there can be longer reimbursement windows.
+And so some people will hesitate to order until they have the permanent J-code.
+We've done everything we can to learn from the other subcutaneous products that have launched ahead of us.
+I can tell you that we've put in place, I believe, a commercial contracting strategy that really will make it frictionless, sorry, to convert patients over or, in cases of new patients, to adopt the therapy.
+That's important to make sure that we are driving this because access and conversion are what is our goal, or adoption is the goal we have moving forward.
+I'll let Caroline speak to her comments about the overall growth next year.
+Caroline Litchfield
+CFO, Merck & Co., Inc.
+Yes.
+So Luisa, the comments I gave were with regards to Keytruda in its entirety, where we expect Keytruda to slow, although be an important contributor to growth for our company.
+Within that, to Rob's point, we are really excited about the contributions that KEYTRUDA QLEX can bring as we do provide treatment options for more and more patients as next year unfolds.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+We will anticipate reporting separately in 2026.
+Yes, we will.
+Caroline Litchfield
+CFO, Merck & Co., Inc.
+Thank you, Peter.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+All right.
+Maybe last question, please, Julie.
+Thank you.
+Operator
+Our last question comes from Alex Hammond with Wolfe Research.
+Your line is open.
+Alex Hammond
+Analyst, Wolfe Research
+Thanks for taking the question.
+On EyeBio, can you help with the phase III Brunello trial context?
+What's the bar to deem the trial a success?
+And I guess, given the competitive nature of this indication, how do you plan to execute commercially?
+Dean Li
+President of Research Laboratories, Merck & Co., Inc.
+Well, let me just say that we're really excited about pushing this first-in-class MK-3000 novel candidate targeting the Wnt pathway.
+I would just remind, I believe this is the first time a novel mechanism has been pushed through in relationship to having clear human genetic evidence for it.
+And we plan to evaluate that MK-3000 not just in diabetic macular edema, but also neovascular age-related macular degeneration as well.
+In terms of commercial sort of execution, I would hold off until we see the data from these trials, but we're pushing very fast and very forward in relationship to this because this could be one of the first new mechanisms, kind of like the Winrevair story, where it's the first generally new mechanism that can make a profound effect on such a broad disease.
+Rob Davis
+Chairman and CEO, Merck & Co., Inc.
+Yeah, and maybe just to add a little bit on the commercial opportunity.
+If you look at where we are today in the United States, there's about 1.6 million patients with diabetic macular edema.
+So this is the leading cause of vision loss in people with diabetes.
+And so as you look at that population, still, there's a very large opportunity because 30%-40% of patients on therapy are not responsive to the current anti-VEGF.
+The ability potentially to see conversions is significant.
+If you look, it's about a $13 billion market today.
+And we believe that our ability to drive that kind of conversion with this new molecular entity is important.
+As far as the commercial infrastructure, we're really combining the EyeBio's leadership strengths and our expertise in ophthalmology and pushing these forward.
+And I'm quite confident that we will have the global infrastructure to be able to drive this.
+We're investing pretty heavily behind this.
+And when you look at this combined with the bispecifics, this is a multi-billion-dollar opportunity for the company.
+We're very excited.
+I think this is one of the underappreciated areas of what we have.
+And I credit Dean and the team.
+They've advanced these by a couple of years from what we originally anticipated when we did the deal.
+So this is a win in my book.
+Peter Dannenbaum
+VP of Investor Relations, Merck & Co., Inc.
+Great.
+Thank you, Alex.
+Thank you all for your great questions.
+And we'll end the call there.
+Please reach out to the IR team if you have any follow-ups.
+Operator
+Thank you for your participation.
+Participants, you may disconnect at this time.
+Data Source:
+Quartr
+Last updated:
+Oct 30, 2025
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (18)
+Quarterly report
+Slides
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
