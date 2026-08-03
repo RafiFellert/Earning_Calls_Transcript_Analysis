@@ -1,0 +1,798 @@
+GE Aerospace (GE) Q2 2021 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+GE Aerospace (GE)
+NYSE: GE · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+360.07
++5.03 (1.42%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+360.00
+-0.07 (-0.02%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q2 2021
+Jul 27, 2021
+Quarterly report
+Earnings release
+Slides
+Play Audio
+Download Transcript
+Operator
+Good day, ladies and gentlemen, welcome to the General Electric second quarter 2021 earnings conference call. At this time, all participants are in a listen only mode. My name is Brandon and I'll be your conference coordinator today. If at any time during the call you require assistance, please press star followed by zero, and a conference coordinator will be happy to assist you. If you experience issues with the slide three pressing or there appears to be delays in this slide advancement, please hit F5 on your keyboard to refresh. As a reminder, this conference is being recorded.
+I would now like to turn the program over to your host for today's conference, Steve Winoker, Vice President of Investor Relations.
+Please proceed.
+Steve Winoker
+VP of Investor Relations, General Electric
+Thanks, Brandon.
+Welcome to GE's second quarter 2021 earnings call.
+I'm joined by Chairman and CEO, Larry Culp, and CFO, Carolina Dybeck Happe.
+Note that some of the statements we're making are forward-looking and are based on our best view of the world and our businesses as we see them today.
+As described in our SEC filings and on our website, those elements can change as the world changes.
+With that, I'll hand the call over to Larry.
+Larry Culp
+Chairman and CEO, General Electric
+Steve, thanks, and good morning, everyone.
+Overall, we delivered a strong second quarter and first-half performance, and we're encouraged by the early signs of the recovery.
+Looking at the numbers on slide two, recall that the second quarter of 2020 was challenging as we navigated the full negative effects of the pandemic.
+While we recognize that many are still facing continued challenges with new COVID spikes and variants, we're seeing our businesses return to growth this quarter.
+Orders were up 30% organically, with growth across all segments.
+In services, we're up 50%.
+Industrial revenue grew in three of our four segments.
+We saw strength in Healthcare and in Services overall.
+At Healthcare and Renewables in total, as well as in Power Services, revenue was back to levels similar or better to 2019.
+Notably, Aviation commercial services were up substantially as we're beginning to benefit from the market recovery.
+Our adjusted industrial margin expanded 1,000 basis points organically, with year-over-year expansion across all segments and sequential expansion in all segments except Aviation, where we took a non-cash charge largely related to one customer contract.
+We expect Aviation margins to expand for the rest of 2021.
+Carolina will cover this in more detail later.
+Adjusted EPS was up significantly, with all segments contributing.
+Industrial free cash flow was up $2 billion, ex discontinued factoring programs, primarily driven by improved earnings and working capital.
+We're encouraged by our second quarter cash performance, we're raising our full-year industrial free cash flow outlook to $3.5 billion-$5 billion, while our outlook for organic revenue growth, margin expansion, and adjusted EPS remains unchanged.
+I'll take a moment here to speak to the dynamics at Aviation.
+Market fundamentals are improving.
+There was a sizable uptick in departures this quarter, with even greater momentum in June and July.
+Unsurprisingly, departure trends continue to vary by region.
+North America continues to improve, with Canada now picking up the pace.
+Europe has accelerated, with departures now 40% below 2019 levels.
+China dipped down to 6% below 2019 levels due to increased COVID cases and government restrictions, while Asia Pacific, ex-China, has been more tepid due to border closures and the spreading COVID variant.
+Importantly, though, about two-thirds of our CFM departures are concentrated in regions with improved trends.
+We're seeing a stronger recovery in narrow-body fleets versus wide bodies, freight continues to outperform passenger traffic.
+While green time utilization continues to impact us, we expect this to lessen in the second half.
+Shop visit volume and scope improved slightly sequentially.
+We anticipate continuing sequential volume growth and scope expansion through the year.
+Looking ahead, we're still expecting 2021 departures to be up about 20% year-over-year and down 30% versus 2019, with customer behavior driving departure and shop visit trends.
+I'm confident in our path to recovery in Aviation.
+We're using Lean to improve our operations and our cost structure, and no business is better positioned than GE Aviation to support our customers through the upcycle.
+With the largest and youngest engine platform, with more than 37,000 commercial engines and more than 60% of our fleet not yet having a second shop visit, our platform will generate value for decades to come.
+Overall, we're building momentum across GE, evidenced by the significant margin expansion and positive free cash flow this quarter.
+Importantly, we continue to believe the improvements underway are built on stronger fundamentals and thus are sustainable.
+Turning to slide three.
+We're making tremendous progress in our journey to become a more focused, simpler, stronger, high-tech industrial.
+This quarter, the GECAS and AerCap combination achieved some key milestones.
+AerCap shareholders approved the transaction, the U.S.
+Department of Justice concluded its review, yesterday, the European Commission cleared the transaction.
+We expect to close by year-end.
+Broadly speaking, this combination serves as a significant catalyst, enabling us to focus more time, talent, and capital on our four core industrial franchises, Aviation, Healthcare, Renewables, and Power. It also allows us to accelerate our de-leveraging plan.
+With our actions post-closing, our gross debt reduction will be more than $70 billion since the end of 2018.
+At the same time, we've been strengthening our operational foundation.
+This starts, of course, with the team.
+We've implemented new learning and development programs, such as Leadership in Action and our business and frontline leadership courses, to equip GE leaders at all levels to drive our Lean transformation.
+This quarter, we also made some leadership changes that complement our existing bench of GE talent.
+First is the retirement of Kieran Murphy, who will be stepping down as President and CEO of GE HealthCare at the end of the year.
+Over his high-impact, 30-plus-year career, Kieran has embodied candor and transparency and consistently delivered for our customers.
+I'm excited to welcome Peter Arduini, who will join us from Integra LifeSciences, where he served as CEO for almost a decade.
+Earlier in his career, Peter, in fact, worked at GE HealthCare for nearly 15 years.
+Pete's proven track record of driving growth across complex businesses, combined with his respected leadership style, makes him well-suited to lead the important work at GE HealthCare.
+Second is the retirement of Offshore Wind CEO John Lavelle, after a 40-year career with GE.
+John has positioned the business for success, leading the GE team that will help install the first large-scale U.S. offshore wind farm.
+We're excited to appoint Jan Kjaersgaard as the new CEO.
+With Jan's prior industry experience, he's well-prepared to lead our offshore business to $3 billion in revenue by 2024.
+We also promoted Scott Strazik from Gas Power CEO to CEO of all of GE Power.
+Scott and his team, which now includes Valerie Marjollet, who was recently appointed as Steam Power CEO, will continue to run Power as four discrete business units, managing from the bottom up.
+Our GE team has been at the heart of driving our transformation forward, building momentum through Lean and embracing a more decentralized business model.
+This quarter, it was good.
+It was really good to spend more time with our teams, where I saw and heard countless Kaizen examples, and more broadly, how Lean is being used to improve safety, quality, delivery, and cost across GE.
+One example that stood out was from Offshore Wind, where we have a global presence across 35 countries.
+In the first half of 2021, through good Lean problem-solving and daily management, we realized about $150 million of year-over-year savings in sourcing and logistics, as well as through better execution on installation and commissioning cycle times.
+Decentralization goes hand-in-hand with Lean.
+This means managing not only the four industrial segments we report, but the nearly 30 business units under them.
+In our operating reviews, I continue to see how our teams are managing our operating P&Ls at a more granular level.
+We're having more meaningful operating reviews and, in turn, driving actions across high-impact and high-priority opportunities.
+This stronger foundation is enabling us to play more offense.
+The first priority, of course, is organic growth.
+We're improving our teams' abilities to market, sell, and service the products we have today.
+There are many recent wins across GE.
+Let me highlight two.
+At Aviation, CFM secured a new agreement with IndiGo to provide 620 of our fuel-efficient LEAP-1A engines with a multiyear service contract.
+This is one of the largest deals in CFM's history.
+At Renewables, we finalized the contracts for the world's largest offshore wind farm, Dogger Bank.
+In the third installment, we'll supply 87 Haliade-X turbines, the most powerful offshore wind turbine built today.
+We're also bolstering our offerings with new product introductions and future tech innovation to serve our customers and lead our industries into the future.
+At Healthcare, for example, we launched Xeleris V , an AI-enabled virtual radiology solution that provides simplified workflows, better data access, and more time with patients.
+At Power, we're supporting Australia's energy transition with plans to supply a 9F.05 gas turbine, capable of operating with a blend of hydrogen and natural gas at the Tallawarra B power station.
+This adds to our experience on more than 75 gas turbines worldwide using hydrogen and associated fuels for power generation.
+From time to time, we'll augment our organic efforts with inorganic investments.
+Take Zionexa, a recent Healthcare acquisition, whose molecular imaging agent aims to provide more targeted treatment for metastatic breast cancer patients.
+Zionexa further demonstrates our commitment to precision health, enabling more personalized diagnosis, improved treatment, and decision-making, and ultimately, better clinical outcomes.
+All in all, our transformation is accelerating.
+We're fortifying our competitive positions globally and unlocking further upside potential and profitable growth in cash generation.
+With that, Carolina will provide further insights on the quarter.
+Carolina Happe
+SVP and CFO, General Electric
+Thanks, Larry.
+Our quarterly performance reflects continued progress in our transformation.
+During our recent operating reviews, we're gaining traction with increased granularity across our financials.
+Our finances are providing more insightful, faster analysis, which is driving better outcomes.
+Looking forward, we're focused on building even deeper visibility and accountability, partnering cross-functionally to unlock margin expansion and improving working capital management to generate more cash flow.
+Now, looking at slide four, I'll cover our highlights on an organic basis.
+In the quarter, we returned to growth on the top line. GE HealthCare and services overall were strong.
+In particular, services continued to keep us close to our customers and represent more than half of our orders and revenue.
+Total orders were up 7% sequentially, and GE Aviation and GE Power were up more than 40% year-over-year.
+Services orders were up 50%, where Renewables and GE Aviation doubled, and Gas Power and GE HealthCare grew double digits.
+Revenue was up across Aviation, Healthcare, and Renewables.
+Power was flat as expected.
+We continued to reduce turnkey scope in Gas Power and exit new unit coal at Steam Power.
+We're also seeing our mix shift towards higher margin services, with total services revenue growing 15%.
+Notably, Aviation commercial services grew 50%, reflecting a recovering market.
+We're still well below 2019 levels.
+Healthcare in total and Gas Power services remain bright spots, with growth above 2019.
+Next, adjusted industrial margins improved sequentially in all segments except Aviation, where margins declined.
+I'll speak to this shortly.
+Year-over-year, margins expanded 1,000 basis points, with all segments expanding.
+About half of this improvement was driven by non-repeat of COVID charges, and the other half was driven by our Lean efforts, cost productivity, and mix shift to services.
+Regarding inflation, we're seeing pressure.
+However, it's a mixed story by business.
+Our shorter cycle businesses feel the impact earliest, while our longer cycle businesses are more protected given extended purchasing and production cycles.
+Our services business fall in between.
+Across the board, we're driving cost countermeasures and utilizing price increases and escalation features in our contracts to help mitigate this pressure.
+In our longer cycle project businesses, we manage cost performance versus our original as sold margins.
+We utilize Lean to reduce cost and cycle time to execute delivery.
+In the second quarter, our countermeasures actually drove a slight net deflation impact on margins.
+Looking forward to the second half of 2021 and into 2022, although inflation pressure is likely to increase, particularly in Aviation and Renewables, we expect the net inflation impact to be limited.
+Finally, adjusted EPS was up $0.19 year-over-year.
+About three-quarters of this improvement came from our industrial segment.
+As we walk from continuing to adjusted EPS, we need to exclude the positive Baker Hughes mark, the negative impact of significant higher cost restructuring programs, non-operating expenses, primarily pension, and debt tender cost.
+Worth noting for EPS, our reverse stock split takes effect as of market open August 2nd.
+This will better align GE's number of shares outstanding with companies of our size.
+Overall, we're encouraged by our broader earnings performance, especially the underlying margin improvement, and we're well-positioned to achieve our 2021 outlook for margin expansion and EPS.
+Moving to cash.
+In the second quarter, industrial free cash flow was positive $388 million, up $2.5 billion year-over-year on a reported basis, or up $2 billion excluding discontinued factoring programs in both years.
+The majority of this improvement was driven by cash earnings, with all segments growing earnings.
+Underpinning our solid quarterly performance versus our earlier expectations was higher Aviation orders and in turn, higher progress collections and lower AD&A, as well as strength at Healthcare and Power.
+We've made good progress exiting the majority of our factoring programs in the second quarter.
+This was a big step forward to becoming more operational and getting back to basics on billings and collections.
+For context, currently, about half of our billings occur in the final month of the quarter, driven in part by the timing of deliveries.
+Far too back-end loaded and inconsistent with the Lean principles of flow and level loading.
+Our teams across commercial, operations, and finance are working to deliver earlier to our customers and in turn, bill and collect cash earlier in the quarter.
+Over time, this will help us generate more linear cash flow.
+The discontinuation of factoring was a $2.7 billion impact, which was adjusted out of free cash flow.
+For the remainder of 2021, the impact will be roughly $1 billion, split between the third and the fourth quarters.
+Going deeper on working capital, this was a source of cash at $260 million this quarter.
+Despite increased volume, we saw significant year-over-year improvement, largely due to operational enhancements.
+Looking at the flows in the quarter, I'll speak to a couple.
+Receivables were a source of cash, driven by DSO improvement across all segments.
+Take our imaging and life care solution business in the U.S. and Canada, for example.
+Our teams are using Lean and automation to better manage contract deliverables, bill customers more accurately and faster, and thereby generate cash quicker.
+These efforts already improved DSO by seven days. Inventory was the use of cash, largely driven by onshore wind inventory build for the second half deliveries, as well as fulfillment and execution challenges.
+Overall, inventory turns improved from 2.4 to 2.6 sequentially with higher volume, there's much more to do.
+We continue to manage our capital investments with focus on profitable goals. When the second quarter CapEx spend was down sequentially, our investments in new product programs increased.
+Overall, in the first half, on a reported basis, cash flow was negative $457 million, a $3.8 billion improvement year-over-year.
+After rebaselining for discontinued factoring programs and the Biopharma sale, we saw a $3.2 billion improvement.
+While there's more to do, our near-term working capital improvements are taking hold even as we grow.
+Together with higher earnings, this is beginning to drive more sustainable and linear free cash flow.
+Based on our 2Q performance, we're now confident that we can deliver free cash flow in the range of three and a half billion to $5 billion for the year, versus our prior outlook of two and a half billion to four and a half billion.
+Turning to liquidity and leverage on slide six.
+We ended the quarter with $22 billion of cash and recently refinanced our backup credit facility.
+Due to our improved financial position and cash linearity with lower peak quarterly needs, we reduced the facility size from $15 billion to $10 billion and extended the maturity date to 2026 at attractive pricing.
+We also continue to take meaningful actions on our deleveraging plan, completing a $7 billion debt tender.
+This brings our gross debt, which currently includes pension, to a reduction of $53 billion since the end of 2018.
+Additionally, we continue to de-risk the pension.
+In the U.K., as of January 2022, we'll implement the proposed pension freeze.
+As mentioned previously, we don't expect any further funding requirements for the GE pension plan at least through the end of the decade.
+Stepping back, we have a clear path to achieving a less than 2.5 x net debt to EBITDA over the next few years.
+Moving to our business results, which I'll speak to on an organic basis.
+First, on aviation.
+As Larry shared, we're starting to see improving fundamentals associated with the commercial market recovery across services and OE production.
+The market's sequential improvement met our expectations, with GE CFM departures currently down about 27% versus 2019.
+While departure trends continue to vary by region, we still expect the global recovery to accelerate in the second half.
+Orders were up year-over-year.
+Both commercial engines and services were up substantially year-over-year.
+Key commercial wins this quarter include IndiGo, Southwest, and United, driving momentum.
+In fact, since the beginning of 2020, new wins have now outpaced canceled orders.
+Military orders were down, largely due to timing of new orders and a tough comp versus last year, when you'll recall, we received a large military advance.
+Revenue was up 10%.
+Commercial services was up 50% with operational improvement.
+Shop visit volume trended better than our expectations, up over 30%, and overall scope was up slightly sequentially.
+Broadly, we're seeing higher concentration of narrow body visits, which typically have lower revenue.
+Our spare parts rate was up double digits year-over-year and sequentially.
+This was partially offset by unfavorable CSA contract margin reviews, or CMRs, where revenue is adjusted to reflect latest margins based on cost incurred to date.
+Military continues to be impacted by internal and external supply chain issues, with output expectations falling short this quarter.
+We're seeing some improvement as we use visual management and standard work also other tools to solve problems in real time.
+We're working to fully resolve these issues.
+We're now targeting mid-single-digit revenue growth for the year.
+Our high single-digit target remains in place through 2025.
+Segment margin expanded significantly year-over-year, yet down sequentially.
+Margin was impacted by the non-cash contract margin review charges of approximately $400 million.
+About two-thirds of this was related to one contract in a loss position.
+In this contract, continued COVID-driven utilization, contract-specific dynamics, and operating behavior increased our estimated shop visit costs.
+While rare across our service portfolio, the loss contract designation resulted in the accelerated recognition of all future forecasted losses into 2Q.
+Excluding this, aviation margins would have been low double digits.
+Quarterly CMRs are part of our normal process and will continue in the second half.
+For Q3, we expect margins to expand sequentially.
+Our team continues to align fixed costs and our organizational profile to market realities.
+We're maintaining our low double-digit margin guide for 2021, supported by a second half recovery.
+Based on the CMR and military dynamics, we now expect full-year revenue growth to be about flat versus 2020. These are temporary issues, we remain encouraged by the underlying fundamentals of our business.
+Moving to HealthCare, market fundamentals are improving, the team delivered another impressive quarter.
+Starting with the market, global procedures volume grew mid-single digits for the fourth consecutive quarter.
+Europe, China, and Japan were solid markets due to government spending, a sign of increasing expectations for better quality of care and patient outcomes.
+Private markets also grew in the U.S. across key customers as recovery momentum continues.
+Demand remains robust amid that backdrop.
+Orders were up double digits year-over-year and versus second quarter 2019, and up 20% excluding the Ford ventilator partnership last year.
+Healthcare system orders were up 7%, with double-digit growth in imaging and ultrasound.
+This offsets a decline in life care solutions, lapping higher demand for COVID-19 related equipment.
+LCS was up double digits versus second quarter 2019.
+PDx orders were up almost 50% year-over-year, following a depressed second quarter 2020, and also up versus second quarter 2019.
+Revenue was also up double digits, with HCS up 6% and PDx up almost 50%.
+All Asia regions delivered double-digit growth, with China up high teens.
+The teams worked across the supply chain to help mitigate industry-wide supply shortages related to electronics and resins, which impacted growth this quarter.
+Segment margin expanded 460 basis points year-over-year and significantly versus second quarter 2019 ex Biopharma.
+Margin continues to be driven by profitable growth, cost productivity through lean, and prior period restructuring.
+At the same time, we're accelerating our growth investment, particularly in digital and AI-enabled applications, with increased spend planned for the second half.
+We'll continue to evaluate inorganic investments to complement this, such as Zionexa.
+Based on our first half, we now expect organic margins to expand more than 100 basis points for the year.
+This will be influenced by how quickly we can ramp certain growth investments.
+However, our medium-term expectations remain 25-75 basis point expansion.
+Our investment ramp will support continued innovation and help us drive higher revenue growth over time.
+Turning to Renewable.
+We're continuing to lead the energy transition, growing new generation, lowering the cost of electricity, and modernizing the grid with a focus on new product platforms and technologies that enable profitable growth and cash generation over time.
+Looking at the market, in offshore wind, we still expect the U.S. market to decline in the near term before stabilizing.
+We're watching the potential U.S. production tax credit extension closely.
+A blanket long-term extension will likely result in near-term uncertainty because it pushes out investment decisions for what could be years.
+This may impact our second half orders profile and positive free cash flow outlook for the year.
+In offshore wind, global momentum should continue through the decade.
+The recent U.S. federal approval of the Vineyard Wind project, supported by our Haliade-X, represents meaningful progress for the U.S. market.
+As the global energy transition accelerates and government stimulus increases, the grid will need to be upgraded and more actively managed.
+Orders grew mid-single digits, where onshore services more than doubled as repower orders increased, which will convert to second half deliveries.
+This was partially offset by lower onshore equipment orders due to PTC dynamics.
+While both onshore and offshore equipment orders are lumpy, we expect them to increase significantly in the second half versus first half.
+Revenue was up 9%, driven by higher equipment revenue offset by lower services, and reported equipment was up 12% on a two-year view versus 2019.
+In onshore, equipment was up year-over-year on higher international unit deliveries, while services were down on fewer repower upgrades, though up sequentially, and services ex repower grew double digits again.
+Segment margin, while still negative, improved more than 500 basis points as we drive towards segment profitability over time.
+Onshore was profitable in the quarter and year-to-date.
+This was driven by continued cost out and volume leverage that more than offset mix and other headwinds, such as lower margin on new products, which typically improves over product life cycle.
+In Grid, cost productivity was offset by elevated restructuring.
+Looking ahead, we're focused on our operational priorities, including cost reductions, to help offset increased medium-term headwinds from the market inflation and new technology and platform transitions.
+Moving to Power.
+The team performed very well with operational improvements across the business, particularly at Gas Power.
+Looking at the market, global gas generation grew low single digits, while GE gas turbine utilization continued to be resilient, with megawatt hours growing high single digits. Encouragingly, outage starts were up 50% year-over-year and up mid-single digit versus 2Q19.
+For the year, we expect the gas market to remain stable, with gas generation growing low single digits.
+The dispatch of our fleet is well-positioned with upgraded machines and a growing HA backlog.
+Outside of gas, markets remain mixed.
+Power orders were up significantly, driven by Gas Power equipment.
+This quarter, we booked 12 heavy-duty gas turbines and 35 aeroderivative orders, primarily LMs, that will complement variable renewable power by providing distributed, fast-response power to help deliver grid stability.
+Orders were also up in Gas Power services, Steam Power Conversion, and Nuclear.
+Power revenue was flat, where Gas Power declined while Power Conversion grew.
+Gas Power was down slightly, largely driven by equipment, where similar to last quarter, we had lower turnkey scope projects.
+We also shipped six fewer heavy-duty gas turbines.
+Gas Power services was up significantly across both CSAs and transactional portfolios, primarily due to higher outages, and services growth is trending better than our initial outlook.
+Power Conversion was up with its highest quarterly sales level since third quarter 2018.
+While Steam Power was down slightly, services returned to pre-COVID levels.
+Total Power margins expanded roughly 900 basis points and improved sequentially.
+Gas Power has stabilized through right-sizing the cost structure, improving underwriting, and operating better with Lean.
+Margins were positive, largely driven by service equipment mix and lower costs.
+Q3 is typically our toughest service quarter, with lower activity compared to the spring and the fall outages season, which are in the second and the fourth quarter, respectively.
+We're confident in our high single-digit margin outlook for the year.
+Steam was negatively impacted by COVID in India, which drove work stoppages and delayed project execution, but we're on track with the planned exit of new build coal.
+Just over half of the planned $600 million-$700 million cash actions from restructuring, legal, and project closeout were realized in the first half.
+Once the exit is completed, steam will be two-thirds services.
+Overall, Power is on track to deliver the outlook targets and high single-digit operating margins over time.
+Moving to GE Capital on slide eight.
+Continuing adjusted earnings were a positive $28 million, a significant improvement year-over-year.
+This was primarily driven by lower marks and impairments, as well as higher gains at EFS, better performance at insurance, and the discontinuation of preferred dividend payments, which are now a GE Industrial obligation.
+At insurance, we saw positive investment results and lower claims continue.
+However, favorable claims trends due to COVID are slowing in certain parts of the portfolio.
+EFF enabled $1.1 billion of orders, supporting customers at Renewable and Gas, including third-party financing.
+Based on our first half, we expect to reach the better end of our earnings outlook of -$700 million to -$500 million.
+Within discontinued operations, Capital reported a loss of approximately $600 million, primarily due to the recent decline of AerCap stock price, which is updated quarterly.
+Moving to Corporate.
+Costs were up slightly, given the variable nature of EHS and other, and the elimination activity.
+Importantly, functional cost and operations were better.
+In the first half, total costs were down more than 20% as we improved functions and operations and digital operations.
+Moving forward, our focus on decentralization and leaner processes continues, which will drive cost and cash improvement.
+For the year, we're on track for the $1.2 billion-$1.3 billion of cost.
+In all, we delivered a strong quarter.
+I'm encouraged by the work underway at Aviation, the ongoing strength in Healthcare, and our progress at Renewable and Power.
+Larry, back to you.
+Larry Culp
+Chairman and CEO, General Electric
+Carolina, thanks.
+We turn to slide nine.
+I'm incredibly proud of the GE team's performance in the second quarter.
+As you've seen, orders and revenue return to growth, operating margin expanded across all segments, and we generated positive free cash flow.
+Importantly, Aviation is showing the early signs of a recovery, and we're clearly building momentum across our businesses.
+Combined, this gives us the conviction to raise our free cash flow outlook to $3.5 billion-$5 billion for the full year.
+I hope you see what I see, a transformation that is accelerating.
+GE is becoming a more focused, simpler, stronger, high-tech industrial.
+Our efforts and impact extend beyond GE.
+We've always felt a heightened sense of responsibility when it comes to creating a more sustainable future.
+We recently released our annual sustainability report this month, which shares how we're tackling the world's biggest challenges through innovative solutions, developing the future of flight, advancing precision health and leading the energy transition.
+For example, the CFM RISE program that we've announced with Safran demonstrates our shared vision for the future of flight as we target reducing fuel consumption and carbon emissions by more than 20% versus today's most efficient engines.
+As we rise to the challenge of building a world that works, serving customers in vital global markets, we'll stay focused on profitable growth and cash generation, which I'm confident will lead to high single-digit free cash flow margins over the next few years.
+Steve, with that, let's go to questions.
+Steve Winoker
+VP of Investor Relations, General Electric
+Before we open the line, I'd ask everyone in the queue to consider your fellow analysts again and ask one question so we can get to as many people as possible.
+Brandon, can you please open the line?
+Operator
+Thank you, sir.
+Ladies and gentlemen, if you wish to ask a question, please press star one on your phone keypad.
+If your question has been answered or you wish to withdraw your question, please dial the pound sign.
+From Citigroup, we have Andy Kaplowitz.
+Please go ahead.
+Andy Kaplowitz
+Analyst, Citigroup
+Good morning, guys.
+Larry Culp
+Chairman and CEO, General Electric
+Good morning, Andy.
+Carolina Happe
+SVP and CFO, General Electric
+Good morning, Andy.
+Andy Kaplowitz
+Analyst, Citigroup
+Your industrial free cash flow result was good in the quarter, and that looks like it's helping you to be able to raise your industrial free cash flow guidance.
+Could you give us more color where cash has been trending better than your expectations?
+Looks like aviation GE HealthCare seemed ahead.
+Could you also talk about the differences between your performance in cash flow and earnings, as you obviously didn't raise your EPS forecast for the year despite the significant raise in cash guidance?
+Carolina Happe
+SVP and CFO, General Electric
+Andy, that would be my pleasure.
+Let me start with the second quarter and what happened in the second quarter.
+When we were talking to you mid-quarter, we were expecting around -$400 million in free cash flow for the quarter.
+While that was the target we thought was achievable, we clearly came in much better, and we were able to do much better.
+Where did that come from?
+That it's a combination.
+Both GE Power and GE HealthCare continued to be strong, both on profit and on cash.
+In GE Aviation, we saw cash come in much better, and that was really twofold.
+One part was the new orders with progress payments that came.
+On the other hand, we had less AD&A because our customers didn't ship as many aircraft as expected, and therefore we paid out less AD&A.
+With that beat, you can say that basically we're rolling that beat into our updated free cash flow guide.
+We're raising it from $2.5 billion-$4.5 billion to $3.5 billion-$5 billion.
+If you do the midpoint there, you basically see that cash roll through.
+About half of that improvement comes from earnings, and half comes from working capital and other offsets.
+If we then compare with what happened on earnings, on earnings, we also saw the improved or the strengthening from GE Power and GE HealthCare, and we had underlying GE Aviation as expected.
+What we also had in the quarter was a CMR charge of $400 million, and that's a non-cash charge.
+If you take our guide for EPS, which is $0.15-$0.25, we are now obviously rolling in the results of the second quarter, including that non-cash charge, into that number.
+That said, we do expect to be in the better part of that range for the full year, thanks to the good momentum that we are seeing in the businesses, both on aviation recovery and the other businesses strengthening their operational performance.
+Operator
+From Goldman Sachs, we have Joe Ritchie.
+Please go ahead.
+Joe Ritchie
+Analyst, Goldman Sachs
+Hi.
+Good morning, everyone.
+Larry Culp
+Chairman and CEO, General Electric
+Morning, Joe.
+Joe Ritchie
+Analyst, Goldman Sachs
+It's a two-part question for me because there's a lot of focus on aviation margins this quarter.
+I really want to ask about the contract margins and also green time utilization.
+On the contract margin reviews, I know that you guys do these quarterly, but I remember last year when you were doing your impairment tested, you really made a concerted effort to look at the 20% of your portfolio that was high risk.
+I'm curious, as you think about the expectations for low double-digit aviation margins for the rest of the year, I'm just wondering what confidence do you have that you won't take another charge on the contract margin reviews?
+Any other color that you can provide us on green time utilization impact for the second half and into 2022.
+Carolina Happe
+SVP and CFO, General Electric
+Let me start with the CMR and the margins.
+I think stepping back, aviation service margins are very attractive.
+What we had in this quarter was a loss contract, and that's very rare.
+We have about 200 CSA contracts in our portfolio, and there are only a couple of them are loss-making, and we're not expecting that impact to repeat.
+The length of the contract is around 15-20 years.
+The processes we have are rigorous, and the controls are working.
+It's really cross-functional efforts where you could say R&D, operations, and commercial are working together to update the estimates with actions from last year, and then making a calculation for what the margin should be.
+In this quarter, with this one contract, since that turned into a loss-making contract, what technically happens then is that you don't only update history to that new margin, you also pull forward all the expected or possible losses that you would have going forward on that contract into the second quarter, and that's why it had such a big impact in the quarter with almost $300 from that.
+What I would say, though, is that more importantly, is how we're working to improve how we operationally do our services.
+We're working to reducing turnaround times, we're working to getting engines back to our customers faster and lowering the cost of our overhauls.
+If you think about that brings us to lower costs, lower cash, and happier customers.
+That's operationally what's really important for us.
+Then your question was, what about this going forward?
+When we look into the second half, as we've said, we do expect departures to improve.
+If you look at the aviation margin in the second quarter, excluding the CMR impact, it would've been 11% +, double digits or low double digits.
+That's why we're holding the low double-digit margin.
+I would say, when we look at the second half, what will impact the second half, we talk about shop visit, the volume, the mix, the scope, and we do expect that the shop visit trend will move favorably for us.
+We'll continue to have the quarterly CMR process as is.
+Larry Culp
+Chairman and CEO, General Electric
+Joe, just to add to what Carolina said, with respect to green time, and that clearly is one of the variables, not the only one, that sits between the departure trends and what we see with respect to shop visit activity.
+Right.
+I think our view is that we will continue to see strong year-over-year shop visit numbers.
+I think we'll see a gradual continuation of the improvements sequentially as well.
+That suggests a number of these impediments, like green time, fade with time, but they don't disappear, I think, as we work through the second half.
+Sequentially, we think we're going to see a continued gradual improvement.
+We think we will, as Carolina just said, see some slight improvement with respect to scope.
+All good.
+We're obviously watching some other variables here, like the Delta variant.
+At this point, I think we're optimistic about the second half performance in Aviation Services.
+Operator
+From Bank of America, we have Andrew Obin.
+Please go ahead.
+Andrew Obin
+Analyst, Bank of America
+Hi, guys.
+Good morning.
+Larry Culp
+Chairman and CEO, General Electric
+Good morning.
+Carolina Happe
+SVP and CFO, General Electric
+Good morning, Andrew.
+Andrew Obin
+Analyst, Bank of America
+Just a question on aviation.
+Can we just talk about shop services versus spares?
+Services up 50%, spares up 15%.
+Can we just talk about the used serviceable parts dynamic perhaps driving the gap?
+More importantly, how do you expect this to develop over the next 18 months, right?
+How should we think about the shape of the aftermarket recovery incorporating this use d serviceable parts phenomena?
+Thank you.
+Larry Culp
+Chairman and CEO, General Electric
+Well, keep in mind when we talk about, well, we use the word spares in a couple of different contexts.
+Primarily, spare engines are really a function of fleet planning, and given where folks are at this point, both in terms of activity and cash conservation, I think in part that's why you see the spares recovery perhaps being a bit more muted than the strong bounce back we're seeing in shop visits.
+Andrew, we talked about green time earlier.
+I'd say USM is another one of those variables that sits between a direct one-for-one transfer from departures to our activity.
+That said, I think that we haven't seen much by way of USM to date.
+I think as we play forward through the second half of this year and in the next year, I think we're anticipating that that will be a growing, but still a modest headwind for us.
+We maybe trade out a little less green time for a little bit more USM.
+Keep in mind as well, USM doesn't happen to GE Aviation.
+We're an active consumer, user of USM as well.
+It will help us in some respects, lower our costs with respect to the delivered services we provide our airline customers.
+A number of dynamics there, but certainly one that we have an eye on as well as we think about the back half, but maybe more importantly, 2022.
+Operator
+From JPMorgan, we have Steve Tusa.
+Please go ahead.
+Steve Tusa
+Analyst, JPMorgan
+Hey, good morning.
+Larry Culp
+Chairman and CEO, General Electric
+Good morning, Steve.
+Carolina Happe
+SVP and CFO, General Electric
+Hi, Steve.
+Steve Tusa
+Analyst, JPMorgan
+Thanks for all the details, as usual.
+Just a question on the receivables side.
+In note four, on the unconsolidated receivables activity, for the first half, I think it's been about $5 billion.
+It's kind of consistent with what you did in the first quarter.
+It's been running kind of $10 billion-$12 billion, I think, over the years.
+Is that number going to be consistently in that range?
+Secondly, just on this charge, can you just give us some color as to what type of engine?
+Is it narrow bodies?
+Should we expect kind of the same at Safran, if that's the case?
+Carolina Happe
+SVP and CFO, General Electric
+Okay, Steve.
+Maybe I'll start with the receivables question there.
+I think it's important when we look at receivables to put that in context with our volume, and obviously looking at it excluding factoring, so that we can see what traction are we really getting and what is our DSO, because that's the best way of measuring how we're improving, or not, on our underlying performance on working capital management.
+When it comes to receivables and DSO, we have actually improved significantly compared to a year ago.
+I would say from all the working capital metrics, that's the one that's moved the furthest.
+Of course, you have seasonality with the volumes and the different businesses, but that's how I would look at it, to look at traction.
+We're very happy to see that that positive trend has developed over last year with all the work we put into it.
+I do believe that now, with factoring soon all out of the game, that will help us drive billings and collections earlier in the quarters, and therefore also improve overall the DSO.
+Good improvement there, but probably even more opportunity going forward on that topic.
+The other question you had was on the charge.
+Larry Culp
+Chairman and CEO, General Electric
+Steve, on the CMRs, it was a narrow-body-oriented contract that we trued up in the quarter.
+With respect to the second part of that question regarding Safran, we'll leave their reports to them.
+I think they report later in the week.
+Operator
+From Barclays, we have Julian Mitchell.
+Please go ahead.
+Julian Mitchell
+Analyst, Barclays
+Hi, good morning.
+Just wanted to perhaps switch the focus to renewables for a second.
+Understand that there was a lot of headwinds already from legacy projects and so forth, in aspects such as grid and hydro, but also on the wind side, it seems there is more cost pressure and maybe some project revaluations going on as well at some of your peers.
+Just wondered if you could give us an update on how comfortable you are with that trajectory of profitability expansion at renewables, and how much more concerned you are about cost headwinds in that business this year and into next.
+Carolina Happe
+SVP and CFO, General Electric
+Good morning.
+Yes.
+When we talk about renewables, I would just start by saying that we're proud with the improved margin.
+We improved 520  basis points year-over-year in renewables.
+When looking at renewables, you really need to look at the different pieces, a bit like you did, right?
+Starting with onshore wind, this is the second quarter where we are positive for full onshore wind, that's a significant improvement compared to last year, we expect to be positive already in 2021 for the full year.
+In the second half, we expect to see services come back even more, including more repower, and we will continue our journey to take more cost out.
+Offshore Wind, that's more of the investment for the future.
+I would say you'll see more of that in our numbers beginning 2022.
+Grid.
+In grid, we're continuing the turnaround, and we saw good momentum in that.
+We see better cost out, we saw better project execution.
+We are being tougher and having deal selectivity, and the restructuring is progressing as planned here.
+If you take all of that together, you get to that 520 basis points improvement year-over-year, but it also gives us comfort that we will be positive in 2022, just building on that momentum of operational improvement.
+We're cautious of inflation, and we're watching the PTC dynamics and how that will impact us.
+We do see good tailwinds from growth, increased services and digital, as well as our cost reduction.
+Operator
+From Wolfe Research, we have Nigel Coe.
+Please go ahead.
+Nigel Coe
+Analyst, Wolfe Research
+Thanks.
+Good morning, everyone.
+Larry Culp
+Chairman and CEO, General Electric
+Morning, Nigel.
+Nigel Coe
+Analyst, Wolfe Research
+I've got a question on progress collections, but I do want to just clarify something on your comments on the factoring, Carolina.
+Just to confirm, it's not the sales that's the important thing here, it's the amounts outstanding, right?
+It's the balance outstanding.
+I think the 10-Q says that's down from $6.6 billion on January 1 to $3 billion at the end of June.
+Just confirm that's the real metric we should be focused on here.
+On the progress, there's been a $1.3 billion headwinds in the first half of the year.
+Just wondering how you see that developing in the second half of the year, recognizing that there is some volatility with renewables.
+What's in your plan for the second half on progress?
+Carolina Happe
+SVP and CFO, General Electric
+Yes.
+Nigel, on the receivable and on the factoring, you're right, that's exactly how to look at it.
+We started the year with almost $7 billion in factor receivables.
+We took $800 of that out in the first quarter.
+You saw us take another $2.7 out now, and we have about $1 billion to go until year-end, and then we'll end the year with around $2 billion, which is what we've talked about.
+Right?
+That's how you get to those numbers, you're absolutely correct.
+When it comes to progress, if you look at the quarter this year, you have to compare to progress last year, because you sort of look at the delta here.
+Progress last year was including the big military progress payment that we got, which obviously didn't repeat now in the quarter.
+In this quarter, we had a lot of deliverables in renewables, so basically taking down progress, and that's really why it was negative compared to the deliverables.
+For the rest of the year, well, that will depend a bit on the dynamics of the PTC, because we've talked about that the biggest variable for our guide, the cash guide, the $3.5-$5, one of the big parts there is the PTC dynamic, and if that will change our customer behavior so that they will push out the orders that we were expecting to be placed before year-end to next year.
+The other one on progress will obviously be also depending on aviation and how that plays out over the second half of the year.
+Operator
+From Vertical Research, we have Jeff Sprague.
+Please go ahead.
+Jeff Sprague
+Analyst, Vertical Research
+Thank you.
+Good morning, everyone.
+Larry Culp
+Chairman and CEO, General Electric
+Morning, Jeff.
+Carolina Happe
+SVP and CFO, General Electric
+Hi, Jeff.
+Jeff Sprague
+Analyst, Vertical Research
+Good morning.
+Yeah, another one just on cash flow and factoring here, just make sure we have all this squared away.
+Just on the unconsolidated receivable facilities, can you just give us a sense of what kind of volume you will run through that this year?
+Just kind of on an all-in basis, is that facility isolated, to itself, actually a source or a use of cash flow in 2021 versus 2020?
+Also just why continue with that particular facility?
+If factoring is driving the behavior you don't like, kind of the factor and forget sort of behavior, what is it about maintaining this particular facility?
+Why does it make sense, and is there a particular business that you're running through this facility?
+Thank you.
+Carolina Happe
+SVP and CFO, General Electric
+Hi, Jeff.
+On factoring, I would say that the important part is to taking it down to a reasonable level.
+What we are talking about is ending this year with our revenues to have about $2 billion of factoring, and that's basically long-term securitization, and that is part of normal doing business, and that's similar to what other peers are doing.
+I would say that is an effective part of financing and reducing risk and sort of using it for the right reasons while all the rest we're taking out to make sure that we focus on the core, which is really the billings and pushing billings up earlier into the quarter.
+Because if you're not going to get that money automatically by the end of the quarter, you're going to be much more motivated to start billing and collecting earlier in the quarter.
+Operator
+From RBC Capital, we have Deane Dray.
+Please go ahead.
+Deane Dray
+Analyst, RBC Capital
+Thank you.
+Good morning, everyone.
+Larry Culp
+Chairman and CEO, General Electric
+Morning, Deane.
+Deane Dray
+Analyst, RBC Capital
+Hey, since it's such a big sector-wide headwind, I wanted to ask about the supply chain pressures.
+I think you called it out twice or two areas, military aviation and in GE HealthCare, and GE HealthCare resins and electronics.
+That's pretty much what we're expecting.
+Could you size for us, are they missed revenues, or would they be deferred revenues?
+For Carolina, the increase in inventory, is that for buffer stock or also to anticipated increased demand, and what's the mix there?
+Thanks.
+Larry Culp
+Chairman and CEO, General Electric
+Deane, I think if you look at what we have been wrestling with, resin, semiconductors, like so many, and other commodities on a spot basis, I think the vast majority of the effects are basically in our backlog today, now passed through to customers.
+I don't think we were going to try to frame that size-wise, but it did have, I would say, modest impact on our revenues and our cash this quarter.
+We really want to make sure that we're doing all we can, both with the vendor base and frankly, with our own processes to clear that.
+We don't like the foregone revenue.
+More importantly, we're late with the customer in a number of instances.
+I think as we look at business that we might have lost, I'm not sure we can really pinpoint particular orders that went elsewhere because our lead times have been pushed, again, because I don't think this is an isolated GE dynamic.
+We're working hard to make sure that that doesn't happen to the extent we can avoid it in the second half.
+It's a day-to-day battle.
+It's tactical far more than it is strategic on balance.
+The teams are hard at it, as you can imagine, on a daily basis.
+Carolina Happe
+SVP and CFO, General Electric
+Yeah, and on your inventory question, I would say a couple of things.
+Within inventory, one part is volume build for renewables and delivering expected to be in the second half.
+We also have, I would say, a bit too much inventory still because of the fulfillment delays that we have seen.
+We talked about it in aviation.
+There's also some stretch in healthcare.
+Overall, we are improving the turns in inventory as well.
+It is getting tougher with the challenges on the supply chain side.
+More work to do, even in this environment.
+Operator
+From UBS, we have Markus Mittermaier.
+Please go ahead.
+Markus Mittermaier
+Analyst, UBS
+Yeah.
+Hi, good morning, everyone.
+Larry Culp
+Chairman and CEO, General Electric
+Good morning, Markus.
+Carolina Happe
+SVP and CFO, General Electric
+Hi, Markus.
+Markus Mittermaier
+Analyst, UBS
+Good morning.
+Just a quick one on Power, if I may.
+Power Services, you mentioned that is now again above 2019 levels.
+How should we think about that?
+Is that sort of a catch-up on outages from last year, or is it already reflecting the strong installs that we had in 2017 - 2019, those coming off warranty?
+Then, finally, Carolina, you mentioned that once the Steam restructuring is done, that revenue stream will be two-thirds services.
+Any indication of sort of what we should expect there in terms of margin?
+Thank you.
+Larry Culp
+Chairman and CEO, General Electric
+Markus, I think you've got a pretty good handle on what we're seeing in gas services.
+We've got two quarters here in a row now that have been positive.
+Clearly, the comps a year ago that we're working against are fairly easy.
+If you go back to 2019, we're up against 2019 levels for a number of the reasons that you highlighted.
+We do know the second half, given the way COVID played out last year, will present some tougher comps.
+I think we're encouraged by both what we saw with CSAs and the transactional activity.
+As we look to the second half, I think we're, in all likelihood, going to do better than that low single-digit revenue guide that we talked about for services.
+Now, that'll be more a first half result than it will be the second half.
+We do see, I think, higher outages with the contractual business.
+I think the teams on the transactional side are doing a better job day in, day out.
+We had a higher backlog coming into the year.
+I like the execution improvements that we're seeing largely by way of Lean.
+In turn, I think as we put more emphasis on the top, you're also seeing that flow through to the bottom, which is part of the reason we're seeing the strong margin improvements in gas and in power broadly, not only year-over-year, but again, with respect to the comparison versus 2019, where for the segment, I think the margins are up now over 600 basis points versus the second quarter of 2019.
+We know that this is never going to be a high-growth business for us, but certainly, it's a business we can run better and can be a stable business for us.
+I think you see that shaping up here in 2021.
+Carolina?
+Carolina Happe
+SVP and CFO, General Electric
+On Steam Power restructuring, I would start by saying that Valerie Marjollet and her team are doing a really good job in this big transformation of Steam Power.
+On the other side, that's why we mentioned it, this will be mainly a services business.
+Obviously, that's a good place to be in.
+What the margins will be, I would just say that service margins are always expected to be strong, and we expect them to be strong.
+Probably slightly lower than Gas Power.
+We'll see where that ends.
+Operator
+Thank you.
+We've reached the end of our time today.
+We'll now turn it back to Steve Winoker for closing remarks.
+Steve Winoker
+VP of Investor Relations, General Electric
+Thanks, everybody.
+Appreciate your time. I know you have a very busy earnings day.
+My team and I stand ready to help.
+Take care.
+Operator
+Thank you.
+Ladies and gentlemen, this concludes today's conference.
+Thank you for joining.
+You may now disconnect.
+Data Source:
+Quartr
+Last updated:
+Jul 27, 2021
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (13)
+Quarterly report
+Earnings release
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
