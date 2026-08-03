@@ -3,11 +3,13 @@
 #   1. LASSO  
 #   2. SVM
 # Feature Sets:
-#   1. Unigrams + Topics
-#   2. Topics Only (10 Dense Features)
-#   3. Bag of Words (Unigrams)
-#   4. Bag of Words (Bigrams)
-#   5. Unigrams (TF-IDF Weighted)
+#   1. Unigrams
+#   2. Bigrams
+#   3. Topic Modeling Only
+#   4. Unigrams + Topic Modeling
+#   5. Sentiment Only
+#   6. Sentiment + Unigrams + Topic Modeling
+#   7. TF-IDF Weighted Unigrams
 # ==========================================
 
 library(tm)
@@ -23,8 +25,8 @@ library(sentimentr)
 if(!requireNamespace("textstem", quietly = TRUE)) {
   install.packages("textstem")
 }
-if(!requireNamespace("Lexicon", quietly = TRUE)) {
-  install.packages("Lexicon")
+if(!requireNamespace("lexicon", quietly = TRUE)) {
+  install.packages("lexicon")
 }
 if(!requireNamespace("sentimentr", quietly = TRUE)) {
   install.packages("sentimentr")
@@ -71,15 +73,15 @@ categorial_param <- factor(df$`Is.Price.UP`, levels = c("NO", "YES"))
 
 # 4. Construct Feature Sets
 # ------------------------------------------
-# Set A: Unigrams
+# Feature 1: Unigrams
 dtm_uni_sparse <- removeSparseTerms(dtm_unigram, 0.95)
 X_unigram      <- as.matrix(dtm_uni_sparse)
 
-# Set B: Bigrams
+# Feature 2: Bigrams
 dtm_bi_sparse <- removeSparseTerms(dtm_bigram, 0.95)
 X_bigram      <- as.matrix(dtm_bi_sparse)
 
-# Set C: LDA Topics (10 Topics)
+# Feature 3: LDA Topics (10 Topics)
 lda_model  <- LDA(dtm_unigram, k = 10, method = "Gibbs", 
                   control = list(seed = 1, burnin = 500, iter = 1000))
 
@@ -88,20 +90,33 @@ colnames(X_topics_raw) <- paste0("Topic_", 1:10)
 
 X_topics_scaled <- X_topics_raw
 
-# Set D: Combined Unigrams + Raw Topic Proportions
+# Feature 4: Combined Unigrams + Raw Topic Proportions
 X_unigram_topics <- cbind(X_unigram, X_topics_raw)
 
-# Set E: TF-IDF (Built directly from row-filtered dtm_unigram)
+# Feature 5: Calculate sentiment
+sent_res <- sentiment_by(df$TXT, by = 1:nrow(df))
+
+X_sentiment <- as.matrix(data.frame(
+  Sentiment_Score = sent_res$ave_sentiment,
+  Word_Count      = sent_res$word_count
+))
+
+# Feature 6: # Combine Sentiment + Unigrams + Raw Topic Proportions
+X_sentiment_unigram_topics <- cbind(X_unigram_topics, X_sentiment)
+
+# Feature 7: TF-IDF (Built directly from row-filtered dtm_unigram)
 dtm_tfidf        <- weightTfIdf(dtm_unigram)
 dtm_tfidf_sparse <- removeSparseTerms(dtm_tfidf, 0.95)
 X_tfidf          <- as.matrix(dtm_tfidf_sparse)
 
 feature_sets <- list(
-  "1. Bigrams (Bag of Words)"          = X_bigram,
-  "2. Unigrams (Bag of Words)"         = X_unigram,
-  "3. Topics Only" = X_topics_scaled,
-  "4. Unigrams + Topic Modeling"       = X_unigram_topics,
-  "5. Unigrams (TF-IDF Weighted)"      = X_tfidf
+  "1. Unigrams"                              = X_unigram,
+  "2. Bigrams"                               = X_bigram,
+  "3. Topics Only"                           = X_topics_scaled,
+  "4. Unigrams + Topic Modeling"             = X_unigram_topics,
+  "5. Sentiment Only"                        = X_sentiment,
+  "6. Sentiment + Unigrams + Topic Modeling" = X_sentiment_unigram_topics,
+  "7. TF-IDF Weighted Unigrams"            = X_tfidf
 )
 
 # 5. Model Execution Loop
@@ -128,7 +143,7 @@ run_classifiers <- function(X_matrix, y_vector, feature_set_name) {
   print(confusionMatrix(lasso_pred_factor, y_test))
   
   # --- B. SVM ---
-  svm             <- svm(x = X_train, y = y_train, gamma = 0.1)
+  svm <- svm(x = X_train, y = y_train, gamma = 1 / ncol(X_train))
   svm_pred <- predict(svm, X_test)
   cat("\n--- SVM ---\n")
   print(confusionMatrix(svm_pred, y_test))
