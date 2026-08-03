@@ -1,0 +1,850 @@
+Cintas (CTAS) Q3 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Cintas Corporation (CTAS)
+NASDAQ: CTAS · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+204.63
+-2.16 (-1.04%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+206.88
++2.25 (1.10%)
+Pre-market:
+Aug 3, 2026, 8:09 AM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q3 2022
+Mar 23, 2022
+Quarterly report
+Earnings release
+Play Audio
+Download Transcript
+Operator
+Good day and welcome.
+Good day, everyone, and welcome to the Cintas third quarter full year 2022 earnings release conference call.
+Today's conference is being recorded.
+At this time, I'd like to turn the conference over to Mr. Paul Adler, Vice President and Treasurer, Investor Relations.
+Please go ahead, sir.
+Paul Adler
+VP, Treasurer, and Investor Relations, Cintas
+Thank you, Sergei, and thank you for joining us.
+With me is Todd Schneider, President and Chief Executive Officer, and Mike Hansen, Executive Vice President and Chief Financial Officer.
+We will discuss our fiscal 2022 third quarter results.
+After our commentary, we will open the call to questions from analysts.
+The Private Securities Litigation Reform Act of 1995 provides a safe harbor from civil litigation for forward-looking statements.
+This conference call contains forward-looking statements that reflect the company's current views as to future events and financial performance.
+These forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those we may discuss.
+I refer you to the discussion on these points contained in our most recent filings with the Securities and Exchange Commission.
+I'll now turn the call over to Todd.
+Todd Schneider
+President and CEO, Cintas
+Thank you, Paul.
+Our third quarter financial results were led by a strong revenue increase of 10.3%.
+The benefits of our strong top-line growth flowed through to our bottom line.
+Excluding a one-time gain recorded in this year's third quarter selling and administrative expenses, operating income margin increased 90 basis points from 18.4%- 19.3%, and EPS grew 13.5% from $2.37- $2.69.
+Our financial results are indicative of our compelling value proposition.
+Businesses prioritize all we provide, including image, cleanliness, safety, and compliance.
+Challenged with labor scarcity and rising costs, businesses increasingly turn to Cintas to help them get ready for the workday.
+I'm especially pleased with our financial results because they were achieved in a period in which U.S. inflation hit a 40 year high.
+Inflation is high and broad, and one need not look any further than the corner gas station to see it.
+We have been able to navigate this challenging time and delivered increased operating margins and EPS by productively selling new business, penetrating existing customers with more products and services, providing excellent service while driving operational efficiencies, and obtaining incremental price increases from our customer base.
+As we grow via new business, we achieve operating leverage, better negotiating leverage with suppliers, denser routes, and more volume in our plants.
+As we penetrate existing customers, we realize even stronger incremental operating margins.
+I thank our employees, whom we call partners, for their continued focus on our customers, our shareholders, and each other.
+Turning now to our business units.
+The Uniform Rental and facility services operating segment revenue for the third quarter of fiscal 2022 was $1.55 billion compared to $1.42 billion last year.
+Organic revenue growth was 8.9%.
+Our newest vertical strategies of Healthcare, Education, and state and local government continue to post leading revenue growth rates.
+However, there are opportunities for us in all verticals.
+Businesses in all sectors are struggling to fill open positions.
+There are about 11 million job openings in the U.S. alone.
+Businesses remain concerned with their ability to properly sanitize, even as COVID infections decrease.
+Additionally, businesses are shedding non-core competencies to reduce costs and minimize the impacts of inflation.
+For these reasons and others, businesses are increasingly outsourcing to Cintas.
+Our First Aid and Safety Services operating segment revenue for the third quarter was $213.0 million, compared to $198.5 million last year.
+Organic revenue growth was 6.2%, which is a nice improvement from last quarter's 3.2%.
+This improvement reflects the growing momentum of our first aid cabinet business, which grew 22% in the third quarter.
+We welcome this mix shift because it is a more consistent revenue stream and has higher profit margins.
+Third quarter revenue growth improved despite a difficult comparison.
+In last year's third quarter, in response to the COVID-19 pandemic, sales of personal protective equipment, or PPE, were very high, and the business grew organic revenue 17.7%.
+At that time, PPE comprised an outsized percentage of First Aid and Safety Services revenue mix.
+The amount of PPE has declined year-over-year as expected.
+However, COVID infections are still prevalent.
+In fact, we sold about $15 million in a new product, which is COVID test kits, in this year's third quarter.
+PPE remains a larger percentage of the revenue mix than it was pre-COVID.
+Our Fire Protection Services and Uniform Direct Sale businesses are reported in the All Other segment.
+All Other revenue was $194.3 million compared to $160.7 million last year.
+The fire business organic revenue growth rate was 15.3%, and the Uniform Direct Sale business organic growth rate was 48.7%.
+Both businesses have bounced back as expected. I'd like to comment on another one of our strengths, namely cash flow.
+Third quarter operating cash flow increased 18.5% from last year.
+In this year's third quarter, $105 million was used for acquisitions.
+On March 15th, we paid shareholders $99 million in quarterly dividends.
+During the quarter, and through March 22nd, 2022, Cintas purchased $584.2 million of Cintas common stock under our buyback program.
+We continue to allocate capital in many ways to improve shareholder return.
+Our strong balance sheet and cash flow enable us to do so consistently.
+Finally, I want to share some great news on our technology front.
+Our ERP provider, SAP, extended membership in their Strategic Customer Program to Cintas.
+This is an exclusive program.
+Only 1% of SAP's customers have membership in it.
+Inclusion in the program enables us to engage directly with top management of SAP and gain access to its developers and new technologies to realize valuable outcomes for our customers, suppliers, and employees.
+This program will speed the pace of our transformation into a more data dynamic and process efficient business.
+I'll now turn the call over to Mike.
+Mike Hansen
+EVP and CFO, Cintas
+Thanks, Todd.
+Our fiscal 2022 third quarter revenue was $1.96 billion compared to $1.78 billion last year.
+The organic revenue growth rate, adjusted for acquisitions, divestitures, and foreign currency exchange rate fluctuations, was 10%.
+Gross margin for the third quarter of fiscal 2022 was $898.2 million compared to $809.5 million last year.
+Gross margin as a percent of revenue was 45.8% for the third quarter of fiscal 2022 compared to 45.6% last year, an increase of 20 basis points.
+Energy expenses comprised of gasoline, natural gas, and electricity were a headwind, increasing 45 basis points from last year.
+Gross margin percentage by business was 46.3% for Uniform Rental and Facility Services, 44.2% for First Aid and Safety Services, 46.6% for Fire Protection Services, and 37.7% for Uniform Direct Sale.
+Operating income of $407.6 million compared to $326.5 million last year.
+Operating income margin was 20.8% compared to 18.4% reported last year.
+Fiscal 2022 third quarter operating income included a $30.2 million gain on the acquisition of an equity method investment.
+The gain was recorded in the Uniform Rental and Facility Services segment's selling and administrative expenses.
+Excluding this gain, fiscal 2022 third quarter operating income as a percentage of revenue was 19.3%, an increase of 90 basis points from last year's third quarter.
+Our effective tax rate for the third quarter was 18.2% compared to 14.4% last year.
+The tax rate can move from period to period based on discrete events, including the amount of stock compensation expense.
+This year's third quarter equity method investment transaction included a significant tax benefit.
+Excluding the transaction, the effective tax rate for the third quarter of fiscal 2022 was 19.6%.
+Net income for the third quarter was $315.4 million compared to $258.4 million last year.
+Diluted EPS was $2.97 compared to $2.37 last year.
+Fiscal 2022 third quarter diluted EPS contained $0.28 from the gain on the equity method investment transaction, which included a related $0.07 tax rate benefit.
+Excluding this gain and the related tax impact, fiscal 2022 third quarter diluted EPS was $2.69 compared to $2.37 in last year's third quarter, a 13.5% increase.
+We're increasing our financial guidance.
+We expect our fourth quarter revenue to be in the range of $1.96 billion-$2.02 billion, and diluted EPS to be in the range of $2.54-$2.74.
+Our fourth quarter fiscal 2022 effective tax rate is expected to be approximately 23.2% compared to a rate of 19.4% for last year's fourth quarter.
+The expected higher effective tax rate is anticipated to negatively impact fiscal 2022 fourth quarter diluted EPS guidance by approximately $0.14 and diluted EPS growth by approximately 560 basis points.
+Our financial guidance includes share buybacks through March 22, but does not include the impact of any future share buybacks.
+Finally, I wanted to provide an update on our debt and liquidity.
+W
+e have $650 million of senior notes maturing April 1, 2022, and $300 million of senior notes maturing June 1, 2022.
+We expect to refinance these amounts with funds received via the issuance of new senior debt.
+Also, we closed today on a new credit facility, increasing it to $2 billion and extending it to 2027.
+Todd Schneider
+President and CEO, Cintas
+We have a strong balance sheet and ample liquidity.
+I'll turn it over to Paul now.
+Paul Adler
+VP, Treasurer, and Investor Relations, Cintas
+That concludes our prepared remarks.
+Now we are happy to answer questions from the analysts.
+Please ask just one question and a single follow-up if needed.
+Thank you.
+Operator
+Thank you.
+As a reminder, to ask a question at this time, please signal by pressing star one.
+If you find that your question has already been answered, you may remove yourself from the queue by pressing star two.
+Please make sure the mute function on your phone is switched off to allow your signal to reach our equipment.
+Our first question comes from Andrew Steinerman from JP Morgan.
+Please go ahead.
+Alex Hess
+Equity Research VP, JPMorgan Chase
+Hi, this is Alex Hess on for Andrew Steinerman today.
+Wanted to touch briefly on what you guys are seeing at the vertical level, maybe, with respect to, a potential rebound in hospitality, or was that still being dragged in your last quarter from Omicron?
+Then maybe also, progress maybe in driving adoption in healthcare.
+Any comments on those two fronts?
+Thanks, guys.
+Todd Schneider
+President and CEO, Cintas
+Sure, Alex Hess.
+Thanks for the question.
+Yeah, our vertical strategy is working quite well.
+You mentioned the hospitality sector.
+It is certainly bouncing back.
+What you read in the news, bookings are up in the airlines and the hospitality sector.
+Yeah, that's bouncing back and I think the results in our direct sale business, which is in large part tied to certainly to a percentage tied to the hospitality area, the results are outstanding.
+In our other verticals, we're having very good success in each of those.
+In the healthcare specifically, we see, we're very much in the early innings, but we have products and services that are compelling to that customer base.
+We're continuing to evolve and create new products and new technologies that we're integrating there.
+As a result, we're very bullish on our strategy in that area with our focus in that area and I think the results are reflective.
+Alex Hess
+Equity Research VP, JPMorgan Chase
+Thank you.
+Operator
+Hamzah Mazari from Jefferies, please go ahead.
+Hamzah Mazari
+Managing Director, Jefferies
+Hey, good morning.
+You know, you had referenced penetrating more customers as part of you know, strong incrementals.
+Specifically as it relates to that, do you have a sense of you know, how many customers today are buying more than one service from you?
+Has that changed at all due to having SAP?
+You know, what was that same number pre-pandemic just so we can get a sense of that initiative?
+Todd Schneider
+President and CEO, Cintas
+Yes, Hamza, certainly, being virtually on one system now, it is certainly helping our transparency into cross-selling.
+What I'll tell you is, again, we're in the early innings of cross-sell.
+Our ability to add product, we have a really long runway in that area, just to get to even a reasonable level of penetration where we feel excited about it.
+There is a long runway to penetrating our customers with our existing products, separate from what we're going to bring into the marketplace in the future, which is we're always working on new products and services.
+We feel good about that.
+It's certainly improving, but very much in the early innings of that on that subject.
+Hamzah Mazari
+Managing Director, Jefferies
+Got it.
+Just my follow-up question, I'll turn it over, is just around M&A.
+Any updated thoughts as to the pipeline there?
+Or have valuations come in at all?
+I know, you know, you've talked about historically that, you know, M&A doesn't necessarily mean it has to be route based.
+Just walk us through that as well, the rationale there.
+Thank you.
+Todd Schneider
+President and CEO, Cintas
+Sure, Hamza.
+As we noted, M&A was good in the third quarter.
+Of the investment we've made in acquiring businesses, we're highly acquisitive.
+The pipeline looks attractive.
+You know, it takes different reasons for different companies to transact.
+You can't always predict that timing, but we are very much a willing buyer and of all shapes and sizes.
+We're very acquisitive and interested in making deals.
+We're ready, willing, and able to continue to move forward in that area.
+Mike Hansen
+EVP and CFO, Cintas
+Yeah, Hamza, we as you heard Todd mention, our third quarter included an overall acquisition number of $105 million, which is certainly a step up from where we've been.
+Now, included in that is the purchase of the remaining shares of the equity method investment, which was about $48 million within that number.
+The rest of the M&A of $57 million is still a step up from where we've been.
+There has been some good movement this entire fiscal year, and we like the messaging that we're getting.
+We like the pipeline, and as you can see so far this year- We've acted on many of those.
+Hamzah Mazari
+Managing Director, Jefferies
+Got it.
+Very helpful.
+Thank you.
+Mike Hansen
+EVP and CFO, Cintas
+Thank you.
+Operator
+George Tong, Goldman Sachs, please go ahead.
+George Tong
+Senior Research Analyst, Goldman Sachs
+Hi.
+Thanks.
+Good morning.
+Can you discuss how the business is being impacted by rising input costs, including wage inflation and higher energy costs?
+How effectively pricing trends are offsetting this?
+Todd Schneider
+President and CEO, Cintas
+Good morning, George.
+Thanks for the question.
+Certainly, you know, I expected that inflation and input costs would be something that we would wanna be talking about.
+I have a few examples that I'd like to talk about regarding the steps that we're taking to mitigate input costs.
+But inflation is certainly challenging.
+It's very much there, as I mentioned in my prepared remarks, whether it's fuel or other areas, input costs are real.
+But we are being very active in taking proactive steps to make sure that we are mitigating that type of exposure.
+You mentioned pricing.
+Certainly pricing is a component of our strategy, but it is by no means the only strategy to combat pricing or, excuse me, to combat inflation.
+We're taking other steps, and they almost all involve technology.
+These were all initiatives that we have been working on.
+However, due to the inflation situation, we decided to pull them forward and go faster with them.
+Individually, they are not massive movers, but collectively, they certainly add up.
+I'll go through a few of those that I think might help provide a little color.
+First off, I mentioned in, I think, our last call that we have invested in routing technology that is proprietary and really fits our business well.
+As long as I've been with the company, it seems like we have tried about every routing software out there, and we finally said, "We're gonna build it ourselves.
+We're gonna do it.
+It's gonna fit with SAP" because we have a unique routing structure.
+We did that, and I am very thankful that over the past couple of years, we have invested in that technology.
+We've rolled out across the organization, and we're executing on it.
+Now, very important, right?
+We recognize that we only generate revenue when the truck stops.
+When it stops at our customer's place of business, that's when we can generate revenue.
+We've got to be more efficient.
+I'm really pleased with that investment.
+You know, certainly it takes time.
+We are very conscious of any customer disruption, but we're trying to go faster with that subject.
+Again, we're blessed that we made the investment.
+If we didn't have it, then it would put much more pressure on the organization with the inflation subject.
+Again, very pleased that we have that.
+We've also, from a technology standpoint, invested in some automation.
+We now have three different processes for how to implement automation into our uniform processing facilities.
+This provides us flexibility we didn't have in the past.
+That flexibility is meaning we can deploy one of those based upon a number of factors, really gets into the footprint of the facility and the number of pieces going through.
+We pivoted on this subject as well to go faster because of what's going on with labor costs, certainly, so we're able to automate our facilities in a sped up fashion.
+I've got a couple others that I'll talk about.
+We've invested in technology through SAP that allows us to have a centralized dashboard and look at all of our rental processing facilities and understand how they're operating on a daily basis, a real-time basis, from an efficiency and effectiveness standpoint.
+In the past, we had to go physically see these facilities to understand if they're operating in the manner that we expect.
+Now we have this real-time dashboard, and it allows us to know how we're doing.
+As a result, there's more accountability, and we're getting better.
+That allows us to improve the efficiencies within our business.
+I've got a few others, but one other I'll give you is, because of the technology we have with SAP now, we're seeing a real nice impact in our ability to share our used inventory of garments across all of our locations.
+This is due to our stock rooms, which is where we house our used inventory at each of our locations, having real-time inventory tracking and all being on that same system of SAP.
+What it allows us to do is to gain better use of the inventory that was, in the past, dedicated solely to the individual location's customer base.
+Now we can spread it out across a much larger customer base.
+It also allows us with non-stock sizes to look at where the product is and get it faster to our customers.
+I could go on, but I hope, hopefully, that gives you a few examples of proactive steps that we are taking to mitigate the inflation.
+Because again, as I mentioned, it's real, it's challenging, but I'm highly confident the organization will be able to manage through this as we have in the past.
+George Tong
+Senior Research Analyst, Goldman Sachs
+That's very helpful.
+Thank you.
+Then just as a follow-up, could you provide a brief update on how your customer base is being affected by supply chain disruptions and the flow-through impact on demand for Cintas' services?
+Todd Schneider
+President and CEO, Cintas
+Yeah.
+Certainly, George, our customers are being impacted by supply chain.
+That's slowing them a bit.
+We care passionately about how their business are doing because it obviously has a dynamic impact on us.
+As I mentioned earlier, the challenges that our customers are facing with staffing and labor costs, they're looking for ways to outsource and we're beneficiaries of that.
+We are certainly excited about supply chain issues abating and our customers being able to go even faster.
+But to date, that's a bit of a headwind, but we have the tailwind of the outsourcing and the benefits we're seeing there.
+George Tong
+Senior Research Analyst, Goldman Sachs
+Very helpful.
+Thank you.
+Todd Schneider
+President and CEO, Cintas
+Great.
+Thank you.
+Operator
+Ashish Sabadra, RBC, please go ahead.
+Ashish Sabadra
+Business and Information Services Analyst, RBC Capital Markets
+Thanks for taking my question and thanks for providing that detailed color on the technology front.
+I was wondering if you could also talk about how technology is helping you more on the dynamic pricing and more like local pricing.
+Can you just hone in further just on the pricing trend, what the normalized pricing has been historically, and how are we thinking about pricing here, particularly in the inflationary environment, and the response by your customer to maybe potentially higher price?
+Thanks.
+Todd Schneider
+President and CEO, Cintas
+Thanks, Ashish, for the question.
+I'll start if Mike wants to contribute as well.
+Certainly, being on one technology platform gives us the ability to use large amounts of data to analyze.
+Pricing is a local subject.
+It's a customer by customer subject, industry by industry.
+The technology does give us the ability to look more strategically at our customer base to make sure we're making really good long-term decisions.
+We feel good about that.
+We've had that in place, and we've taken that approach over the past couple of years, and we'll continue that approach, and make sure that we're not just making sweeping decisions, but they're more targeted decisions that are more strategic.
+Mike Hansen
+EVP and CFO, Cintas
+Maybe I'll simply add, certainly, with all of the inflation in the news, the customers are.
+It's a little bit of an easier conversation today than it might be otherwise.
+Our customers have generally been receptive to that.
+That results in a little bit of a higher pricing impact than in the past.
+We've talked a lot about 0%-2% in the past, and we're a little bit above that today.
+That certainly is one way for us to fight inflation.
+Todd Schneider
+President and CEO, Cintas
+Agreed, Mike.
+Thank you.
+But just to point out, clearly the majority of our growth is coming from more volume growth, not pricing.
+It is due to the value that we're adding to customers and new business that we're selling, adds and penetrating our customer base.
+That's where the majority of our growth is coming from, clearly.
+Mike Hansen
+EVP and CFO, Cintas
+I just want to conclude the thought with going back to Ashish, to the technology.
+You know, I think sometimes it's hard for people to understand the magnitude of the transactions in this business.
+You know, one of our general managers of our operations, you know, just one operation, I mean, they can have 5,000 customers.
+The ability to have the technology, as Todd spoke to, and seize upon that, to be able to supplement the GM's ability to analyze 5,000 customers to ensure that the pricing is where it needs to be, or to see trends in the data to understand, you know, if there are customers that are kind of paring back, you know, and reducing services over time.
+You know, that's a jeopardy account.
+I, the general manager, need to get in front of that particular customer.
+You know, those are the types of advantages that the technology provides because it is just such a voluminous business.
+That technology and the additional eyes and that intelligence is certainly a huge competitive advantage.
+Ashish Sabadra
+Business and Information Services Analyst, RBC Capital Markets
+That's very helpful color.
+Maybe if I can just ask, I'm not sure if you've quantified how big energy is as a percentage of overall expenses, but also my question is more longer term.
+How are you thinking about improving the energy efficiency of the business, both on the truck side but also on the laundry facilities front?
+Thank you.
+Mike Hansen
+EVP and CFO, Cintas
+Sure, Ashish.
+The third quarter total energy for the business was 2.3% of sales.
+In our guidance side, we you know certainly the gas prices escalated as we got into February, and we're thinking more in terms of 2.6%-2.8% in our fourth quarter.
+Certainly, our expectation is we'll see a little bit of an increase.
+Just to give you a little bit of maybe an impact of what we have already done to be more energy efficient.
+If you go back to you know the last time we saw prices at the pump at this kind of level was back in calendar 2014.
+If you think about the third quarter of our calendar 2014, we were certainly a smaller company, but our total energy at that time was 3% of revenue.
+At the same price in the pump, we've been able to reduce our energy by almost a 1/3 and from 3%- 2.3%.
+We've made some really good progress, and we've talked about some of those things.
+Some of it is certainly scale and growth, but as Todd has talked about, some of it is also the routing efficiency, the penetration that allows us to park the truck a little bit longer.
+We've made some really nice progress over the last several number of years.
+How do we think about it going forward?
+We certainly are gonna continue to work at routing efficiency, penetration, but also certainly, we've talked a little bit about getting electric vehicles onto the road, and that has started.
+Our expectation is we'll put many more of those as we move towards our goal of net zero in 2050.
+There's a lot more to come in this type of space, and we're in the early part of exploring that alternative fuel vehicles, but we certainly think that's a big part of our future.
+Todd Schneider
+President and CEO, Cintas
+Ashish, in addition, I mentioned earlier about the centralized dashboard that allows us to understand how our locations are functioning at what level of efficiency.
+That speaks directly to energy usage in our production facilities.
+The more efficient we are, the lower the consumption of the energy, certainly per pound, specifically.
+I didn't mention, but we have also, over the past couple of years, we've invested in converting out all of our locations to LED lighting, which helps in our ESG journey, but helps with the consumption of energy, and helps reduce some costs.
+It's also a cost mitigation subject.
+We're looking at other items in that area to reduce energy consumption in our production facility.
+Ashish Sabadra
+Business and Information Services Analyst, RBC Capital Markets
+That's very helpful color, and congrats on the solid results.
+Todd Schneider
+President and CEO, Cintas
+Thank you.
+Operator
+Andy Wittmann, R.W.
+Baird, please go ahead.
+Andy Wittmann
+Senior Research Analyst, Baird
+Hey, thanks.
+Let's just keep going on this path, I guess.
+Mike, just, when kind of using your EPS and your revenue guidance, I'm backing into fourth quarter margin guidance, which is at the midpoint about flat year-over-year.
+I think that's probably right, and you can comment on that, I suppose.
+You just mentioned that energy prices on a sequential basis may be like 40 basis points.
+I was wondering if, you know, if the third quarter was +90 basis points adjusted on the margin improvements, you got 40 basis points in energy, what's the other 50 basis points?
+And can you talk about some of the other puts and takes that drive you to that margin, implied margin guidance?
+Mike Hansen
+EVP and CFO, Cintas
+Yeah, I would, let's start with the implied margin guidance.
+The range that we see is something like 18.5% at the bottom to 20% at the top.
+Last year's fourth quarter was 19.4%.
+You're right.
+At the midpoint, it's somewhat flattish against  let's call it a 60-80 point energy headwind from a year ago.
+At the top of that range, it's margin expansion even in this period of time.
+You know, our goal will be to continue to drive towards a margin expansion, even in a pretty difficult environment.
+Getting back to, I think your question of why maybe not more margin expansion.
+First of all, I would say, look, Andy, I don't know how many companies are expanding margins in this kind of environment, but we intend to.
+We also are growing quite nicely.
+You've seen our growth move from organically 8.6% in total in the first quarter to 9.3%- 10%.
+Growth means for us, when we're growing those volumes, we are investing in things like capacity in our wash alleys and other places.
+We're investing in even when we talk about the route efficiency, that doesn't mean we're necessarily not adding routes.
+We're gonna continue to invest in our routes.
+We're gonna continue to invest in other customer-facing positions.
+We're gonna continue to invest even in this kind of environment because the growth is very good and strong.
+That comes with a little bit of a cost too.
+Gosh, Andy, in this kind of environment with looking at a 60-80 basis point energy headwind to guide towards margin expansion, we feel pretty good about.
+Andy Wittmann
+Senior Research Analyst, Baird
+Yeah, wasn't trying to imply otherwise.
+Could you comment specifically on the labor market?
+Are your positions filled today?
+Are you having enough people to do what you need them to do?
+Can you talk about the overall pricing trends on that category specifically?
+Todd Schneider
+President and CEO, Cintas
+Andy, we always have job postings, openings.
+We're growing.
+As I mentioned earlier, we're growing our volume very attractively.
+There's more work, and we're really pleased about that.
+The labor market is challenging, you know, trying to get the levels that we're at.
+We're running at higher RPMs to get there.
+Not speaking of when I say higher RPMs, our management team's working harder to get there.
+We like our staffing levels, and we will continue to plan to invest in that area.
+We like our productivity that we're seeing from our partners in all areas of our business.
+I think that speaks in large part to our culture, where our folks are, they get up earlier, they work harder, they work later, and as a result, we have a strategic competitive advantage in the marketplace as a result of that.
+Yeah, we're trying to add roles, and we're doing it quite successfully.
+It's never good enough, as you know, from a leadership standpoint, but we're focused on it.
+Andy Wittmann
+Senior Research Analyst, Baird
+Thanks.
+Operator
+Tim Mulrooney, William Blair, please go ahead.
+Tim Mulrooney
+Group Head of Global Services, William Blair
+Yeah, good morning.
+I wanted to go back to pricing for a second.
+You know, if your uniform contracts are typically several years in length, can you talk about the actual mechanics around how you adjust for pricing?
+Are there annual pricing conversations stipulated within the contract, or do you just kinda reach out to customers as needed when you hit certain inflationary thresholds?
+You know, are there inflation pass-through provisions in these contracts?
+Thank you.
+Todd Schneider
+President and CEO, Cintas
+Tim, thanks for the question.
+You know, we have 1 million customers or more.
+So the answer is, you name it, we've got it.
+But generally, what I'll speak to is our agreements allow us to raise price and raise price as appropriate.
+And when we do so, our approach is we do that once a year.
+Doesn't mean that they all happen on the same day.
+They may be spread out throughout the year, but the conversation is once a year with the customer.
+We have found that that is our commitment to our customers to handle it in that manner.
+They like that.
+Our partners like that.
+It's, you know, in these inflationary times, as Mike mentioned earlier, those conversations are going better than they normally have.
+They are just because, you know, inflation is front and center of everything, every newspaper that I look at.
+But our approach is once a year with the customer, and we've been sticking by that, and we can then plan to continue to stick by that commitment to them.
+Tim Mulrooney
+Group Head of Global Services, William Blair
+Okay, that's great.
+Thank you.
+Todd Schneider
+President and CEO, Cintas
+Thank you.
+Operator
+Manav Patnaik, Barclays, please go ahead.
+Manav Patnaik
+Managing Director and Equity Research Analyst, Barclays bank
+Thank you.
+I just wanted to follow up on the labor environment broadly.
+You know, it sounds like you're managing your own labor pretty well, but just curious, you know, what you can share in terms of the challenges, struggles, openings, turnover, et cetera, that your customers are facing and you know, how that's looking today.
+Todd Schneider
+President and CEO, Cintas
+Manav, certainly, we are seeing a higher level, we call it a churn through our customer base, meaning we see people that quit at one customer, and they end up at the other customer.
+That is at a higher level than it has been in the past.
+Nevertheless, you know, we like the trend that we're seeing with our customer base and the add/stop trends that we're seeing.
+That's positive.
+Just as I mentioned, it seems like it's harder for businesses right now.
+Everybody's having to work a little bit more at it, and productivity has to be a little bit better.
+We are certainly seeing more churn within our customer base than we did historically.
+Manav Patnaik
+Managing Director and Equity Research Analyst, Barclays bank
+Got it.
+Mike, maybe just for the fourth quarter, you know, there's some tough comps on the rental side and then the fire side as well, I believe.
+If you could just help us with, you know, maybe the sequential organic growth trends we should be thinking about, what the M&A contribution is maybe.
+Todd Schneider
+President and CEO, Cintas
+Sure.
+The you know, when we think about organic growth for the rental division, we were at 8.9%.
+Our expectation first of all, Manav, let me maybe step back.
+The guidance for us implies 6.8%-10% growth, slightly over 10% growth.
+We love the momentum of the rental business, and we think that's gonna continue to perform very, very well in those upper single-digit type ranges.
+First Aid and Safety is gonna rebound quite a bit in the fourth quarter due to great momentum, but also a little bit of an easier comp.
+We expect that to be in the mid-teens.
+Our Fire business, which grew organically 15.3% this quarter, we continue to expect a very good growth in that area.
+Our Uniform Direct Sale business is gonna face a tougher comp
+Mike Hansen
+EVP and CFO, Cintas
+Likely that's gonna come back to something more normalized, low- to mid-single digits.
+Did I get it?
+I'm not sure if I heard the second part of your question, if there was one, Mano.
+Manav Patnaik
+Managing Director and Equity Research Analyst, Barclays bank
+Yeah, it was just around given all the M&A.
+I guess you picked up on, you know, what that quarterly contribution would look like.
+Mike Hansen
+EVP and CFO, Cintas
+Got it.
+Yes.
+Yeah.
+Yeah, so I think I covered that.
+Maybe I'll touch on we talked about I talked about the M&A, and a big component of that M&A was this equity investment transaction.
+That is, we got into a joint venture years ago for primarily the purposes of product innovation and particularly within our facility services business.
+That's a component, that entity, which we decided made sense to wholly own now is gonna tuck into our global supply chain.
+It's relatively non-revenue producing and so we won't see much of an impact on that.
+It tucks into global supply chain.
+Manav Patnaik
+Managing Director and Equity Research Analyst, Barclays bank
+Got it.
+Thank you.
+Operator
+Heather Balsky, Bank of America, please go ahead.
+Heather Balsky
+VP of Research Division, Bank of America
+Hi.
+Good morning.
+Thank you for taking my question.
+I wanted to just touch on and clarify some stuff on the PPE side.
+Just curious where you guys are relative to 2019 levels at this point.
+Are you still above or have you gotten back to, you know, kind of a more normalized trend?
+You mentioned sales of COVID tests during the quarter, how you're thinking about that business going forward, and is there an inventory investment around that as well?
+Thank you.
+Mike Hansen
+EVP and CFO, Cintas
+Yes.
+Our personal protective equipment sales have still been above pre-pandemic levels.
+We've talked a little bit throughout here about the value that our customers are seeing in it, and we are certainly recognizing that they still value safety, cleanliness, and sanitizing.
+Those revenue streams are still above pre-pandemic levels.
+You know, it's hard to predict what those are gonna look like into the future, but they're certainly above pre-pandemic, and the value proposition is resonating certainly more today than it did pre-pandemic.
+We like the movement in that business and so far the staying power of that.
+From a test kit perspective, you know, as we've done throughout this pandemic, our goal has been to do our best to take care of our customers.
+In this particular quarter, with Omicron really rising, our customers were asking us for the test kit opportunities, and we were able to fulfill those.
+It did not come with an inventory requirement.
+Our expectation is that's not gonna be a big mover into the future.
+We called out about $15 million worth.
+That's something that we wouldn't typically expect to repeat at anything close to that level.
+Heather Balsky
+VP of Research Division, Bank of America
+Thank you.
+Just to follow up on the PPE side, just 'cause I recall it's a lower margin business.
+You know, is that, even though it's still elevated, is it declining?
+Do you see it as a tail into your margins going as it sort of levels off going into next quarter and into next year as well?
+Mike Hansen
+EVP and CFO, Cintas
+The short answer is yes, Heather, and I'll maybe talk about it this way.
+The First Aid and Safety Services business where a lot of that PPE has been, we've seen some really nice momentum in the First Aid and Safety Services side of the business, and that generally comes with those better margins.
+We saw a nice uptick from our second quarter to our third quarter in our First Aid and Safety Services gross margins.
+Our expectation is that momentum is gonna continue, even though we still certainly hope that there is more PPE going forward than pre-pandemic.
+You're right, Heather.
+As the mix tilts back to a greater amount of first aid business, we expect those gross margins to start to get closer and closer towards those pre-pandemic levels.
+The one thing I will say in the first aid and safety business is that we made a nice jump in our operating margin too.
+If you think about the SG&A part of that business, our salespeople are producing at very high levels, and our SG&A in that business is well below pre-pandemic levels.
+As we continue this mix moving in the right direction, our expectation is that those overall operating margins will certainly get back to pre-pandemic levels and can improve from there.
+We were at, call it in the mid-14% range pre-pandemic, and we're on our way back towards those and our goal certainly would be more expansion after that.
+Heather Balsky
+VP of Research Division, Bank of America
+Okay, thank you for that color.
+Operator
+Scott Schneeberger, Oppenheimer, please go ahead.
+Scott Schneeberger
+Managing Director and Senior Analyst, Oppenheimer
+Thanks very much.
+Good morning.
+Guys, I have one more following up on inflation and price.
+You know, you had stated that the majority of the growth is coming from volume.
+I'm just curious.
+I guess the essence of the question is what percent of the base you're doing on a customer-by-customer basis, but what percent of your base would you say you have affected with price increases at this juncture?
+Will we see a greater percentage of the growth going forward coming from the pricing side as opposed to the volume side, as that kicks in on who you've already priced and whom you maybe have yet to price?
+Just a little bit better feel on the timing as to how much more contribution we may see from price offsetting cost pressure going forward.
+Thanks.
+Todd Schneider
+President and CEO, Cintas
+Thanks for the question, Scott.
+We, you know, how we approach it, as I mentioned, it's once a year, but it's relatively smoothed out throughout the year.
+As we've talked about in the past, some of it depends upon the condition of that customer, how their business is, that industry, that geography.
+As time goes on, hopefully that'll become a lot more consistent.
+No, I think what you're seeing as far as our volume growth and the pricing wins that we're getting, I think you'll see that be pretty consistent in the future.
+I don't think you'll see an outsized percentage coming from pricing next year in the coming you know weeks months or something like that because of how we approach it.
+Again, we're very, very happy with the level of demand that we're seeing from our customer base.
+It's very attractive for us.
+We're investing appropriately for it, and we're very pleased.
+Scott Schneeberger
+Managing Director and Senior Analyst, Oppenheimer
+Great.
+Thanks.
+Appreciate that response.
+For my follow-up, I'm just curious, going back to this 1% of SAP extended membership in which you're participating, could you elaborate on how that came to be?
+You covered some of the benefits about what it offers.
+Just if you could take us a little bit deeper on was that something you pursued?
+Was that something that they granted?
+How it came to be and just where you expect to go with that?
+Thanks.
+Todd Schneider
+President and CEO, Cintas
+Great.
+Yeah, we're very proud of the relationship we have with SAP, and it goes back a number of years now.
+It is something that they bestowed upon us.
+You know, our relationship has been flourishing over the past few years because of the degree to which we deploy their technology and the usefulness that we get out of it.
+I think they really like seeing how we leverage their technology.
+As a result, it gets us, as I mentioned, you know, we're in a different stratosphere.
+You think about SAP's customer base, and then you think about that we're in the top 1%, it's unique air.
+As I mentioned, it does get us relationships at very high levels.
+There's an SAP board member that is assigned to us as a customer.
+We have relationships, again, at obviously at really, really high levels, but it gets us access to their developers and to their technologies on the front end instead of it being rolled out, and then we gotta figure it out.
+We can have input and instead of just having something roll out, and then we gotta figure out how to manage through the change.
+When you're in that 1%, you have the ear of those folks and allows you to impact where those items go.
+As a result, we think that's an advantage for us.
+We're very pleased with it and very pleased with our investment with SAP.
+We're seeing real dividends from that.
+I think we've laid out over the past few quarters.
+Scott Schneeberger
+Managing Director and Senior Analyst, Oppenheimer
+That sounds great.
+Thanks.
+I'll turn it over.
+Todd Schneider
+President and CEO, Cintas
+Thank you.
+Operator
+Shlomo Rosenbaum, Stifel, please go ahead.
+Shlomo Rosenbaum
+Managing Director of Business and Information Services, Stifel Financial
+Hi.
+Good morning.
+Thank you for taking my questions.
+Hey, Todd, where are you now in terms of the opening up and getting back to normal?
+Like kind of an apples to apples basis in terms of volumes with your customers, so pre-COVID versus where you are today.
+How much more juice is left in that kind of recovery play for, you know, things just kind of opening up more and getting back to your historical basis of, let's say, 2019 volume levels?
+Todd Schneider
+President and CEO, Cintas
+Shlomo, great question.
+You know, our customers are, for the most part, they're all open.
+Certainly there are some that are, unfortunately, that did not survive through the pandemic and the challenges that threw at folks.
+Our customers are all, I'll say they're open.
+They're not all at the same levels of consumption that they once were.
+Some are at higher, some are at lower.
+We think there's still some real opportunity there, as the economy opens up and to a larger degree, as people are back more to work to a larger degree.
+We think that's positive.
+We think there's also some hidden benefits that we can get from the fact that, throughout the pandemic, as we've talked about, the customers see us in a different light.
+How we handled their accounts, how we handled their invoices, the lack of increase and the flexibility that we provided.
+But also the access to product that they didn't even know that we provided in the past.
+Shlomo, that is an advantage for us.
+The fact that they look at it and they say, "Wow, we didn't realize Cintas provided these items." They can get them.
+They're great to work with, they're consistent, and they're reasonable.
+As a result, that I think sets a different level of a different pool level.
+We still think there's even more opportunities within that customer base where they will get back to a spend level where they once were.
+We think the future looks quite attractive from that standpoint.
+Shlomo Rosenbaum
+Managing Director of Business and Information Services, Stifel Financial
+Okay.
+Thank you.
+Just to clarify, and maybe this is for you, Mike, the equity method investment was a supply chain technology business early stage that you bought in, and then you decided that you wanted to own all of it, but it's not a product sale, it's a capability to manage your business internally.
+Is that what we're talking about?
+Mike Hansen
+EVP and CFO, Cintas
+It has been an entity where we've done product innovation that has created products for the Rental Division, particularly in Facility Services, while it isn't a direct producer of revenue, it has created products over the years that have created revenue streams for the Rental Division.
+Shlomo Rosenbaum
+Managing Director of Business and Information Services, Stifel Financial
+Okay.
+All right.
+Thank you very much.
+Operator
+Toni Kaplan, Morgan Stanley, please go ahead.
+Toni Kaplan
+Business, Education, and Professional  Services Analyst, Morgan Stanley
+Thank you.
+I wanted to ask one more follow-up on inflation and whether you have inflationary escalators built into the contracts, and if you do, you know, what percent of contracts do have that built in?
+Todd Schneider
+President and CEO, Cintas
+Toni, I appreciate the question.
+As I mentioned earlier, we have such a broad customer base that you name it, we have it from a contractual standpoint.
+Generally speaking, we have the ability to raise price and no limits, and do so as we deem appropriate.
+Fundamentally and practically, how we've handled it is we go in and we talk to the customer once a year and explain what the adjustment, the price adjustment is.
+And we manage through that.
+But no, we're not limited.
+Certainly we have some certain customers that we have limits on?
+Absolutely.
+But generally speaking, no.
+We're not limited from that standpoint.
+It's more about making good long-term practical decisions that help us retain those customers for life.
+While we're at it, I will say our customer retention rates are really attractive right now.
+They have been for the past couple of years and they have certainly not degraded.
+We're excited about that.
+I think in large part it's our approach, Toni, that we take on this subject about the flexibility, the pricing, the reasonableness.
+We have good conversations that I think people understand and we can manage through it.
+Toni Kaplan
+Business, Education, and Professional  Services Analyst, Morgan Stanley
+Great.
+There was a question about different verticals earlier, and you mentioned a couple of them in specific, but wanted to understand if there were certain verticals outside of, I think it was healthcare and hospitality that we mentioned earlier, you know, that have seen higher or lower growth than normal.
+You know, just if there's any others that would make sense to call out.
+Related, just wanted to hear any color on the new business pipeline.
+Thanks.
+Todd Schneider
+President and CEO, Cintas
+Sure.
+Hospitality is obviously, as you're reading in the journal and other periodicals, it's bookings are way up for those folks there, so that's bounced back nicely.
+Healthcare's been, you know, some stops and starts.
+The demand for our products have been very consistent.
+Through the pandemic, us having product available was a big deal.
+The movement towards getting away from, in many cases, those folks looking at saying, "Hey, we don't want a one-time disposable.
+They're hard to access, not great for the environment," and going to reusable has been great in healthcare, which we've kind of detailed out in the past.
+Education sector has been, I'd say, a little bit of stops and starts as well in the fact that they literally stopped and started in their schools in many cases.
+Generally speaking, the education sector is doing quite well.
+Then, lastly, with the government sector, that's obviously been really consistent.
+We like our verticals.
+We like our approach in those areas, and they're all growing attractively, and we expect them to continue to grow attractively based upon our strategy there.
+Toni Kaplan
+Business, Education, and Professional  Services Analyst, Morgan Stanley
+Thank you.
+Todd Schneider
+President and CEO, Cintas
+Thank you.
+Operator
+Thank you all.
+As there are no further questions in the queue, I would like to hand the call back over to Mr. Paul Adler for any additional or closing remarks.
+Over to you, sir.
+Paul Adler
+VP, Treasurer, and Investor Relations, Cintas
+All right.
+Thanks.
+Thanks, Sergei.
+Thank you all for joining us this morning.
+We will issue our fourth quarter of fiscal 2022 financial results in July.
+We look forward to speaking with you again at that time.
+Thank you.
+Operator
+Thank you.
+This concludes today's conference call.
+Thank you for your participation.
+You may now disconnect.
+Data Source:
+Quartr
+Last updated:
+Mar 23, 2022
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (15)
+Quarterly report
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

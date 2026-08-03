@@ -1,0 +1,897 @@
+Cintas (CTAS) Q4 2021 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Cintas Corporation (CTAS)
+NASDAQ: CTAS · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+204.63
+-2.16 (-1.04%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+206.88
++2.25 (1.10%)
+Pre-market:
+Aug 3, 2026, 8:09 AM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q4 2021
+Jul 15, 2021
+Annual report
+Earnings release
+Play Audio
+Download Transcript
+Operator
+Good day, everyone, welcome to the Cintas fourth quarter fiscal year 2021 earnings release conference call.
+Today's call is being recorded.
+At this time, I would like to turn the call over to Mr. Paul Adler, Vice President and Treasurer of Investor Relations.
+Please go ahead, sir.
+Paul Adler
+VP, Treasurer, and Investor Relations, Cintas
+Thank you, Nick, and thank you for joining us.
+With me today is Scott Farmer, Cintas Executive Chairman of the Board of Directors, Todd Schneider, President and Chief Executive Officer, and Mike Hansen, Executive Vice President and Chief Financial Officer.
+We will discuss our fourth quarter results for fiscal 2021.
+After our commentary, we'll be happy to answer questions.
+The Private Securities Litigation Reform Act of 1995 provides a safe harbor from civil litigation for forward-looking statements.
+This conference call contains forward-looking statements that reflect the company's current views as to future events and financial performance.
+These forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those we may discuss.
+I refer you to the discussion on these points contained in our most recent filings with the SEC.
+I'll now turn the call over to Mike Hansen.
+Mike Hansen
+EVP and CFO, Cintas
+Thanks, Paul.
+Our fiscal 2021 fourth quarter revenue was $1.84 billion, compared to $1.62 billion in last year's fourth quarter, an increase of 13.3%.
+Earnings per diluted share, or EPS, were $2.47, an increase of 83% from last year's fourth quarter.
+The organic revenue growth rate, adjusted for acquisitions, divestitures, foreign currency exchange rate fluctuations, and differences in the number of workdays, was 11.5% for the fourth quarter of fiscal 2021.
+Organic revenue for the Uniform Rental and Facility Services operating segment was 13.7%.
+Organic revenue for the First Aid and Safety Services operating segment declined 6.8%.
+Gross margin for the fourth quarter of fiscal 2021 was $859.1 million, compared to $707.8 million in last year's fourth quarter.
+Gross margin as a percent of revenue increased 310 basis points to 46.8% for the fourth quarter of fiscal 2021, compared to 43.7% in the fourth quarter of fiscal 2020.
+Selling and administrative expenses improved as a percent of revenue to 27.4% in the fourth quarter of fiscal 2021, compared to 30.9% last year.
+Operating income for the fourth quarter of fiscal 2021 of $356.4 million increased 71.8%.
+Operating margin increased 660 basis points to 19.4% in the fourth quarter of fiscal 2021, compared to 12.8% in the fourth quarter of fiscal 2020.
+Fiscal 2020 fourth quarter operating income was affected by many items caused by COVID-19, including additional reserves on accounts receivable and inventory, severance and asset impairment expenses, and lower incentive compensation expense.
+Excluding these items, the fiscal 2020 fourth quarter operating margin was 15.5%.
+All of these items were recorded in last year's selling and administrative expenses.
+Our effective tax rate for the fourth quarter of fiscal 2021 was 19.4%, compared to 20.4% last year.
+The tax rate can move from period to period based on discrete events, including the impact of stock compensation.
+Net income for the fourth quarter of fiscal 2021 was $267.7 million, an increase of 85.2%.
+EPS was $2.47, an increase of 83% from last year's fourth quarter.
+Our balance sheet and cash flow remain strong.
+Our leverage calculation for our credit facility definition was 1.5x debt to EBITDA at May 31st, 2021.
+On June 1st, 2021, $250 million of debt bearing an interest rate of 4.3% matured and was repaid with cash on hand.
+We have an untapped credit facility of $1 billion.
+During the fourth quarter of fiscal 2021 and our first quarter of fiscal 2022 to date, we purchased $979 million of Cintas common stock under our buyback program.
+On June 15th, 2021, Cintas paid shareholders $79.2 million in quarterly dividends.
+For the fiscal year ended May 31st, 2021, revenue was $7.12 billion, compared to $7.09 billion for fiscal 2020.
+EPS for fiscal 2021 were $10.24, compared to $8.11 for last fiscal year.
+Revenue and adjusted EPS have grown 50 of the past 52 years.
+Fiscal 2021 free cash flow, which is defined as net cash provided by operating activities less capital expenditures, was $1.22 billion, an increase of 14.7% compared to last year.
+For our fiscal 2022, we expect our revenue to be in the range of $7.53 billion-$7.63 billion, and diluted EPS to be in the range of $10.35-$10.75.
+Please note the following regarding our guidance.
+Our fiscal 2022 effective tax rate is expected to be in the range of 19.5%-20.5%, compared to a rate of 13.7% in fiscal 2021.
+The higher effective tax rate negatively impacts fiscal 2022 EPS guidance by about $0.85 and EPS growth by about 800 basis points.
+Guidance does not include any future share buybacks or potential tax reform.
+We remain in a dynamic environment that can continue to change.
+Our guidance contemplates a steadily improving economy, absent any economic or pandemic-related setbacks.
+For financial modeling purposes, please note that there are no workday differences when comparing fiscal 2022- 2021.
+Both fiscal years contain 66 days in the first quarter, 65 in the second, 64 in the third, and 66 in the fourth quarter.
+I'll now turn the call to Paul for commentary on the performance of each of our businesses.
+Paul Adler
+VP, Treasurer, and Investor Relations, Cintas
+Thanks, Mike.
+The Uniform Rental and Facility Services operating segment includes the rental and servicing of uniforms, healthcare scrubs, mats, and towels, and the provision of restroom supplies and other facility products and services.
+The segment also includes the sale of items from our catalogs to our customers on route.
+Uniform Rental and Facility Services revenue was $1.47 billion compared to $1.27 billion last year.
+Our Uniform Rental and Facility Services segment gross margin increased 410 basis points to 47.7% for the fourth quarter, compared to 43.6% in last year's fourth quarter, driven in large part by lower production and service expense as a percent of revenue.
+While some inflationary pressures increased certain costs, these were more than offset by increased revenue from businesses reopening or increasing capacity as COVID-19 case counts fell and restrictions on businesses were reduced.
+Our First Aid and Safety Services operating segment includes revenue from the sale and servicing of first aid products, safety products, personal protective equipment, and training.
+This segment's revenue for the fourth quarter was $186.9 million, compared to $196.3 million last year.
+First Aid fourth quarter revenue was up against a very difficult comparison.
+In last year's fourth quarter, in response to the onset of the COVID-19 pandemic, personal protective equipment sales surged.
+Also, the First Aid cabinet service business was not impacted until late in last year's fourth quarter when business restrictions became widespread.
+As a result, the division posted a 21.9% organic revenue growth rate in last year's fourth quarter.
+The First Aid segment gross margin was 43.0% in the fourth quarter of this fiscal year, compared to 46.1% last year.
+The difference in gross margins is due to revenue mix.
+As we guided last quarter, less personal protective equipment was sold in the fourth quarter than in the third quarter.
+However, as a percentage of total division revenue, personal protective equipment revenue was still a significant percentage.
+While profitable, personal protective equipment revenue has lower gross margins than the First Aid cabinet servicing business.
+We expect gross margins to improve sequentially as the cabinet servicing business continues to grow and gets closer to the pre-COVID percent of total division revenue.
+Our Fire Protection Services and Uniform Direct Sales businesses are reported in the All Other category.
+All Other revenue was $181.9 million, compared to $152.3 million last year.
+The Fire business organic revenue increased 22.4%.
+Gross margin improved 70 basis points.
+Uniform Direct Sales business organic revenue growth rate was 6.2%, and gross margin increased 280 basis points.
+I'll now turn the call over to Todd for our final prepared remarks.
+Todd Schneider
+President and CEO, Cintas
+Thanks, Paul.
+We are pleased with our fourth quarter financial results that conclude a fiscal year of significant accomplishments, including the following.
+We helped keep our customers' place of business clean, safe, and ready for the workday by providing essential products and services.
+We procured hard-to-find and potentially life-saving items such as face masks and gloves, provided hygienically clean healthcare scrubs and isolation gowns, and developed services including hand sanitizer dispensing, sanitizing spray services, and disinfecting wipes.
+Our Net Promoter Scores reached an all-time high because we consistently delivered for our customers by providing needed products and services and being flexible with service agreement terms during the pandemic.
+We were again named to the prestigious Fortune 500, climbing 31 spots to rank at number 410 on the 2021 list.
+It's an honor to be recognized among the most successful and respected companies.
+We allocated capital to improve shareholder return.
+We paid down debt, reducing interest expense.
+We increased the annual dividend 10.2% and changed from an annual dividend to a quarterly dividend to return cash to shareholders more timely.
+We've increased the dividend 37 consecutive years.
+Also in fiscal 2021, and up until today, we repurchased 2.7 million shares of Cintas stock for a total of $979 million.
+As part of our steadfast commitment to corporate responsibility, we issued our inaugural environmental, social, and governance, or ESG report.
+We are committed to protecting the environment, enhancing humanity, and supporting the communities where we do business.
+In addition to these many accomplishments, and despite the unprecedented challenges of the COVID-19 pandemic, we grew our fiscal year revenue and adjusted EPS.
+I can't thank our employee partners enough, and I am so proud of their truly impressive achievements.
+The Cintas story is one of growth.
+We've grown revenue and adjusted EPS in 50 of the past 52 years.
+The only exceptions were the Great Recession years.
+Our successful long-term financial formula is organic revenue growth in the mid to high single digits, double-digit earnings per share growth, significant cash generation, and prudent deployment of excess cash to further generate strong shareholder returns.
+Our prospects for continued growth are great, and result in part from a strong value proposition and a vast total addressable market.
+We have a product or service to help nearly every business get ready for the workday.
+Examples include scrub rental to hospitals and dentists, hygiene supplies and services to professional services firms, floor care services, including walk-off mats and mops to retailers, First Aid products to hotel and restaurant kitchens for cuts and burns, Fire Protection Services to facilities managers and universities, and personal protective equipment to city maintenance and sanitation departments.
+The renting of healthcare scrubs and isolation gowns is indicative of a broad uniform rental opportunity.
+Plus, we are so much more than a uniform company.
+More than half of our revenue is from facility services, including hygiene, floor care items such as walk-off mats and dust mops, cleaning tools like microfiber mops and towels, first aid cabinet services, personal protective equipment, and Fire Protection Services, including test and inspection of extinguishers and alarms.
+Our total addressable market is the 15 million-20 million businesses we don't currently service.
+Every business, goods producing or services providing, has a need for image, safety, cleanliness, or compliance.
+Every business has a need Cintas can fulfill.
+Additionally, the COVID-19 pandemic ushered in a greater focus on health, readiness, and outsourcing of non-core activities.
+Significant opportunities for new revenues continue to exist because of the need of businesses to instill confidence in their employees, customers, students, patients, et cetera, that they will remain healthy and safe.
+The new services we launched, including hand sanitizer stand dispenser service and sanitizing spray service, have a long runway.
+Cintas consistently invests in technology to support growth.
+Our recent implementation of the SAP enterprise resource planning system provides benefits in three main areas.
+One is operational efficiencies.
+Our route drivers utilize personal route computers, which are similar to a cellphone, to access data and process transactions in real time.
+SAP enabled us to have visibility to laundry plant stockroom inventories across our operations, helping improve profitability via the sharing and reuse of revenue-producing assets.
+The technology helps us improve working capital via tighter management of supply chain inventory.
+A second benefit is data analytics and enhanced business reporting.
+These result from having the order-to-cash cycle all in one system.
+SAP enables us to analyze, process, and extract information from extremely large data sets, helping us target penetration, cross-selling, and pricing opportunities.
+A third competitive advantage is improved customer service.
+Through SAP, our customers can pay bills and communicate with us 24 hours a day, seven days a week.
+We expect the ease of doing business will help us improve customer retention.
+Also, customers can order products and services via SAP, resulting in improved turnaround time and faster realization of product and service revenue.
+I want to say a few more words regarding ESG.
+From the start of our company in the Great Depression, the Cintas business model was wholly based on sustainable practices, wash and reuse.
+We have a great corporate responsibility story to tell.
+We will continue to expand our ESG reporting and are excited about issuing our next report this year.
+Finally, I'd like to say thank you on behalf of all Cintas employee partners to Scott Farmer for his 18 years of service as Chief Executive Officer.
+Under Scott's leadership, the company's revenue grew from $2.69 billion in 2003 to $7.12 billion in fiscal 2021.
+Scott successfully led Cintas through years filled with challenges, changes, and opportunities, including the Great Recession, our largest acquisition, the COVID-19 pandemic, and the integration of SAP technology across the organization.
+We thank Scott for his service to the company as CEO, and we are grateful that he remains as Executive Chairman.
+Scott Farmer
+Executive Chairman of the Board of Directors, Cintas
+Thank you, Todd.
+I'd like to take this moment to thank all of my Cintas partners across the company.
+I'm proud of our many collective accomplishments, including the innovative products and services that we provide our customers, as well as the tremendous dedication of our employee partners, without whom we wouldn't be successful. Our company is in a position of financial strength with the strongest and most experienced management team that we've ever had, executing a proven strategy that has allowed our continued success even through the recent pandemic.
+It's been a true honor and privilege for me to have led this company as CEO for the last 18 years, and I'm as excited about our future as I've ever been, and I look forward to watching this leadership team steer us to continued success in the future.
+That concludes our prepared remarks.
+We are happy to answer your questions.
+Operator
+Thank you.
+If you would like to ask a question, please signal by pressing star one on your telephone keypad.
+If you're using a speakerphone, please make sure your mute function is turned off to allow your signal to reach our equipment.
+Once your name has been announced, you will have the opportunity to ask your question along with 1 additional follow-up question.
+Again, please press star one to ask a question.
+We'll pause for just a moment to allow everyone an opportunity to signal.
+Our first question comes from Andrew Wittmann with R.W.
+Baird.
+Please go ahead.
+Andrew Wittmann
+Analyst, R.W. Baird
+Great, thanks for taking my question.
+Scott, congratulations on a great run.
+It's been a pleasure, and we look forward to still having you associated maybe when we come to Cincinnati next time.
+Scott Farmer
+Executive Chairman of the Board of Directors, Cintas
+You bet.
+Thank you.
+Andrew Wittmann
+Analyst, R.W. Baird
+Yeah.
+I guess getting onto business here a little bit, and maybe this is for Mike.
+There's been a lot of focus on inflationary factors, and what I heard here on your prepared remarks and in your release was that it sounds like you're getting good operating leverage.
+I was just hoping you could drill in and talk about some of the key factors you've talked about in the past.
+Certainly, labor is one that's come up a lot broadly across the street.
+You've talked about some other things like healthcare, travel, and others have mentioned merchandise costs.
+I was just wondering if you could talk about some of those key buckets and talk about the offsets that you have baked into guidance, because it looks like your margin guidance is flat to up slightly.
+I was just kind of hoping you could talk about some of the moving pieces inside of that as to why you feel like you can offset some of these headwinds that might be creeping in.
+Mike Hansen
+EVP and CFO, Cintas
+Sure.
+I'll begin, and certainly Todd can jump in.
+As it relates to guidance, you're right, Andrew, the implied margins would be at the low end of the guidance, flattish to at the high end, up around 70 basis points.
+A pretty good range.
+You've heard us talk a lot about we've made some really great progress.
+We made some difficult decisions through this pandemic, and it'd be a shame to go backwards in this.
+This guidance is suggesting that we don't intend to.
+How do we think about this inflation?
+Certainly, labor, as you've mentioned, Andrew, is a big component of our cost structure.
+The really good news for us is we've been working on the labor rates for some time.
+This isn't something that is catching us by surprise.
+Over the last several years, we've been increasing the labor rates.
+Certainly, the labor environment is a difficult one from the standpoint of the supply of people.
+Hiring has been a little bit more difficult.
+We don't expect that the increasing wages around us is really going to be a significant issue.
+We've been working on that for years and don't expect that to really be that difficult for us as we move into the future.
+Scott Farmer
+Executive Chairman of the Board of Directors, Cintas
+I would add to that, includes last fiscal year.
+We raised the wage rates of all of our hourly people in our distribution centers, offices, production, all of our frontline service personnel.
+We don't have a big catch-up as a result of that.
+I know there are other businesses out there that froze wages in the pandemic, and because it was a year, they might have a catch-up to make, and we don't have that.
+I'm happy to say that.
+I don't think that so far we've seen issues where the labor rates are going to cause us significant problems.
+We're more concerned about what happens to our customers as a result of this, and so we'll be watching that very closely.
+Todd Schneider
+President and CEO, Cintas
+Andrew, it's Todd.
+It's a great question.
+We're in a good staffing position.
+We like where we are there.
+We like the fact that we've been addressing this subject over the course of a number of years.
+As Scott pointed out appropriately, even in the peak of the pandemic last year, we were committed to staying the course and doing the right things and taking care of our hourly partners because we knew that we could see things coming, right?
+We're committed to it.
+That's important to us.
+Certainly, other input costs are cost of goods.
+Our supply chain team is working harder than ever, and they're doing a great job in managing through that process to get us the goods that we need to make sure we're servicing our customers, which we're doing a great job at, and to manage our cost structure from that standpoint.
+We like the spot we're in.
+We anticipate getting hopefully some leverage on the additional revenue that we bring in.
+We've done such a great job and took such a big jump forward from fiscal 2020 to fiscal 2021, that, as Mike stated, it'll be a shame to go backwards, and we're focused on going forward.
+Mike Hansen
+EVP and CFO, Cintas
+Andrew, maybe I'll add a couple other items.
+You saw that energy was 30 basis points higher in our fourth quarter than our third quarter, about 40 basis points year-over-year.
+We've built that kind of increase into our guidance, and certainly there is room within our guidance for larger increases than that.
+Something that we'll keep our eye on.
+We constantly are working on improving efficiencies, productivity levels, routing, and those things will all have positive impacts.
+From a material cost standpoint, the good news is many of our rental items are amortized.
+When we see increases in costs, they generally tend to take a long time to make it to our P&L.
+They have to last for a while, so that they bleed in over time.
+Obviously we've got a great global supply chain Todd talked about, and they adapt.
+When we see inflationary pressures, we look for opportunities to adapt to that new environment.
+I think over the course of the last year, we've talked a lot about our supply chain.
+They've done a great job, and we anticipate that they'll continue to do a very good job.
+Now, having said that, there are a lot of challenges in the supply chain and in hiring that we've talked about, and we're not immune to inflationary pressures.
+They are all built into our guidance.
+The other thing is we haven't increased our pricing for two years, right?
+We certainly believe that that is an opportunity for us as we move into this new fiscal year.
+We have selectively started to do that in some areas.
+Pricing is local.
+For us, it's customer-by-customer decision, and where we believe it makes sense, we will do that.
+That is certainly something that is available to us when we believe that the cost pressure is warranted.
+Again, all of that is built into our guidance, which assumes not just keeping the great leap forward that we made in fiscal 2021, but even continuing to improve upon.
+Andrew Wittmann
+Analyst, R.W. Baird
+That's really helpful.
+Thank you.
+My one follow-up is just trying to get a sense of the reopening benefits that you're getting or expecting on a sequential basis.
+How much is left after the May quarter and into June?
+Is there still businesses that are closed for you or substantially closed, where the revenues are so de minimis that they might as well be considered closed?
+On a sequential basis, are you starting to feel like things are fairly normal here, June, July time period?
+Thank you.
+Todd Schneider
+President and CEO, Cintas
+Andrew, Mike talked about pricing being a local subject.
+Reopening is a local subject as well.
+For the most part, most businesses are back.
+Certainly, Canada has been a little slower to come back because of vaccination rates and government impacts there.
+Nevertheless, in general, most businesses are back.
+Are they back at the levels that we think they will be in the future?
+No.
+We're committed to helping them with our valuable products and services to help them be prepared as their employees come back and their customers come back, so they can compete in the marketplace.
+Hopefully that helps.
+Scott Farmer
+Executive Chairman of the Board of Directors, Cintas
+Yeah.
+This is Scott.
+I would add that we think that Canada will be in the position that the U.S. is sometime the end of the summer with reopenings, but they're on a steady pace heading in that direction.
+The biggest issue that we have is that businesses are open, but there are, what, about 7 million fewer people employed right now than there were pre-pandemic.
+There's a lot of room there.
+I think as federal unemployment benefits subside in, what, September, we hope to see that our customers that are open will be able to get themselves back to full staffing, and that'll obviously benefit our business.
+Operator
+Thank you.
+Moving on to our next question, we'll go to Manav Patnaik with Barclays Capital.
+Please go ahead.
+Manav Patnaik
+Analyst, Barclays Capital
+Thank you.
+Good morning, guys.
+I was just hoping you would help us with the kind of cadence of organic growth by segment.
+There's still obviously a lot of uncertainty potentially out there, so thank you for giving full year guidance.
+I was just hoping if there's anything to call out in terms of modeling the growth rates of the segments.
+Todd Schneider
+President and CEO, Cintas
+Yeah, Manav, this is Todd.
+I thank you, team, for our guidance.
+We expect a range of 5.8%-7.2% from a growth rate.
+When you think about, obviously, Rental division is by far our largest division, that will be in that range.
+We expect that all of our businesses, meaning the other businesses, Fire, First Aid, and our Direct Sale business, will all be high single-digit growth businesses in this fiscal year.
+We feel very positive about all of them and look forward to growth in each of those businesses.
+Mike Hansen
+EVP and CFO, Cintas
+Yeah, I think we might see a little bit of bumpiness in the First Aid business.
+You saw that their revenue was a little bit lower growth-wise.
+They had a decline in the fourth quarter.
+They had such a strong year last year, particularly in the fourth quarter and the first quarter.
+We may see a little bit of bumpiness through the year, but it's a great business.
+It's improving.
+We're seeing the recurring business and the mix start to turn back to where we like it.
+That's just throughout the year, maybe a little bit of a different performance than we're used to seeing from a steadiness perspective.
+Manav Patnaik
+Analyst, Barclays Capital
+Okay, that makes sense.
+If I can just ask around capital allocation, the buyback was a pretty big number, the $900+ million that you talked about.
+Can you just help us understand that in the context of the M&A pipeline and what we should expect going forward?
+Todd Schneider
+President and CEO, Cintas
+A lot of our commitment is still number one priority is to invest back into our business, to grow the number of customers we have and grow those customers, and invest in our infrastructure.
+Our second one is to invest in M&A.
+We are very focused on M&A, active in that area, and it's a big push for us.
+Third, consistent with what our approach has been in the past, if there is capital that is in excess of that, we'll return it back to the shareholders in the form of increase in dividend and repurchase of the stock as appropriate.
+Paul Adler
+VP, Treasurer, and Investor Relations, Cintas
+Manav, this is Paul Adler.
+I just wanted to add that we're so fortunate to have such a strong balance sheet.
+The cash flow is so strong.
+We did that buyback.
+Our leverage is 1.5x, as we mentioned in the script.
+Fortunate to be in a position where what we do with the dividend and the buybacks doesn't preclude us from M&A or any other activities because of the strength of the balance sheet.
+Manav Patnaik
+Analyst, Barclays Capital
+All right.
+Thank you.
+Operator
+Thank you.
+Our next question comes from Andrew Steinerman with JP Morgan Securities.
+Please go ahead.
+Andrew Steinerman
+Analyst, JPMorgan Securities
+Hi.
+When you frame fiscal 2022 revenue growth, could you just talk about some verticals here?
+Which verticals do you think will be above the average growth of the guide, and which verticals might take longer to rebound, or maybe they're just kind of slower growth verticals?
+Todd Schneider
+President and CEO, Cintas
+Andrew, this is Todd.
+As we look at the business, certainly the hospitality business is, you read about it in the papers, right?
+You hear about bookings, whether it's airlines or hotels, et cetera.
+That is a vertical that we think will be quite positive this year.
+The healthcare vertical is going to continue to be strong for us.
+Hospitals are catching up on voluntary type of procedures, which is helping that.
+We have a very attractive value proposition in both of those areas as well.
+Education government are both we expect to be quite strong for us.
+The mix of business, I think you will see will be different in those areas, less PPE and more focused on more of a traditional type of approach that we've had in the past.
+Those key verticals are all positioned well.
+If you think of them all, they're all positioned quite well.
+Hospitality, probably the best.
+Andrew Steinerman
+Analyst, JPMorgan Securities
+Mm-hmm.
+Are there any slower growth verticals or really is a rising tide here?
+Todd Schneider
+President and CEO, Cintas
+Yeah.
+Let's say, none come to mind where I would say, yeah, slower type of growth.
+It's just kind of a rising tide is the best way to put it.
+Andrew Steinerman
+Analyst, JPMorgan Securities
+Great.
+Thank you.
+Operator
+Thank you.
+Our next question comes from Hamzah Mazari with Jefferies.
+Please go ahead.
+Ryan Gunning
+Analyst, Jefferies
+Hey, good morning.
+This is actually Ryan Gunning filling in for Hamzah.
+My first question, just around the Fire Protection Services, and if you could just talk about the competitive dynamic there and any opportunity for larger scale M&A in that business, kind of similar to what you did with the medical and the First Aid and Safety Services side.
+Todd Schneider
+President and CEO, Cintas
+Yeah, Ryan, this is Todd.
+We like our position in the fire business.
+We really like the fire business.
+We understand how to go to market and how to make attractive margins in that business, and we're investing.
+We're investing in M&A.
+We're investing in infrastructure to make sure that we're able to service all of our customers.
+We have a national offering in that business, some via subcontracting, but nevertheless a very attractive national approach.
+We're positioned well.
+Our culture, our infrastructure, how we execute puts us in a good spot.
+There's good momentum in that business.
+You think about it, right?
+It's all legally, you have to have those products and those services.
+Nevertheless, there was some pent-up demand in it from repairs, right?
+Someone comes through and looks at your fire equipment, and there's some items that need to be repaired.
+During a pandemic, people weren't so anxious to spend money on those types of subjects.
+As we're coming out of it, we're busy.
+We're busy in that area for many reasons, but one of which is some pent-up demand on repair, which is great business for us.
+Ryan Gunning
+Analyst, Jefferies
+Got it.
+Thanks.
+That's helpful.
+Switching over, could you provide any kind of visibility on how much of your sales you consider today as pandemic, like non-recurring versus recurring, and how you define that?
+Todd Schneider
+President and CEO, Cintas
+Yeah.
+Great question.
+When you think about, let's call it PPE items that were really pandemic-related, they are still at levels elevated from pre-pandemic.
+We do not expect them to repeat at the levels that they were in fiscal 2021.
+If you think about our guidance, with the PPE that does repeat, if it does repeat, we would be on the high end above 8% from an internal growth rate.
+Think about it that way, about how much will not be repeating, that we don't expect to repeat, which kind of demonstrates the mix of businesses is going to be much closer to traditional, and there's some real good momentum there to get to the growth rate that we've guided towards.
+Ryan Gunning
+Analyst, Jefferies
+Got it.
+Thank you very much.
+Operator
+Thank you.
+Our next question comes from George Tong with Goldman Sachs.
+Please go ahead.
+George Tong
+Analyst, Goldman Sachs
+Hi.
+Thanks.
+Good morning.
+In the Uniform Rental segment, can you talk a bit about sales rep productivity trends and how the pipeline is performing, especially moving through the quarter and entering fiscal 2022?
+Todd Schneider
+President and CEO, Cintas
+George, I'm glad you asked about that.
+I've been so impressed by our sales organization, the creativity, the flexibility, the urgency, the intensity by which they go about their jobs, and how they have adapted to a crazy environment.
+We try to work very hard to position them with great products and services so that people very much want to take their calls.
+We like where that's heading.
+The mix of business is obviously changing, but it's getting back to much more traditional, George.
+There is a strong audience for our sales partners and whom they're calling on.
+Partly because there was some items that when people were going through the pandemic, they said, "Hey, I can't make a decision on uniforms right now, but I need some critical products to help my business run." We provided those critical products and services, and it's positioned us now that it's closer to businesses getting back to normal, where they say, "Okay, now I'm ready to talk about those types of items." All that is positive for us.
+As we went through it, folks didn't realize that we had all the products and services that we do, so that opened some doors, and we're continuing to operate in those doors to help improve our business.
+George Tong
+Analyst, Goldman Sachs
+Yeah, that's very helpful.
+Then switching gears to healthcare and hygiene, those are very strong categories over the past year.
+Can you describe what kind of performance you're expecting structurally from those healthcare and hygiene categories, not just in fiscal 2022, but really looking forward?
+Then diving into PPE, you talked a little bit about normalization there in first aid mix going back to pre-COVID levels over time, which has high margins.
+Just talk a little bit about that evolving mix as well and the implications for growth and profitability.
+Todd Schneider
+President and CEO, Cintas
+Yes, George.
+I'll start and if Mike, Scott, Paul want to jump in.
+We've spoken in the past about hygiene, cleanliness, all those subjects.
+That the pandemic has done for those subjects what 9/11 did to security 20 years ago.
+What we're seeing is there's a greater focus on the health of employees, health of patients, the health of guests, students, and hygiene is a big part of that.
+We see that as something that will be elevated into the future, and we think that's good for society, that's good for our business, and good certainly for all those individuals.
+We think that's going to be something that's elevated, hopefully in perpetuity.
+As far as PPE normalization, there was a breakneck pace to get PPE last year because folks couldn't keep their doors open in certain cases, couldn't work.
+There was some real peaks last year.
+That is certainly less we expect this year.
+The variants, the Delta variant, I think brings a bit of a wildcard into that, which we're not going to try to predict.
+Nevertheless, as we go throughout the year, you will see much more normalization.
+You'll see more people using our traditional cabinets, first aid products h ands and cabinets, as we say, and PPE will be more moderate.
+Just keep in mind, we've always been in the PPE business.
+We've always provided these products and services, it's just they were elevated.
+We will continue to offer them, as more people get back to work, in offices, in machine shops, in government and education, there will be more people that will be consuming, from a First Aid standpoint, our traditional types of bandages and tablets, et cetera.
+Hopefully, that can still color.
+Paul Adler
+VP, Treasurer, and Investor Relations, Cintas
+George, this is Paul.
+You mentioned First Aid specifically, too, so I just want to make sure we provided enough clarity there.
+That business, as Mike alluded to, it's in a transition period where it's a toss point.
+Much PPE was provided.
+We seized the opportunity to come through for our customers and provide thermometers and masks and visors, et cetera.
+It's an outsized percent of the revenue.
+That will transition, as we've been talking about the last couple of quarters.
+What I want to make sure everybody understands is that First Aid business is getting back to that more reoccurring revenue stream with that cabinet service business, which we are very excited about.
+To think about 9% or high single digits type of a growth rate for First Aid in fiscal 2022, that's coming off a huge growth rate with a lot of PPE.
+Still a strong performance.
+What I want to make sure people don't miss is that in order to drive a high single-digit growth rate in 2022 with PPE declining, that cabinet service business is growing very strongly.
+What that will do then is improve the margins going forward for the first aid business in fiscal 2022.
+We probably won't get back all the way to pre-COVID levels in terms of margins in first aid, because just like many of our businesses, it's a lot of small transactions.
+There's some momentum that has to build.
+Definitely the margins will continue to improve through the year as we get back to servicing those cabinets.
+George Tong
+Analyst, Goldman Sachs
+Very helpful.
+Thank you.
+Operator
+Thank you.
+Our next question will come from Toni Kaplan with Morgan Stanley.
+Please go ahead.
+Toni Kaplan
+Analyst, Morgan Stanley
+Thank you.
+I know you talked about the margin guidance earlier in the call and addressed the inflation impacts, but wanted to see if you could provide maybe some additional detail around which business lines you're expecting to see the most strength from a margin perspective.
+Mike Hansen
+EVP and CFO, Cintas
+Well, Toni, I would say, we expect all of our businesses to perform very well.
+In order for us to be able to guide in the way that we did from about a flash to up 70 basis points, we're going to need good performance out of all of our businesses.
+That translates into very good incremental margins, especially in our Rental business.
+It certainly, as Paul just described, it means that we're going to see some nice improvement in our First Aid margins as we see a bit of a mix shift.
+We expect continued good performance in our Fire business as I think we mentioned, 22% organic growth in the fourth quarter.
+We've got some great momentum, and we'll get some nice leverage as we move into the year.
+Certainly our Direct Sale business.
+Those margins, I would expect from a percentage standpoint, to really increase nicely.
+As we see the revenue start to come back, that will allow us to get a little bit more efficient and certainly be able to leverage our infrastructure in that business.
+We're looking for good margin performance in all of our businesses, all contributing to that guidance range, margin improvement, and all contributing to real healthy 20%-30% incremental margins.
+Todd Schneider
+President and CEO, Cintas
+Toni, obviously, we're guiding towards all of our businesses growing, incremental margins 20%-30%.
+When you think about it, obviously, the mix is going to change in all those businesses.
+Each of them sold, with the exception of fire, there was some PPE.
+We'll get back to more traditional pick and mix, and that and the leverage on the additional revenue is going to help us.
+Toni Kaplan
+Analyst, Morgan Stanley
+That's great.
+In your prepared remarks, you mentioned the 15 million-20 million businesses that you don't currently service.
+Could you just talk about the recent industry outsourcing trends?
+Have you seen that accelerate or flat?
+How do you go about reaching out to those businesses?
+Is that an initiative, a big opportunity for you any more so than historically?
+Just how should we think about the opportunity?
+Todd Schneider
+President and CEO, Cintas
+Yes, Toni.
+The outsourcing trends continue.
+That has been positive.
+In addition, the focus on bringing manufacturing back to the United States and Canada, we think will be a positive.
+That's obviously in the early innings.
+Both of those, we think will be p ositives for our business.
+As far as reaching out, we have a significant investment in our infrastructure.
+Part of that infrastructure is in our route base, and part of that is in our sales organization.
+That's a significant investment.
+You've probably also seen, I hope you've seen some of our investment in mass media that we're leveraging because we think it can pay dividends for that infrastructure.
+The number one thing we hear from customers and prospects, frankly, is, "Hey, I didn't know you did that." That is a product or service that they didn't realize that we provided.
+We're trying to leverage that and get the message out, and to give a little air cover to our infrastructure.
+Toni Kaplan
+Analyst, Morgan Stanley
+Thank you.
+Operator
+Thank you.
+Our next question comes from Tim Mulrooney with William Blair.
+Go ahead.
+Tim Mulrooney
+Analyst, William Blair
+Good morning, guys.
+I wanted to check in on the healthcare opportunity, which I know has gotten a lot of attention on recent calls.
+We haven't talked about it a lot yet today.
+You previously stated that, I think, the vertical could expand from 7% of sales today towards potentially 10% of sales over the next several years.
+I know things are changing rapidly these days.
+With another three months under your belt, I'm curious if those expectations have changed at all in either direction.
+Todd Schneider
+President and CEO, Cintas
+Tim, this is Todd.
+I'll start.
+We don't see momentum slowing down in that area.
+Hospitals are getting a little bit back to more normal operations of how they run their business.
+Our value proposition resonates with them.
+We've talked often about the various products and services that we provide, scrubs being a big one, isolation gowns, but also cleaning products to help them provide a healthy environment.
+There's a whole lot more focus on health and welfare now.
+Obviously, in the healthcare business, because of what they do for a living, there's always been a major focus on providing an environment that allowed for high patient satisfaction that was not only in health but also in image.
+When you think about what they need, it's a great vertical for us and the products and services we provide.
+There's a long runway there.
+We're providing products and services to health institutions that I'd like to think you'd be impressed by the list of people we do business with.
+It's a who's who in that business.
+Nevertheless, we're not nearly as penetrated as where we can be, should be, and will be.
+We're very much in the early innings on that vertical still.
+Tim Mulrooney
+Analyst, William Blair
+Okay, great.
+Thanks, Todd.
+Just switching gears, I apologize if you already addressed this, how did the energy cost impact the results this quarter?
+I don't know, maybe year-over-year, sequentially, or however you want to present it.
+Can you also talk about your expectation for energy cost that's built into your guidance, maybe for your fleet, also for your production plants?
+Thank you.
+Mike Hansen
+EVP and CFO, Cintas
+Tim, our total energy costs for the quarter were 2.1% of revenue.
+That's up 30 basis points from the third quarter, and that's up 40 basis points from a year ago.
+We did certainly see some increase within the quarter.
+Our expectation is that those will remain elevated during fiscal 2022, up at those levels, maybe even a little bit higher.
+That's what we've got incorporated, most of that increase being price at the pump, so our gas and our service, our routes.
+That's what we've got in the guidance.
+Tim Mulrooney
+Analyst, William Blair
+Great.
+Thank you.
+Operator
+Thank you.
+Our next question comes from Gary Bisbee with Bank of America Securities.
+Please go ahead.
+Gary Bisbee
+Analyst, Bank of America Securities
+Hi, guys.
+Good morning.
+I guess on revenue, at first, one clarification, one question.
+I just wanted to clarify.
+High single-digits for First Aid, I heard that, and then I heard some discussion of the tough comps, and I think the term bumpiness.
+Is high single-digit the right number for the year, but maybe declines in the near term as you get through the toughest period of comps is not out of the question.
+Is that a fair statement on that business?
+The question then on revenue, on the Rentals business, the long-term growth rate's been sort of in line with this guidance.
+You've got easy comps, you've had sequential improvement throughout last year.
+The fourth quarter had quite strong growth.
+I guess I wonder why you wouldn't be positioned to grow faster than the historical long-term trend given those factors in this year.
+Did the hygiene business within rentals have an outsized benefit from PP&E that rolls off, and is that a drag, or are there other factors beyond just your normal conservatism that might be weighing on that business?
+Thank you.
+Todd Schneider
+President and CEO, Cintas
+Gary, as far as the first aid, yeah, think about it as high single digits for the year.
+As Mike stated, Q4 last year, Q4 of 2020 was a huge growth rate for the First Aid business as was Q1.
+The comp from right now, we're really big.
+As the year goes on, the PPE comp will lessen.
+As a result, our growth rates will be better in that business.
+The bumpiness that Mike spoke about is simply the PPE comps in the early portions of this fiscal year versus last.
+As far as the rental, yeah, as we mentioned in the past, there's PPE in that, in our results from last year in rental as well.
+Again, just going back to our total guidance, if the PPE would repeat, that we do not believe it will this year, then you'd be into the number with seven and eight as far as internal growth.
+How far into the eights?
+I really don't know.
+Nevertheless, we'd be picking up a heck of a lot of basis points in growth if that PPE repeated.
+It's a headwind.
+We're proud that we provided the product to our customers.
+Our customers really valued it.
+It opened doors, excuse the pun, but it kept their doors open in many cases.
+Our Net Promoter Scores reflect it.
+They were very appreciative that we were able to provide those products and services.
+If they need them again, we'll provide them.
+We just don't think that they'll be at the levels that they were in the past.
+Gary Bisbee
+Analyst, Bank of America Securities
+Thank you.
+Then the quick follow-up.
+In the past, Mike, I think you've provided the breakdown of the rentals business revenue in the fourth quarter by the various subsegments.
+I wonder if you'd be willing to do that again this year?
+Paul Adler
+VP, Treasurer, and Investor Relations, Cintas
+Yeah, Gary, it's Paul.
+We do.
+Yeah, Gary, we have that information for you.
+Excuse me.
+I would preface it by saying, first of all, what we provided typically is Q4 sample, Q4 fiscal 2021 versus fiscal 2020.
+Obviously, there's a lot of noise in these figures.
+Excuse me.
+That it's an unprecedented time.
+Fiscal 2020's fourth quarter was the onset of the pandemic.
+A lot of job losses, a lot of pandemic-driven demand, as Todd just said, for certain items of PPE.
+Wanted to throw that out there first.
+Last year's fourth quarter, fiscal 2020 Q4 uniform rental was 50% of the segment mix.
+Dust, which is the walk-off mats, mops, that was 18% of the mix.
+Hygiene products, those are the soaps, the air fresheners, sanitizing dispensers, et cetera, that's 14% last year.
+Shop towels were 4%, linens 10%, and the catalog business, which is more of like the small direct sale components of the rental business, products off of the route from the drivers, that was 4%.
+This year's mix, uniform rental 48%, dust 17%, hygiene 17%, shop towels 4%, linens 9%, and catalog 5%.
+Again, obviously, COVID impacted results, not necessarily reflective of future performance.
+With this breakout, you can obviously see how strongly hygiene performed.
+Typically, in the Q4 fiscal 2020, that was mostly restroom-type items, soaps and air fresheners, the paper.
+In this Q4 2021, that hygiene percentage grew greater, driven by the sanitizer dispensers, the stands, the sanitizing sprays, et cetera.
+That catalog nudged up a little bit from 4%- 5%, and that's where a lot of the PPE in the Uniform Rental and Facility Services business that we've talked about is recorded, the masks, gloves, those types of items.
+Gary Bisbee
+Analyst, Bank of America Securities
+Thank you.
+Operator
+Thank you.
+Our next question comes from Scott Schneeberger with Oppenheimer.
+Please go ahead.
+Scott Schneeberger
+Analyst, Oppenheimer
+Thanks very much.
+For my first one, I just wanted to follow up on the M&A comments earlier.
+It sounded like you have a very active pipeline that you're pursuing.
+I'm just curious if you could elaborate a little bit on what areas you may be pursuing and size of targets and how ripe things are.
+Then maybe what you're seeing with regard to multiples, good or bad, in the environment.
+Thanks.
+Todd Schneider
+President and CEO, Cintas
+Scott, I'll say each of our businesses we're acquisitive, both tuck-ins, certainly some geographic expansion as well.
+We're highly active.
+There's folks that are at least answering phones and taking calls, and we'll see where that goes.
+Certainly, you wonder about potential changes to taxes.
+Will that free things up?
+That'll be interesting to see what happens with that.
+As far as the size and multiples, those types of things, everything from the very small to medium-sized types, I won't comment on else, but they're all active.
+Part of it is because multiples, if you look at it historically in the marketplace, they're pretty high.
+We're quite active in that area because we look at it from a very long-term approach, and we know when we make those types of acquisitions that it positions us to grow those as well.
+Because of our broad offering of products and services that we bring to the table, that in many cases, the folks that we're speaking to don't have that broadness.
+It allows for us to take a long-term approach and grow those businesses, whether it's just in that area of the business or cross-selling it across each of our enterprise.
+Scott Schneeberger
+Analyst, Oppenheimer
+Great.
+Thanks.
+Appreciate that.
+My follow-up's a bit of a two-parter, but it ties together pretty well.
+In Todd's section in the press release, there was mention of continued investment in technology and competitive advantage.
+Just hoping you could elaborate on that.
+Then the back part of the question is, CapEx was down a lot in the past fiscal year, almost half of what it was in fiscal year 2019, and down a bit from fiscal 2020.
+Just curious where that goes this year and maybe any tie together with the tech question.
+Thanks.
+Todd Schneider
+President and CEO, Cintas
+Great.
+I'll start with the tech question, and then Mike can handle the CapEx if he prefers.
+Scott, we're investing heavily there because we see a need to, whether it's productivity or from a competitive advantage.
+All areas of our business, we talked about leveraging SAP, leveraging the platforms that come along with that have customer benefits and operational benefits for us, and then obviously the data that goes along with that.
+That being said, we see some opportunities in automation that we've been investing in over the years, and we see opportunities to get efficiencies out of our fleet that we're investing in that we think can pay big dividends in that area.
+We're focused on doing such and making it easier to do business with Cintas.
+We think as you do that provides leverage for us.
+Leverage in the marketplace.
+Mike, I'll let you handle the CapEx question.
+Mike Hansen
+EVP and CFO, Cintas
+Sure.
+From a CapEx perspective, clearly the amounts were down in this past year because capacity needs just weren't the same as they had been in the previous years.
+We certainly kept up the CapEx for maintenance activities.
+There's a bit of a lag between when we need new capacity and when this revenue has started to come back, and we've seen some momentum, but there will be a little bit of a lag in the CapEx.
+Having said that, I expect we'll get back to historical levels by the end of the fiscal year.
+That puts us probably in the $200 million-$250 million range for fiscal 2022.
+Certainly when we need to invest, whether it's capacity, technology or otherwise, we will certainly do that.
+The great news is regarding our investments in the ERP system, SAP, that we talk about a lot.
+A lot of that spending and some of the major expense is behind us.
+It took us a while to roll it out and get the entire network into SAP.
+We had the G&K acquisition that added more locations and kind of slowed down the time to complete it.
+We had the pandemic.
+The exciting thing is the additional investment will continue to be made throughout the business, of course still in technology, but a lot of it's already paid for, and now it's perfecting the system, taking the toy, so to speak, out of the box and not just using it for the X's and O's of running the business, but using it to be that competitive advantage to give us the data analytics and the other advantages that we haven't had previously.
+Scott Schneeberger
+Analyst, Oppenheimer
+Great.
+Thanks so much.
+Todd Schneider
+President and CEO, Cintas
+Thank you.
+Operator
+Our final question today comes from Kevin McVeigh with Credit Suisse.
+Please go ahead.
+Speaker 15
+Hey guys, this is actually Brian on for Kevin.
+Thanks for squeezing us in here.
+Thanks for the commentary kind of around the color sort of on the reopening and not all customers are quite back yet.
+Just drilling into that a little bit.
+How should we think about sort of what percentage of clients are still inactive versus maybe kind of how that compares to out of businesses or attrition that we would see?
+Just to kind of frame that in and any sort of commentary around how that shakes out geographically or by vertical here in the U.S.
+Todd Schneider
+President and CEO, Cintas
+Brian, I don't have a specific number for you, but just generally speaking, I'd say most businesses are back to some degree.
+Not certainly back to full bore.
+We mentioned Canada specifically as an outlier, which we expect, let's just say by August, September, to be back much closer to normal.
+One of the big issues is there's 7 million people less working today than there were a year ago or so.
+Of those 7 million people, I don't know how many of them are Cintas wearers or will be, but there's a percentage of them, and we want those to certainly see those folks get back to work, and whether they're wearing uniforms or utilizing our first aid products and services, all that impacts us.
+For the most part, businesses are back.
+They're certainly not anywhere near where we think they will be over time.
+Speaker 15
+Got it.
+Okay.
+The last one here for us, you guys talked about continuing to expand on ESG reporting.
+Certainly what we've noticed is that ESG scores tend to focus on the internal operations, we'd be curious if you could just touch on maybe how you guys help your customers achieve their ESG goals.
+Thanks.
+Todd Schneider
+President and CEO, Cintas
+Yeah, Brian, great question.
+At our heritage, what we do, and frankly, as I'm speaking of the rental business, what our industry does.
+The impact that it has on saving customers water, energy, what we do to treat water instead of it going down into the sewer.
+Those products, whether they're garments or towels or what have you, all that, they're going to be either purchased and thrown in the garbage or purchased and cleaned at home.
+In both cases, we are helping substantially those folks, helping the environment, and helping to save landfill space, helping to save water, energy, and the cleanliness of water as well.
+I don't think we've told the story well enough in the past, because at our heritage, we are a wash and reuse business.
+Again, without our industry, there would be millions of more gallons and units of energy and et cetera that would be utilized because they're going to be either thrown in a landfill or laundered somehow.
+We know that we are infinitely more efficient at laundering those products than they would be at home or in another type of setting.
+Mike Hansen
+EVP and CFO, Cintas
+I might add also that when you think about our First Aid and Safety Services and Fire Protection Services, the purpose of those businesses are to keep our customers' employees safe and healthy.
+So it's a little bit of a different ESG angle than what Todd was talking about.
+From an employee perspective, our goals are to help our customers really achieve the safety and the health of their employees.
+We're looking out for them from that S perspective of the ESG as well.
+Operator
+All right.
+Thank you.
+This concludes today's question and answer session.
+Mr. Adler, at this time, I'll turn the conference back to you for any additional or closing remarks.
+Paul Adler
+VP, Treasurer, and Investor Relations, Cintas
+All right.
+Thanks, Nick, and thank you all for joining us this morning.
+We will issue our first quarter of fiscal 2022 financial results in September, and we look forward to speaking with you again at that time.
+Have a good day.
+Operator
+This concludes today's call.
+Thank you all for your participation.
+You may now disconnect.
+Data Source:
+Quartr
+Last updated:
+Jul 15, 2021
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (15)
+Annual report
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

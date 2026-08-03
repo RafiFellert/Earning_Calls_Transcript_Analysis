@@ -1,0 +1,827 @@
+Cintas (CTAS) Q4 2024 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+Cintas Corporation (CTAS)
+NASDAQ: CTAS · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+204.63
+-2.16 (-1.04%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+206.88
++2.25 (1.10%)
+Pre-market:
+Aug 3, 2026, 8:09 AM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q4 2024
+Jul 18, 2024
+Full Transcript
+Full Summary
+Annual report
+Earnings release
+Play Audio
+Download Transcript
+Full Transcript
+Full Summary
+Summary
+Fourth quarter and fiscal 2024 results showed record revenue, margin expansion, and strong cash flow. Guidance for fiscal 2025 anticipates continued growth, with revenue expected to surpass $10 billion and EPS to rise 7.3%-10.6%.
+Operator
+Good day, everyone, and welcome to the Cintas Corporation Announces Fiscal 2024 Fourth Quarter and Full Year Results.
+Today's call is being recorded.
+At this time, I would like to turn the meeting over to Mr. Jared Mattingley, Vice President and Treasurer, Investor Relations.
+Please go ahead, sir.
+Jared Mattingley
+VP of Investor Relations, Cintas Corporation
+Thank you, Ross.
+Thank you for joining us.
+With me is Todd Schneider, President and Chief Executive Officer, and Mike Hansen, Executive Vice President and Chief Financial Officer.
+We will discuss our fiscal 2024 fourth quarter and full year results.
+After our commentary, we will open the call to questions from analysts.
+Private Securities Litigation Reform Act of 1995 provides a safe harbor from civil litigation for forward-looking statements.
+This conference call contains forward-looking statements that reflect the company's current views as to future events and financial performance.
+These forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those we may discuss.
+I refer you to the discussion on these points contained in our most recent filings with the Securities and Exchange Commission.
+I will now turn the call over to Todd.
+Todd Schneider
+CEO, Cintas Corporation
+Thank you, Jared.
+Our fourth quarter performance marked a strong finish to another successful year for Cintas.
+Fourth quarter total revenue grew 8.2% to $2.47 billion, an all-time high for revenue in a quarter.
+The organic growth rate, which adjusts for the impacts of acquisitions and foreign currency exchange rate fluctuations, was 7.5%.
+Importantly, each of our businesses continue to perform well and execute at a high level.
+Fourth quarter gross margin was $1.22 billion, an increase of 11.6% over the prior year.
+Gross margin increased 150 basis points from 47.7% to 49.2%.
+Operating income for the fourth quarter of $547.6 million increased 16.3% over the prior year.
+Operating margin increased 160 basis points to 22.2% from 20.6% in the prior year.
+Fourth quarter net income was $414.3 million, an increase of 19.7%.
+Earnings per diluted share for the fourth quarter were $3.99, an increase of 19.8% over the prior year fourth quarter.
+These results conclude a strong fiscal year, marked by significant accomplishments, including robust revenue growth and margin expansion, and excellent cash generation, which continued to fuel our balanced capital allocation strategy.
+The following are specific highlights of fiscal 2024.
+I'd like to begin with revenue.
+Fiscal year revenue was a record $9.6 billion, an increase of 8.9%.
+Organic growth was 8% for the year.
+Our First Aid and Safety Services operating segment exceeded $1 billion in annual revenue for the first time.
+Our top line growth is a function of the total value proposition we offer customers of all sizes and across industries, and the unique Cintas culture that drives our partners to deliver an outstanding customer experience.
+Business across our focus verticals of healthcare, hospitality, education, and state and local government continue to perform well.
+We experienced strong demand for our services, not only from existing customers, but across our new business pipeline.
+About two-thirds of our new customers continue to come from no programmers, underscoring our ability to capitalize on the vast growth opportunity that remains ahead.
+In addition, our retention rates remain strong.
+Our strong revenue performance also translated into continued growth in profits and earnings, including the following highlights: Fiscal 2024, operating income grew 14.8% for the year, and our operating margin of 21.6% was an all-time high.
+EPS grew 16.6% for the year.
+Our enhanced profitability and earnings growth is a reflection of our relentless focus on operational excellence in every aspect of our business, spanning strategic sourcing and supply chain initiatives, route and energy optimization opportunities with SmartTruck, and leveraging the SAP system to support greater stockroom visibility and efficient Garment Sharing.
+Our cash flow from operating activities exceeded $2 billion for the first time.
+Strong cash generation provides us even greater flexibility to deploy capital across each of our capital allocation priorities throughout the year.
+Our number 1 capital allocation priority is investing back in the business.
+We prioritize investments in technology, infrastructure, and people to support, to support our sustained growth and value creation over the long term.
+As we continue to grow and create value, capital is required to add capacity in a number of ways, including new facilities, new equipment, new vehicles, as well as technologies to make our partners more successful.
+We spent $186.8 million in fiscal 2024 on acquisitions.
+This is the most we've spent on acquisitions since fiscal 2017.
+We love acquisitions as they provide us with new customers, where we can offer a broader range of products and services.
+Sometimes they can bring needed capacity, they can also bring attractive synergies that involve leveraging our existing route structures, providing more time with customers and less time driving.
+Another of our priorities is returning capital to our shareholders through dividends and share buybacks.
+In fiscal 2024, we increased our quarterly per share dividend by 17.4%, marking the 40th consecutive year that we've increased our dividend, including every year since going public.
+We also bought back $1 billion of shares during fiscal 2024 and up through yesterday.
+Lastly, we were named to the prestigious Fortune 500 for the 8th consecutive year.
+It is an honor to be recognized among the most successful and respected companies.
+We're proud of these results and the value we continue to deliver for the Cintas shareholders.
+That performance reflects the focus and great execution by our employees, whom we call partners.
+I'll now turn the call over to Mike to provide details of our fourth quarter results.
+Mike Hansen
+EVP and CFO, Cintas Corporation
+Thanks, Todd, and good morning.
+Our fiscal 2024 fourth quarter revenue was $2.47 billion, compared to $2.28 billion last year.
+The organic revenue growth rate, adjusted for acquisitions and foreign currency exchange rate fluctuations, was 7.5%.
+Gross margin for the fourth quarter of fiscal 2024 was $1.22 billion, compared to $1.09 billion last year, an increase of 11.6%.
+Gross margin as a percent of revenue was 49.2% for the fourth quarter of fiscal 2024, compared to 47.7% last year, an increase of 150 basis points.
+Strong growth from new customers and the penetration of existing customers with more products and services helped generate great operating leverage, aided by the performance of our global supply chain and focused efforts to extract inefficiencies from the business via our Six Sigma and engineering teams, as well as technologies like SmartTruck.
+The Uniform Rental and Facility Services operating segment revenue for the fourth quarter of fiscal 2024 was $1.91 billion, compared to $1.77 billion last year.
+The organic revenue growth rate was 7.1%.
+As we have done in the past, I will share revenue mix of the Uniform Rental and Facility Services operating segment for the fourth quarter.
+Keep in mind, there can be small fluctuations in mix between quarters.
+Uniform Rental was 48%, dust was 19%, hygiene was 16%, shop towels were 4%, linen, which includes microfiber, wipes, towels, and aprons, was 10%, and catalog revenue was 3%.
+These percentages are consistent with last year and demonstrate we are experiencing strong demand across all our products and services.
+Gross margin for the Uniform Rental and Facility Services operating segment was 48.6%, compared to 47.7% last year.
+This 90 basis point improvement was the result of good top-line growth that continued to generate great operating leverage and excellent sourcing and process improvements, which continued to create additional efficiencies, such as Garment Sharing and SmartTruck.
+Our First Aid and Safety Services operating segment revenue for the fourth quarter was $277.6 million, compared to $249.8 million last year.
+The organic revenue growth rate was 11.1%, capping off another year of double-digit organic growth.
+Gross margin for the First Aid and Safety Services operating segment was 55.4%, compared to 51% last year.
+This 440 basis point improvement was the result of our double-digit revenue growth that created solid operating leverage and improved sales mix, a dedicated first aid distribution center that has lowered costs, as well as efficiencies from our Smart Truck technology.
+Our Fire Protection Services and Uniform Direct Sale businesses are reported in the All Other segment.
+All Other revenue was $282.1 million, compared to $261.5 million last year.
+The Fire Protection revenue was $197.9 million, and the organic revenue growth rate was 12.9%, resulting in another year of double-digit organic growth.
+The Uniform Direct Sale revenue was $84.2 million, and organic revenue decreased 4.4%.
+The organic growth rate in Uniform Direct Sales can vary from quarter to quarter.
+Gross margin for Fire Protection Services was an all-time high of 50%, compared to 47.9% last year.
+This 210 basis point improvement was primarily the result of robust revenue growth that generated strong operating leverage, along with route productivity improvements.
+Gross margin for Uniform Direct Sales was 40.9%, compared to 36% last year.
+This 490 basis point improvement was the result of higher margin accounts from a disciplined approach to the market.
+Fourth quarter selling and administrative expenses as a percent of revenue was 27%, which was a 10 basis point improvement from last year.
+We were able to create leverage with these costs while continuing to invest in technology and selling resources.
+Fourth quarter operating income was $547.6 million, compared to $470.8 million last year.
+Operating income as a percentage of revenue was 22.2% in the fourth quarter of fiscal 2024, compared to 20.6% in last year's fourth quarter.
+The fourth quarter marks the first time that all three operating segments, Uniform Rental and Facility Services, First Aid and Safety Services and Fire Protection Services exceeded 22% in operating income in the same quarter.
+Our effective tax rate for the fourth quarter was 21.4%, compared to 22.4% last year.
+Net income for the fourth quarter was $414.3 million, compared to $346.2 million last year.
+This year's fourth quarter diluted EPS was $3.99, compared to $3.33 last year, an increase of 19.8%.
+I'll now turn the call back over to Todd to provide his thoughts on next year and our financial expectations for fiscal 2025.
+Todd Schneider
+CEO, Cintas Corporation
+Thank you, Mike.
+As we move into fiscal 2025, we expect to exceed $10 billion in annual revenue for the first time.
+This outlook, coupled with our strong fiscal 2024 results, demonstrate that our value proposition continues to resonate.
+Every business in North America, goods producing or services providing, has a need for image, safety, cleanliness, and compliance.
+We help our customers meet those needs so they can focus on running their businesses.
+As we deliver on our customers' needs, our culture remains our greatest competitive advantage, and it drives our focus on continuous improvement and evolving for the future.
+We will continue to prioritize investments in technology, infrastructure, and people.
+Our technology investments include our continued investment in SAP, with our fire division currently going through the implementation process.
+In addition to SAP, we have partnered with Verizon and Google to deploy technology solutions that make it easier for our partners to run their business and easier for our customers to do business with us.
+In addition, technology initiatives such as SmartTruck and Garment Sharing are helping to drive customer satisfaction as well as efficiencies throughout the organization.
+Our working partners really are the key to our success.
+We know that when we take care of our partners, they will, in turn, take great care of our customers.
+We are investing in training our partners and giving them the best and latest tools to make their jobs easier, while also investing in talent acquisition in order to ensure we are properly staffed to support our growth initiatives.
+The future of Cintas remains bright, and our fiscal 2025 guidance reflects that outlook.
+For our Fiscal 2025, we expect our revenue to be in the range of $10.16 billion-$10.31 billion, a total growth rate of 5.9%-7.4%.
+Please note the following: Fiscal 2025 will have two fewer workdays compared to Fiscal 2024.
+Each quarter of Fiscal 2025 will have 65 workdays.
+The two fewer workdays will impact the first and fourth quarters by one day each.
+The revenue growth rate in each of those two quarters will be negatively affected by about 160 basis points.
+Please keep that in mind when modeling.
+Adjusting for the impact of two fewer workdays, acquisitions already completed, and a constant currency, our total organic growth rate for next year is expected to be 6.4% to 8%.
+We expect diluted EPS to be in the range of $16.25 to $16.75, a growth rate of 7.3% to 10.6%.
+Fiscal 2025 net interest expense is expected to be approximately $106 million, compared to $95 million in Fiscal 2024, predominantly as a result of higher variable rate debt used to complete a portion of the previously mentioned share buybacks.
+Our Fiscal 2025 effective tax rate is expected to be 20.4%, the same compared to our Fiscal 2024.
+Guidance does not include any future share buybacks or significant economic disruptions or downturns.
+I want to end by thanking our partners for their tremendous efforts to achieve a successful Fiscal 2024.
+As we look ahead to Fiscal 2025, our outlook reflects our continued confidence in our strategy.
+We remain focused on delivering outstanding customer experiences, reinforcing the unique Cintas culture that drives our success, while making the necessary investments in the business to sustain our growth through fiscal 2025 and long beyond.
+I'll now turn the call back over to Jared.
+Mike Hansen
+EVP and CFO, Cintas Corporation
+That concludes our prepared remarks.
+Now, we are happy to answer questions from the analysts.
+Please ask just one question and a single follow-up if needed.
+Thank you.
+Operator
+If you would like to ask a question, please press star one on your telephone keypad now.
+Please be prepared to ask your question when prompted.
+You'll also be allowed to ask one follow-up question.
+Once again, if you would like to ask a question, please press star one on your phone now.
+Our first question comes from Joshua Chan from UBS.
+Please go ahead, Joshua.
+Joshua Chan
+Executive Director and Equity Research Analyst, UBS
+Hi, good morning, Todd, Mike, and Jared.
+Congrats on a strong quarter.
+I was wondering if you guys could comment on your retention rates.
+I know that you've said it's generally stable.
+Have you seen any slight uptick in industry return or, you know, downtick in retention, I guess?
+Or how are you seeing your customers behave in this environment?
+Todd Schneider
+CEO, Cintas Corporation
+Good morning, Josh, and thanks for your comments.
+We really haven't seen a change in our customer behavior.
+As I mentioned, our retention rates are still at very attractive levels.
+And when you have as broad of a customer base as we do, there are certainly some aspects that are thriving and some that are struggling.
+It varies based upon industry, and varies based upon geography.
+But when you speak as a whole, I would say our customer base.
+We haven't seen much change in it so far.
+Joshua Chan
+Executive Director and Equity Research Analyst, UBS
+...
+That's great to hear.
+And then, for my follow-up, could you just kind of talk about your, your reasoning behind choosing the 6.4%-8.0% organic growth for next year?
+I guess, in the context of just doing 7.5% in Q4, what are the scenarios that would lead you to the bottom and the top ends of the growth range?
+And thank you so much.
+Todd Schneider
+CEO, Cintas Corporation
+Well, Josh, you know, we really like our guide.
+We like where our business is.
+And that's kind of where we target our business to grow at those types of levels.
+Certainly, you know, we read the overall macro data that you all read about what's going on in the economy.
+And we watch that, but we don't expect much change at this point.
+And as a result, I'd say we expect to be right in that guide.
+We'd love for the economy to grow even faster.
+And but nevertheless, we find ways to be successful.
+Our value proposition is resonating.
+You know, we have, we service a little over 1 million customers.
+There's 16 million businesses in our market, and we have all kinds of ways to grow.
+And I think we've shown that we have the ability to exceed GDP growth and exceed employment growth.
+We would certainly love for our customers to be thriving and adding people all over the place.
+But nevertheless, we're gonna find a way to be successful, and we're confident in our guide.
+Operator
+Our next question comes from Heather Balsky from Bank of America.
+Please go ahead, Heather.
+Heather Balsky
+Managing Director and Senior Equity Research Analyst, Bank of America
+Hi, thank you so much for taking my question.
+Can you just kind of update us on how you're thinking about incremental margins and how you're thinking about the margin story for 2025?
+You know, what are the bigger tailwinds?
+What are you most excited about?
+And anything going on in the cost environment as well.
+Thank you.
+Todd Schneider
+CEO, Cintas Corporation
+Well, I'll start, Heather, and good morning.
+You know, as we think about margin expansion and, well, our guide reflects margin expansion, with the first item we think about as it comes to that is leverage on revenue growth.
+We've demonstrated that we have the ability to do that, and we'll continue to do that.
+That's easy to say, hard to do, but the team has done an incredible job in so many areas, starting with our global supply chain, which is a competitive advantage in the marketplace.
+how they go about their jobs, you know, the fact that they have dual source or many sources for 90% or more of the products that we source.
+So how they go about that, the great work that's been done on material cost, you know, again, starting with sourcing.
+But also, you know, we leverage our SAP system to help us to improve our Garment Sharing.
+And we've been working on this for years, and it's bearing fruit, not only in our cost structure, but also in turnaround time for our customers.
+So it helps us to get product to our customers faster when it's in our stock rooms versus having to order new out of our distribution centers.
+Better for our customers, better for our financials, and that's paying off for us.
+Heather Balsky
+Managing Director and Senior Equity Research Analyst, Bank of America
+That's really helpful.
+Thank you very much.
+Todd Schneider
+CEO, Cintas Corporation
+Thank you.
+Operator
+Our next question comes from Andrew Wittmann from  RW Baird.
+Please go ahead, Andrew.
+Andrew Wittmann
+Senior Research Analyst, RW Baird
+Yeah, great.
+Thanks, and good morning.
+Thank you for taking my questions.
+Guys, I just thought I would start with the competitive environment.
+Both of your largest competitors have noted increased competition out there, and I know that your product and service offering is a little bit broader.
+But I thought, just given those competitor comments, I would take your temperature and have you comment, if you could, please, on what you're seeing out there in the competitive environment.
+Todd Schneider
+CEO, Cintas Corporation
+Good morning, Andy.
+Here's what I'll tell you, is that we operate in a highly competitive market.
+Always have, always will.
+I'm sure, I've been with the company for 35 years, it's been competitive every day since I've been here.
+Now, that being said, our revenue retention rates, as I mentioned, are attractive.
+And part of it is because, you know, our new business wins tend to come from the no-program market, and less from, the competition.
+So, as I mentioned earlier, there's 16 million businesses out there.
+We service about 1 million.
+So the white space out there is incredible.
+And we're focused on converting those folks from a, I'll call it a do-it-yourself type, to a customer of ours.
+That value proposition is resonating because we help them focus on taking care of their customers, or their patients, or their guests, or whatever, however you wanna describe it, and we take that for them.
+We're able to do it better, faster, smarter, in many cases, cheaper than what they were doing it.
+Yeah, is it competitive?
+Heck, yeah!
+It's always been competitive, and we're focused on growing the market, and that's been a good model for us.
+Andrew Wittmann
+Senior Research Analyst, RW Baird
+Appreciate that.
+And then I guess, maybe Mike, I guess I wanted to kind of ask some of the margin questions a little bit different way.
+First, you know, as I was just kind of doing the math between the EPS and the revenue, I was getting somewhere around 20 or 30 basis points of implied operating margin expansion for the year.
+So maybe you could just give, clarify that, but that's a pretty decent deceleration from the amount of margin expansion certainly saw in the quarter or even over the course of the past fiscal year.
+I was just wondering if you could comment on if there's anything, any categories inside the P&L that we should be aware of that are inflating more materially, or if there's other areas, maybe energy costs, I don't know, that we should be aware of that could be weighing on continued margin expansion like we've seen here in recent quarters.
+Thanks.
+Mike Hansen
+EVP and CFO, Cintas Corporation
+Andy, the short answer to are there any new headwinds is no, with the exception of maybe the two fewer workdays, as you've heard us talk about, for example, in the first quarter, we talked a little bit about the top line impact being 160 basis points of growth headwind.
+But also, you know, you've also heard us talk about margins.
+When we lose a workday, we generally talk about a 50 basis point impact.
+We lose two workdays next year.
+We've done such a good job of leveraging our infrastructure that the loss of a workday in a quarter is probably more like 30-40 basis points now.
+But we lose two workdays, and so there'll be a little bit of headwind from that.
+That is just sort of a product of the calendar and not necessarily the business.
+Having said that, the business is still operating really well, and if you think about the...
+We think about the guidance ranges generally in the, you know, you can call it the 25% to 35% incremental margin range.
+And so it is a pretty good margin range, the 30 basis points that you referred to, Andy.
+We would kind of say, look, at the very bottom, there still is margin expansion at the very bottom of our range.
+At the top of the range, there's more than 30 basis points, probably more like 70 basis points.
+So, the year we think is, this is a typical guide range for us.
+As you saw in our fourth quarter, the initiatives and the operational excellence that we have worked so hard on have continued in the fourth quarter.
+Given this guide, we expect those to continue into fiscal 2025.
+Operator
+Our next question comes from George Tong, from Goldman Sachs.
+Please go ahead, George.
+George Tong
+Managing Director and Senior Equity Research Analyst, Goldman Sachs
+Hi, thanks.
+Good morning.
+Can you talk a bit about the progress you're making with penetrating your high-growth focus verticals, including healthcare, hospitality, education, and government?
+Where are you seeing particularly good traction?
+Todd Schneider
+CEO, Cintas Corporation
+Good morning, George.
+Yeah, we really like the verticals that we've chosen.
+And as a reminder, it's not just a sales strategy.
+It is also how we organize around those customers, those industries as verticals, to make sure that we're meeting, exceeding their needs, because they're a little different.
+And as we do that, the products, the services that we provide, the support that we provide is all comes along with that.
+So yeah, they're all operating at attractive levels, and I wouldn't call anyone out specifically, where I'd say, "Oh, my gosh, that one's, you know, exceeding." They're all doing quite well.
+I thought it might be helpful to talk a little bit about a recent healthcare win that we had.
+You know, we recently sold a large hospital network with scrub dispensing technology for the scrubs in the various departments throughout an acute care hospital.
+But we're also having really good success with surgery centers and those types that are attached to the large acute care hospital networks.
+And you're probably seeing some of that acute care hospital networks having investments in other areas.
+So, you know, in fact, I'd say three large healthcare systems came to us for help with their non-acute facilities.
+When I say non-acute facilities, I'm talking about really surgery centers, clinics, physician offices, those types.
+They came to us and said, "You're doing a great job for our acute care.
+Can you help us with the non-acute?" What does that do for them?
+It allows them to have a consistent supply, but also allows them to consolidate vendors.
+So, we're seeing good success, certainly in healthcare, but the other verticals are all performing well, and we like the decisions, the investments that we've made in those areas, and we think they're gonna continue to pay dividends for us.
+George Tong
+Managing Director and Senior Equity Research Analyst, Goldman Sachs
+Got it.
+Very helpful.
+Thank you.
+Todd Schneider
+CEO, Cintas Corporation
+Thank you.
+Operator
+Our next question comes from Tim Mulrooney from William Blair.
+Please go ahead, Tim.
+Tim Mulrooney
+Partner and Group Head of Global Services, William Blair
+...
+Yeah.
+Good morning, Mike, Todd.
+Just one from me, and I hopped on late, so apologies if this has been addressed.
+But a few of your competitors have recently cited more pricing pushback and, you know, an increasing number of customers putting their contracts out to bid.
+I'm wondering on this pricing idea, you know, if you're seeing a similar dynamic, where customers are becoming more price-sensitive in this environment?
+Or do you think that's this is less of an issue, you know, for the industry overall and could perhaps be more specific to these individual companies or markets?
+Todd Schneider
+CEO, Cintas Corporation
+Good morning, Tim.
+So, I, I'd say, nothing to call out specifically there.
+It's still really a normal operating environment.
+As I mentioned earlier, we operate in a highly competitive market.
+So, you know, we've got to, we've got to, make sure that our value proposition is resonating with our customers, and we're providing outstanding customer service.
+We've said that our plan is to lower pricing back towards historical levels, and that's what we're seeing.
+And I would just point out that, as we've moderated pricing, even in fiscal 2024, we were able to expand operating margins, 120 basis points.
+So we're finding ways to provide great value for our customers while moderating pricing and but still extracting inefficiencies out of our business so that we can improve operating margins.
+Tim Mulrooney
+Partner and Group Head of Global Services, William Blair
+Okay, so not really seeing pushback on pricing.
+And Todd, would you say it certainly is not lost on us that you had strong incrementals this quarter, you know, as pricing moderated.
+Would you say now pricing has fully normalized, that there is no more headwind as we head into 2025 from moderating pricing, or are you still in that process?
+Todd Schneider
+CEO, Cintas Corporation
+Well, Tim, we've, as I mentioned, it's a highly competitive market.
+We have continued to moderate pricing, and, you know, pricing is a local subject.
+It really depends upon the customers, what their operating environment's like, what their customer base is doing, those types.
+So, we continue to monitor that and manage it appropriately based upon our local businesses and making sure that we're meeting our customers' needs and thinking about the long-term value of a customer.
+Because we don't look at it and say, "You know, we're focused on the near term or the short term." We're focused on the long term for our customers, and we'll continue to manage pricing in that manner.
+Mike Hansen
+EVP and CFO, Cintas Corporation
+I might just add, Tim, to your question, probably not a lot of fiscal 2025 to fiscal 2024 year-over-year pricing change.
+Operator
+Our next question comes from Andrew Steinerman from J.P.
+Morgan.
+Please go ahead, Andrew.
+Andrew Steinerman
+Managing Director and Senior Equity Research Analyst, JPMorgan Securities
+Hey.
+If you could believe it, I'm just gonna ask you to clarify something you just said.
+So you talked about moderating pricing.
+When I hear the words moderating pricing, I hear price decreases.
+I assume what you mean is you're moderating to a more normal type of modest price increase.
+And then when talking about fiscal 2025, are you talking about modest price increases or really flat pricing year over year for existing customers?
+Todd Schneider
+CEO, Cintas Corporation
+Well, good morning, Andrew.
+And just to clarify, moderating pricing is the way you characterize it, which is, we are passing through modest price increases based upon our agreement and relationship with that customer, and that varies based upon customers, geographies, industries, et cetera.
+But yeah, the way you described it is appropriate.
+It's a modest price increase with customers in general.
+Andrew Steinerman
+Managing Director and Senior Equity Research Analyst, JPMorgan Securities
+Mm-hmm.
+That's true for the Fiscal 2025 too, right?
+Todd Schneider
+CEO, Cintas Corporation
+That would be correct.
+Andrew Steinerman
+Managing Director and Senior Equity Research Analyst, JPMorgan Securities
+Okay.
+Thank you very much.
+Good clarification.
+Todd Schneider
+CEO, Cintas Corporation
+Thank you.
+Thank you.
+Operator
+Our next question comes from Jasper Bibb from Truist Securities.
+Please go ahead, Jasper.
+Jasper Bibb
+Vice President and Equity Research Analyst, Truist Securities
+Hey, good morning, guys.
+I was hoping you could give a bit more color on what you're seeing as far as net headcount of customers or their hiring posture and any expectations there embedded in your fiscal 2025 organic growth guidance.
+Todd Schneider
+CEO, Cintas Corporation
+Good morning, Jasper.
+Yeah, it really varies.
+As I mentioned, we have such a broad customer base in geographies.
+But really not much change in customer behavior when it comes to hiring.
+You know, we're seeing the environment is stable and hasn't really changed much in the past few quarters.
+Jasper Bibb
+Vice President and Equity Research Analyst, Truist Securities
+Got it.
+Last one for me.
+Maybe asking an earlier question a little bit differently.
+With this whole dynamic of peers talking about increased churn, including at some of their larger national accounts, if you're not seeing a pricing or retention hit, are you potentially taking away some of this competitor business at a higher rate, given these market dynamics?
+Todd Schneider
+CEO, Cintas Corporation
+Well, here's the way I would describe it.
+We operate in a really competitive environment, and so we're out there trying to do the best to take care of our customers, fighting for business every day.
+And I wouldn't characterize it as really much of a change in the environment.
+It's always really competitive.
+And we're continuing to try to position our organization with the best products, the best services, the best technology, so that they can be successful in the marketplace.
+Jasper Bibb
+Vice President and Equity Research Analyst, Truist Securities
+Makes sense.
+Thank you.
+Todd Schneider
+CEO, Cintas Corporation
+Thank you.
+Operator
+Our next question comes from Manav Patnaik from Barclays.
+Please go ahead, Manav.
+Manav Patnaik
+Managing Director and Senior Equity Research Analyst, Barclays
+Thank you.
+Good morning.
+I just had one question.
+You know, earlier, you talked about how you've been the most active in M&A for many years now.
+So just curious, if you could just talk a little bit more about, you know, why now, and perhaps what the pipeline in each of your segments looks like for future M&A?
+Todd Schneider
+CEO, Cintas Corporation
+Good morning, Manav.
+Yeah, as you know, M&A, it's tough to predict.
+We think about it long term and make sure that we have relationships so that when someone does decide that they wanna transact, that we're well positioned.
+So it's really tough to predict deal flow.
+But again, we think about long term, and we wanna be, you know, we find M&A really attractive, and in large part because of, as I mentioned earlier, you know, it gives us a new set of customers that we can offer a wider breadth of products and services that we offer.
+There really can be highly attractive synergies.
+In many cases, we get some infrastructure that is important to us, and we always get great people, and we learn from those.
+So yeah, we're highly interested in M&A of all shapes and sizes, and we're active in those markets.
+Tough to pace it.
+It takes two to dance, and we just wanna make sure we're at the dance and ready.
+Manav Patnaik
+Managing Director and Senior Equity Research Analyst, Barclays
+Okay.
+Fair enough.
+Thank you, guys.
+Todd Schneider
+CEO, Cintas Corporation
+Thank you.
+Operator
+Our next question comes from Scott Schneeberger from Oppenheimer.
+Please go ahead, Scott.
+Scott Schneeberger
+Managing Director and Senior Analyst, Oppenheimer
+Thanks.
+Good morning, guys.
+The first one is, just, you know, you've been speaking over the course of the year about investing in, your, your selling capabilities, technology, management, training.
+Just an update there, and also, you've been alluding a lot to MyCintas portal.
+Any quantification you can put on that about, about penetration or anything else about how that's progressing?
+Thanks.
+Todd Schneider
+CEO, Cintas Corporation
+Yeah.
+Good morning, Scott.
+It's tough to put a number on that.
+It's kind of like, how do you put a value on the, the culture of Cintas?
+You know, we're, we're constantly reinvesting in those technologies, in those trainings to position our people to be more successful.
+We talk about making it easier for them to do their jobs and make it easier for our customers to do business with us.
+So, those are all investments that are long-term thinking, long-term investments that positions our people to be successful in the marketplace.
+Some of those investments pay off faster, but it's a continual investment.
+And when we think about those investments, it is, you know, we have an amazing team of partners that are out every day, taking great care of their customers.
+We wanna make it easier for them.
+We wanna make it, you know, give them data that allows them to provide more value to the customers, less laborious for them to do their jobs, and allow customers the ability to self-serve, and have many conduits to do business with Cintas and also communicate with Cintas.
+So all those investments are ongoing and will be, frankly, probably ongoing in perpetuity, because that's the nature of business now, that technology plays a key role, and we're blessed to have a balance sheet where we can invest appropriately and position our team to be really successful.
+Scott Schneeberger
+Managing Director and Senior Analyst, Oppenheimer
+Thanks.
+The follow-up is, I just figure fiscal year-end and, you know, all-time high in the fourth quarter on the operating margin.
+Kind of a conceptual longer-term question.
+You guys have done great since implementing the ERP and reaping benefits from it.
+What can you get to for peak margins?
+I mean, you've talked about incremental margins, 25% to 35% range.
+Can you get to 25% promptly?
+Can you get to 30% longer term?
+Just some consideration on what aspirational targets would be reasonable.
+Thanks.
+Todd Schneider
+CEO, Cintas Corporation
+Scott, I would say this: We don't like to put a ceiling on our aspirations, but we certainly think that we can continue to improve margins and so maybe a couple points.
+First of all, 25% to 35% operating incremental operating margins.
+We've got locations that are operating at the 30+ level today, and that's in all of our businesses.
+And so there is a pathway there, and we are continuing to work on it.
+Sometimes it's better scale and density, sometimes it's a little bit of product mix, sometimes it's the newness of the location.
+But we have those examples, and we're continuing to get all of our locations closer and closer to those highest operating locations.
+Mike Hansen
+EVP and CFO, Cintas Corporation
+... and that operating incremental operating margin range of 25 to 35, in our minds tells us, certainly we can work, keep continue to work to get there.
+As you go back to the, you know, you've talked a little bit about technology, I would say that, we're still in the early innings of technology.
+We've become much, much better at operating on the SAP system.
+And it's only been about 4 years since our rental business has been fully on, and fire is not on yet.
+And so we have been getting better and better at using that system.
+But as you know, as we've talked about over the course of the last year or so, there are still a lot of things that can come with our Google, and Verizon, and SAP partnerships that we are just touching the surface on, and we think that that can be a big driver of continued margin expansion into the future.
+Not ready to put a date on when we can hit 25, or 30, but we certainly have that in our sights, and we'll continue to work hard to get there.
+Scott Schneeberger
+Managing Director and Senior Analyst, Oppenheimer
+Thanks.
+Great job.
+Operator
+Our next question comes from Shlomo Rosenbaum from Stifel Nicolaus.
+Please go ahead, Shlomo.
+Adam Parrington
+Associate Equity Research Analyst, Stifel Nicolaus
+Hi, this is Adam on for Shlomo.
+Could you maybe provide a little bit of outlook for, Uniform Direct Sales and for Fire Protection businesses for 2025?
+And how much of a margin impact should there be on, in the fire business from the, SAP implementation you alluded to last quarter?
+Mike Hansen
+EVP and CFO, Cintas Corporation
+From a Fire Protection business perspective, we're still in the implementation phase of that.
+And there's gonna be a little bit of pressure on there.
+I'm not gonna give a specific guidance in terms of their margin, but there'll be some pressure as we go through, keeping in mind, when we go through an implementation, there is the work of the implementation, the work of training all of our people to use it, the inefficiencies that come along with that, and we will then get better and better.
+And Fiscal 2025 is gonna be a little bit of a year of that training and implementation period.
+And so I would say that's gonna be a little bit of pressure on the margins there.
+Certainly, that's incorporated within our overall guide of margin improvement.
+From a Uniform Direct Sale perspective, our margins have been really good.
+We've been working on selling the right types of programs, and our Uniform Direct Sale partners are doing a great job in that area.
+But having said all that, a little bit hard to tell based on that SAP implementation in Fire, but keeping in mind, that's included with our overall guide.
+Adam Parrington
+Associate Equity Research Analyst, Stifel Nicolaus
+Thank you.
+Operator
+Our next question comes from Ashish Sabadra from RBC Capital Markets.
+Please go ahead, Ashish.
+Ashish Sabadra
+Managing Director, RBC
+Thanks for taking my question.
+Maybe just a question on the guidance philosophy, because, when we think about the organic growth in the quarter, still continues to be pretty robust, compared to the industry growth profile at 7.5, but it has moderated over the last 8 quarters.
+The higher end of the guidance implies the 8% organic growth, implies an inflection in growth, and historically, you've always set your guide where you have beaten and raised your guidance throughout the year.
+So as we think about where do we really see the inflection?
+And in terms of guidance philosophy, would you say, is it equally conservative as we've seen in the prior years?
+Thanks.
+Mike Hansen
+EVP and CFO, Cintas Corporation
+Well, I'll say, maybe this, Ashish, you know, we had an 8% organic growth rate year this year, and that was a really good year in a year where, again, last year, we were at about 12.2% and 10% the previous year, and these were years where there was just heavy inflation.
+And as, as you know, our pricing was a little bit higher than norm, and we got the 8% this year in sort of that, bringing the, the price increases back to something closer to historical levels.
+You know, as we think about our guide, maybe I'll throw out a couple numbers to you, and as Todd has been mentioning, we've had, we've not seen a lot of change in customer behavior, and we've had some really good performance in our full fiscal 2024 year, but I'll point out a couple.
+In our third quarter, if you adjust for the workdays, our total growth was 8.2%.
+In the fourth quarter, our total growth was 8.2%.
+In our guide, when you think about just simply the workday, our guide range is 6.7% to 8.3%.
+So our guide range is effectively telling you we're seeing this, the business operate in much of the same manner as we saw in the second half of the year.
+If you look at the organic numbers in those, in the third quarter, fourth quarter and next year, same story.
+So the philosophy is a little bit of, look, we have to build a bit of a range because we have to consider certain alternatives.
+But effectively, the guide range for fiscal 2025 on the top line is right in line with what you've seen, particularly in the second half of fiscal 2024, and that is-
+Todd Schneider
+CEO, Cintas Corporation
+... really nice growth in all of our businesses, certainly in uniform rental, first aid and safety, and fire protection.
+So, hopefully, that helps a little bit, Ashish.
+Ashish Sabadra
+Managing Director, RBC
+Yeah, no, that's very helpful color.
+Thank you.
+Mike Hansen
+EVP and CFO, Cintas Corporation
+Our next question come from Faiza Alwi from Deutsche Bank.
+Please go ahead, Faiza.
+Faiza Alwi
+Director and Equity Research Analyst, Deutsche Bank
+Yes, hi.
+Thank you so much.
+So you mentioned earlier in the call about the white space opportunity and, you know, just the traction you're getting with non-programmers.
+I think relative to historical levels, the contribution from non-programmers to growth has been higher.
+So I'm curious if you can talk about, you know, what you're doing differently.
+Are you maybe using technology?
+Has the pitch changed a little bit?
+Is there something about the underlying environment?
+So just curious on, you know, what's driving sort of incremental contribution from non-programmers.
+Todd Schneider
+CEO, Cintas Corporation
+Oh, I'll start, but and Mike, if you'd like to contribute.
+Faiza, good morning, and I for several decades now, we have had a focus on trying to grow the pie of the business, and that white space is significant.
+So, we teach our organization about how to attract no programmers, and it's a little different process, and it takes.
+It's more of a conceptual sale, versus something, I'll call it more about, well, you've got to coach them and teach them about how to do something different, instead of simply doing it yourself.
+And again, that's a conceptual sale, and we teach our folks on how to do that.
+We happen to be blessed with being in a spot where there is a massive white space out there.
+I'll say it's a harder concept to get across to people, but we've been doing it for so long that it's just part of how our organization operates.
+And we think that that's exciting for us.
+No real obvious change I would point to.
+It's just part of our culture.
+It's part of how we teach and train our partners on how to approach that.
+It resonates with people, and because they get the concept of outsourcing, they get the concept of yeah, maybe I am struggling to keep up with all this, and you can do it, and you can do it better, faster, smarter, cheaper than I can.
+That's been a key fundamental of how we've grown our business over the years and how we'll continue to grow our business into the future.
+Mike Hansen
+EVP and CFO, Cintas Corporation
+Faiza, maybe I'll offer, maybe I'll offer this a bit.
+Think about the healthcare vertical that we've been in for maybe a decade or so, now.
+When we got into that, we needed to create a sales team because it's just a different kind of sale, different kind of relationships, and so we had to create a different kind of sales team.
+When we did that, we started with sort of maintenance uniforms, uniform rental and maintenance, because we didn't have a broad product offering.
+As we continued in that business, we started to learn through dialogue with the customers how else we can help them, and we started things like microfiber, and we started rental programs in microfiber, and that started to take off and has become a nice product for us.
+As we continued to have dialogue with them, that sort of evolved into then scrub rental programs.
+These came out of, again, dialogue with how can we help our customers?
+So this healthcare has grown from almost nothing to call it 8% of our revenue now, and it's largely because of the adaptation of our people to this new type of vertical, along with our dialogue with our customers and creating a real nice partnership that then creates some innovation that gets innovation flowing for us and new products and services.
+And then if we couple that with technology of having more information at our fingertips, of being able to find better prospecting as we can better able to tell what customers have which products and where might the warmest leads and so on be, over time, we have been able to grow the business and through that, grow our productivity.
+And so all of these things that we do that Todd talks about, they don't happen overnight.
+They are the evolution and continued dialogue and collaboration with our customers to become more and more ingrained in what we do with them.
+And so you ask about the white space.
+This is just a continued evolution of that collaboration, innovation, technology wins, productivity improvement.
+Faiza Alwi
+Director and Equity Research Analyst, Deutsche Bank
+That's very helpful.
+Thank you so much.
+And then just a quick follow-up on CapEx.
+You mentioned it at the outset as a priority.
+I know we saw an increase in the CapEx in 2024.
+And apologies if I missed it, I don't know if you gave a specific number, but just talk a bit more about some of the CapEx investments and how we should think about that going forward.
+Todd Schneider
+CEO, Cintas Corporation
+...
+We were about 4.3% in fiscal 2024 as a percent of revenue.
+You might remember, we had a little bit of catch up in truck purchasing through the year.
+We had some of the SAP investment for fire protection.
+We largely believe that CapEx in the future is the 3.5% to 4% of revenue range.
+I think that's where we'll likely end up in fiscal 2025.
+Faiza Alwi
+Director and Equity Research Analyst, Deutsche Bank
+Great.
+Thank you so much.
+Operator
+Our next question comes from Stephanie Moore from Jefferies.
+Please go ahead, Stephanie.
+Stephanie Moore
+Managing Director and Senior Equity Research Analyst, Jefferies
+Hi, good morning.
+Thank you.
+I wanted to follow up, actually, on just the last question there.
+And just one quick question.
+Are you finding, you know, potentially some increased activity from new customers that are viewing maybe a value proposition differently?
+So taking it, you know, maybe taking that another way, with higher inflationary environment, maybe not looking to kind of do it in-house and kind of have that initial capital outlay, and your value proposition is coming in.
+Is that, has that been a contributing driver to the growth?
+Todd Schneider
+CEO, Cintas Corporation
+Good morning, Stephanie.
+Yeah, there's many inputs to it.
+Certainly, if you are with a rental uniform program, if you wanna buy garments, there's a large capital outlay versus us doing that for the customer.
+And other areas where you might have to go buy dispensers for chemicals or soaps, towels, what have you, in restrooms.
+And we do that for the customer.
+We make that investment on their behalf.
+And then again, we free them up to take care of their business, focus better on their people, their customers, their guests, their patients.
+So, I'm sure that contributes to it.
+Certainly when it's...
+I think we've benefited from, you know, the environment where people are busy and they're, you know, whether they're trying to hire people or take care of customers, and they say, again, "Wow, I didn't realize you could do that for me.
+You can do it at those competitive rates, and that frees me up." And over the years, we've spoken to many, many customers who were surprised that our average-sized customer, how small it is, and they didn't realize that they were big enough to have a service like ours, where, you know, our average-sized customer is really small.
+And that's part of our, our responsibility is to get the message out, that we can help customers and our sales team out there actively pursuing those.
+But I've seen that over and over again throughout the years.
+Stephanie Moore
+Managing Director and Senior Equity Research Analyst, Jefferies
+Great.
+Got it.
+No, that's excellent color.
+Just last question for me.
+You talked about M&A being a bit more aggressive in this past year.
+I'm curious what your appetite would be to maybe more aggressively expand in the fire and safety or fire and security space.
+You know, it's been a good vertical for you.
+I think it is an area or a market with a you know, pretty considerable white space.
+So just curious your appetite within that vertical specifically.
+Thank you.
+Todd Schneider
+CEO, Cintas Corporation
+Yeah, Stephanie, the way I would describe it is, you know, again, we were able to invest more in M&A this year than going back all the way to 2000 fiscal 2017.
+That being said, that is a byproduct of just timing, deal flow, when people make decisions.
+I wouldn't call it a change in strategy on our part.
+It was more about timing and flow, and that's tough to predict.
+As far as the first aid and safety business and the fire business, we're acquisitive in every single route-based business that we have.
+So we like to evaluate every single deal and make a good decision.
+In the fire business specifically, you know, we wanna make sure that we're competitive and aggressive after good, attractive deals.
+The mix of business matters to us, meaning, you know, we like a business that meets the mix of test and inspect that we have, and repair along with that as well.
+And there are some deals that have come across our desk that we have chosen not to participate in because there's a significant amount of installation in those businesses.
+And the installation business tends to be kind of tied to new construction, and that is a really varied business, and not one that's as attractive to us.
+It's tougher to staff, tougher—it's kind of like bid and chase business, so we've chosen to avoid those.
+But we are, we really like both the all the route-based businesses.
+Again, we're highly acquisitive and, and would like to continue on that path.
+Stephanie Moore
+Managing Director and Senior Equity Research Analyst, Jefferies
+Great.
+Thank you so much.
+Todd Schneider
+CEO, Cintas Corporation
+Thank you.
+Operator
+At this time, there are no further questions.
+I'd like to turn the call back over to Jared for closing remarks.
+Jared Mattingley
+VP of Investor Relations, Cintas Corporation
+Thank you for joining us this morning.
+We will issue our first quarter of fiscal 2025 financial results in September.
+We look forward to speaking with you again at that time.
+Operator
+This concludes today's conference call.
+Thank you for your participation.
+You may now disconnect.
+The host has ended this call.
+Goodbye.
+The host has ended this call.
+Goodbye.
+Data Source:
+Quartr
+Last updated:
+Jul 18, 2024
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (17)
+Annual report
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
