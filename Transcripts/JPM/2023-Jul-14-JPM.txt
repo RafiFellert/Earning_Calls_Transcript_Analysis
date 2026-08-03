@@ -1,0 +1,953 @@
+JPMorgan Chase (JPM) Q2 2023 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+JPMorgan Chase & Co. (JPM)
+NYSE: JPM · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+351.79
++0.94 (0.27%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+356.23
++4.44 (1.26%)
+Pre-market:
+Aug 3, 2026, 8:53 AM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q2 2023
+Jul 14, 2023
+Quarterly report
+Earnings release
+Slides
+Play Audio
+Download Transcript
+Operator
+Good morning, ladies and gentlemen.
+Welcome to JPMorgan Chase's second quarter 2023 earnings call.
+This call is being recorded.
+Your line will be muted for the duration of the call.
+We will now go to the live presentation.
+Please stand by.
+At this time, I would like to turn the call over to JPMorgan Chase's Chairman and CEO, Jamie Dimon, and Chief Financial Officer, Jeremy Barnum.
+Mr. Barnum, please go ahead.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Thanks, operator.
+Good morning, everyone.
+The presentation is available on our website.
+Please refer to the disclaimer in the back.
+Starting on page one, the firm reported net income of $14.5 billion , EPS of $4.75 on revenue of $42.4 billion, delivered a ROTCE of 25%.
+These results included the First Republic bargain purchase gain of $2.7 billion, a credit reserve build for the First Republic lending portfolio of $1.2 billion, as well as $900 million of net investment securities losses in corporate.
+Touching on a few highlights.
+CCB client investment assets were up 18% year-over-year.
+We had record long-term inflows in AWM.
+We ranked number one in IB wallet share.
+Before giving you more detail on the financials, let me give you a brief update on the status of the First Republic integration on page two.
+The settlement process with the FDIC is on schedule, the number of key milestones being recently completed.
+Systems integration is also proceeding at pace.
+We are targeting being substantially complete by mid-2024.
+First Republic employees have formally joined us as of July 2 .
+We're pleased to have had very high acceptance rates on our offers.
+Although it's still early days, as we get the sales force back in the market, we are happy to see that client retention is strong, with about $6 billion of net deposit inflows since the acquisition.
+Turning back to this quarter's results on page three.
+You'll see that in various parts of the presentation, we have specifically called out the impact of First Republic where relevant.
+To make things easier, I'm going to start by discussing the overall impact of First Republic on this quarter's results at the firm-wide level.
+For the rest of the presentation, I will generally exclude the impact of First Republic in order to improve comparability with prior periods.
+With that in mind, this quarter, First Republic contributed $4 billion of revenue, $599 million of expense, and $2.4 billion of net income.
+As noted on the first page, this includes $2.7 billion of bargain purchase gain, which is reflected in NIR in the corporate segment, as well as $1.2 billion of allowance build.
+Remember that the deal happened on May 1 , the First Republic numbers only represent two months of results.
+You'll see in the line of business results that we are showing First Republic revenue and allowance in CCB, CB, and AWM.
+For the purposes of this quarter's results, all of the deposits are in CCB, and substantially all of the expenses are in corporate.
+As the integration continues, some of those items will get allocated across the segments.
+Now, turning back to firm-wide results, excluding First Republic.
+Revenue of $38.4 billion was up $6.7 billion or 21% year-over-year.
+NII ex markets was up $7.8 billion or 57%, driven by higher rates.
+NIR ex markets was down $293 million, largely driven by the net investment securities losses I mentioned earlier, partially offset by a number of less notable items, primarily in the prior year.
+Markets revenue was down $772 million or 10% year-on-year.
+Expenses of $20.2 billion were up $1.5 billion or 8% year-on-year, primarily driven by higher compensation expense, including wage inflation and higher legal expense.
+Credit costs of $1.7 billion included net charge-offs of $1.4 billion, predominantly in card.
+The net reserve build included a $389 million build in the commercial bank, a $200 million build in card, and a $243 million release in corporate, all of which I will cover in more detail later.
+On to balance sheet and capital on page four.
+We ended the quarter with a CET1 ratio of 13.8%, flat versus the prior quarter, as the benefit of net income less distributions was offset by the impact of First Republic.
+As you can see in the two charts on the page, we've given you some information about the impact of the transaction on both RWA and CET1 ratio.
+As you know, we completed CCAR a couple of weeks ago.
+Our new negative SCB is 2.9% versus our current requirements of 4%, and it goes into effect in fourth Q 2023.
+The new SCB also reflects the board's intention to increase the dividend to $1.05 per share in the third quarter.
+On liquidity, our bank LCR for the second quarter ended at 129%, in line with what we anticipated at Investor Day.
+About half of the reduction is associated with the First Republic transaction.
+While we're on the balance sheet, as we previewed in the 10-K, we will be updating our earnings at risk model to incorporate the impact of deposit repricing lags.
+When we release this quarter's 10-Q, you will see the up 100 basis points parallel shift scenario will be about positive $2.5 billion, whereas in the absence of the change, it would have been about negative $1.5 billion.
+Let's go to our businesses, starting with CCB on page 5.
+Both U.S. consumers and small businesses remain resilient, and we haven't observed any meaningful changes to the trends in our data we discussed at Investor Day.
+Turning now to the financial results, which I will speak to, excluding the impact of First Republic or CCB, CIB, and AWM.
+CCB reported net income of $5 billion on revenue of $16.4 billion, which was up 31% year-on-year.
+In banking and wealth management, revenue was up 59% year-on-year, driven by higher NII on higher rates.
+End- of- period deposits were down 4% quarter-on-quarter, as customers continued to spend down their cash buffers, including for seasonal tax payments and seek higher yielding products.
+Client investment assets were up 18% year-on-year, driven by market performance and strong net inflows across our advisor and digital channels.
+In home lending, revenue was down 23% year-on-year, driven by lower NII from tighter loan spreads and lower servicing and production revenue.
+Originations were up quarter-on-quarter, driven by seasonality, although still down 54% year-on-year.
+Moving to card services and auto, revenue was up 5%, largely driven by higher card services NII on higher revolving balances, partially offset by lower auto lease income.
+Card outstandings were up 18% year-on-year, which was the result of revolved normalization and strong new account growth.
+In auto, originations were up $12 billion, up 71% year-on-year, as competitors pulled back and inventories continued to slowly recover.
+Expenses of $8.3 billion were up 8% year-on-year, driven by compensation, predominantly due to wage inflation and headcount growth, as we continue to invest in our front office and technology staffing, as well as marketing.
+In terms of credit performance this quarter, credit costs were $1.5 billion, reflecting a reserve build of $203 million, driven by loan growth and card services.
+Net charge-offs were $1.3 billion, up $640 million year-on-year, predominantly driven by card, as 30-day plus delinquencies have returned to pre-pandemic levels in line with our expectations.
+Next, the CIB on page 6.
+CIB reported net income of $4.1 billion on revenue of $12.5 billion.
+Investment Banking revenue of $1.5 billion was up 11% year-on-year or down 7%, excluding bridge book markdowns in the prior year.
+IB fees were down 6% year-on-year.
+We ranked number one with a year-to-date wallet share of 8.4%.
+In advisory, fees were down 19%.
+Underwriting fees were down 6% for debt and up 30% for equity, with more positive momentum in the last month of the quarter.
+In terms of the second half outlook, we have seen encouraging signs of activity in capital markets, July should be a good indicator for the remainder of the year.
+However, year-to-date announced M&A is down significantly, which will be a headwind.
+Moving to markets, total revenue was $7 billion, down 10% year-on-year.
+Fixed income was down 3%.
+As expected, the macro franchise substantially normalized from last year's elevated levels of volatility and client flows.
+This was largely offset by improved performance in the Securitized Products Group and credit.
+Equity markets was down 20% against a very strong prior year quarter, particularly in derivatives.
+Payments revenue was two and a half billion, up 61% year-on-year.
+Excluding equity investments, it was up 32%, predominantly driven by higher rates, partially offset by lower deposit balances.
+Security services revenue of $1.2 billion was up 6% year-on-year, driven by higher rates, partially offset by lower fees.
+Expenses of $6.9 billion were up 1% year-on-year, driven by higher non-compensation expense as well as wage inflation and headcount growth, largely offset by lower revenue-related compensation.
+Moving to the Commercial Banking on page 7.
+Commercial Banking reported net income of one and a half billion dollars.
+Revenue of $3.8 billion was up 42% year-on-year, driven by higher deposit margins.
+Payments revenue of $2.2 billion was up 79% year-on-year, driven by higher rates.
+Gross Investment Banking and markets revenue of $767 million was down 3% year-on-year, primarily driven by fewer large M&A deals.
+Expenses of $1.3 billion were up 12% year-on-year, predominantly driven by higher compensation expense, including front office hiring and technology investments, as well as higher volume-related expense.
+Average deposits were up 3% quarter-on-quarter, driven by inflows related to new client acquisition, partially offset by continued attrition in non-operating deposits.
+Loans were up 2% quarter-on-quarter.
+C&I loans were up 2%, reflecting stabilization in new loan demand and revolver utilization in the current economic environment, as well as pockets of growth in areas where we are investing.
+CRE loans were also up 1%, reflecting funding on prior year originations for construction loans in real estate banking, as well as increased affordable housing activity.
+Finally, credit costs were $489 million.
+Net charge-offs were $100 million, including $82 million in the office real estate portfolio.
+The net reserve build of $389 million was driven by updates to certain assumptions related to the office real estate market, as well as net downgrade activity in middle market banking.
+To complete our lines of business, AWM on page 8. Asset and Wealth Management reported net income of $1.1 billion, with a pre-tax margin of 32%.
+Revenue of $4.6 billion was up 8% year-on-year, driven by higher deposit margins on lower balances and higher management fees on strong net inflows.
+Expenses of $3.2 billion were up 8% year-over-year, driven by higher compensation, including growth in our private banking advisor teams, higher revenue-related compensation, and the impact of Global Shares and JPMorgan Asset Management (China), both of which closed within the last year.
+For the quarter, record net long-term inflows were $61 billion, positive across all channels, regions, and asset classes, led by fixed income and equities.
+In liquidity, we saw net inflows of $60 billion.
+AUM of $3.2 trillion was up 16% year-over-year.
+Overall client assets of $4.6 trillion were up 20% year-over-year, driven by continued net inflows, higher market levels, and the impact of the acquisition of Global Shares.
+Finally, loans were down 1% quarter-over-quarter, driven by lower securities-based lending, and deposits were down 6%.
+Turning to Corporate on page 9.
+As I noted upfront, we are reporting the First Republic bargain purchase gain and substantially all of the expenses in corporate.
+Excluding those items, corporate reported net income of $339 million.
+Revenue was $985 million, up $905 million compared to last year.
+NII was $1.8 billion, up $1.4 billion year-on-year due to the impact of higher rates.
+NIR was a net loss of $782 million, and included the net investment securities losses I mentioned upfront.
+Expenses of $590 million were up $384 million year-on-year, largely driven by higher legal expense.
+Credit costs were a net benefit of $243 million, reflecting a reserve release as the deposit placed with First Republic in the first quarter was eliminated as part of the transaction.
+The outlook on page 10.
+We now expect 2023 NII and NII ex markets to be approximately $87 billion.
+The increase driven by higher rates, coupled with slower deposit reprice than previously assumed across both consumer and wholesale.
+I should take the opportunity to remind you once again that significant sources of uncertainty remain, and we do expect the NII run rate to be substantially below this quarter's run rate at some point in the future, as competition for deposits plays out.
+Our expense outlook for 2023 remains approximately $84.5 billion.
+On credit, we continue to expect the 2023 card net charge-off rate to be approximately 2.6%.
+To wrap up, we are proud of the exceptionally strong operating results this quarter.
+As we look forward, we remain focused on the significant uncertainties relating to the economic outlook, competition for deposits, and the impact on capital from the pending finalization of the Basel III rules.
+Nonetheless, despite the likely headwinds ahead, we remain optimistic about the company's ability to continue delivering excellent performance through a range of scenarios.
+With that, operator, please open the line for Q&A.
+Operator
+Please stand by.
+The first question is coming from the line of Jim Mitchell from Seaport Global Securities.
+You may proceed.
+Jim Mitchell
+Senior Equity Analyst and Managing Director, Seaport Global Securities
+Oh, thanks.
+Good morning.
+Hey, Jeremy, you talked about NII guidance up.
+Clearly, Fed Funds futures are up, so it makes some sense.
+Maybe, I guess, first, could you kind of discuss, I guess, comment on deposit behavior broadly around betas and mix and what you're seeing there so far seems to be coming in a little better expected?
+Then secondly, and probably more importantly, can you help us think about the implications of higher for longer rates on the outlook for NII next year and beyond?
+You know, I guess the intermediate-term outlook that you guys have talked about.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, sure.
+Thanks, Jim.
+When we talked about the drivers of the upward revision, as I said, it's, you know, higher rates coupled with lower deposit reprice, hard to untangle the two drivers.
+Specifically, I think when you look at consumer, the combination of the passage of time, you know, and the positive feedback we're getting from the field and the CD offerings in particular, has meant that, you know, it's just quite a kind of stable environment from that perspective.
+Similarly, in wholesale, we're just seeing slower internal migrations.
+You know, you asked about mix.
+I think that obviously we're seeing the CD mix increase, and we would continue to expect.
+We would expect that to continue to take place, probably even past the peak of the rate cycle into next year, as we continue to capture money in motion.
+As you say, the most important point is the fact that, as I said earlier, we don't consider this level of NII generation to be sustainable, and we talked previously about a sort of medium-term run rate, you know, in the mid-seventies.
+That was before First Republic, you know, you could argue that maybe that number should be a little higher, but whatever it is, it's a lot lower than the current number.
+We don't know when that's going to happen, you know, we're not going to predict the exact moment.
+That's going to be a function of competitive dynamics in the marketplace, but we want to be clear that we do expect it at some point.
+Jim Mitchell
+Senior Equity Analyst and Managing Director, Seaport Global Securities
+Okay.
+I guess just one follow-up on that.
+Just if we don't get rate cuts, sorry, till middle of next year or later, does that sort of give some confidence to the outlook for next year, or are you still worried about significant reprice?
+Jeremy Barnum
+CFO, JPMorgan Chase
+I wouldn't necessarily assume that the evolution from the current run rate into that mid-seventies number is that sensitive to the rate outlook in particular.
+When we put that number out there, we looked at a range of different types of rate environments and the reprice that we think would be associated with that.
+It was really meant to capture more of a, what we consider to be a through-cycle sustainable number.
+I wouldn't think of it as being particularly rate dependent.
+Jim Mitchell
+Senior Equity Analyst and Managing Director, Seaport Global Securities
+Okay, great.
+Thanks.
+Operator
+Next, we'll go to the line of Erika Najarian from UBS.
+You may proceed.
+Erika Najarian
+Managing Director and Head of Americas Financial Sector Research, UBS
+Hi, good morning, Jeremy.
+I'm just laughing to myself because I said to you in Investor Day, "Do you have any more NII rabbits to pull out of the hat?" I guess you do.
+I guess I want to ask a broader question really here, and maybe, Jamie, I'd like to get your thoughts.
+You know, you earned 23% ROTCE on 13.8% CET1.
+You know, we hear you loud and clear that your more normalized NII generation is not $87 billion.
+You know, that being said, and you know, fully taking into account, you know, the potential, you know, haircut from Basel III endgame, you know, is it possible that your natural ROTCE is maybe above that 17% through the cycle rate, when rates aren't zero?
+When you first introduced that, ROTCE target, you know, we were in a different world from a rate scenario, and everybody's talking about even if the Fed cuts, the natural sort of bottom in Fed funds is not going to be zero.
+You know, any input on that would be great.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah.
+Thanks, Erika.
+I mean, it's a good question.
+There's a lot in there, obviously.
+I guess I would start by saying that, you know, when we've talked about the 17% through the cycle ROTCE, even though we may have introduced that in a moment where we were at the lower zero bound, it was always premised on a sort of normalized rate environment.
+At some level, that remains true today.
+Furthermore, you know, you didn't ask this explicitly, but in the context of the proposed Basel III endgame, you know, one relevant question might be: If you have a lot more capital in the denominator, what happens to that target?
+I think, as I said in my prepared remarks, we feel very confident about the company's ability to produce excellent returns through the cycle.
+There's a lot of moving parts right now in that.
+Some of them could be good, some of them could be bad.
+Narrowly on the capital one thing to point out is that the straight-up math of simply diluting down the ROTCE by expanding the denominator misses the possibility of reprice, you know, repricing of products and services, which, of course, goes back to our point that these capital increases do have impacts on the real economy.
+We're not suggesting that we can price our way out of it, but we obviously need to get, you know, the right returns on products and services, and where we have pricing power, we will adjust to the higher capital.
+A lot of moving parts in there, but I think the important point is that through a range of scenarios, we feel good about our ability to deliver good results, and we'll see how the mix of all the various factors plays out, especially after we see the Basel III proposal, and it goes through the comment period.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+Erika, I would just add one thing.
+First, we have a mix of businesses that earn from like 0% ROTCE to 100%.
+We have some which are very capital intensive, so we look at kind of all of them.
+I think 17 is a good number and a good target.
+The other thing we're overearning on is credit.
+You know, we've been overearning on credit for a substantial amount of time now.
+We're quite conscious about it.
+We know that's going to tick up.
+Just as it normalizes, it'll be considerably more than it is now.
+Like, you know, we would consider credit card normalized to be close to 3.5%.
+Erika Najarian
+Managing Director and Head of Americas Financial Sector Research, UBS
+My follow-up question there, maybe, Jeremy, could you remind us what unemployment rate is embedded in your ACL ratio as of the second quarter?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, it's still 5.8%.
+Erika Najarian
+Managing Director and Head of Americas Financial Sector Research, UBS
+Thank you.
+Operator
+Next, we'll go to the line of John McDonald from Autonomous Research.
+You may proceed.
+John McDonald
+Managing Director and Senior Research Analyst, Autonomous Research
+Hi, good morning.
+Jeremy, wanted to ask about capital in the wake of the Barr speech.
+We don't have the details yet, just kind of want to ask about options that you have and strategies for mitigation, both on RWA and potentially on the GSIB front as well, as you contemplate what you heard recently.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah.
+Thanks, John.
+Obviously, we're thinking about that a lot.
+On the other hand, as much as there have been a lot of very detailed rumors out there that might need you to start to try to do some planning, it does seem like this time it's real, and we are actually going to get a proposal ultimately sometime this month or something.
+Sooner enough, we'll get to see something actually on paper, and we can stop kind of the guesswork.
+Having said that, indulging in a little bit of guesswork, it does seem like the biggest single driver of the increase that people are talking about, including, you know, Chair Powell's 20% number, or Vice Chair Barr's 2% of RWA, which winds up being roughly the same, is just the way operational risk is getting introduced into the standardized pillar.
+That is a little bit of a straight up across the board tax on everything.
+It's kind of hard to optimize your way out of that, with the exception, obviously, of the fact that you can simply increase price, assuming you have pricing power.
+That's obviously not what we want, and that's what we sort of mean by impacts on the real economy.
+There are details.
+There's a lot of the FRTB stuff.
+You know, we can get way into the weeds there within the markets business, we do have a good track record of adjusting and optimizing.
+This time around, it may be a more fundamental set of questions around business mix as opposed to, you know, the ability to sort of optimize in a very technical way.
+John McDonald
+Managing Director and Senior Research Analyst, Autonomous Research
+Okay, that's helpful.
+With a number of years for this to phase in and you generating capital at a high level, even if the ROTC comes down a bit, how should we think about your pace of, you know, building capital for these new changes versus doing your everyday course of investing and buybacks and things like that, you know, over the next couple of years?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, I mean, I guess I'm sort of tempted to give you our standard capital hierarchy here.
+I mean, we're not going to sacrifice investments, right?
+That won't come as a surprise to you.
+Generally speaking, we're always going to try to comply with new requirements early.
+When we know the requirements and when we have visibility, obviously, given how much organic capital we're generating right now, whatever the answer winds up being, it'll be pretty easy to comply, narrowly speaking.
+That's not the same as saying that there won't be consequences to returns or to pricing.
+You know, if for whatever reason, things aren't exactly as we're anticipating, I don't see us sacrificing investments that we see as strategically critical in order to, you know, comply with higher capital requirements ahead of the formal timing or whatever.
+John McDonald
+Managing Director and Senior Research Analyst, Autonomous Research
+Okay, there's some room for buybacks?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Unlikely, obviously.
+That would be an unlikely outcome.
+John McDonald
+Managing Director and Senior Research Analyst, Autonomous Research
+Okay, thank you.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Sorry, John, go ahead.
+Did you have a follow-up?
+John McDonald
+Managing Director and Senior Research Analyst, Autonomous Research
+Yeah.
+No, just do buybacks play a role, you know, in the next couple of years, strategically, just episodically, buybacks?
+Jeremy Barnum
+CFO, JPMorgan Chase
+I mean, you know, capital hierarchy again, right?
+In the end you know, when we have nothing else to do with the money, we'll do buybacks.
+You know, we talked about the $12 billion for this year.
+Obviously, a lot of new moving parts there, although all else equal, given what we've done so far, that's still probably a reasonable number for the full year.
+Yeah, that's always going to be at the end of the list, but yeah.
+John McDonald
+Managing Director and Senior Research Analyst, Autonomous Research
+Got it.
+Okay.
+Thank you.
+Operator
+Next, we'll go to the line of Ken Usdin from Jefferies.
+You may proceed.
+Ken Usdin
+Managing Director of Equity Research, Jefferies
+Thanks.
+Good morning.
+I just wanted to ask a little bit about, how you're feeling about, the, you know, the trade-off between like, the commercial economy and what might come through in terms of future loan growth versus the kind of green shoots that people are talking about in the investment banking pipeline, and just how it feels in terms of like, reopening of markets and the trade-off between, you know, getting some more of those fees in and versus what's happening on the loan demand side.
+Thanks.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Sure.
+Good question, Ken.
+I think in terms of Investment Banking and markets, yeah, some, you know, slightly better than expected last month.
+A lot of talk about green shoots, especially in capital markets, generally.
+Still definitely some headwinds in M&A, you know, lower amounts of activity, some regulatory headwinds there.
+We'll see.
+I think it's a little too early to call a trend there based on recent results, but we'll see.
+In terms of the broader economy and loan growth expectations, generally, we do still expect reasonably robust card loan growth.
+Away from that, for a variety of different reasons and different products, whether it be mortgage or C&I after revolver normalization, you know, and especially if we see a little bit of a cooling off of the economy, I would expect loan demand to be relatively modest there.
+We're not really expecting meaningful growth away from card.
+Of course, you know, we're there for the right deals, right products, right terms.
+You know, we lend through the cycle.
+I see that as more of a demand-driven narrative, which will be a function of the economy rather than any tightening on our side.
+Ken Usdin
+Managing Director of Equity Research, Jefferies
+That makes sense.
+As a follow-up to that, you know, on the consumer side, you mentioned that, you know, consumers continue to spend, albeit a little more slowly, and you mentioned that consumers are also using their excess deposits a little bit more as well.
+Can you just elaborate a little bit more on just your feeling about the state of the consumer?
+Is that, is that card growth, you know, continue to be driven by people needing to revolve as opposed to, you know, wanting to have more in their deposits?
+Just kind of what the trade-off on that side, too?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, I mean, to us, I think we still see this as a normalization, not deterioration story, when we talk about consumer credit.
+Actually, revolve per account has still not gotten to pre-pandemic levels, actually.
+I would definitely say there's a wanting rather than needing, at least for our portfolio at this point.
+Yeah, you know, I think the consumer continues to surprise on the upside here.
+Ken Usdin
+Managing Director of Equity Research, Jefferies
+Got it.
+Okay.
+Thank you.
+Operator
+Next, we'll go to the line of Gerard Cassidy from RBC Capital Markets.
+Please go ahead.
+Gerard Cassidy
+Managing Director, Co-Head of Global Financials Research, and Large Cap Bank Analyst, RBC Capital Markets
+Good morning, Jeremy.
+Good morning, Jamie.
+Jeremy, can you give us your view on how you're measuring the Treasury functions and the asset liability of your balance sheet as we go forward versus the way you guys were positioning and managing it a year ago, in view of the fact that it looks like maybe we're approaching the terminal rate on Fed funds rates?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Gerard, I would say honestly, not much change there, actually.
+You know, we've been pretty consistently concerned about the risk of higher rates.
+Of course, we always try to position things to produce reasonable outcomes across a broad range of scenarios, but at the margin, we've been biased towards higher rates, and that may be a little less true at these levels than it was before, although a lot of that is just the consequence of positive convexity playing out in the modeling.
+In any case, you know, all else equal, I think we are going to continue to focus on making sure we're fine in a higher rate scenario, while staying balanced across a range of scenarios.
+Not really a lot of change in our positioning, and that's obviously including the fact that we took on First Republic, which, you know, even net of some of the liabilities, had a long structural interest rate position, and we did not actually want to get longer as part of the deal.
+As a result, we took actions to ensure that net-net, we were still about the same as we were last quarter.
+Gerard Cassidy
+Managing Director, Co-Head of Global Financials Research, and Large Cap Bank Analyst, RBC Capital Markets
+Very good.
+As a follow-up, you mentioned in giving us the read-through on the commercial banking, segment of the business, that you had some reserve building tied to some office real estate and also some downgrades in the middle market area.
+Can you go a little deeper?
+What are you guys seeing in this area of both commercial real estate, but also the C&I loans?
+What's happening in that segment as well?
+Jeremy Barnum
+CFO, JPMorgan Chase
+I would caution you from drawing too broad a conclusion from this.
+I mean, I think that when we talk about office, for example, you know, our portfolio, as you know, is quite small, and our exposure to sort of so-called urban dense office is even smaller.
+The vast majority of our overall portfolio is multifamily lending.
+As a result, like, our sample size of observed valuations on office properties is quite small.
+You know, we'd like to be sort of ahead of the cycle, and based on everything that we saw, this quarter, it just felt reasonable to build a little bit there, to get to what felt like a comfortable coverage ratio.
+You know, across the rest of the in the middle market segment, we saw downgrades in excess of upgrades, but I don't see that as sort of necessarily indicative of anything terribly significant in the broader read across.
+Gerard Cassidy
+Managing Director, Co-Head of Global Financials Research, and Large Cap Bank Analyst, RBC Capital Markets
+Thank you.
+Operator
+Next, we'll go to the line of Steve Chubak from Wolfe Research.
+Please go ahead.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Steve, are you there?
+Operator
+It looks like his line dropped.
+Jeremy Barnum
+CFO, JPMorgan Chase
+All right.
+Operator
+Next, we'll go to the line of Ebrahim Poonawala from Bank of America.
+You may proceed.
+Ebrahim Poonawala
+Managing Director and Head of North American Banks Research, Bank of America Securities
+Good morning.
+I guess just first question, following up on the outlook for the economy.
+Like, we've all been worried about a recession for one year, and there's a debate about the lagged effects of the Fed rate hike cycle.
+When you think about Jeremy, I think you mentioned you're on an unemployment outlook relatively similar today versus one quarter ago.
+How worried should we be in terms of the credit cycle six to 12 months from now?
+Are you leaning towards concluding that maybe U.S. businesses, consumers, have absorbed the rate cycle a lot better than we expected one year ago?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah.
+I mean, I'm sure Jamie has some views here, but in my view, I would just caution against jumping to too many super positive conclusions based on, you know, a couple of recent prints.
+You know, I think generally our point is less about trying to predict a particular outcome and more about trying to make sure that we don't get too much euphoria that over-concentrates people on one particular prediction when we know that there's a range of outcomes out there.
+Obviously, people are talking a lot about the potential for soft landing right now, you know, no landing, you know, immaculate disinflation or whatever.
+You know, whether our own views on that have changed meaningfully, I don't know.
+The broader point is that we continue to be quite focused on, you know, Jamie's prior comment that, you know, loss rates still have room to normalize even post-pandemic, so we're probably overearning on credit a little bit.
+Obviously, we've talked about the expectation that the NII is going to come down quite a bit.
+Even forgetting about whether you get some surprisingly negative outcomes on the economy from where we stand today, even in the central case, you just need to recognize that there should be some significant normalization.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+Yeah, I would just add that the 5.8% is not our prediction.
+That is the average of the unemployment under multiple scenarios that we have to use, which are hypothetical for CECL.
+If you ask us prediction, it's always come with something different, we don't know the outcome.
+We're trying to be really clear here.
+The consumer's in good shape.
+They're spending down their excess cash.
+That's all tailwinds.
+If even we go into a recession, they're going in with rather good condition of low, low borrowings and, you know, good house price value still.
+The headwinds are substantial and somewhat unprecedented.
+There's war in Ukraine, oil, gas, quantitative tightening, unprecedented fiscal needs of governments, QT, which we've never experienced before.
+I just think people should take a deep breath on that, we don't know whether those things could put us in a soft landing, a mild recession, or a hard recession.
+Hope, obviously, we all hope for the best.
+Ebrahim Poonawala
+Managing Director and Head of North American Banks Research, Bank of America Securities
+Got it.
+Just to follow up on the upcoming Basel reforms, two questions.
+You've talked about the impact of the U.S. economy, like others have said the same.
+At this point, is that falling on deaf ears?
+Secondly, maybe, Jeremy, if you can touch upon just structural changes that you expect to make in the capital markets business because of FRTB.
+Thank you.
+Jeremy Barnum
+CFO, JPMorgan Chase
+On your first point, I mean, you know, I think you can just read Vice Chair Barr's speech, right?
+He addressed that point fairly directly.
+He clearly doesn't agree, as is his right.
+We'll see what happens.
+We continue to feel that all else equal, higher capital requirements definitely are gonna increase the cost of credit, which is bad for the economy.
+We'll see what happens on that.
+On FRTB, it's really very nuanced.
+It's probably, like, too much detail for this call, to be honest.
+Just to give you, like, one immaterial and insignificant but useful example, you know, one product under FRTB is yield curve spread options.
+If the FRTB proposal goes through as currently written, that product just becomes not viable.
+Obviously, if we need to stop doing that product, no one really cares.
+It's just one example of the way sometimes, when you're really disciplined about allocating capital thoroughly all the way down to individual products and responding accordingly, you can wind up having to change your business mix.
+There are obviously more significant products that matter much more for the real economy, like mortgage, where, you know, the layering on of the operational risk and the way it's being proposed, especially if some of the other beneficial elements of the proposal don't come through, you know, you're once again making that product even harder to offer to homeowners.
+We'll see.
+We'll see what happens.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+I would just add to that, so the product, even if your product doesn't make money, you might do it for clients who are great clients.
+You're going to manage by product, by client, and by effectively business mix, and those are the adjustments.
+Roughly, loans don't make sense for your balance sheet as a whole, almost any loan.
+You know, that's just people have to recognize that, you know, so we just have managed through all the various complications here and figure out what the hell to do.
+Ebrahim Poonawala
+Managing Director and Head of North American Banks Research, Bank of America Securities
+Thank you.
+Operator
+Next, we'll go to the line of Mike Mayo from Wells Fargo Securities.
+You may proceed.
+Mike Mayo
+Managing Director and Head of U.S. Large-Cap Bank Research, Wells Fargo Securities
+Hi, I had another question on Vice Chair Barr's speech from this week.
+To the extent the capital ratios do go up 20% for you and perhaps others, to what degree would you think about changing your business model in terms of remixing, where you do business, repricing, or simply, you know, removing activities that you used to do?
+It's kind of ironic, or maybe it's not ironic, but Apollo hits an all-time stock price high, the same week as the speech.
+How much business leaves JPMorgan or the industry if capital ratios do go up as much as potentially proposed?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, Mike.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+Wait, before Jeremy answers the question, I just want to say this is great news for hedge funds, private equity, private credit, Apollo, Blackstone, and you know, and they're dancing in the streets.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, exactly.
+I was going to say, Mike, yes to everything.
+Meaning repricing?
+Yes, definitely.
+To the extent that we have pricing power and the higher capital requirements mean that we're not generating the right returns for shareholders, we will try to reprice, and we'll see how that sticks and how that flows into the economy and how that affects demand for products.
+If the repricing is not successful, then in some cases, we will have to remix, and that means getting out of certain products and services.
+As Jamie points out, that probably means that those products and services leave the regulated perimeter and go into, you know, elsewhere.
+That's fine.
+As Jamie points out, those people are clients, and I think that point was addressed also in Vice Chair Barr's speech.
+You know, traditionally, having risky activities leave the regulated perimeter has had some negative consequences.
+These are all important things to consider.
+Mike Mayo
+Managing Director and Head of U.S. Large-Cap Bank Research, Wells Fargo Securities
+All right.
+And separate question.
+I appreciate the Investor Day.
+It gives a little bit more color on the degree that your investments may or may not pan out.
+You know, we are still all watching that closely.
+Having said that, you've just increased revenue guidance by $10 billion for NII, between this quarter and the first quarter without changing expense guidance by even $1.
+Aren't you tempted to spend a little bit more?
+Why not spend more if you're gaining share?
+And I'm not saying that you should, I'm just wondering, aren't you tempted to do so?
+You have $10 billion more revenues, and you're not spending $1 more of expenses.
+Why not?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Mike, let me get this right.
+You're actually complaining that our expenses aren't high enough?
+Is that right?
+Mike Mayo
+Managing Director and Head of U.S. Large-Cap Bank Research, Wells Fargo Securities
+Well, I.
+Wait, just be clear.
+It's just the flip side of the question I asked for two years, you know, going back.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Fair enough.
+I appreciate the balance.
+Now, in all seriousness, we've always been pretty clear, right, that our spending is through the cycle spending based on through the cycle investment, through the cycle spending, based on our through the cycle view of the earnings-generating power of the company and the goal to produce the right return.
+Broadly speaking, NII tends to flow straight through to the bottom line, both when it's going up and by the way, when it's going down, too.
+We've been through those moments, as you well remember.
+Whether or not there are opportunities to, deploy some more dollars into, you know, marketing and stuff like that, we have actually looked at that recently.
+I don't see that being a pretty meaningful item this year, which is part of why we have not revised the expense guidance, yet.
+You know, this is about investing through the cycle and being honest and disciplined about which revenue items flow, you know, carry expense loading and which of them don't.
+Mike Mayo
+Managing Director and Head of U.S. Large-Cap Bank Research, Wells Fargo Securities
+Last quick follow-up.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+Mike, I think we're kind of running as fast as we can.
+If you actually sat down with the risk, we have a credit compliance, audit, marketing, bankers, recruiters, trainers, the same.
+Like, this is it.
+You know, we're full effort right now, and, you know, we want to make sure we get things right and get things thoughtful and careful.
+It's not just the money, it's the people and how many things can you change all at once and answer all at once.
+Mike Mayo
+Managing Director and Head of U.S. Large-Cap Bank Research, Wells Fargo Securities
+1 quick follow-up to that.
+Your efficiency ratio this quarter is, you know, the lowest we've seen in a long, long time.
+I guess you're saying don't extrapolate this efficiency ratio because NII will come down at some point.
+When you just simply look at, you know, you benchmark yourself against the low-cost providers, where do you think you're there now, and where can you still go?
+If you extrapolate this quarter, you're getting closer.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, I mean, you said it yourself, right?
+You definitely can't extrapolate the current numbers.
+I think more broadly, on benchmarking ourselves to low-cost providers, it sort of speaks to an area that you've been interested in for a long time, which is all of the investment that we're doing in technology to improve generally scalability and get more of our cost base to be, you know, variable versus fixed in terms of how we respond to volumes.
+That's a big part of the reason that we're doing the investments that we're doing in modernization and cloud and AI and all the type of stuff that we've talked about a lot.
+I think we feel really good about our efficiency as a company, but there definitely is room for improvement.
+Mike Mayo
+Managing Director and Head of U.S. Large-Cap Bank Research, Wells Fargo Securities
+All right.
+Thank you.
+Operator
+Next, we'll go to the line of Steven Chubak from Wolfe Research.
+You may proceed.
+Steven Chubak
+Managing Director and Senior Equity Research Analyst, Wolfe Research
+Hi, thanks for taking the question, apologies for the technical issues earlier.
+Wanted to ask on the deposit outlook, just with signs that recent liquidity drawdown has come predominantly out of RRP versus industry deposits.
+Just want to get your thoughts on, well, what expectations you have for deposit growth in the second half, both for you and even the broader industry, especially as Treasury issuance really begins to ramp in earnest.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, good question, Steve.
+Let me say a couple of things about this.
+Obviously, our deposit numbers have bounced around a little bit, as a function of some of the turmoil that we saw in regional banks, as well as obviously the First Republic transaction.
+Now, if you look at our kind of end-of-period deposits this quarter and you project forward, our core view is that we would expect a sort of modest downward trend to reassert itself from this higher starting point, broadly as a function of QT playing through the system.
+Noting that we do have some hope for offsets by taking shares.
+To give a couple of examples, like in consumer, you know, we've got some of our branch expansion markets seasoning, and so there are share increases there.
+In wholesale, we obviously invested a lot in products and services, we think we have compelling offerings that are helping us win mandates, there are potentially some share offsets there.
+Broadly, our core view remains modest deposit declines across the franchise.
+Within that, you note the same thing we've noted that, you know, as we got through the debt ceiling and the TGA build, that build has come into effect, and you've seen a lot of bill issuance.
+You know, big question in the market about whether that was going to come out of reserves or come out of RRP.
+So far, with most of the TGA build, I guess, they're targeting 600, and they're at 550 or something, so they're almost done.
+you know, more of it than some people feared, has come out of RRP.
+As you say, I think that's a relatively good sign and highlights how the system works better when you've got, you know, ample supply of short-dated collateral, you know, on the front end of the yield curve.
+That whole RRP, TGA bank, you know, reserve dynamic is going to continue to be significant, but it is good to see RRP coming down a little bit.
+Steven Chubak
+Managing Director and Senior Equity Research Analyst, Wolfe Research
+A helpful color.
+Just a follow-up on card income.
+You know, revenues were muted in the quarter.
+I was hoping you could unpack just the sources of pressure, maybe more specifically, how much of the drag is associated with FAS 91 versus some other factors.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah.
+Actually, that card income number, Steve, is a little bit of a one-off thing.
+We had a reward liability adjustment this quarter, kind of a technical thing, so that's just a temporary headwind.
+Also, the sequential comparison is also getting hurt by a small positive one-off item in the prior period.
+Obviously, you know, I know you guys look at it, but card income isn't sort of a thing that we look at that much ourselves.
+Steven Chubak
+Managing Director and Senior Equity Research Analyst, Wolfe Research
+Can you size the reward liability impact?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Why don't you get Michael to give that to you?
+It's not that significant, but it's enough to just make the sequential number look a little bit wonky.
+Steven Chubak
+Managing Director and Senior Equity Research Analyst, Wolfe Research
+Great.
+Thanks for taking my questions.
+Operator
+Next, we'll go to the line of Glenn Schorr from Evercore ISI.
+You may proceed.
+Glenn Schorr
+Senior Managing Director and Senior Research Analyst, Evercore ISI
+Thank you.
+Just want to follow up on this pricing power conversation, because you've been consistent over time that you have a limited ability to sustain pricing power due to the competitive landscape.
+I guess my question is, if not now, when?
+Meaning a lot has changed on the institutional side, European bank side, the regional bank side.
+I would think that there'd be certain businesses that you have a greater ability and willingness to push price on.
+Maybe you could tie that to your comments in the press release on what are the material, what are the real-world consequences for markets and end users that you're referring to when talking about material regulatory changes?
+Thanks a lot.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Sure.
+So look, on pricing power, you're right.
+It really depends on the product, and it depends on the competitive landscape across different banks.
+So it's very granular, it's very product specific.
+And, you know, in some cases, we'll have more pricing power than in other cases.
+I think the overall point that we're trying to make in connection with Basel III endgame is just that, you know, like, we think the capital increases are excessive.
+It puts pressure on returns all else equal.
+That obviously puts pressure on us to increase price where we can.
+That is generally a bad thing for the real economy, and how all of that plays out in detail across different products and services remains to be seen.
+Importantly, since we don't actually have the proposal yet.
+We need those details.
+I'm sorry, Glenn, I forgot the second half of your question.
+What was it?
+Glenn Schorr
+Senior Managing Director and Senior Research Analyst, Evercore ISI
+Actually, I think you hit on it, so I'll just do a follow-up on a related.
+You know, the notion of private credit doing large traditional investment grade lending activity is, it may be part of the competitive landscape that limits the ability to push price.
+In Jamie's letter, you talked about the downsides or my question is, what's the downside if more of the mortgage credit asset-backed intermediation business is pushed out of the banking system?
+Jeremy Barnum
+CFO, JPMorgan Chase
+I mean, I guess it depends on what you mean by downside, but I just think, you know, societally speaking, I think we've seen in recent history that, you know, when home lending is happening outside the regulated perimeter, you know, and things get bad, you know, when you have economic downturns, it produces bad outcomes for individuals and homeowners and society as a whole.
+Jamie's written about this extensively.
+Beyond that, you know, financially, we've talked about how mortgage lending, I mean, you know, the profitability swings, obviously, is reasonably cyclical, and in the recent past, it's actually been quite profitable, then it was less so.
+Like, the correspondent channel right now is actually picking up a little bit.
+It's a thin margin business.
+It's challenging, and when you increase the capital requirements, it makes it even harder.
+That just becomes one of the areas where you're in that tension between remixing versus pricing power that we talked about a second ago.
+It might, in fact, mean that we do less, you know, less credit available for homeowners and more regulatory risk as the activity moves outside the perimeter.
+Glenn Schorr
+Senior Managing Director and Senior Research Analyst, Evercore ISI
+Appreciate that, Jeremy.
+Operator
+Next, we'll go to the line of Betsy Graseck from Morgan Stanley.
+You may proceed.
+Betsy Graseck
+Managing Director and Global Head of Banks and Diversified Finance Research, Morgan Stanley
+Hi, good morning.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Hi, Betsy.
+Betsy Graseck
+Managing Director and Global Head of Banks and Diversified Finance Research, Morgan Stanley
+I just wanted to unpack a little bit more the drivers of the change you outlined that's coming in the 10-Q, Jeremy, regarding the asset sensitivity going from liability sensitive to asset sensitive.
+At least that's the way I read it.
+I just wanted to understand what the drivers of that is?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, sure.
+No problem, Betsy.
+I mean, as you know, that's always been a challenging number.
+You know, it's meant as a risk management measure of sorts, although it's also somewhat limited in that respect.
+It has been of uneven usefulness in terms of the potential to be able to predict our NII trajectory when rates change.
+You know, as we've looked at that and tried to improve it and spoken to all of you through this latest rate hiking cycle, we've come to the conclusion that it would improve the usefulness of the disclosure if we included in the modeling the effect of deposit repricing lags.
+We've done that, and that just has the effect that I talked about.
+It increases the EAR number by about $4 billion from, you know, negative $1.5 billion , which is roughly what it was last quarter and what it would have been this quarter without the change, to something more like two and a half.
+Betsy Graseck
+Managing Director and Global Head of Banks and Diversified Finance Research, Morgan Stanley
+So then.
+Jeremy Barnum
+CFO, JPMorgan Chase
+All the usual caveats apply, right?
+I mean, the answer is going to always, for any given change in rates, the change in our NII is always going to be, for one reason or another, different from what that disclosure shows.
+You know, we do our best to make the use.
+Betsy Graseck
+Managing Director and Global Head of Banks and Diversified Finance Research, Morgan Stanley
+Okay.
+Is it fair for me to think about that change as a mark to market to where we are today?
+When I think about your forward guide here, longer term, you're saying, "Look, deposit betas are accelerating." As I go through the 10-Qs over the next, you know, four or five quarters, I should expect that that 2.5 should come down because deposit betas you're anticipating are going to be accelerating from here?
+I'm just trying to put those two things together.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, it's a good question.
+It's quite a technical issue.
+I think in the past, the way this number was constructed was to assume through the cycle betas on all the deposits.
+Your notion that, like, the number would include deposit beta acceleration would not have been the case, 'cause it would have been using essentially terminal deposit betas based on the forward curve and then based on a 100% shock to the forward curve.
+The nuance that we've introduced now is to recognize that given the shock, the reprice that the beta predicts will not be instantaneous, and so you get sort of just the mathematical consequences of that.
+I think translating that into a statement about our expectation for beta, you know, for the next 12 months relative to our NII guide, might be a bridge too far.
+I'm not sure yet.
+Charles Peabody
+Founding Partner, Director of Research, and Senior Banking Analyst, Portales Partners
+Right, you were saying earlier, deposit betas you do anticipate are going to be accelerating from here, that's part of the outlook for NII longer term to normalize in the mid-seventies.
+Is that right?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yes, but let me be precise.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+Yeah.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Go ahead, Jamie.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+Yes.
+I mean, basically, yes, is you have if the next round is going to be the beta will go from 30 to 40 to 50, I mean, whatever the product is, yeah, that's the lag.
+The 2.5 will go down over time as that actually happens, if rates actually go up.
+If rates don't actually go up, that 2.5 may be exactly 2.5 again.
+Betsy Graseck
+Analyst, Morgan Stanley
+Got it.
+Jeremy Barnum
+CFO, JPMorgan Chase
+What I was going to say, Betsy, is just that, you know, that the projection of the 87 coming down to a significantly lower number contains both the element of internal migration, as well as the potential, which is by no means guaranteed, but product level reprice.
+Furthermore, then obviously the dynamics are a little bit different in the different business segments as you move from large corporate wholesale to consumer.
+Betsy Graseck
+Analyst, Morgan Stanley
+Okay.
+All right, thank you.
+Appreciate it.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yep.
+Operator
+Next, we'll go to the line of Matt O'Connor from Deutsche Bank.
+You may proceed.
+Matt O'Connor
+Managing Director and Senior Equity Research Analyst, Deutsche Bank
+Good morning.
+I'm in your camp that eventually consumers will want more deposit rate sensitivity here.
+I guess what would make you change your rates meaningfully?
+You know, the top 2 banks have about 50% consumer market share.
+Loan to deposit ratios are low.
+Your outlook for loan growth, and I think others, you know, is fairly sluggish, at least outside of card.
+I get that it's common sense, and that's what we've seen historically, but there really is this kind of big divergence among big banks and everybody else where, you know, the big banks just don't need to pay that much for deposits for, you know, a slew of reasons.
+What would make you change that?
+Jeremy Barnum
+CFO, JPMorgan Chase
+In the end, Matt, it's just feedback from the field.
+It's competition and feedback from the field.
+You know.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+I think.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Go ahead.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+I think every bank is in a different position about what they need.
+You have a whole range of outcomes.
+Remember, we do this also by city.
+You have different competition, Arizona and Phoenix, than you have in Chicago, Illinois.
+We do have high interest rate products, so it's a combination of all those things.
+I wouldn't call it a big bank or a small bank, and you're going to see when everyone reports who kind of paid up a little more for things and who didn't, and things like that.
+I, look, guys, I would take it as a given.
+I think it's a mistake.
+There is very little pricing power in most of our business, and betas are going to go up.
+Take it as a given.
+There's no circumstance that we've ever seen in the history of banking where rates didn't get to a certain point, that you had to have competing products and rates go up through migration or direct rates or a move into CDs or money market funds, and we're going to have to compete for that.
+You already see it in parts of our business and not in other parts.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, and I'll add there, Matt, is just that it's really just about primary bank relationships, and, you know, that's the core of the strategy.
+Matt O'Connor
+Managing Director and Senior Equity Research Analyst, Deutsche Bank
+Yeah.
+I mean, again, I 100% agree, we've never seen kind of loan to deposit ratios for banks like yours this low.
+You could just let deposits run off, you know, at a modest amount for quite some time to make the decision not to pay up.
+You know, I see that's the trade-off, that eventually you'll...
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+that's a little more complicated because you know, a lot of that loans to value ratio is lower because of regulatory stuff, LCR, capital ratios, et cetera.
+Matt O'Connor
+Managing Director and Senior Equity Research Analyst, Deutsche Bank
+Got it.
+Okay.
+All right, thank you.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+Thanks.
+Operator
+For our final question, we'll go to Charles Peabody from Portales Partners.
+You may proceed.
+Charles Peabody
+Founding Partner, Director of Research, and Senior Banking Analyst, Portales Partners
+Morning.
+Jeremy, on page four of your presentation, you show some liquidity metrics, and there's been a, you know, meaningful deterioration or I shouldn't say deterioration, depletion of some of that excess liquidity, obviously, for First Republic, primarily.
+My question is how quickly do you want to rebuild that liquidity?
+Because as I look out towards 2024, there's probably a half dozen variables that are going to make liquidity a premium event to have excess liquidity.
+That's my first question is: What's your plans for replenishing that liquidity?
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah, Charles, I know we talked about this a little bit at Investor Day, right?
+As I said in my prepared remarks, yeah, we think about half of the change in the bank LCR number is consequence of First Republic, and the rest of it is just the expected, you know, decrease in system-wide deposits falling through into our HQLA balances in the bank LCR ratio.
+That's all entirely as expected, and therefore, I think that the replenishing notion is not correct.
+In fact, obviously, we still have ample liquidity.
+Now, if you want to project trends forward, that's a different story, but, you know, that's sort of the business of banking.
+We'll adjust accordingly in terms of our asset and liability mix, across different products and to ensure, you know, compliance with the ratios and fortress balance sheet principles, as you would expect from us.
+Jamie Dimon
+Chairman and CEO, JPMorgan Chase
+I would just add that just look at the number at the top of the page in the press release, $1.4 trillion of cash and marketable securities.
+Even if we get down to no excess, we're going to have like, I've got the exact number, $1.2 trillion.
+I think we have excess liquidity, and the liquidity ratio is slightly something different.
+I think there's plenty of liquidity in the system, and of course, we can do multiple things to change this overnight if we wanted to.
+Charles Peabody
+Founding Partner, Director of Research, and Senior Banking Analyst, Portales Partners
+All right.
+Sort of wrapped into that as a follow-up, if you, if you take your $87 billion forecast for NII this year, and, you know, that implies at least one quarter of maybe $22 billion of NII, and you take your eventual forecast of mid $70 billion of NII at some point in the future, that would imply at least one quarter of $18 billion of NII.
+That's about an 18% drop.
+If you hold the balance sheet steady, you're talking about, you know, a 30 basis point drop in your, in your margin, your NIM, you know, to get to that from $22 billion to $18 billion.
+I mean, what is driving?
+Is it really the deposit, or are you thinking in terms of interest reversals as credit deteriorates, or is it rebuilding of liquidity?
+I'm just trying to get a better sense of what the big impact is.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Yeah.
+Hey, Charlie, I would think about that as being really entirely a deposit story.
+It's just not that complicated, right?
+I think we did this, I think it was either in the fourth quarter or in the first quarter, but we put a little chart on a page, just in very simple terms, that shows like what the dollar consequences are of whatever, like 10 basis point change in deposit rate paid in terms of NII run rate.
+Whether it's as a consequence of migration from lower yielding to higher yielding, you know, going from 0% to a 4% CD is obviously a big impact on margin, or whether it's because, you know, savings reprices, relatively small changes in rate there are kind of a lot of money when you've got, you know, a couple trillion dollars of deposits.
+it's really not any more complicated than that.
+That's why we're being so forceful about reminding people about what we expect that spread rate to be.
+Charles Peabody
+Founding Partner, Director of Research, and Senior Banking Analyst, Portales Partners
+Thank you.
+Operator
+We have no further questions at this time.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Thank you very much.
+Operator
+Thank you all for participating in today's conference.
+You may disconnect at this time.
+Have a great rest of your day.
+Jeremy Barnum
+CFO, JPMorgan Chase
+Thank you for tonight.
+Data Source:
+Quartr
+Last updated:
+Jul 14, 2023
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (15)
+Quarterly report
+Earnings release
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
