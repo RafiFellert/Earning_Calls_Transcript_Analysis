@@ -1,135 +1,159 @@
-# Required Libraries
-if(!requireNamespace("readr", quietly = TRUE)) install.packages("readr")
-if(!requireNamespace("tm", quietly = TRUE)) install.packages("tm")
-if(!requireNamespace("glmnet", quietly = TRUE)) install.packages("glmnet")
-if(!requireNamespace("e1071", quietly = TRUE)) install.packages("e1071")
-if(!requireNamespace("caret", quietly = TRUE)) install.packages("caret")
-if(!requireNamespace("SnowballC", quietly = TRUE)) install.packages("SnowballC")
+# ==========================================
+# Fixed Comprehensive Comparison Script
+# Models: 
+#   1. LASSO  
+#   2. SVM
+# Feature Sets:
+#   1. Unigrams + Topics
+#   2. Topics Only (10 Dense Features)
+#   3. Bag of Words (Unigrams)
+#   4. Bag of Words (Bigrams, Pruned)
+#   5. Unigrams (TF-IDF Weighted)
+# ==========================================
 
-library(readr)
 library(tm)
+library(caret)
 library(glmnet)
 library(e1071)
-library(caret)
+library(NLP)
+library(topicmodels)
+library(slam)
 
-options(stringsAsFactors = FALSE)
-Sys.setlocale('LC_ALL', 'C')
-
-# ==========================================
-# 1. LOAD DATA & CLEAN TARGET VARIABLE
-# ==========================================
-# Updated to the path where your CSV was saved
-csv_path <- "C:/Users/felle/transcripts_with_returns.csv"
-df <- read_csv(csv_path)
-
-# Filter out rows with missing or invalid market data if any
-df <- df[df$`Is Price UP` %in% c("YES", "NO"), ]
-
-# Convert target to a factor (1 for YES, 0 for NO)
-df$Target_Factor <- factor(df$`Is Price UP`, levels = c("NO", "YES"))
-df$Target_Num    <- ifelse(df$`Is Price UP` == "YES", 1, 0)
-
-
-# ==========================================
-# 2. TEXT PREPROCESSING & DTM CREATION
-# ==========================================
-preprocess_corpus <- function(text_vector) {
-  corpus <- VCorpus(VectorSource(text_vector))
-  corpus <- tm_map(corpus, content_transformer(tolower))
-  corpus <- tm_map(corpus, removeWords, stopwords("english"))
-  corpus <- tm_map(corpus, removeNumbers)
-  corpus <- tm_map(corpus, removePunctuation)
-  corpus <- tm_map(corpus, stripWhitespace)
-  corpus <- tm_map(corpus, stemDocument)
-  return(corpus)
+# Install textstem (and its underlying lexicon package) if you haven't already
+if(!requireNamespace("textstem", quietly = TRUE)) {
+  install.packages("textstem")
+}
+if(!requireNamespace("Lexicon", quietly = TRUE)) {
+  install.packages("Lexicon")
 }
 
-corpus <- preprocess_corpus(df$TXT)
-dtm    <- DocumentTermMatrix(corpus)
+# Load the library at the top of your R script
+library(textstem)
 
-# Remove extremely sparse terms (keep terms appearing in at least 10% of documents)
-dtm <- removeSparseTerms(dtm, 0.90)
+# ------------------------------------------
+# 1. Load Data
+# ------------------------------------------
+root_folder <- "C:/Users/felle/Documents/Rafi/text_mining/text_mining_project"
+transcripts_file_path <- file.path(root_folder, "transcripts_with_returns.csv")
 
-# Convert DTM to matrix and tf-idf weights (or term frequencies)
-X <- as.matrix(dtm)
-y_factor <- df$Target_Factor
-y_num    <- df$Target_Num
+df <- read.csv(transcripts_file_path, stringsAsFactors = FALSE)
+df <- subset(df, `Is.Price.UP` %in% c("YES", "NO"))
 
-# ==========================================
-# 3. TRAIN / TEST SPLIT
-# ==========================================
-set.seed(42)
-trainIndex <- createDataPartition(y_factor, p = 0.7, list = FALSE)
+# ------------------------------------------
+# 2. Text Preprocessing Function
+# ------------------------------------------
+preprocess <- function(text){
+  # Remove everything before the first occurrence of "Operator" (case-insensitive)
+  # Before the word "Operator", the transcript includes just general technical information
+  text <- sub("(?i)^.*?(?=operator)", "", text, perl = TRUE)
+  
+  myCorpus <- VCorpus(VectorSource(text))
+  myCorpus <- tm_map(myCorpus, content_transformer(tolower))
+  myCorpus <- tm_map(myCorpus, removeWords, stopwords("english"))
+  myCorpus <- tm_map(myCorpus, removeNumbers)
+  myCorpus <- tm_map(myCorpus, removePunctuation)
+  myCorpus <- tm_map(myCorpus, stripWhitespace)
+  myCorpus <- tm_map(myCorpus, content_transformer(lemmatize_strings))
+  return(myCorpus)
+}
 
-X_train <- X[trainIndex, ]
-y_train_num <- y_num[trainIndex]
-y_train_factor <- y_factor[trainIndex]
+corpus <- preprocess(df$TXT)
 
-X_test <- X[-trainIndex, ]
-y_test_num <- y_num[-trainIndex]
-y_test_factor <- y_factor[-trainIndex]
+# Safe Scaling Helper Function (Prevents NaNs from 0-variance columns)
+safe_scale <- function(mat) {
+  scaled <- scale(mat)
+  scaled[is.na(scaled)] <- 0
+  return(scaled)
+}
 
-# ==========================================
-# 4. METHOD 1: LASSO LOGISTIC REGRESSION
-# ==========================================
-# alpha = 1 specifies Lasso (L1 penalty)
-# Uses 5-fold cross-validation to find the optimal tuning parameter lambda
-cv_lasso <- cv.glmnet(X_train, y_train_num, family = "binomial", alpha = 1, nfolds = 5)
+# ------------------------------------------
+# 3. Build Base DTMs & Safely Filter Empty Rows
+# ------------------------------------------
+dtm_uni <- DocumentTermMatrix(corpus)
 
-# Predict on test set using optimal lambda
-lasso_probs <- predict(cv_lasso, newx = X_test, s = "lambda.min", type = "response")
-lasso_preds <- factor(ifelse(lasso_probs > 0.5, "YES", "NO"), levels = c("NO", "YES"))
+BigramTokenizer <- function(x) {
+  unlist(lapply(ngrams(words(x), 2), paste, collapse = " "), use.names = FALSE)
+}
+dtm_bi <- DocumentTermMatrix(corpus, control = list(tokenize = BigramTokenizer))
 
-cat("\n--- LASSO MODEL EVALUATION ---\n")
-print(confusionMatrix(lasso_preds, y_test_factor))
+# Drop empty documents using sparse row sums
+row_counts <- slam::row_sums(dtm_uni)
+dtm_uni    <- dtm_uni[row_counts > 0, ]
+dtm_bi     <- dtm_bi[row_counts > 0, ]
+df         <- df[row_counts > 0, ]
 
-# Extract non-zero Lasso coefficients (Top Predictive Words)
-lasso_coefs <- coef(cv_lasso, s = "lambda.min")
-active_words <- data.frame(
-  Word = rownames(lasso_coefs)[lasso_coefs[,1] != 0],
-  Coefficient = lasso_coefs[lasso_coefs[,1] != 0, 1]
+y <- factor(df$`Is.Price.UP`, levels = c("NO", "YES"))
+
+# ------------------------------------------
+# 4. Construct Feature Sets
+# ------------------------------------------
+# Set A: Unigrams (Pruned to 0.95 sparsity)
+dtm_uni_sparse <- removeSparseTerms(dtm_uni, 0.95)
+X_unigram      <- as.matrix(dtm_uni_sparse)
+
+# Set B: Bigrams (Pruned to 0.95 sparsity)
+dtm_bi_sparse <- removeSparseTerms(dtm_bi, 0.95)
+X_bigram      <- as.matrix(dtm_bi_sparse)
+
+# Set C: LDA Topics (10 Dense Features)
+num_topics <- 10
+lda_model  <- LDA(dtm_uni, k = num_topics, method = "Gibbs", 
+                  control = list(seed = 1, burnin = 500, iter = 1000))
+
+X_topics_raw <- posterior(lda_model)$topics # Raw proportions (0.0 to 1.0)
+colnames(X_topics_raw) <- paste0("Topic_", 1:num_topics)
+
+X_topics_scaled <- safe_scale(X_topics_raw)
+
+# Set D: Combined Unigrams + Raw Topic Proportions
+X_unigram_topics <- cbind(X_unigram, X_topics_raw)
+
+# Set E: TF-IDF (Built directly from row-filtered dtm_uni)
+dtm_tfidf        <- weightTfIdf(dtm_uni)
+dtm_tfidf_sparse <- removeSparseTerms(dtm_tfidf, 0.95)
+X_tfidf          <- safe_scale(as.matrix(dtm_tfidf_sparse))
+
+feature_sets <- list(
+  "1. Unigrams + Topic Modeling"       = X_unigram_topics,
+  "2. Topics Only (10 Dense Features)" = X_topics_scaled,
+  "3. Unigrams (Bag of Words)"         = X_unigram,
+  "4. Bigrams (Bag of Words)"          = X_bigram,
+  "5. Unigrams (TF-IDF Weighted)"      = X_tfidf
 )
-print("Words selected by Lasso:")
-print(active_words)
 
-# ==========================================
-# 5. METHOD 2: SUPPORT VECTOR MACHINE (SVM)
-# ==========================================
-# Option A: SVM with linear kernel
-svm_model <- svm(x = X_train, y = y_train_factor, kernel = "linear", cost = 1)
-
-svm_preds <- predict(svm_model, newdata = X_test)
-
-cat("\n--- SVM MODEL EVALUATION ---\n")
-print(confusionMatrix(svm_preds, y_test_factor))
-
-# ==========================================
-# 6. METHOD 3: HYBRID LASSO-SVM (FEATURE SELECTION VIA LASSO -> SVM)
-# ==========================================
-# Use Lasso to filter features first, then pass selected features into SVM
-selected_features <- rownames(lasso_coefs)[lasso_coefs[,1] != 0]
-selected_features <- setdiff(selected_features, "(Intercept)")
-
-if(length(selected_features) > 0) {
-  X_train_reduced <- X_train[, selected_features, drop = FALSE]
-  X_test_reduced  <- X_test[, selected_features, drop = FALSE]
+# ------------------------------------------
+# 5. Model Execution Loop
+# ------------------------------------------
+run_classifiers <- function(X_matrix, y_vector, feature_set_name) {
+  cat("\n=======================================================\n")
+  cat(" FEATURE SET:", feature_set_name, "\n")
+  cat(" Total Dimensions:", ncol(X_matrix), "features\n")
+  cat("=======================================================\n")
   
-  svm_lasso_model <- svm(x = X_train_reduced, y = y_train_factor, kernel = "linear")
-  svm_lasso_preds <- predict(svm_lasso_model, newdata = X_test_reduced)
+  set.seed(1)
+  train_index <- createDataPartition(y_vector, p = 0.6, list = FALSE)
   
-  cat("\n--- HYBRID LASSO + SVM EVALUATION ---\n")
-  print(confusionMatrix(svm_lasso_preds, y_test_factor))
+  X_train <- X_matrix[train_index, ]
+  X_test  <- X_matrix[-train_index, ]
+  y_train <- y_vector[train_index]
+  y_test  <- y_vector[-train_index]
+  
+  # --- A. LASSO Logistic Regression ---
+  cv_model          <- cv.glmnet(X_train, y_train, family = "binomial", alpha = 1)
+  lasso_pred        <- predict(cv_model, newx = X_test, s = "lambda.min", type = "class")
+  lasso_pred_factor <- factor(as.character(lasso_pred), levels = c("NO", "YES"))
+  
+  cat("\n--- LASSO Logistic Regression ---\n")
+  print(confusionMatrix(lasso_pred_factor, y_test))
+  
+  # --- B. SVM ---
+  svm             <- svm(x = X_train, y = y_train, gamma = 0.1)
+  svm_pred <- predict(svm, X_test)
+  
+  cat("\n--- SVM ---\n")
+  print(confusionMatrix(svm_pred, y_test))
 }
 
-# ==========================================
-# Direct Sentiment Score per Text
-# ==========================================
-# Calculates numerical polarity scores (positive - negative) for each row
-#df$sentiment_score <- get_sentiment(df$txt, method = "syuzhet")
-
-# Optional: Categorize scores into Positive, Negative, Neutral
-#df$sentiment_label <- ifelse(df$sentiment_score > 0, "Positive",
-#                            ifelse(df$sentiment_score < 0, "Negative", "Neutral"))
-
-#print("Sample Sentiment Scores:")
-#print(head(df[, c("date", "Is Price UP", "sentiment_score", "sentiment_label")]))
+for (name in names(feature_sets)) {
+  run_classifiers(feature_sets[[name]], y, name)
+}
