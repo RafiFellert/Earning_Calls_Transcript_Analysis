@@ -59,13 +59,6 @@ preprocess <- function(text){
 
 corpus <- preprocess(df$TXT)
 
-# Safe Scaling Helper Function (Prevents NaNs from 0-variance columns)
-safe_scale <- function(mat) {
-  scaled <- scale(mat)
-  scaled[is.na(scaled)] <- 0
-  return(scaled)
-}
-
 # ------------------------------------------
 # 3. Build Base DTMs & Safely Filter Empty Rows
 # ------------------------------------------
@@ -103,7 +96,7 @@ lda_model  <- LDA(dtm_uni, k = num_topics, method = "Gibbs",
 X_topics_raw <- posterior(lda_model)$topics # Raw proportions (0.0 to 1.0)
 colnames(X_topics_raw) <- paste0("Topic_", 1:num_topics)
 
-X_topics_scaled <- safe_scale(X_topics_raw)
+X_topics_scaled <- X_topics_raw
 
 # Set D: Combined Unigrams + Raw Topic Proportions
 X_unigram_topics <- cbind(X_unigram, X_topics_raw)
@@ -111,7 +104,7 @@ X_unigram_topics <- cbind(X_unigram, X_topics_raw)
 # Set E: TF-IDF (Built directly from row-filtered dtm_uni)
 dtm_tfidf        <- weightTfIdf(dtm_uni)
 dtm_tfidf_sparse <- removeSparseTerms(dtm_tfidf, 0.95)
-X_tfidf          <- safe_scale(as.matrix(dtm_tfidf_sparse))
+X_tfidf          <- as.matrix(dtm_tfidf_sparse)
 
 feature_sets <- list(
   "1. Unigrams + Topic Modeling"       = X_unigram_topics,
