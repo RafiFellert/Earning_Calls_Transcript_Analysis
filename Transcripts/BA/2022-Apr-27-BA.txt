@@ -1,0 +1,857 @@
+Boeing (BA) Q1 2022 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+The Boeing Company (BA)
+NYSE: BA · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+216.14
+-4.76 (-2.15%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+216.00
+-0.14 (-0.06%)
+After-hours:
+Jul 31, 2026, 7:59 PM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q1 2022
+Apr 27, 2022
+Quarterly report
+Slides
+Play Audio
+Download Transcript
+Operator
+Thank you for standing by.
+Good day, everyone and welcome to The Boeing Company's first quarter 2022 earnings conference call.
+Today's call is being recorded.
+The management discussion and slide presentation, plus the analyst question and answer session are being broadcast live over the Internet.
+To ask a question on today's conference, please press the digit one, followed by the digit zero on your touch-tone telephone.
+Again, it is one zero for questions.
+After pressing one zero, you will hear a tone that you're placed in the queue.
+Pressing one zero again will take you out of the queue and may prevent you from being able to ask a question.
+At this time, for opening remarks and introductions, I'm turning the call over to Mr. Matt Welch, Vice President of Investor Relations for The Boeing Company.
+Mr. Welch, please go ahead.
+Matt Welch
+VP of Investor Relations, The Boeing Company
+Thank you, John and good morning, everyone.
+Welcome to Boeing's first quarter 2022 earnings call.
+I am Matt Welch and with me today are Dave Calhoun, Boeing's President and Chief Executive Officer and Brian West, Boeing's Executive Vice President and Chief Financial Officer.
+As a reminder, you can follow today's broadcast and slide presentation through our website at boeing.com.
+As always, we have provided detailed financial information in our press release issued earlier today.
+Projections, estimates and goals we include in our discussion this morning involve risks, including those described in our SEC filings and in the forward-looking statement disclaimer at the end of this web presentation.
+In addition, we refer you to our earnings release and presentation for disclosures and reconciliation of certain non-GAAP measures.
+Now I will turn the call over to Dave Calhoun.
+Dave Calhoun
+President and CEO, The Boeing Company
+Yeah, thanks, Matt.
+I'm gonna make a few comments up front and turn it over to Brian for a more detailed look at our financials in the quarter.
+First, I need to acknowledge that on the 21st of March, Flight 5735 of our good customer, China Eastern, unfortunately crashed and took the lives of 132 passengers and crew.
+These things always take our breath away and I want to extend our thoughts and prayers from the entire Boeing Company, of course, to the families and friends of those passengers.
+Those are always rough moments.
+Our technical team is, in fact, supporting the NTSB as it supports the CAAC, who is, of course, the lead investigator.
+Those are the only comments that I will make along the lines of the China Eastern accident but know that we are in the middle of that investigation.
+Q 1 2022, some challenges presented themselves unexpectedly.
+Russia, obviously, is the big issue in the news.
+Inflation continues to take a hard run at pretty much everything we do.
+COVID unfortunately didn't leave as soon as we would have liked, so at least the first 45 days of the quarter were impacted more than we imagined.
+All that said, you know, our focus and progress remains consistent with what we shared the last quarter.
+We still expect to accelerate our performance and the key financial metrics, namely cash flow, because that is our key financial metric.
+That's what we've been focused on for a couple of years and we will remain focused on.
+We remain committed to the notion that we will have positive free cash flow over the course of 2022 and meaningful improvement in 2023.
+Everything we are doing is leading with safety, quality and ultimately driving stability for our airline customers.
+We believe we're taking the right actions for the future.
+We have progressed on many key milestones.
+We'll comment on a few of them today but we're focused on the 737 MAX and the 787 production and the return to service of those airplanes that we have built and stored in behalf of our airline customers.
+We feel good about all the progress we're making on that front.
+The commercial market recovery, I'm not going to expand significantly on that.
+You've heard from almost all of the U.S. airline customers, many of the European customers.
+Traffic is returning and it's returning in a pretty big way.
+Airplanes are being utilized at a fairly high rate.
+Domestic markets are the first to have recovered and they're recovering robustly.
+Regional markets second and even long-haul traffic now is beginning to return.
+The only real exception in that demand scenario is China in light of their current COVID constraints.
+We're hopeful and we expect that they'll come out of that and continue to expand their fleet.
+That commercial market is very, very strong.
+It's particularly strong for our line of airplanes, namely the MAX, the 737 and the triple seven.
+I don't want anyone to forget the 767 because it continues to play a very important role in the freighter world .
+I should comment on the conflict in Ukraine.
+I think I mentioned last time we were together, we had 1,000 people in both the Ukraine, in Kyiv and in Moscow.
+And those two teams work pretty closely together.
+It's been a bit of a gut-wrenching and emotional period for all of the Boeing Company and our associates.
+I'm very proud of the work that we are doing to support our team in Kyiv.
+We've provided $1.5 million in humanitarian assistance but also match all of our employee donations to those people who are helping.
+Most importantly, we have Boeing families in Poland and throughout the region who have willingly accepted and opened their homes to our displaced teammates.
+That's a big deal and it's been an uplift for all of us to watch that happen.
+We're following the lead of the U.S. government and strictly adhering to export controls and all the restrictions.
+We've suspended maintenance and support for Russian customers.
+In the spirit of doing the right thing, we have suspended titanium imports.
+Fortunately for us, we had a program of inventory built for quite some time, ever since Crimea, such that we believe we are reasonably protected on that front.
+Next, I should comment on the 737 MAX specifically.
+It's only been a little over a year since that airplane was recertified and put back into service.
+We now have over 1 million flight hours.
+It is performing incredibly well at 99%+ service reliability.
+Our customers are happy with it in almost every case that I'm aware of.
+They talk about the airplane exceeding the performance specs that we sold it on.
+We feel very good about that and we feel very good about the skyline and our ability to deliver on that.
+Brian will get into rate discussions in his piece of that one.
+We still continue to think about this one airplane at a time so that we can maintain that high in-service reliability rate.
+We're applying the same rigor to the 787 and we took a very important step just in the last week by submitting the cert paperwork and the plan to the FAA.
+We're proud of that work.
+We touched a lot of operations across our facilities, exacting spec with respect to the 787 and precisely and that's all embedded in the cert paperwork that we presented to the FAA.
+As always, we will let the FAA take the lead with respect to cert and ticketing and we will work closely with them.
+They have been involved in this process from the very beginning, so there is no new news embedded in this. 777 family.
+I'd like to make a comment with respect to the decision we made on the 777X and the extension of its introduction until 2025.
+I believe we've made that decision out of a position of strength, not weakness.
+We've embedded every lesson that we've learned on the 737 MAX certs and we continue to have two of those ahead of us.
+We've applied all the lessons from the 787 cert, which of course we have just submitted and believe that we've got to give ourselves the time and freedom to get this right with the FAA and give everybody the time they need to give us the cert that will last, frankly, for decades and decades in the future.
+It also, by calling it out now, gives us an opportunity to create some capacity for our traditional metal wing 777 freighter, which right now is in incredibly high demand.
+We will extend that airplane life and continue to meet that demand.
+Finally, the 777-8 Freighter, which we introduced with Qatar, is a very big deal with respect to the long-term ramifications of the 777 family in the decades ahead.
+We're very proud of the 777 family in the post A380 747 world.
+We think it stands on its own and will be one of the great contributors to share in our value over the decades ahead.
+Boeing Global Services, I'm not gonna get into a lot of detail other than to say we're riding that wave of recovery with respect to fleet utilization pretty much everywhere in the world.
+That business has enjoyed that success and has been able to stay ahead of the supply chain constraints that some are feeling.
+All things good on that front.
+Then on BDS, a messy quarter.
+We got hit where you might expect us to get hit in a supply-constrained, still COVID-impacted and inflationary world.
+That is on a group of fixed price development contracts that I think you're all aware of, where we had to recognize future costs on those program economics.
+We have taken a write-off on those programs, VC-25B, the T-7A, eT-7A and the MQ-25.
+Brian will talk to you a little bit more about this.
+VC-25B was by far the biggest part of that hit.
+You'll recall it was a public negotiation that happened quite some time ago.
+We took some risks, not knowing that COVID would arise and not knowing that an inflationary environment would take hold like it has.
+Both of those things have impacted us fairly severely.
+This will ultimately accrue to two airplanes, where we will continue to do our work and deliver first-rate airplanes to our customer in the government.
+As we deliver today's numbers, know that we are increasing our investment, safety and producibility, digital transformation, autonomy.
+Sustainable aerospace are the keynotes with respect to where those investments are going.
+We feel good about where that's setting us up for the future.
+We're progressing on our development programs.
+Are we frustrated with the timing?
+You bet.
+We're progressing and everyone is getting their feet firmly planted on the ground, both us and our counterparty and the regulators around the world.
+I have to feel good about the progress that we're making collectively and that matters for the long term.
+Stability and predictability, it's coming along.
+It'll matter in the years ahead.
+Above all else, our culture is built around safety, built around quality and transparency is the word of the day with respect to how we interact with our counterparties everywhere in the world.
+Strong leadership team in place.
+I'll comment and also congratulate Leanne.
+Leanne has retired.
+She's given us over 30 years of service.
+Never had a more diehard and more engaged leader in our company.
+I wanna congratulate her on that.
+As you know, she'll be with us until the end of the year in supporting transition activities.
+Also to congratulate Ted Colbert, who's a fantastic leader and have proven himself in our services world and servicing half of his business is servicing the U.S. military.
+He is ready and to go on Boeing Defense and will do a fantastic job.
+Then Stephanie Pope in our services business.
+It's a bit of an old hat.
+She was the CFO at our services business when we stood it up.
+She did a lot of the hard work associated with that stand-up and we treasure her as an operator.
+All the right instincts and look forward to her future leading the services business.
+We feel good about the talent transitions that have occurred.
+I'll call out before I turn it back to Brian, just the thanks to Administrator Steve Dickson at the FAA.
+As many of you know, he has retired.
+He stood tall during a difficult moment for the Boeing Company and for the FAA in the recertification of the 737 MAX, amongst the other multitude of responsibilities that he's had.
+We respect the work that he did and ultimately, the courage that he provided in the face of what was otherwise difficult external circumstance.
+Congratulations to him and the acting administrator, Billy Nolen, he can count on our full support as he now takes over.
+I'm confident in the milestones that we've been meeting and we've been focused, I think, on the right things and with respect to long-term shareowner value.
+That is what it's all about and we intend to deliver on that prospect.
+Brian, I'll turn it over to you.
+Brian West
+EVP and CFO, The Boeing Company
+Great.
+Thanks, Dave and good morning, everyone.
+We've certainly had a few challenges to navigate, the war in Ukraine, the updated regulatory requirements on our commercial airplane programs, as well as a combination of COVID, supply chain constraints, inflation impacting, in particular, the fixed-price defense development programs, as Dave mentioned.
+Importantly, though, cash performance is on track with our expectations.
+The utilization in the quarter was in line with what I shared a few months ago.
+The trajectory throughout the rest of the year remains intact and we continue to expect to generate positive free cash flow for the year.
+The business is resilient and we're encouraged by the momentum we're seeing.
+We still think about this year in three parts.
+First, we anticipate reaching key delivery milestones.
+On the 777, we're on a path to restart deliveries in the near term.
+On the 737, we continue to work towards resuming 737 MAX deliveries to Chinese customers.
+At the same time, we're resequencing our timeline to take advantage of strong customer demand for the 737 MAX airplane and to meet delivery objectives.
+Next, once we see progress on these programs, we anticipate improvement in our key performance metrics, including deliveries, revenue, margin and cash flow.
+Finally, as we move through the remainder of the year, our financial performance will accelerate.
+Going forward, there's a significant opportunity for our company to return to sustainable growth.
+This fall, we plan to host an investor day to share our more detailed expectations for the rest of the year and beyond.
+Before I get into the financials, I did wanna make a few points on the current business environment on Slide 3.
+I'll start with one of the stronger segments, freighters.
+The market remains quite robust, with cargo traffic up 12% above 2019 levels in February, largely driven by e-commerce.
+This continues to be one of the more reliable forms of transportation and our lineup is perfectly positioned to take advantage of this growth for a very long time.
+The commercial passenger market recovery expectations are largely unchanged from what I shared last quarter, even as we saw some events that added near-term pressure, including reduced passenger traffic in and around Russia.
+Global flight ops are at about 75% of 2019 levels as the global recovery is tempered by China and the impacts of the war in Ukraine.
+We still see overall passenger traffic returning to 2019 levels in the 2023 to 2024 timeframe.
+Domestic traffic continued to lead at 78% of 2019 levels in February, with China the notable exception.
+Ex-China, domestic traffic was 84% of the 2019 levels.
+U.S. carriers are providing the best window into the recovery at this point.
+Our customers are seeing record booking volumes and very strong forward yields for late spring and summer, to the point of being able to offset sharply higher fuel prices and they're also highlighting the return of business travel.
+Beyond domestic routes, we're seeing encouraging signs from interregional traffic in both Europe and the Americas.
+International traffic continues to lag at 40% of the pre-pandemic levels but we are seeing recovery in regional markets such as intra-Europe and U.S.-Mexico, both progressing well with significant reopening now underway across many parts of Asia.
+Long-haul recovery will be led by the trans-Atlantic market this summer, as well as Middle East connectors.
+Time and again, the market has shown its resilience, driven by the essential nature of moving both people and goods around the world.
+In addition to commercial airplanes, the expanding market recovery directly benefits our commercial services business.
+In defense and space, we continue to see stable demand.
+The President's FY 2023 budget request reflects the important role our products and services have in ensuring our national security, including significantly increased funding for the F-15EX and support for our other critical products and services that support national security.
+Outside of the U.S., we're seeing similar solid demand as governments prioritize security, defense technology and global cooperation given evolving threats.
+Our operations are well-positioned to maintain continuity despite the war in Ukraine and we see limited impacts to our business.
+I'll cover the financial impacts a bit later.
+On the supply side, we are carefully managing supply chain constraints and working through issues as they arise to ensure the stability of our production system.
+We've experienced some disruption to our production, such as some supplier delays and resource availability, including the impacts of COVID and we're actively working mitigation plans to ensure continuity.
+The markets we see, we serve continue to be big.
+Our competitive position is strong and we're actively addressing the supply chain.
+All of this gives us confidence in the fundamentals of our business and the long-term outlook as we work hard to serve our customers.
+With that, let's turn to the financials on slide four.
+First quarter revenue of $14 billion was down 8% and the core operating loss in the quarter was negative $1.5 billion, resulting in a $2.75 core loss per share.
+Operating cash flow was a usage of $3.2 billion in line with what we expected.
+These results were impacted by $1.3 billion of charges at BDS, which I will discuss in more detail in a minute.
+Due to the war in Ukraine and associated impacts to our business, we did record about $200 million in pre-tax charges in the quarter related to certain asset impairments and we also reduced the backlog by 86 units and roughly $5 billion.
+As we review business unit financials, I'll highlight some unique challenges that we're overcoming as we drive stability and position for the future.
+Let's move to commercial airplanes on slide 5.
+First quarter revenue was $4.2 billion, down slightly.
+It's primarily driven by the timing of wide-body deliveries, partially offset by higher 737 deliveries.
+Operating losses of $0.9 billion and the resulting negative margin rate reflect abnormal costs and period expenses, including charges for impacts of the war in Ukraine and higher R&D expense as we increase our investment in the business.
+Turning to the 787 program, as Dave mentioned, we met a very important milestone and submitted the cert plan to the FAA.
+Deliveries remain paused and we had 115 airplanes in inventory at the end of the quarter.
+Importantly, we've completed the rework on the initial airplanes and are preparing them for delivery, including conducting our own check flights in advance.
+As always, we will work closely with the FAA on remaining steps and will follow their lead on timing of deliveries.
+As we stated last quarter, we're producing at very low rates and we'll continue to do so until deliveries resume, gradually returning to five airplanes per month over time.
+Notably, we're currently rolling out conforming airplanes from the factory.
+We did not take additional charges on the 737 program in the quarter.
+We did record $312 million of abnormal costs in line with expectations and we still anticipate a total of approximately $2 billion of abnormal, with most being incurred by the end of 2023.
+Consistent with what we shared last quarter, cash margins on the 737 remain positive and are expected to improve significantly over time.
+We see a long runway ahead for the 787 program based on a very healthy backlog of 405 airplanes and compelling operating economics for our customers and we're well-positioned to capture future demand as the wide-body market recovers.
+Moving on to the 737 program, we delivered 86 737 airplanes in the quarter, including 37 in March, a slight decrease from fourth quarter of last year, despite impacts of COVID, some supply chain delays and typical seasonality.
+Given some supply chain disruption and timing of taking airplanes out of storage, deliveries were slightly below our expectations and we ended the quarter with 320 MAX airplanes in inventory.
+However, we still anticipate delivering most of these airplanes by the end of 2023.
+The timing and pace of deliveries to Chinese customers and supply chain stability remain key factors to our delivery profile.
+We continue to make progress ramping our 737 production rate and are essentially at 31 airplanes per month.
+As we shared last quarter, 737 abnormal costs are largely behind us.
+The MAX customer consideration liability also continues to burn down as expected. On our development programs, we're doing everything we can to complete the certification of the 737 MAX 7 and 737 MAX 10 and ensure their respective first deliveries this year and next.
+We're working closely with the FAA on implementation of Aircraft Certification, Safety and Accountability Act legislation and expect any necessary actions to be defined later this year.
+As always, we will follow the lead of the regulator on the timing of certification.
+Moving on to the 777, 777X programs, we remain highly confident in this family of airplanes as Dave outlined.
+We launched the 777-8 Freighter with an order from Qatar Airways in January and as a result, we increased the accounting quantity on the program to 400 airplanes.
+We continue to perform 777-9 Boeing flight tests to retire technical risk with over 2,000 flight hours completed through the end of the first quarter.
+The airplane is performing well and our customers continue to see the value in the compelling economics and sustainability benefits this airplane offers.
+Based on an updated assessment of the time required to meet certification requirements, we now anticipate delivery of the first 777-9 airplane in 2025.
+Additionally, we're coordinating with the FAA to prioritize resources across our development programs.
+As we manage the company for cash flow, we're adjusting our 777-9 production rate, including a temporary pause through 2023.
+This move will minimize inventory, reduce the number of airplanes requiring change in configuration and avoid capitalizing costs on the balance sheet.
+Additionally, given the robust market for freighters, we're leveraging this production pause on the 777-9 to add 777 Freighter aircraft in the 2023-2026 time frame.
+We anticipate the 777-9 pause will result in approximately $1.5 billion of abnormal costs beginning in the second quarter of this year and continuing until production resumes.
+We believe this is the best allocation of resources and cash.
+Turning to overall demand at BCA, during the quarter, we booked 167 gross commercial airplane orders, including 134 orders for the 737 MAX.
+As at the end of the first quarter, we had nearly 4,200 airplanes in backlog, valued at $291 billion.
+Let's now move to defense, space and security on slide six.
+First quarter revenue was $5.5 billion, down 24% and operating margin was -17%.
+These results were primarily driven by lower volume and $1.3 billion in charges on fixed price development programs, including the VC-25B and the T-7A.
+On a normalized basis, adjusting for one-time items, revenue across our defense portfolio, including government services, was down 9%, half of which was the impact of COVID and supply chain constraints.
+The other half was from planned program transitions.
+The VC-25B program recorded a $660 million charge, primarily driven by higher supplier costs, higher costs to finalize technical requirements and schedule delays.
+The T-7A Red Hawk program recorded $367 million in charges, primarily driven by ongoing supplier negotiations impacted by supply chain constraints, COVID and inflationary pressures.
+We continue to have high confidence in the long runway ahead for the T-7A program.
+Similar pressures impacted other fixed-price development programs, though to a lesser extent.
+From a cash perspective, these charges will be incurred over the next several years.
+We received $5 billion in orders during the quarter, including an award for six MH-47G Block II Chinook rotorcraft for U.S.
+Army Special Operations and the BDS backlog remains at $60 billion.
+Across the portfolio, we're focused on improving performance as we transition several development programs into production and we're making progress but have more work to do as we position ourselves to deliver for our customers.
+While we recognize charges on these key programs, we remain confident in demand for these future technologies and capabilities and our defense and space portfolio is well positioned for growth .
+Now let's turn to global services results on slide 7.
+The global services team had a great quarter, particularly on our parts and distribution business, due to the strength of the portfolio and broad offerings.
+First quarter revenue was $4.3 billion, up 15% and operating margin was 14.6%, in line with our expectations.
+Results were driven by higher commercial service volume and favorable mix.
+We received $3 billion in orders during the quarter, including a fuel-saving digital solutions contract for Etihad Airways' 787 fleet and a contract for KC-135 horizontal stabilizers from the U.S.
+Air Force.
+The BGS backlog remains at $20 billion.
+With commercial services revenue now back to nearly 90% of pre-pandemic levels, our service business remains well-positioned for growth as the commercial market recovers and the defense business continues to see strong support.
+Now let's turn to slide 8 and cover cash and debt.
+We entered the first quarter with strong liquidity comprised of $12.3 billion of cash and marketable securities in the balance sheet and access to $14.7 billion across our bank credit facilities, which remain undrawn.
+Our debt balance decreased slightly from the end of the last year to $57.7 billion, driven by repayment of maturing debt.
+Our investment-grade credit rating is a priority and we remain committed to reducing debt levels.
+Now, similar to what I shared last quarter, I'd like to review the key drivers of 2022 revenue and cash.
+In comparison to 2021, we still anticipate total company revenue to increase this year.
+The growth will be primarily driven by higher commercial airplane deliveries on the 737 and 787 programs and solid growth in our services business as the commercial market continues to improve.
+While the overall demand outlook for the defense business remains stable due to the revenue impacts of the charges we took in the first quarter, we're forecasting a modest decrease in revenue at BDS this year versus 2021.
+However, we expect 2023 to return to stable levels.
+On cash, we still expect to generate positive free cash flow this year.
+The key driver of improvement remains higher 737 and 787 delivery volume.
+As we described previously, the working capital benefit from delivering airplanes from inventory will be partially offset by a lower advances in progress payments balance.
+We still anticipate a burn down of our advances balance this year.
+The profile continues to be dynamic due to customer discussions and timing of deliveries.
+From a phasing standpoint, our first quarter cash utilization was in line with what we shared in January.
+We remain confident that our free cash flow will improve in the second quarter and will make meaningful and will meaningfully accelerate in the back half of the year as we achieve the key delivery milestones that I outlined.
+As we look beyond this year, we expect 2023 cash flow will be materially higher than 2022 and we look forward to sharing more details on our plan in the fall.
+To wrap up, our performance is tied to several key items: commercial market recovery, return to delivery for the 787 and 737 MAX in China, successful execution of and certification of development programs and production system and delivery stability.
+We remain acutely focused on what we can control.
+Most notably, we continue to focus our efforts to stabilize our production system, including the supply chain and improve our delivery predictability.
+While we saw improvements in some of these first quarter, we have more work to do and we're keenly aware that these activities will be critical to our success and are prioritizing these resources accordingly.
+Beyond these execution priorities immediately in front of us, we continue to invest in our people, technology, manufacturing capabilities and strategic partnerships to ensure we're well-positioned for future growth.
+There's no doubt that the business environment is evolving.
+That said, we're making good progress driving productivity and cash flow while addressing risks as they arise.
+While we do all this, we're laser focused on safety, quality and stability.
+We believe these are the right actions and resource calls and we remain confident in the strength of our business now and in the future.
+With that, over to Dave for closing comments.
+Dave Calhoun
+President and CEO, The Boeing Company
+Yeah.
+We believe we're on a real improvement track with respect to engineering and manufacturing of our products and ultimately the predictability of our business with respect to our commercial customers.
+We also believe strongly in our defense product line and the prospects for defense orders and growth in the relatively near to medium term.
+That's it.
+I'll turn it over to questions.
+Let's go.
+Operator
+Ladies and gentlemen, in order that your question be clearly heard, we ask that you not use a speakerphone, cell phone or phone headset.
+Please use your handset to ask a question.
+If you're on a speakerphone, please be sure your mute function is switched off so your signal can reach our equipment.
+As a reminder, in the interest of time, we are asking that you limit yourself to one single part question.
+One moment for our first question.
+That's from Noah Poponak with Goldman Sachs.
+Please go ahead.
+Noah Poponak
+Managing Director, Goldman Sachs
+Morning, everyone.
+Dave Calhoun
+President and CEO, The Boeing Company
+Yeah.
+Hi, Noah.
+Noah Poponak
+Managing Director, Goldman Sachs
+Lot of questions but you know, I guess the two most important things in the near term are when you can restart 787 deliveries and when you'll resume MAX deliveries to China.
+Can you give us more specific detail on, you know, what the regulators and counterparties are still looking for, what specifically you need to do to satisfy their questions and process?
+Then, you know, you don't wanna get into predicting timing on these but you have guidance for cash flow for the year.
+Just, you know, how are you thinking through what those deliveries need to look like to have that positive free cash?
+Dave Calhoun
+President and CEO, The Boeing Company
+Yeah.
+Why don't I grab that one, Brian can augment any way you like.
+Again, this is that tricky moment where I get into trouble if I predict any outcome with respect to FAA certification.
+What I can say, because I do control it, is the quality of the package that we've delivered to the FAA.
+I also know that their fingerprints are all over it because they've been sort of side by side with us in this process.
+We've been getting guidance every step of the way.
+I feel very good about all of that.
+Our customers have been through these airplanes.
+I think we're in a reasonably good shape to go through a normal order.
+I do not expect this to get elongated in any significant way.
+I believe our cash flow projections or confidence, if you will, with respect to the year, are well suited and have enough room for the FAA to do its work and for us to answer questions in that process.
+It's been a long, hard run but I feel really good about where we are.
+With respect to China, similarly, we've had no indications that there aren't gonna be China deliveries in any way.
+As we know, we're certified to fly the airplanes.
+The COVID environment has put a really tough situation in play because our customers are not flying.
+They're down 70% in their domestic travel.
+This is significant for them.
+How long that goes on, if it's measured in a couple of months, I still feel good about where we are with respect to deliveries.
+We de-risked this year's delivery significantly and we can de-risk more.
+The market is craving 737 MAXes.
+I'm not concerned about our ability to de-risk.
+I don't want to de-risk because I still have faith that China can take the airplane.
+Anything, Brian?
+Brian West
+EVP and CFO, The Boeing Company
+Hit it.
+Noah Poponak
+Managing Director, Goldman Sachs
+Dave, the last quarter you talked about collecting data as you rework 787s and it sounded like, you know, you had to collect a lot of data.
+It took time.
+Then you had to iterate it with the FAA.
+Is the package you've sent them that you describe as a package, is that now sort of binary?
+They'll either accept that package or not?
+Or does it still remain, you know, an iterative Q&A type of process?
+Dave Calhoun
+President and CEO, The Boeing Company
+Well, we believe, based on all of our interactions, with the FAA and our own, engineering unit members and others, that we have sufficient data to make our case and recertify or certify this airplane, in accordance.
+We have a reasonably high level of confidence in that and I don't expect any significant, sort of banter around that.
+But I can't be absolute about it.
+We're gonna go through the process and I just know that there's been a lot of involvement on both sides and a lot of working together in this process and getting to the package we've submitted.
+Noah Poponak
+Managing Director, Goldman Sachs
+Okay.
+Thank you.
+Operator
+Next, we'll go to David Strauss with Barclays.
+Please go ahead.
+David Strauss
+Managing Director, Barclays
+Thanks.
+Good morning.
+Brian, I know you noted that, you know, you would expect free cash flow to improve here in the second quarter.
+I wanted to see if that meant positive or you still think you're running negative.
+You know, how you're thinking about the capital structure from here.
+I think you've talked about in the past that you need $10 billion to run the business.
+You're down to $12 billion, you know, if you burn further cash in the quarter.
+I mean, are you willing to take on additional leverage at this point or would you look to potentially an equity raise?
+Thanks.
+Brian West
+EVP and CFO, The Boeing Company
+Yeah.
+I'll take the last one.
+We see no need, as we think about, both near term and midterm, any need for that type of event.
+We feel very comfortable with our liquidity position and the balance sheet.
+You know, we know that as we get more progress on really accelerating cash flows, that de-risking will change and we'll talk about that later as we meet some of these milestones.
+You know, we don't see any need, to tap lines, add debt or anything else, of that nature as we stand here today.
+In terms of the cash flow for the year, look, 2Q will be better than 1Q and it's probably pretty obvious but in the second half, we'll accelerate.
+I'm not gonna put a discrete number on 2Q.
+It'll be better.
+The full year, we will generate cash flow and, you know, everything is pretty much lined up as we talked about last quarter.
+Puts and takes but overall, confident with where we think we're gonna land for the year.
+David Strauss
+Managing Director, Barclays
+Is $10 billion still the right number that you need in terms of cash to run the business or is it lower than that?
+Brian West
+EVP and CFO, The Boeing Company
+You know, I think, recency effect, it seems like it's in that 10-12 but it's too hard to tell right now given, you know, it's a dynamic world.
+We're very comfortable where we stand right now.
+As we start to put points on the board with delivery and execution, all that will be a rich discussion that we can't wait to have with you.
+David Strauss
+Managing Director, Barclays
+All right.
+Thanks very much.
+Operator
+Next, we'll go to Peter Arment with Baird.
+Please go ahead.
+Peter Arment
+Managing Director, Baird
+Yeah, good morning, Dave, Brian.
+Dave, I wonder if I could just come back to kind of Noah's questions on the 787.
+Just you have 115 aircraft in inventory and it sounds like you now are producing aircraft off the line and conforming to your latest spec.
+What's left to be done within that 115?
+Like the other stored aircraft when we think about MAX, should we think about most of these aircraft will be delivered through 2023 or does it stretch out beyond that?
+Thanks.
+Brian West
+EVP and CFO, The Boeing Company
+I'll take that one.
+It is 115 in inventory in the 787, you know, as we have described that abnormal cost.
+It's gonna substantially be done by the end of 2023, which will also correspond with the liquidation of that inventory.
+Nothing's really changed on that front.
+In fact, we probably feel a little bit more confident as we're starting to look at clean airplanes.
+On the 737, consistently, you know, we've got 320 in inventory at the end of the quarter.
+We hate that it's that high.
+The flip side of that is that we'll be able to, you know, meet some pretty robust demand that's out there in the marketplace.
+That again will likely liquidate over the course of between this year and next and that has not changed.
+Operator
+Our next question is from Rob Stallard with Vertical Research.
+Please go ahead.
+Rob Stallard
+Partner in Equity Research, Vertical Research Partners
+Thanks very much.
+Good morning.
+Dave Calhoun
+President and CEO, The Boeing Company
+Morning.
+Brian West
+EVP and CFO, The Boeing Company
+Morning, Rob.
+Rob Stallard
+Partner in Equity Research, Vertical Research Partners
+The question I have is around the 737 MAX rate.
+You mentioned you're pretty much at 31 a month here.
+What are your plans going forward and what is your confidence that the supply chain could match any further rate increases, especially what's going on with your competitor?
+Thank you.
+Dave Calhoun
+President and CEO, The Boeing Company
+Yeah.
+We always think about this in two ways.
+One is that inventory opportunity I just described and we've got to work on getting those delivered.
+Then of course, the production rate that, you know, we're essentially at 31 a month.
+Our biggest job right now is to stabilize around that rate.
+You know, the teams are working hard.
+They deal with s upply constraints that pop up every now and then but we gotta be stable around 31 and then anything else is gonna be a future decision that we're not prepared to take because we just wanna get confidence in what's right in front of us.
+The good news is that there's plenty demand that we can fulfill.
+While we're watching the supply chain very closely, we feel good about where that particular program stacks up.
+Rob Stallard
+Partner in Equity Research, Vertical Research Partners
+That's great.
+Thank you.
+Operator
+Next, we'll go to Seth Seifman with JP Morgan.
+Please go ahead.
+Seth Seifman
+Executive Director of Equity Research, JPMorgan
+Okay.
+Thanks very much.
+Good morning.
+Just following up on 737.
+I think Brian, you spoke last quarter about looking to deliver about 500 aircraft and you know, you talked about being on plan.
+Is that still your target for this year?
+How does, you know, the kind of evolving situation in China affect that, if at all?
+Second, on Rob's question on the production rate for 737, how does the MAX 10 certification question factor into that?
+Brian West
+EVP and CFO, The Boeing Company
+We de-risk China, just to put that one aside, as Dave mentioned.
+The first quarter deliveries were a little light versus what we expected.
+You know, we probably won't get quite all the way there in the calendar year count but that's just timing.
+You know, like I said, we've got plenty finished goods inventory.
+We've got the rate where we want it.
+We may not quite get there but again, the momentum month in, month out has gotten better and we feel confident that, if you don't quite get there this year, it's just gonna be timing to the next, which we're perfectly comfortable with.
+Again, that's been all factored into our cash flow updated look and still believe that we'll be cash flow positive in the year.
+Dave Calhoun
+President and CEO, The Boeing Company
+As it pertains to the 737 MAX 10, right now all the energy and focus is on certification and really that one won't disrupt our near-term projections.
+Seth Seifman
+Executive Director of Equity Research, JPMorgan
+Okay.
+Thanks very much.
+Matt Welch
+VP of Investor Relations, The Boeing Company
+Our next question is from Cai von Rumohr with Cowen.
+Please go ahead.
+Cai von Rumohr
+Managing Director, Cowen
+Yes, thanks so much.
+On their call, General Dynamics mentioned that their G700 is basically may have a certification slip because of additional software validation that the FAA is now requiring, which was not anticipated when they started this process.
+They mentioned kind of the MAX sort of indirectly as an issue.
+Are you seeing that the FAA is now basically stabilizing what they're requiring or are they stable and then they ask for even more data?
+How does that sort of relate to your confidence that you will be able to certify the MAX 10 by year-end?
+Dave Calhoun
+President and CEO, The Boeing Company
+Yeah, let me take that one.
+It's a very tricky question and I don't wanna speak for our counterparty in any way.
+Part of our 777X move out into 2025 was to incorporate exactly whatever observations that you took account of, to incorporate all the learnings we've had from our cert programs.
+The original MAX, the 737, now the dash 7 and then the dash 10.
+We keep trying to incorporate all our learnings and it is definitely a more rigorous process that we're all going through.
+Everything has to be completed, every i has to be dotted and every t has to be crossed.
+Now we're all getting used to it.
+On the subject of whether that's a mature process or not, boy, I hope so.
+I believe we're all better off for it.
+I don't like all the difficulties we've had to go through to get here but you know, so far so good.
+Now I think the FAA has enough rigor in what they're doing.
+But with every next cert, I think we're all gonna learn, you know, that it's just gonna take a little longer.
+It's gonna be a little more thorough than it's ever been.
+Cai von Rumohr
+Managing Director, Cowen
+Thank you.
+Operator
+Next, we'll go to Rob Spingarn with Melius.
+Please go ahead.
+Rob Spingarn
+Managing Director, Melius Research
+Hi.
+Good morning.
+Just following with this theme, Dave, you know, we've already covered this today.
+A lot of the problems and issues Boeing's facing are on these development programs or this unusual recertification process that you're doing on 787 and had to do on the MAX.
+Is the common denominator here the FAA or is it engineers?
+Do you have enough engineering resources?
+Brian mentioned allocating resources with the FAA.
+You know, is there a shortfall there and how do you solve it?
+Dave Calhoun
+President and CEO, The Boeing Company
+Yeah, I don't, I've never seen this and I have yet to run into an issue where we have not been resourced adequately on the programs.
+This has always boiled down to the timelines and we go through these timelines every week.
+The timelines have always been impacted by the rigor of the discussion between ourselves and our counterparty, i.e., the FAA, on what's needed.
+What data's required, what's needed to demonstrate a certain point or to write fully the development assurance program.
+A lot of writing, a lot of documentation, very thorough, et cetera.
+It has not been about whether we've had enough engineers to do the development work or even to write the technical work.
+More focus, more resources on programs is always helpful but that's not been the constraint so far and I don't expect it to be the constraint.
+I think our push out on the 777X with respect to the reallocation of resources. Frankly, the biggest beneficiary of that is gonna be the traditional metal wing triple seven and our ability to just run some more airplanes through that, through the line, in the midst of the demand that we're seeing.
+On the reallocation question, that's where I see the benefit the most.
+I have yet to really see it on the cert programs themselves.
+Rob Spingarn
+Managing Director, Melius Research
+If the MAX 10 slips beyond year-end and then you need the new flight crew alerting system, do you assume you'll get the waiver or does this put the program at risk?
+I mean, if you can't get the 10 done without a you know, substantial more cost and looking at the order book, do you just leave that market for next airplane?
+Dave Calhoun
+President and CEO, The Boeing Company
+It's a great question.
+I hope I never get there.
+First and foremost, with respect to the original legislation, there was a lengthy window put in there based on historic certification timetables that would have provided for the seven and ten easily.
+These things have taken longer.
+The intent of that legislation was never to stop the derivative product line with respect to the MAX.
+I believe our chances are good with respect to getting legislative relief.
+Doesn't mean we'll get them and if we don't, it's a problem.
+On the other hand, demand for the MAX is substantial and we have other airplanes and substitution that we could implement.
+That decision has to get made sometime between now and the end of the year.
+Don't feel the need to do it now.
+I'm still pretty focused and our company's pretty focused on getting the dash ten certified and in our customers' hands.
+They love everything about the airplane.
+It's doing incredibly well on the development program itself.
+You know, it's a good question.
+It's the right question and we have to make sure our decisioning and thought process is ahead of where we think things end up at the end of the year.
+Rob Spingarn
+Managing Director, Melius Research
+Okay.
+Thank you.
+Dave Calhoun
+President and CEO, The Boeing Company
+Yep.
+Operator
+Next we'll go to Ron Epstein with Bank of America.
+Please go ahead.
+Ron Epstein
+Managing Director, Bank of America
+Yeah.
+Hey, good morning, guys.
+Back to the engineering question.
+Dave, when you sit back and you look at the company, do you have to restructure the engineering organization?
+I mean, really what's going on there?
+I mean, I struggle to think of a program that you guys aren't or haven't taken a charge on.
+You know, the vast number of the issues that you've had compared to some of your peer companies, both in either defense or commercial, it just seems like it's just been more troublesome for Boeing than some of your peers.
+I mean, why is that the case and what can you do to prevent that for future programs?
+Because future programs are gonna have to happen.
+Dave Calhoun
+President and CEO, The Boeing Company
+Yeah.
+Ron, let me start by hoping that you haven't missed the restructuring of our engineering organization.
+It's the first thing I did.
+It wasn't to address the issue you're talking about, because I don't attribute all of our issues and specific instances and write-offs to engineering shortfalls.
+I don't and I never have.
+We did restructure engineering to in effect reinforce, build our safety management system in a different way, with a different outlet so that people could voice concerns and call out engineering disciplines as appropriate.
+It's worked and it's been fantastic and we've benefited from the ideas that have moved from the BDS to BCA, et cetera, et cetera.
+We've been beneficiaries of what I think is a significant restructuring.
+We are hiring.
+We are doing a, I think, a terrific job on that front.
+It is not easy, so I don't wanna make anybody to think otherwise.
+We have had a pretty successful hiring program, pretty successful retention program on that front.
+When we look at the write-offs that we've taken, let's take this quarter, for instance.
+These fixed price development contracts that we took were taken before COVID existed and before this inflationary spiral came ripping down the road.
+I don't attribute that to engineering shortfalls.
+I don't attribute our certification issues and timelines to engineering shortfalls in any way.
+Our airplanes are flying incredibly well.
+Our 777X made it to Dubai, it made it to Singapore in a gangbuster show.
+Everyone loved it.
+It's flying beautifully.
+It's meeting all of the requirements that we laid out.
+The process of discovery between ourselves and our certifiers or our regulators around the world, it's different.
+It's changed.
+It's got to be thorough and it's got to be good.
+I don't accept the premise entirely that you put forward in the question.
+Please don't miss the fact that we have restructured and we are building our engineering function.
+I've always believed it's strong.
+I believe it's gonna be even stronger.
+Ron Epstein
+Managing Director, Bank of America
+Okay.
+Operator
+Our next question is from Sheila Kahyaoglu with Jefferies.
+Please go ahead.
+Sheila Kahyaoglu
+Managing Director, Jefferies
+Good morning, Dave, Brian.
+Thanks so much.
+Dave, you've alluded to MAX demand being good several times on this call but also, you know, you're not at 31 a month on the production, on the delivery rate there yet.
+How could we think about going above 31 a month?
+It doesn't seem like you need the MAX 10 cert to get above it but do you need China to get above it or do we stabilize at that level?
+Dave Calhoun
+President and CEO, The Boeing Company
+No, we don't need the 10.
+Believe me, the demand is there.
+You know, we delivered 37 MAXes last month, in the month of March and we're working our way towards momentum, so we feel pretty good.
+The trick for us is to stay focused on that production rate of 31 a month and make it stable and dependable and reliable.
+We derisked the China piece.
+The dash 10 isn't contemplated in the near term, so if we just execute at that level, we feel pretty good.
+Sheila Kahyaoglu
+Managing Director, Jefferies
+Okay, cool.
+On commercial profitability, if we exclude the abnormal costs, there was still a loss.
+How do we think about that program getting to break even and, you know, how 787 is maybe impacting it?
+Dave Calhoun
+President and CEO, The Boeing Company
+You know, I would say the eight seven from a cash margin standpoint, they're still positive.
+They're down, obviously but, you know, the future, it's gonna get significantly better once the deliveries start rolling.
+So I think that program is perfectly fine.
+Of course, the three seven is strong.
+You know, we might have some mix in there around any given quarter and of course, we had a couple charges related to abnormal costs and things like Ukraine but those are kind of isolated.
+I think going forward, as we get deliveries going on three seven, eight seven, those cash margins will accrue and accrete.
+You know, the 787, some of the moves we're making, we feel pretty good about, getting the metal wing freighter going, to fill the factory and satisfy demand.
+Overall, we think that BCA margins are heading in the right direction and they're gonna follow deliveries.
+Sheila Kahyaoglu
+Managing Director, Jefferies
+Okay, thank you.
+Operator
+Our next question is from Doug Harned with Bernstein.
+Please go ahead.
+Doug Harned
+Managing Director, Bernstein
+Good morning.
+Thank you.
+Dave Calhoun
+President and CEO, The Boeing Company
+Hi, Doug.
+Doug Harned
+Managing Director, Bernstein
+Hi.
+I want to switch over to defense.
+Dave, as you said, you know, the defense programs that you all are talking about this quarter, I mean, they were bid as fixed price development contracts and some were very aggressive, even to the point of, you know, known below cost bids as investments.
+Some of the problems, we're now seeing them coming home.
+I mean, these were done well before you came on as CEO but how do you look at the BDS bidding process going forward?
+And then also, are the cost overruns on these programs completely due to higher input costs or are there other execution issues at work here?
+Dave Calhoun
+President and CEO, The Boeing Company
+That's a great question, Doug.
+Yeah, I will have a very different philosophy with respect to fixed price development.
+I don't expect and I hope never to contribute to that issue.
+We are where we are.
+Let me also say, 'cause I was on the board at the time the T-7 and MQ-25 programs were taken and yes, they were written off the day we took them, knowing that we would be investing a fair amount of our own money in the you know the future of those airframes.
+I will tell you this, I think those are gonna be really good bets.
+Even though the development costs are more than we had anticipated, when we get through them all and deliver on those contracts, those airplanes don't go away.
+There are futures attached to them and big programs, in our view, that involve many, many airplanes.
+I think both airplanes are gonna be very successful in supporting our military.
+The futures with respect to real airplanes making real margins and contributing to the Boeing Company, I still believe strongly in.
+Then I'll just, as I think I said earlier in my CNBC interview, you know, Air Force One, I'm just gonna call a very unique moment, a very unique negotiation, a very unique set of risks that Boeing probably shouldn't have taken.
+We are where we are and we're gonna deliver great airplanes and we're gonna recognize the costs associated with it.
+With respect to inputs, yes, it's predominantly COVID-related inefficiency because I'll remind us, in the defense world, it when a COVID line goes down or a group of workers steps out, we don't have a whole bunch of cleared people to step into their shoes.
+It has always been a tougher implication.
+For VC-25B, where the clearances are ultra-high, it's really tough.
+We just got whacked in a number of different areas.
+Where you started is a great question and one that I hope I never contribute to.
+Doug Harned
+Managing Director, Bernstein
+Very good.
+Thank you.
+Dave Calhoun
+President and CEO, The Boeing Company
+Thanks.
+Matt Welch
+VP of Investor Relations, The Boeing Company
+John, we have time for one more question.
+That will come from Myles Walton with UBS.
+Please go ahead.
+Myles Walton
+Managing Director, UBS
+Thanks.
+Good morning.
+Dave, I'll stick to a high level one.
+When you first signed on, you had, I think, seven performance goals and after today, I think maybe you'll be able to achieve a couple of them.
+I'm just trying to understand how we should measure your or the firm's performance.
+It begs the question, is Boeing realistic in its expectations of its own performance?
+Have you sort of recalibrated some more realistic things go bad, so maybe we, you know, should calibrate more margin into our measures of success?
+Dave Calhoun
+President and CEO, The Boeing Company
+Well, that's a big question for the last one but I'm very willing to take it on.
+You know the circumstance under which I came into the role.
+It all happened in a period of weeks and I simply took on the objectives that had been set program by program inside the business.
+I discussed with the board that I would not, in any way, shape or form, hold that compensation program hostage to what I do with the Boeing Company.
+I would simply do what's right.
+I would simply pursue the programs, operate them the way I think they should be.
+If there are improvement opportunities that would compromise my ability to make one of those deliveries, then that's what I would do.
+That's what I've been doing.
+I have been resetting expectations every step of the way the best I can.
+We have certain things in the world that we can't predict.
+That frustrates everyone, I get it.
+What we do is we just keep trying to improve and get better and get back to a normalized rate of cash flow for you, cash flow for us.
+I'm highly confident in our ability to do that and I'm highly confident in the Boeing people to do it.
+I don't wanna recalibrate expectations other than timing questions and real-world stuff around how regulators approach certification.
+These are real.
+They take a little longer than they used to.
+They're a little more thorough than they used to.
+Boeing's better for it in the long run.
+Every one of these programs lasts for decades and decades, every one of them.
+That's how I think about everything I do inside the Boeing Company.
+I think my board understands it and I trust that they will evaluate me on that basis, whether or not compensation schemes are perfectly aligned.
+Myles Walton
+Managing Director, UBS
+Thanks for taking the question, Dave.
+Dave Calhoun
+President and CEO, The Boeing Company
+Thanks.
+Matt Welch
+VP of Investor Relations, The Boeing Company
+That concludes our first quarter 2022 earnings call.
+Data Source:
+Quartr
+Last updated:
+Apr 27, 2022
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (15)
+Quarterly report
+Slides
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
