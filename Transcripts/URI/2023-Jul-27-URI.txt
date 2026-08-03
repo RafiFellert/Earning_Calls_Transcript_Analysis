@@ -1,0 +1,948 @@
+United Rentals (URI) Q2 2023 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+United Rentals, Inc. (URI)
+NYSE: URI · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+1,079.26
++10.63 (0.99%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+1,090.73
++11.47 (1.06%)
+Pre-market:
+Aug 3, 2026, 8:15 AM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q2 2023
+Jul 27, 2023
+Quarterly report
+Slides
+Earnings release
+Play Audio
+Download Transcript
+Operator
+Good morning, and welcome to the United Rentals Investor Conference Call.
+Please be advised that this call is being recorded.
+Before we begin, please note that the company's press release, comments made on today's call, and responses to your questions contain forward-looking statements.
+The company's business and operations are subject to a variety of risks and uncertainties, many of which are beyond its control, and consequently, actual results may differ materially from those projected.
+A summary of these uncertainties is included in the safe harbor statement contained in the company's press release.
+For a more complete description of these and other possible risks, please refer to the company's annual report on Form 10-K for the year ended December 31st, 2022, as well as to subsequent filings with the SEC.
+You can access these filings on the company's website at www.unitedrentals.com.
+Please note that United Rentals has no obligation and makes no commitment to update or publicly release any revisions to forward-looking statements in order to reflect new information or subsequent events, circumstances, or changes in expectations.
+You should also note that the company's press release and today's call include references to non-GAAP terms such as free cash flow, adjusted EPS, EBITDA, and adjusted EBITDA.
+Please refer to the back of the company's recent investor presentations to see the reconciliation from each non-GAAP financial measure to the most comparable GAAP financial measure.
+Speaking today for United Rentals is Matt Flannery, President and Chief Executive Officer, and Ted Grace, Chief Financial Officer.
+I will now turn the call over to Mr. Flannery.
+Mr. Flannery, you may begin.
+Matt Flannery
+President and CEO, United Rentals
+Thank you, operator.
+Good morning, everyone.
+Thanks for joining our call.
+As you've heard us say since the beginning of the year, 2023 is about raising the bar off of last year's record results.
+Our second quarter performance across growth, profitability, and returns provides evidence of that.
+I'm pleased with how the year is playing out, including the Ahern integration, which remains on track.
+Of course, key to all of this is our employees, who do an exceptional job supporting our customers every day.
+Without them, we wouldn't be able to generate the results we consistently deliver.
+I'm pleased to report that once again, they've done this with safety at the forefront, as our company-wide reportable rate remained well below 1 in the second quarter.
+Importantly, our growth shows that we continue to outpace our underlying markets as we leverage our competitive advantages to provide a superior level of customer service.
+Let's dig into the results.
+Total revenue rose by 28% year-over-year to a second quarter record of almost $3.6 billion.
+Within this, rental revenue grew 21% as reported, with broad-based demand across verticals, regions, and customer segments, while fleet productivity increased 2.1% on a pro forma basis.
+Adjusted EBITDA increased 29% to a second quarter record $1.7 billion, driving solid margin expansion.
+Adjusted EPS grew by 26% to a second quarter record of $9.88.
+Critically, our return on invested capital set another new high water mark at 13.4%.
+In short, we're on track for another record year, driven by robust customer activity, and the increases to our full year guidance reflect our continued confidence in customer demand.
+Used equipment sales were another highlight in the quarter.
+We generated a record second quarter proceeds of $382 million.
+The retail market remains very strong, and we also broadened our channel mix as we discussed we would last quarter.
+Combined with the improvements we've seen across most of the supply chain, this has allowed us to refresh our fleet by rotating some of the older assets out.
+As you saw, rental CapEx totaled $1.25 billion in the quarter, in line with our expectations and helping to ensure that we have the capacity our customers need to support their projects today and going forward.
+As I alluded to earlier, the integration of Ahern remains on track.
+The teams have come together especially well, our second quarter results reflect the ongoing improvements in the efficiency of their business.
+At this point, we're focused on optimizing the combined branch network and fleet, which should be completed by year-end.
+Let's take a closer look at the second quarter demand.
+Key verticals saw broad-based growth led by industrial manufacturing, metals and minerals, and power.
+Non-res construction was also up double digits.
+Within this, our customers kicked off new projects across the board, including numerous EV plants and semiconductor plants, solar power facilities, infrastructure projects, and for the Buffalo Bill fans out there, a new stadium.
+Geographically, we saw growth in all of our regions on both a reported and pro forma basis.
+Our specialty business delivered another excellent quarter, with rental revenue up 17% year-over-year organically and double-digit gains across all major categories.
+Within specialty, we opened 19 new locations in the second quarter and are on track for the 40 cold starts this year.
+We returned over $350 million to shareholders during the quarter through share buybacks.
+Dividends are on track to return over $1.4 billion of cash to shareholders this year.
+Our balance sheet remains in excellent shape.
+Looking ahead to 2023 is on track to be another record year across a variety of KPIs, including revenue, EBITDA, EPS, and returns.
+We're encouraged by the customer sentiment and external indicators, which point to growth and give us confidence in our updated guidance.
+For example, the ABC's Construction Confidence Index remained strong across the second quarter, as did its backlog index.
+The Dodge Momentum Index was up 19% year-over-year in June, while non-res construction employment growth also remains solid.
+Most importantly, our own customer confidence index continues to reflect their optimism.
+Beyond 2023, we remain positive on the longer-term outlook, driven by key tailwinds, including infrastructure, industrial manufacturing, and energy and power.
+As we shared at our Investor Day in May, we spent the last decade building unique and diverse capabilities that position us very well for the $2 trillion+ of construction projects underpinned by these tailwinds over the next decade.
+Put simply, our advantages across scale, complex solutions, technology, and people put us in a first-call position.
+We believe this provides a platform for leveraging our resilient business model and pursuing continued growth, both organically and through M&A.
+I want to highlight our new sustainability report, which we released yesterday.
+There's a lot of great content in that report that we're very proud of, this year, I'd especially point out to the work our team's done quantifying how the rental business model aligns with key aspects of sustainability.
+Less equipment needs to be manufactured because of rental, which has clear benefits, while the equipment that we have in our fleet also helps our customers reduce their emissions intensity based on its younger age and greater fuel efficiency.
+Not only does this benefit our customers, we believe that it also benefits our employees, the communities we're operating in, and our shareholders.
+Before I hand the call over to Ted, I'll sum up today by saying I'm very pleased with how the year is playing out.
+We entered 2023 with high expectations, and as you can see through our results, that's what we're delivering.
+We feel good about the rest of the year and what's ahead for United Rentals and our investors.
+With that, I'll hand the call over to Ted before we open the line for Q&A.
+Ted, over to you.
+Ted Grace
+CFO, United Rentals
+Thanks, Matt, good morning, everyone.
+As you saw in our second quarter release, our team produced strong results that were consistent with our expectations and keep us on track for another record year.
+As we shared at our Investor Day, we continue to feel very good about our prospects beyond 2023, based on the tailwinds we've discussed extensively.
+One quick reminder before I jump into the numbers.
+As usual, the figures I'll be discussing are as reported, except where I call them out as pro forma, which are adjusted to include Ahern's standalone results from last year.
+With that said, let's get into the details.
+Second quarter rental revenue was a record $2.98 billion.
+That's a year-over-year increase of $519 million or 21%, supported by diverse strength across our end markets.
+Within rental revenue, OER increased by $443 million or 22%.
+Our average fleet size increased by 25.5%, providing a $514 million benefit, which was partially offset by a decline in as-reported fleet productivity of 2% or $41 million, and our usual fleet inflation of 1.5% or $30 million.
+Also within rental, ancillary revenues were higher by $75 million or 19.3%, and re-rent provided an additional $1 million.
+I'll note that on a pro forma basis, rental revenue was up a robust 12.4% year-over-year, and fleet productivity increased 2.1% as industry discipline continues to support a healthy rate environment.
+Turning to used results, our second quarter revenue increased 133% to $382 million as we continued to return to more normalized volumes, while our second quarter adjusted used margin of 57.3% reflected healthy pricing.
+Notably, as we said we would, we've expanded our channel mix to support these higher used volumes.
+During the quarter, retail accounted for 65% of our mix, consistent with its longer-term proportion versus 90% last year.
+Within this shift, we doubled our retail volume and remains a very strong demand environment.
+Moving to EBITDA.
+Adjusted EBITDA for the quarter was just under $1.7 billion, another second quarter record, reflecting an increase of $384 million or 29%.
+The dollar change includes a $310 million increase from rental, within which OER contributed $298 million, ancillary added $15 million, and re-rent was down $3 million.
+Outside of rental, used sales added $117 million to adjusted EBITDA, while other non-rental lines of businesses contributed another $8 million.
+SG&A increased $51 million, due primarily to increases in variable costs, such as higher commissions.
+As a percentage of sales, however, SG&A declined 180 basis points year-on-year to a second quarter record low of 10.6% of total revenue.
+Nice efficiency there.
+Looking at second quarter profitability, our adjusted EBITDA margin increased 40 basis points on an as-reported basis and increased 130 basis points on a pro forma basis to 47.7%.
+This translates to an as-reported flow-through of 49% and pro forma flow-through of better than 54%.
+Finally, adjusted EPS increased 26% to a second quarter record of $9.88.
+Shifting to CapEx, gross rental CapEx was $1.25 billion, and net rental CapEx was $869 million.
+This represents an increase of $161 million in net CapEx year-over-year, supporting our continued growth in 2023.
+Year-to-date, gross CapEx has totaled roughly $2.05 billion.
+This equates to about 60% of the midpoint of our full-year rental CapEx guidance, which is where we expected to be at this time of the year.
+Turning to return on invested capital and free cash flow, ROIC, which as you know, is a critical metric for us, set a new record at 13.4% on a trailing twelve-month basis.
+That's up 30 basis points sequentially and 190 basis points year-over-year, and remains well above our weighted average cost of capital.
+Free cash flow also remains a good story, with the quarter coming in at $340 million, or a trailing twelve-month free cash margin of 12.3%, all while continuing to fund significant growth.
+Moving to the balance sheet, our net leverage ratio at the end of the quarter improved to an all-time low of 1.8 x, or a decline of 10 basis points sequentially and 20 basis points year-over-year.
+Our liquidity at the end of June exceeded $2.7 billion, with no long-term maturities until 2027.
+Notably, this was after returning $352 million to shareholders in the quarter, including $250 million through share repurchases and $102 million via dividends.
+Let's look forward and talk about our increased guidance, which reflects our continued confidence that 2023 will be a record year.
+Total revenue is now expected in the range of $14 billion-$14.3 billion, implying a $200 million increase at midpoint and full-year growth of around 21.5% and pro forma growth of roughly 13.5%.
+Within total revenue, our used sales guidance is now implied at around $1.45 billion, or an increase of $150 million, reflecting better than expected pricing and stronger than expected retail demand.
+We've increased our guidance for adjusted EBITDA by $100 million at midpoint to a range of $6.75 billion-$6.9 billion.
+This continues to imply as-reported flow-through of around 48% and pro forma flow-through in the mid-50s.
+On the fleet side, we've narrowed our gross CapEx range by $50 million between $3.35 billion and $3.55 billion.
+Given the increase in our used sales expectations, this now implies net CapEx between $1.9 billion and $2.1 billion.
+Finally, we are increasing our free cash flow guidance by $175 million at midpoint to between $2.3 billion and $2.5 billion, which is before repurchases and dividends that together should return over $1.4 billion of cash to our investors, or better than $20 per share.
+With that, let me turn the call over to the operator for Q&A.
+Operator, please open the line.
+Todd, are you there?
+Todd, can you hear us?
+Operator
+Sorry about that.
+Apologies.
+We'll now take your questions.
+If you would like to ask a question, please press star one .
+You may remove yourself from the queue by pressing star two.
+We'll take our first question from David Raso with Evercore ISI.
+David Raso
+Senior Managing Director and Partner, Evercore ISI
+I was wondering if you could help us with how you're thinking about fleet productivity the rest of the year, and maybe a little more color on what drove the pro forma decline from 5.9 down to 2 for the second quarter.
+Matt Flannery
+President and CEO, United Rentals
+Sure, David.
+It's Matt.
+How you doing?
+As far as what drove the pro forma down, I mean, we're pleased with the pro forma being up 2.1%.
+We understand some of the concern out there, and is that telling the street something?
+I'll be clear about a few things since we don't actually give you the whole numbers.
+We said we'd talk to you qualitatively about it.
+This is not a demand or a rate issue.
+The industry still remains in really good shape.
+I think you're seeing that through the others that report the actual numbers.
+Rates, rate environment is strong, and frankly, the discipline in the industry is strong, and demand is supporting that.
+That's first off.
+This is really a time issue for us.
+We made the decision to front-load fleet this year to tampen down the very, very aggressive time utilizations we've been running, frankly, for a couple of years.
+We didn't really think it was responsive to our customers' needs, and we were doing a little bit of too much hand-to-mouth, putting big relationships at risk.
+We weren't comfortable with that.
+We front-loaded our fleet, you remember, back in the fourth quarter last year, and that's on top of bringing in the Ahern fleet.
+We're very pleased of how it's working out.
+Just to put it in context, although I'm not gonna revert to giving back whole numbers, our actual time utilization in Q2 was higher than pre-COVID averages and higher than the last time we gave you guys, time utilization in 2019.
+This is still strong time utilization, just compared to the very frothy, almost, inflated time utils that we ran last year because we couldn't get the fleet timely enough.
+It's dragging a comp issue, and that's all this is.
+David Raso
+Senior Managing Director and Partner, Evercore ISI
+Regarding the rest of the year, how should we think about year-over-year fleet productivity that's baked into the guide?
+Matt Flannery
+President and CEO, United Rentals
+Yeah, I think you'll see these dynamics play through in Q3, similar to what they did in, in Q2.
+We'll continue to have seasonal builds, but there were seasonal builds in the comps as well.
+We think these dynamics will play through, and, you know, we're very comfortable.
+We continue to see a strong rate environment.
+We'll continue to bring in fleet to support this demand in Q3, and we think the dynamics will be similar.
+David Raso
+Senior Managing Director and Partner, Evercore ISI
+If the fleet productivity is similar in the back half of the year as the second quarter, where does that leave you at the end of the year as we think about 2024?
+You made a comment just now about time util on a historical basis is still sort of above average.
+Is that how you see the full year time util ?
+Just trying to think about your confidence in starting the conversations for rates for 2024.
+Where are we exiting, you know, our thoughts on this time util level versus history?
+Matt Flannery
+President and CEO, United Rentals
+Yeah, well, to be clear, we don't want to get into forecasting ahead that far, but I will tell you, and we said this in May at the Investor Day, we do view 2024 as a growth year.
+If you do the math on the capital guide we gave and, where we started the year, we're going to start the year with more fleet to support growth.
+We do think the end markets will come out at an exit rate this year at strong, you know, strong end market demand.
+We still believe that.
+Then from there, we'll build up through our planning process towards the end of this year, we'll build up what we, what we think we need from more growth CapEx.
+We do expect that we'll continue.
+This will be a more normalized replacement CapEx.
+You're seeing that in this quarter as well.
+We expect to do that next year as well.
+We want to replace, you know, somewhere around 10% to 12% of our fleet per year, and I think this new number puts us right in the center of that target.
+Ted Grace
+CFO, United Rentals
+David, this is Ted.
+The one thing I might add is, Matt made the comment about second quarter time utils relative to history.
+Just to be clear, for the full year, we would expect the same to be true.
+Relative to history, 2023 will be a strong time util year.
+David Raso
+Senior Managing Director and Partner, Evercore ISI
+Okay, that's helpful.
+On the rest of the year guide.
+I'm talking reported.
+Ted Grace
+CFO, United Rentals
+Mm-hmm.
+David Raso
+Senior Managing Director and Partner, Evercore ISI
+The implied EBITDA margins are down a little bit from the second half of last year, but in the first half of this year, your EBITDA margins were 50 bips higher than a year ago.
+Just curious why the margins would be down year-over-year in the second half, but having been up in the first half of this year?
+Ted Grace
+CFO, United Rentals
+Yeah.
+I'd say a couple of things there, David.
+One, we, we always caution people against anchoring to the midpoint, but Ahern is really kind of the factor that people need to be thinking about as they think about first half and second half dynamics year-on-year.
+You know, we, we've been clear to talk about pro forma flow-through in the mid-50s.
+We've been delivering that, and we would expect that to be true in the back half of this year, which will be driving margin expansion on a pro forma basis, which, as Matt said, is the way we think about our business.
+David Raso
+Senior Managing Director and Partner, Evercore ISI
+Last quick one.
+Sorry to hog the call here.
+Apologies.
+Your implied free cash flow the rest of the year and your EBITDA, it would imply that the leverage, the financial leverage at the end of the year is at 1/6.
+To get back to even the low end of your target of two to three for leverage would imply you have about $2.8 billion to put to work just to get to the low end.
+Just curious how you're thinking about deploying that.
+Again, that already counts for $500 million repo the rest of the year and $200 million of dividends.
+This is above and beyond that.
+Thank you.
+Ted Grace
+CFO, United Rentals
+Correct, it does.
+This is one of the things we've been working on internally, and we'll work on it further as the year progresses.
+For 2023, kind of our, our allocation of capital is committed, as you know.
+As it relates to next year, we will have decisions to make, and certainly we'll have an update for where we end up come January, I would expect.
+We're left with a couple options, and we've talked about these publicly.
+On one hand, you know, there's the potential that we could lower the range, which is something we talked about when we introduced the new capital allocation strategy in 2019.
+You could, you know, keep it where it is.
+That's one of the things we're working on, trying to figure out what's the best way to allocate capital to drive shareholder value.
+There's not much more specific I can add right now, but certainly, you know, that's how we're thinking about it.
+David Raso
+Senior Managing Director and Partner, Evercore ISI
+All right.
+Thank you very much.
+I appreciate it.
+Ted Grace
+CFO, United Rentals
+Thanks, David.
+Operator
+We will take our next question from Rob Wertheimer with Melius Research.
+Rob Wertheimer
+Director of Research, Melius Research
+Hi, good morning, everybody.
+I had a question on Ahern and just the maturation of acquisitions in general.
+I know you talk about how you sort of scramble the egg and you can't always unscramble it, but I assume that you've still got some ongoing repair and maintenance as you sort of fix up a fleet that was presumably underinvested in.
+Then I assume there's also a process, just because you guys have so much process, you have so many SKUs and so forth, of training people up and so forth.
+I just wonder if you have any comments on how long or how big that margin differential is and how that, that, you know, that maturation, that acquisition, drags up margins.
+Are we there now, or is it going to take 2 or 3 years, or is it going to be, you know, a tailwind for 2 or 3 years, or any commentary around that would be helpful?
+Matt Flannery
+President and CEO, United Rentals
+Sure, Rob Wertheimer, it's Matt Flannery.
+To your point, you know, it takes time to get everything done.
+We always start with the people, first and foremost, make sure we secure everybody, get them comfortable with their jobs, then we train them on the systems, make sure everybody's working off the same operating system.
+All that's been done.
+That's the front end and always is in any deal we do. From there, we start working through the fleet and then any kind of branch changes, whether they're consolidations, whether we're repurposing any facilities.
+We'll continue to work through fleet and facilities through the balance of this year.
+You know, we've got the game plan.
+It's just a matter of execution, and we're working through that.
+As far as margins and the maturation, I'll let Ted talk to it, but I wouldn't expect us to be fully mature, certainly by year one.
+We've done some work in this in the past with other deals.
+Ted, you may want to answer the call.
+Ted Grace
+CFO, United Rentals
+Yeah, Rob, it's a good question, and it kind of gets to some of the margin dynamics in the quarter, that this is a good chance to kind of get those out there.
+If you were to look at the equipment rental gross margin on an as-reported basis, it would look like it was down 140 basis points year-on-year.
+That's a slight improvement from the down 170 in the first quarter.
+You can see some of those benefits playing through there.
+Importantly, on a pro forma basis, our gross margin actually expanded 20 basis points, so you can see that impact of Ahern, just putting the year ago period into the numbers.
+We've got margin expansion there.
+If you adjust for the increase in depreciation related to the valuation of the acquired assets, gross margins were actually up 80 basis points in the equipment rental gross margin line.
+That includes the drag that we're talking about from this ongoing investment in fleet, which we talked about last quarter, continuing this quarter.
+I think it's reasonable to assume it'll, you know, continue in the second half as we get that fleet up to our standards.
+Other investments we're making that do get expensed in things like facilities.
+To us, things are playing out very well, even in spite of these additional costs that are hitting us from P&L perspective.
+You can see that in these numbers I just shared.
+Rob Wertheimer
+Director of Research, Melius Research
+Okay, perfect.
+I can sneak in one more.
+I guess the normalization, excuse me, the normalization of supply chain means you and others are able to get fleet kind of more when you want it versus when you thought.
+You know, maybe some of that, plus some of the, the better margins you're getting on, sale use equipment has led to the net rental CapEx coming in a little bit.
+Any relation of that to end market demand?
+I mean, are you still seeing strength in every vertical and everything?
+Is there any, a tie between those two ideas?
+Thanks, I'll stop there.
+Matt Flannery
+President and CEO, United Rentals
+Yeah, sure.
+Thanks.
+First off, let's be clear.
+The supply chain is not fully remedied, which is why we front-load CapEx so much in the first half of this year, right?
+We're at 60% of our full year spend.
+We're at the top end of the range we had talked about in that 55%-60%.
+If we could have pulled in some more upfront in specific categories, we probably would have.
+We had said in the beginning of the year, we didn't really think there was an opportunity to pull CapEx forward.
+That this is a decision that probably we'd make in Q4 if we were going to raise CapEx.
+That would really have to say more about what next year's slots look like, and if we can get back to more normalized cadence when the supply chain hopefully remedies in its entirety.
+This change in net CapEx is just strictly about us having the opportunity to sell more fleet through the retail channel, and we're talking 90-month-old fleet at, you know, $0.07 on the dollar.
+It's just smart business.
+It's time for that stuff to rotate out, and we wanted to normalize that.
+There, if we could have pulled some more forward to maybe make that net CapEx number more whole, we may have done it in the right categories.
+We just didn't really have that option because the supply chain's getting better, but not 100% there yet.
+Hopefully, that answers your question.
+Rob Wertheimer
+Director of Research, Melius Research
+Thank you.
+Matt Flannery
+President and CEO, United Rentals
+Thanks, Rob.
+Operator
+Thank you.
+We'll take our next question from Steven Fisher with UBS.
+Steven Fisher
+Managing Director and Senior Equity Research Analyst, UBS
+Thanks.
+Good morning.
+I understand that some of the lower utilization you're seeing is by design because you're running too hot, and your product availability wasn't where you want it to be to serve some of those key customers you mentioned.
+Would you say, I guess, to what extent are your service levels now back to where you like them to be, and so that sort of intentional lower utilization has now run its course, or do you still think, you know, you need to have more slack in the system by design?
+Matt Flannery
+President and CEO, United Rentals
+No, I think we're at a comfortable level.
+Listen, we want to continue to improve utilization over the long-term trend.
+It was just.
+We haven't had a normal year in three years, right?
+When you think about the COVID year, which was just goofy overall, and then the two years of just not being able to get fleet at the proper cadence, we'll revert back to continuing to try to drive better metrics from 2019 on, as we had always done.
+I'm not saying we're capped out.
+I'm just saying right now, especially with continuing to work through the Ahern fleet, we're on a pretty healthy time utilization, and we are being able to be responsive to these major opportunities we have with big customers on big projects.
+That's how I categorize that, Steve.
+Steven Fisher
+Managing Director and Senior Equity Research Analyst, UBS
+Okay, that's helpful.
+Then in terms of the rental gross margin trajectory, so you had 170 basis points year-over-year decline in Q1 on the reported basis, and 140 basis points in Q2.
+It's a little narrower decline.
+Should we extrapolate that pace, or should that drag get smaller at a faster pace and maybe even really kind of just ends this year, and so that, you know, by the start of next year, you're growing your gross margins on a year-over-year basis?
+How should we think about that sort of trajectory?
+Ted Grace
+CFO, United Rentals
+We do our best not to guide to kind of gross margins, but certainly directionally, we would expect it to continue heading in the right direction.
+There's gonna be a gap there structurally, because that was a less profitable business than what we would have on a legacy basis, right?
+We've talked about that.
+I think on an LTM basis there, EBITDA margins were 35%, whereas ours were 48%.
+That'll obviously be a dynamic in these as reported numbers, but certainly, that gap should narrow.
+As we get to next year, I think it would definitely be reasonable to assume that we'd be looking for margin expansion across the business.
+Steven Fisher
+Managing Director and Senior Equity Research Analyst, UBS
+Terrific.
+Thank you.
+Operator
+Thank you.
+We'll take our next question from Seth Weber with Wells Fargo Securities.
+Seth Weber
+Managing Director and Senior Equity Research Analyst, Wells Fargo Securities
+Hey, guys.
+Good morning.
+Maybe, Ted, just following up on your margin comment, answer.
+You know, SG&A was surprisingly good this quarter.
+You know, it was down sequentially on a dollar basis.
+Great leverage as a percentage of revenue.
+Can you is there still more operating leverage to come on the SG&A line for the company here going forward, or is this as good as it gets?
+Ted Grace
+CFO, United Rentals
+Here again, this is an example of things we don't typically guide towards, so I want to be careful there.
+It's all embedded within the EBITDA, EBITDA and EBITDA margin and flow-through guidance we've given.
+Certainly, we would expect to continue driving very good efficiency there.
+In terms of kind of trying to give people more precise handholding, it's just not something we've done.
+I don't know if that helps, Seth, but we feel really good about it, and certainly we'd expect to continue to be very efficient.
+Seth Weber
+Managing Director and Senior Equity Research Analyst, Wells Fargo Securities
+Maybe, Matt, just to, you know, appreciate all the color on the yields, you know, time you know, all, all that stuff.
+Maybe just a bigger picture question on the industry supply.
+You know, we've heard from a few different, some of your competitors have reported recently, some companies are raising CapEx, some are moderating CapEx.
+You know, can you just talk to what you think, kind of industry supply looks like, industry utilization looks like?
+Yeah, just leave it there, I guess.
+Matt Flannery
+President and CEO, United Rentals
+Yeah, I think let's talk about the large companies, which we all get a little more information from.
+I think we're in a similar boat.
+I think you'll hear from most of them that this is still a good demand environment, still a good solid rate environment.
+I think that points to the industry discipline.
+I think not everybody's reported yet.
+I think everybody's had the same challenge of that time util was just running a little too hot.
+I think you're seeing people remedy that.
+I think a lot of us that had the ability to, so specifically the big guys that had some scale to leverage, front loaded their capital to try to bring it in, to bring it in ahead of the demand curve, so you didn't get stuck in that same box we were in for the last year or two.
+I think the dynamics of the industry are really solid, and I think you're going to hear, or we already have heard, you know, a couple report similar trends to what we're talking about.
+We think the industry is in good shape.
+We think supply demand is in good shape, historically strong time utilizations, and that it's a solid rate environment, so good all the way around.
+Seth Weber
+Managing Director and Senior Equity Research Analyst, Wells Fargo Securities
+Got it.
+Appreciate it, guys.
+Thank you.
+Matt Flannery
+President and CEO, United Rentals
+Thanks, Seth.
+Operator
+Thank you.
+We'll take our next question from Jerry Revich with Goldman Sachs.
+Jerry Revich
+Managing Director and Senior Equity Research Analyst, Goldman Sachs
+Yes.
+Hi, good morning, everyone.
+Matt Flannery
+President and CEO, United Rentals
+Good morning.
+Ted Grace
+CFO, United Rentals
+Hey, Jerry.
+Jerry Revich
+Managing Director and Senior Equity Research Analyst, Goldman Sachs
+Matt, I'm wondering if we just expand on that comment you made a moment ago.
+If we look back, you know, 2015, 2016, where there was a time utilization soft spot and rising used equipment inventories and new equipment inventories, you know, the industry gave back some price, and what we're seeing from you folks and others is actually better price in 2Q than in 1Q.
+Can you just talk about the distinctions now versus then?
+How big of a factor is the availability of Rouse market by market information, any other significant distinctions that are driving the much better industry discipline today versus seven years ago?
+Matt Flannery
+President and CEO, United Rentals
+Sure.
+To be specific, if you remember that 2015 was that oil and gas dislocation, right?
+Really drove kind of a double dip, we'll call, of rate problem, because it was the highest value of rate in just about every company's portfolio that was serving it.
+Rates were really high there, it went away quickly across the board.
+Your point is still fair.
+That was what happened when there was too much fleet in the system.
+The time you then dropped to levels that made people have to make different decisions.
+The time use now in the industry is very healthy.
+Even though it's dropped from inflated time utilization, the reason why you're seeing different behavior is part industry discipline, but also everybody's running at healthy time utilizations.
+People are able to make good returns, good margins at these utilization levels, and the price of goods is higher, so people understand the necessity for rate.
+I think it's a totally different dynamic, and that's important to note because some people may be reading through the drop in time utilizations that are reported is a demand problem.
+That's not the case whatsoever.
+Thanks for helping make that point.
+Jerry Revich
+Managing Director and Senior Equity Research Analyst, Goldman Sachs
+In terms of just the natural implication of that, right?
+If we're not going to be looking to gear up in the first quarter as hard as an industry in 2024, obviously, you're not giving 2024 guidance yet, but just the implication of that is lower year-over-year CapEx for the industry in the first half of 2024, just mathematically to tie all that together, given how hot we're running in the first half of 2023.
+Is that a reasonable way to pull these pieces together?
+Matt Flannery
+President and CEO, United Rentals
+Maybe normalized cadence.
+I wouldn't say lower, but we're not even sure of that yet, right?
+We've got to get these slots from the OEMs.
+They have to be able to make the commitments.
+I know they're working hard.
+I know you talk to these folks as well.
+They're hopeful that supply chain will remedy.
+I wouldn't go all the way there yet, but hopefully, hopefully, that's what happens, and we can get, you know, a little more of a normalized cadence and not have to hold stuff through the winter because we're afraid we can't get it in the spring.
+Either way, we're gonna do what we need to do for our customers, right?
+Not, not manage the metric more than the business and the output through the P&L.
+Jerry Revich
+Managing Director and Senior Equity Research Analyst, Goldman Sachs
+Appreciate the discussion.
+Thanks.
+Matt Flannery
+President and CEO, United Rentals
+Thanks.
+Operator
+Thank you.
+Our next question will come from Jamie Cook with Credit Suisse.
+Jamie Cook
+Managing Director and Sector Head for U.S. Capital Goods Equity Research, Credit Suisse
+Nice quarter.
+I mean, most of my questions have been asked, but first, just on, you know, what your customers are saying about 2024 and the implications for how it'll work with you going forward.
+If we have, you know, above average visibility, do they wanna lock in, you know, lock in business with you earlier and have sort of longer term contracts to make sure, you know, they're able to capitalize on the multiyear spend that's out there?
+With supply chains getting better, do you feel like customers potentially could get less sticky because they know there's gonna be more equipment out there in the market?
+My second question, specialty margins continue to, you know, improve, you know, year-over-year.
+I'm assuming that's the trajectory for the back half of the year.
+Is there any opportunity, you know, on the M&A front in specialty that would be more imminent?
+Thank you.
+Matt Flannery
+President and CEO, United Rentals
+I'll take the first part of that, Jamie, and Ted can talk to the specialty side.
+Big customers are still concerned, especially major projects, still concerned about making sure they have surety of supply, right?
+Even though it's a small amount of spend, right, couple of percentage points of spend on the project, it has major implications when they can't get the material and the labor activated.
+We're having those conversations, and a lot of the projects we're talking about today kick off this year and will carry in through next year, and they all hit different phases.
+We're in regular planning with our large customers on these mega projects because it's really important to them.
+They've felt the crunch over the last couple of years, and they wanna make sure that surety of supply is there.
+You, it's definitely more that way than them thinking they can wait.
+I think the last two years, in some ways, it's better for us planning more with our big customers because they realize it's an important factor to making sure we both have a win-win situation.
+Ted, you wanna touch on the second part?
+Ted Grace
+CFO, United Rentals
+Yeah.
+Quickly, Jamie, I just wanna be sure I understood the questions.
+It sounded like there were three, and Matt answered the first.
+I heard the second half margins.
+I didn't know if that was a general question or specific to specialty.
+The third, it sounded like the outlook for specialty M&A?
+Jamie Cook
+Managing Director and Sector Head for U.S. Capital Goods Equity Research, Credit Suisse
+It, yeah, it was specific.
+The question was specific to specialty, both in terms of margin and both in terms of M&A opportunity.
+Ted Grace
+CFO, United Rentals
+Here again, you know, it's all kind of embedded in the guidance we've given, so we do our best not to get into kind of giving specific guidance by segment or unit.
+Certainly, you know, as you've heard us say, we feel very good about the way the business is performing and the outlook for margins in the second half, and that would be true on both sides of the business.
+Not sure I can be any more specific.
+In terms of the outlook for M&A, both broadly and within specialty, it remains a very robust market.
+We've, you know, we've seen kind of what we've done year to date, and we continue to be active shoppers.
+In terms of, you know, success, that's harder to say.
+Discipline is always job number one for us when we're allocating capital.
+You know, we're hopeful and optimistic that we'll have some things to do in the back half in M&A more generally, but certainly within specialty as well.
+Matt, anything you'd add on that front?
+Matt Flannery
+President and CEO, United Rentals
+No, no.
+I think you covered it.
+I mean, we all you folks all know we're very inquisitive and opportunistic, but we're gonna make sure it meets that high bar that we have.
+Jamie Cook
+Managing Director and Sector Head for U.S. Capital Goods Equity Research, Credit Suisse
+Thank you.
+Matt Flannery
+President and CEO, United Rentals
+Thank you.
+Operator
+Thank you.
+Our next question comes from Tim Thein with Citigroup.
+Tim Thein
+Director and U.S. Machinery Analyst, Citigroup
+Thanks.
+Good morning.
+I just, first to Matt, I wanted to follow up on the earlier discussion on fleet productivity.
+I realize you don't love dissecting all these pieces, but I just wanted to follow up just from a mix perspective.
+You know, as you talk about, I realize there are multiple, you know, pieces and components that go into that.
+As you, you know, as you cycle more of that Ahern fleet out of the business, and you're refreshing the fleet, as you talked about, does that continue to be...
+Presumably, that's, or just given the inflation that we've seen recently in that product category that they were so big in, in Aerials, does that act as a headwind, you know, into 2024?
+And again, I know we're not, I'm not looking for, you know, super granularity on this, but I'm just thinking from a high level, does that continue to drag on that fleet productivity, or does that start to fade away?
+Matt Flannery
+President and CEO, United Rentals
+No, not more significant than what we deal with in our own fleet, right?
+We're always gonna manage inflation.
+That's why we track fleet productivity.
+I think you'd have to imagine that our buying power was a little bit better.
+Some of those OECs, and that's why you have part of the difference between as reported and pro forma.
+Some of those OECs are a little pumped up a little higher than ours and buy as well as us.
+There's a little bit of a trade-off there as we replace, so it won't be incrementally, the replacement won't be incrementally as high as it would be maybe on one of our old assets, our own assets, that was, you know, nine years old or eight years old.
+Nothing that we're call out, nothing that we can't manage through in the normal course of business.
+Tim Thein
+Director and U.S. Machinery Analyst, Citigroup
+Okay.
+All right.
+Then maybe just to get a bigger picture, you know, a fair amount of disruption, you know, that's occurred to the regional or the, you know, banking system over the last several months, and, you know, there's more concerns around just lending availability, and do some of these regional banks tighten up?
+Again, nothing that you haven't heard.
+I'm just curious.
+As your conversations with, you know, fellow, you know, C-suite folks, is that, are you hearing or seeing much from the standpoint of, you know, projects that, that maybe were on your drawing board that are pushing out or anything that you would flag, you know, along those lines?
+Obviously, it's, it's been a concern for some, you know, recently.
+I'm just curious if that's, if it's something that, that you're seeing or hearing much about.
+Thanks.
+Matt Flannery
+President and CEO, United Rentals
+No, as a matter of fact, our, our project pipeline remains robust.
+We're not seeing cancellations.
+We talked about delays on some solar projects.
+That was more supply chain related, and we actually think those are coming back on quicker than they were, which is good news.
+When we look at mega projects overall, right?
+You can decide how you define a mega project.
+Is it, whether it's $400 million, $500 million, $600 million worth of value, these are all up significantly.
+We're talking, you know, depending on which cut you use, somewhere between 70 and over 100%.
+Doubling the size of these amount of projects, and that's what the pipeline looks like right now.
+We actually feel really good about the pipeline.
+We haven't seen any deterioration because of any kind of financing or interest issues.
+Ted, you might want to add something.
+Ted Grace
+CFO, United Rentals
+Tim, I guess the things I'd add, you said regional banks, but I think it's more specific to the local, smaller banks.
+Frankly, we're not seeing it at either level.
+I mean, as best we can tell, capital availability remains abundant for our customers.
+Cost of capital remains reasonable.
+If we look at our customer confidence, really going back to the middle of March when all this started, it's really unaffected.
+If we look at our performance by customer segment, right, you look at national accounts, strategic, assigned, local, et cetera, you're not seeing any real difference in how those are performing.
+Certainly on the, you know, through the second quarter, there's no discernible impact.
+In terms of what the potential may be going forward, our customers aren't really talking about it, and we're not sensing it's an issue, but it's something we're obviously watching closely, as you'd expect.
+Tim Thein
+Director and U.S. Machinery Analyst, Citigroup
+Very good.
+Thank you.
+Matt Flannery
+President and CEO, United Rentals
+Thanks, Tim.
+Operator
+Thank you.
+We'll take our next question from Ken Newman with KeyBanc Capital Markets.
+Ken Newman
+Managing Director and Senior Equity Research Analyst, KeyBanc Capital Markets
+Hey, good morning, guys.
+Matt Flannery
+President and CEO, United Rentals
+Hey, Ken.
+Ken Newman
+Managing Director and Senior Equity Research Analyst, KeyBanc Capital Markets
+Matt, obviously, it sounds like you feel very confident in the demand environment here.
+I am curious, if you could just give a little bit of color on what you're seeing between your two customer sets, right?
+Because obviously, your internal sentiment survey seems like it's still pretty strong or in line with last quarter, which is, I think, more tied to your national accounts.
+Any signs of, you know, material moves between your national accounts and your local accounts?
+Matt Flannery
+President and CEO, United Rentals
+No, not anything that we're seeing.
+You know, we don't do, you know, a lot of Harry Homeowner type, weekend warrior type work, so I don't know what that segment's doing.
+We definitely skew more towards the contractor and large contractor, but we're not seeing any delineation in our local market business versus our big job business.
+We're actually in pretty good shape.
+We talked about that when we were talking about the non-res numbers earlier.
+That's one of the areas where you would think it would show up, and it's not.
+We're actually not seeing any delineation, and we're not seeing it in the customer confidence index results as well.
+Ken Newman
+Managing Director and Senior Equity Research Analyst, KeyBanc Capital Markets
+Got it. you know, just to follow up on that non-res comment, you know, obviously, you talked about industrial manufacturing demand being strong here in the quarter.
+Non-res, I think you said, was up double digits.
+I'm curious if you could just dissect that a little bit.
+I mean, I didn't hear too much about civil infrastructure projects.
+My understanding is that's starting to accelerate here in these last couple of months.
+Is that a category that you're expecting to accelerate here into the back half?
+If so, how do we think about the margin impact on some of those projects, if any, here for, you know, the back half of 2023?
+Ted Grace
+CFO, United Rentals
+Yeah, Ken, I'll take that one.
+It's not one of those things that's easy to track, as you know.
+I would say intuitively, yes, we do expect a lot of the civil projects that are funded by the infrastructure bill and perspectively, the Inflation Reduction Act, to start gaining momentum.
+In terms of exactly what that cadence looks like, it would be great if there were a schedule.
+We have not found one.
+Certainly, the outlook for infrastructure is positive, right?
+You've got north of $1.5 trillion of spend over the next 10 years, let's say, and spend that we are very well positioned for, given Matt had made this comment in his prepared remarks.
+The strategy we've developed over the last 10 years is unique and puts us in a great position to be the most value-added partner to the contractors that are executing those projects.
+Ken Newman
+Managing Director and Senior Equity Research Analyst, KeyBanc Capital Markets
+Thanks, Ted.
+Thanks for the time.
+Matt Flannery
+President and CEO, United Rentals
+Thanks, Ken.
+Operator
+Thank you.
+Our next question comes from Scott Schneeberger with Oppenheimer.
+Scott Schneeberger
+Managing Director and Senior Equity Research Analyst, Oppenheimer
+Thanks, guys.
+Good morning.
+I'm gonna, I'm gonna follow up that last non-res question.
+A common question we field is about weak spots within non-res, and everything we've heard on this call sounds very, very good across non-res.
+One of the areas of concern is commercial real estate, non-manufacturing, and office buildings.
+Any insight you can share there or any other areas of weakness?
+Matt, it just sounds like it's very broad-based and very good.
+I just want to hone in on any trouble points that you might be seeing.
+Matt Flannery
+President and CEO, United Rentals
+Yeah, no, and I know Ted's done some work on this stat.
+I mean, we all know what the vacancy rates are, and we know those are issues, but I don't know that that was ever a real big part of our business, right?
+It's vertical versus horizontal is usually a bigger rental need, as opposed to vertical, but Ted may have some information to share.
+Ted Grace
+CFO, United Rentals
+Certainly, if you look at what we call non-res, it continues to grow quite nicely.
+We don't get as granular as the questions you're asking.
+If you were to look at the construction put in place data, Scott, certainly, you'd look, looking at office and commercial, you know, whether it's year to date, or I think June, which is the most recent data, they both continue to show growth.
+I think you were asking more on a forward-looking basis, and when we think about that, and we have, in total, those two verticals are about 20% of total non-res construction put in place.
+You know, I'd say the office part is one people worry about, given return to office and work from home and those things.
+Commercial is a huge segment, so it's not strip malls wherever people live.
+It's much broader.
+I think those are the two areas that we've talked about being reasonably at risk.
+Now, you talk about the areas where we are optimistic, where we see strong pipelines and where you continue to see strong growth.
+The ones you'd highlight would be manufacturing, as we've talked about, public road and highway, power, communication, transportation, and healthcare, all of which are performing well.
+In total, those are 55% of total non-res.
+You know, our, our contention would be the growth in those markets is really going to offset any headwinds we would reasonably anticipate in the office commercial combination.
+That is, you know, logically what drives our optimism looking out across, you know, the back half of this year and going forward.
+Scott Schneeberger
+Managing Director and Senior Equity Research Analyst, Oppenheimer
+Great.
+Thanks, Ted.
+That's the answer I was looking for.
+Appreciate it.
+For a quick follow-up, specialty rental, could you speak a little bit to the asset category?
+It sounds like things have been going very well, and it sounds like that's broad-based as well.
+Just curious if anyone's lagging behind or asset category or pulling ahead.
+Also, any commentary on GFN?
+The old goal was to double that within five years.
+Just an update now that we're two years past that, the close of that acquisition, where that stands.
+Thanks so much.
+Matt Flannery
+President and CEO, United Rentals
+Yeah, no, for the first part of your question, nobody's falling behind.
+As I said in the prepared remarks, you know, specialty had 17% organic growth, and all the business segments were in double digits, which is great.
+Now, certainly, the GFN, which you pointed to, is growing a little bit faster than the rest, but we would expect that.
+As far as that goal to double the size of the business in 5 years, I think we shared this earlier in the year, that we're ahead of schedule.
+You know, whether we're 1 year ahead of schedule or 2 years ahead of schedule, time will tell.
+We're very pleased with where they are, and we're continuing to open cold start to continuing to grow that sector as well.
+We're growing all of our specialty segments.
+We're really pleased with the work the team's doing there.
+Scott Schneeberger
+Managing Director and Senior Equity Research Analyst, Oppenheimer
+Sounds good.
+Thanks, Matt.
+Matt Flannery
+President and CEO, United Rentals
+Thanks, Scott.
+Operator
+Thank you.
+Our next question comes from Neil Tyler with Redburn.
+Neil Tyler
+Sell‑Side Equity Research Analyst, Redburn Atlantic
+Hi, guys, thank you.
+Two left, please.
+Firstly, on the topic of CapEx and fleet and availability, one of your competitors floated the notion that ticket prices, OEC ticket prices, had been sort of inflated recently by, you know, things like surcharges, that should or may well fall away if availability improves.
+I don't know if that's a perspective.
+I'd like to hear your perspective on whether that's a likelihood or a certainty or not a notion that you're considering, first of all, please.
+Matt Flannery
+President and CEO, United Rentals
+Sure.
+We, we don't talk about our negotiations on open mic.
+Just, you know, we want to be good partners with our vendors.
+The comment of some of the surcharges and the costs associated with creating those surcharges is certainly a fair comment when we're discussing with our partners.
+I don't think that characterization is wrong.
+We just don't really talk about our negotiations with our partners, you know, publicly, but the characterization is a fair one.
+Neil Tyler
+Sell‑Side Equity Research Analyst, Redburn Atlantic
+Great.
+Thank you.
+No, that's still helpful.
+Apologies, but I want to just quickly come back to the time util comments you made earlier, just to, so I understand this.
+You know, the lower year-on-year time util is, you know, splits between a timing of fleet arrivals and a deliberate move to normalize time util .
+Am I right in thinking that the first of those two categories is more or less behind us, and that the second will persist for the rest of the year?
+Is that fair?
+Matt Flannery
+President and CEO, United Rentals
+Yeah.
+I mean, the first enabled us to do the second, right?
+If we didn't bring in the fleet, we wouldn't even be able to tamp it down.
+They're very much going hand in hand.
+Just by definition of how much capital we have left for the year versus the growth, we're going to bring in a good amount of our CapEx in Q3 here, as you would expect for what's left of the balance of the year.
+I think, like I said earlier, when people are trying to see if we could forecast the productivity number, we'll sequentially grow, but we think you're going to see similar year-over-year dynamics to what we saw in Q2.
+We feel good about it.
+We feel good about the demand, and we'll continue to have CapEx rolling here in Q3.
+Neil Tyler
+Sell‑Side Equity Research Analyst, Redburn Atlantic
+Super.
+That's really helpful.
+Thank you, Matt.
+Matt Flannery
+President and CEO, United Rentals
+Thank you.
+Operator
+Thank you.
+Our final question comes from Mig Dobre with Baird.
+Mig Dobre
+Managing Director and Associate Director of Research, Baird
+Oh, thank you for fitting me in.
+Good morning.
+A lot has been covered here, but maybe on the topic of non-res, and Ted, appreciate it, all the context you provided, but I wanted to sort of ask a hypothetical question.
+You know, if we're looking at private non-res this year, the put in place is growing north of 20%.
+If growth slows in 2024, right?
+Tougher comps or maybe, maybe some of the pockets that a weakness that people are worried about.
+You know, we're talking about growth reverting back to low to mid single digits.
+What does that mean in terms of how you're going to manage your business?
+How do you manage fleet in terms of CapEx, disposals?
+Again, I'm not asking for guidance.
+I'm just trying to understand hypothetically how you would react to something like that.
+Ted Grace
+CFO, United Rentals
+Yeah, it's a good question, Mig.
+It's something we go through every year.
+Of course, we're talking in nominal dollars, so you've really got to convert this all to volume.
+That's how we approach the forward year as it relates to CapEx.
+As we get into the fall and into the fourth quarter, we'll start our bottoms-up planning process.
+That process will help us get a much better sense for what our customers think their growth will look like in 2024.
+At that point, we can then think about what our replacement CapEx needs will be, based on the OEC we plan to sell next year, and then the incremental fleet we would need to support growth in that environment.
+As Matt said, we think we've kind of reset the baseline back to where we want to be this year.
+As we think about next year, you know, let's just say we're kind of at that steady state, then there's less of a time dynamic that comes into this, and then it's more a function of how do you manage the growth in your OEC.
+Matt, is that fair?
+Matt Flannery
+President and CEO, United Rentals
+Yeah.
+No, I think you covered it well.
+Mig Dobre
+Managing Director and Associate Director of Research, Baird
+Okay.
+Ted Grace
+CFO, United Rentals
+Does that hypothetically answer your question?
+Mig Dobre
+Managing Director and Associate Director of Research, Baird
+Well, it helps.
+I'm still kind of scratching my head on the fact that you're going to be exiting the year with significant year-over-year growth in fleet, right?
+You know, if growth slows, does that mean that you're sort of pivoting towards just pure replacement CapEx, or you're still in, you know, fleet growth mode?
+That's what I was trying to tease out.
+Matt Flannery
+President and CEO, United Rentals
+Yeah, it's a fair question, but it will depend on what we see as a demand as we go through our planning process.
+We're certainly not as negative on the growth as maybe the tone you're sharing.
+You know what?
+Time will tell, and we're going to adjust and manage the business appropriately for whatever environment we have.
+All that being said, we do expect, and I think you're seeing this with most of the big players, for us to outpace overall industry growth.
+We think the big getting bigger is a dynamic that will continue to play, and I would say the type of work that we've talked a lot about to everyone lends itself to the larger players.
+I wouldn't even if there is a slower growth in the overall industry, we think we'll have the ability to outpace that.
+I do get your point, and we'll, we'll manage through it.
+Ted Grace
+CFO, United Rentals
+That's the thing about doing it year-end, is we'll know what that carryover growth and capacity is, which allows us then to factor that into whatever our CapEx spend will be.
+All right, let's get back to continuing to be very good stewards of our shareholders' capital.
+Mig Dobre
+Managing Director and Associate Director of Research, Baird
+Understood.
+Thank you, gentlemen.
+Matt Flannery
+President and CEO, United Rentals
+You got it, Mig.
+Thanks.
+Operator
+Thank you.
+At this time, we'll turn the call back over to Matt Flannery for any additional or closing remarks.
+Matt Flannery
+President and CEO, United Rentals
+Thanks, operator.
+No additional remarks.
+That wraps it up for today.
+I want to thank everyone for joining us, and we look forward to speaking with you all again in late October.
+In the meantime, please feel free to reach out to Elizabeth at any time if you have any questions.
+Thanks again.
+Operator, please go ahead and end the call.
+Operator
+Thank you.
+This does conclude today's call.
+We thank you for your participation.
+You may disconnect at any time.
+Data Source:
+Quartr
+Last updated:
+Jul 27, 2023
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (14)
+Quarterly report
+Slides
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
