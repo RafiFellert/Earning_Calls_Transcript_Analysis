@@ -1,0 +1,910 @@
+UPS (UPS) Q1 2026 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+United Parcel Service, Inc. (UPS)
+NYSE: UPS · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+104.22
+-1.05 (-1.00%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+105.11
++0.89 (0.85%)
+Pre-market:
+Aug 3, 2026, 7:46 AM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q1 2026
+Apr 28, 2026
+Full Transcript
+Full Summary
+Quarterly report
+Slides
+Earnings release
+Play Audio
+Download Transcript
+Full Transcript
+Full Summary
+Summary
+Q1 2026 results exceeded expectations with strong revenue and profit, driven by premium segment growth, cost reductions, and network reconfiguration. 2026 guidance is reaffirmed, with margin expansion expected as cost actions and automation take effect.
+Operator
+Good morning.
+My name is Matthew, and I will be your facilitator today.
+I'd like to welcome everyone to the UPS first quarter 2026 earnings conference call.
+All lines have been placed on mute to prevent background noise, and after the speaker's remarks, there will be a question-and-answer period.
+Any analysts that want to ask a question, now is the time to press Star then 1 on your telephone keypad.
+It is now my pleasure to turn the floor over to your host, Mr. PJ Guido, Investor Relations Officer.
+Sir, the floor is yours.
+PJ Guido
+Investor Relations Officer, UPS
+Good morning and welcome to the UPS first quarter 2026 earnings call.
+Joining me today are Carol Tomé, our CEO, Brian Dykes, our CFO, and a few additional members of our executive leadership team.
+Before we begin, I want to remind you that some of the comments we'll make today are forward-looking statements and address our expectations for the future performance or operating results of our company.
+These statements are subject to risks and uncertainties, which are described in our 2025 Form 10-K and other reports we file with or furnish to the Securities and Exchange Commission.
+These reports, when filed, are available on the UPS Investor Relations website and from the SEC.
+Unless stated otherwise, our discussion refers to adjusted results.
+For the first quarter of 2026, GAAP results include after-tax transformation charges of $42 million or $0.05 per diluted share.
+A reconciliation of non-GAAP adjusted amounts to GAAP financial results is available in today's webcast materials.
+These materials are also available on the UPS Investor Relations website.
+Following our prepared remarks, we will take questions from those joining us via the teleconference.
+If you wish to ask a question, press star and then 1 on your phone to enter the queue.
+Please ask only one question so that we may allow as many as possible to participate.
+You may rejoin the queue for the opportunity to ask an additional question.
+Now I'll turn the call over to Carol.
+Carol Tomé
+CEO, UPS
+Thank you, PJ, and good morning.
+Let me start by saying how incredibly proud I am of UPSers around the world.
+This past quarter brought significant external challenges, from volatile global markets to rising fuel costs.
+Even so, our team stayed focused, pushed our transformation forward, and upheld the exceptional service our customers rely on.
+The first quarter of 2026 marked a critical transition period for our company, one in which we needed to flawlessly execute several major strategic actions, and we delivered.
+First, we further reduced non-remunerative Amazon volume by an average of 500,000 pieces per day and closed 23 additional buildings.
+Second, under our new agreement, we shifted a portion of our Ground Saver volume back to the USPS for last mile delivery.
+We launched a voluntary driver buyout program we called Driver Choice, through which we will reduce roughly 7,500 full-time driver positions.
+Interest in the program was extremely strong and ultimately exceeded our expectations.
+Based on these actions and more, we are firmly on track to achieve our $3 billion cost out target for the year.
+We began scaling back leased aircraft as we retired our MD-11 fleet and took delivery of new 767s.
+We continued to capitalize on trade lane shifts resulting from last year's trade policy changes.
+It's a dynamic environment, even against that backdrop, our underlying business performed exceptionally well.
+In the first quarter, consolidated revenue reached $21.2 billion, with consolidated operating profit of $1.3 billion and an operating margin of 6.2%.
+Across our segments, performance was strong.
+In the U.S., revenue quality remained high, with revenue per piece up 6.5% compared to the same period last year.
+Our international business delivered solid top-line momentum, growing revenue by $167 million or 3.8% year-over-year.
+Our Supply Chain Solutions businesses more than doubled operating profit versus last year.
+Our results were considerably better than our financial plan and targets.
+It is worthwhile calling out that while we planned for it, our first quarter performance deviated from seasonal norms due to certain cost pressures that Brian will detail.
+These pressures are largely behind us.
+We expect to return to consolidated revenue and operating profit growth and expand operating margin in the second quarter of this year.
+Last year, we launched the most extensive U.S. network reconfiguration in our company history by targeting a 50% reduction in the volume we deliver for Amazon by June of 2026.
+With roughly two months to go, we are comfortably in the homestretch of this initiative.
+Our actions are moving us toward a more profitable U.S. small package business, with the back half of 2026 expected to be the inflection point.
+With that as context, let me outline our priorities and how we intend to deliver revenue growth and margin improvement going forward. Packages and the right mix of volume through our network.
+The market has changed, and we're adapting to it.
+We're overturning the old industry assumption that scale alone drives profitability.
+Instead, we're focused on premium segments like SMB, B2B, and complex healthcare.
+Our strategy is working.
+We're seeing favorable mix improvements, with SMB and B2B volume representing a larger share of total U.S. volume.
+Premium customer wins are driving meaningful revenue per piece growth.
+How are we winning?
+We're winning through innovative and differentiated capabilities like RFID labeling at customer locations, end-to-end cold chain solutions, Roadie for same-day and big and bulky deliveries, Happy Returns for boxless, label-less returns, and much more.
+That's only a part of our growth story because we're also doing a better job retaining and growing our existing customers.
+In the U.S., we saw a meaningful reduction in churn through the first quarter.
+Our customer-first strategy focuses on what matters most, and that's speed, ease, and reliability.
+While we're discussing capabilities, let me highlight DAP, our Digital Access Program.
+DAP gives us access to over 8 million SMBs.
+In the first quarter, we generated $1.2 billion in global DAP revenue, marking the second quarter in a row of delivering DAP revenue over $1 billion.
+As we drive revenue growth, we'll also drive profit growth, with margin improvement coming from higher productivity.
+We already run the industry's most efficient integrated network, and with expanded automation and robotic deployments, we will make the network even more productive and adaptable.
+That added agility will create the strategic capacity we need to fuel premium volume growth over the long term.
+Growing premium volume is not just a U.S. strategy.
+It's a global strategy.
+In international, we're speeding up our ground network in Europe to win premium commercial volume.
+In Asia, we recently opened a major expansion of our Incheon Airport hub in South Korea.
+In Taiwan, we opened our largest and most advanced logistics center in the region.
+We're speeding up our services across Asia Pacific as well as to and from Europe, further enabling global supply chains, particularly in the manufacturing, high tech, and healthcare sectors, all premium sectors.
+Speaking of healthcare, it remains a top priority growth engine for UPS.
+We've built a world-class end-to-end logistics network to handle the most complex time and temperature-sensitive healthcare products, and these capabilities are enabling us to win.
+In fact, our global healthcare portfolio has gained market share every year since 2021.
+In the first quarter of this year, we generated our first $3 billion healthcare revenue quarter ever, with all three of our segments delivering year-over-year revenue growth.
+As I wrap up, we've now had three quarters in a row of performance exceeding our expectations.
+We look to the balance of the year, there are a few external factors that we are watching that could impact demand, especially higher fuel costs stemming from the conflict in the Middle East and U.S. consumer confidence, which is at historic lows.
+These external pressures won't deter us.
+We reach the finish line on our Amazon glide down and complete our network reconfiguration, costs will continue to come out, premium volume will continue to strengthen, and we will return to revenue and profit growth with higher operating margins and stronger returns on invested capital.
+Today, we are reaffirming 2026 consolidated financial goals.
+For the year, we expect to generate consolidated revenue of approximately $89.7 billion and a consolidated operating margin of approximately 9.6%.
+With that, thank you for listening.
+Now I'll turn the call over to Brian.
+Brian Dykes
+CFO, UPS
+Thank you, Carol.
+Good morning, everyone.
+This morning I'll cover our first quarter results.
+I'll give an update on the Amazon glide down and our network reconfiguration and cost out efforts.
+I'll wrap up with our financial outlook for the remainder of 2026.
+Moving to our results.
+Execution across our business was strong, with results coming in above our expectations.
+Starting with our consolidated performance.
+In the first quarter, revenue was $21.2 billion and operating profit was $1.3 billion.
+Consolidated operating margin was 6.2% and diluted earnings per share were $7.00.
+Moving to our segment performance.
+U.S.
+Domestic remained focused on revenue quality while executing our Amazon glide down and network reconfiguration initiative.
+These strategic actions drove SMB average daily volume growth and strong year-over-year revenue per piece growth.
+For the quarter, total U.S. average daily volume was down 8% versus the first quarter of last year.
+Nearly 2/3 of the decline came from the glide down of Amazon volume and our deliberate actions to remove lower-yielding e-commerce volume from our network. Total air average daily volume was down 8.9% year-over-year, including the glide down of Amazon volume.
+Ground average daily volume was down 7.9% compared to the first quarter of 2025.
+Moving to customer mix, SMB average daily volume increased 1.6% year-over-year, driven by high tech, healthcare, and automotive customers.
+In the first quarter, SMBs made up 34.5% of total U.S. volume, marking the highest SMB penetration in our history.
+Looking at B2B, while average daily volume was down 5.1% year-over-year, it represented 45.2% of our total U.S. volume, which was a 140 basis point improvement versus the first quarter of last year and was our highest first quarter B2B penetration in six years.
+Our continued focus on revenue quality and a more premium U.S. volume mix has delivered several consecutive quarters of product and customer mix improvements, reinforcing that our strategy is working.
+Moving to revenue.
+For the first quarter, U.S.
+Domestic generated revenue of $14.1 billion.
+This was a decrease of 2.3% year-over-year against an ADV decline of 8%, with strong revenue per piece growth of 6.5%, largely offsetting lower volume.
+Breaking down the components of the 6.5% revenue per piece improvement.
+Base rates and package characteristics increased the revenue per piece growth rate by 340 basis points.
+Customer and product mix improvements increased the revenue per piece growth rate by 200 basis points.
+The remaining 110 basis point increase was due to changes in fuel price.
+Turning to cost.
+In the first quarter, total expense in U.S.
+Domestic was nearly flat.
+While we delivered higher productivity and continued to make progress on the Amazon glide down, those benefits were partially offset by short-term cost pressures in the first quarter.
+As Carol mentioned, these included temporary third-party lease expense to cover capacity constraints from retiring our fleet of MD-11 aircraft, transition costs and excess operational staffing related to Ground Saver, and the combination of inclement weather costs and higher casualty expense.
+Combined, these pressures totaled about $350 million in additional expense for the first quarter.
+Cost per piece in the first quarter increased 9.5% year-over-year.
+The U.S.
+Domestic segment delivered $565 million in operating profit, and operating margin was 4%, including a 250 basis point negative impact from the short-term cost pressures.
+These cost pressures are largely behind us as we move into the final months of the execution of our Amazon glide down and network reconfiguration initiative.
+Moving to our International Segment.
+In the first quarter, revenue grew across all regions, driven by strong revenue quality and our focus on premium markets.
+We saw signs of recovery in trade lane shifts stemming from the 2025 trade policy changes.
+Additionally, with the onset of the conflict in the Middle East, we adjusted our network and continued to serve our global customers throughout the first quarter.
+In the first quarter, total international average daily volume declined 6%.
+International domestic ADV decreased 6.6% compared to last year, led by a decline in Europe that was partially offset by growth in Canada.
+Like in the U.S., we saw improvement in customer mix, with SMB penetration reaching over 60%.
+On the export side, average daily volume in the first quarter decreased 5.5% year-over-year, led by declines on U.S. destination lanes resulting from the pull forward of purchases in the first quarter of last year, spurred by changes in trade policy.
+U.S. imports in total were down 16.4% year-over-year, led by a 22.5% ADV decline from Europe to the U.S.
+The China to the U.S. lane, which is our most profitable trade lane, was lower by 18.3% compared to last year.
+As we have said before, with changes in trade policies, we see that trade doesn't stop.
+It moves somewhere else, we continue to see volume growth in other parts of the world.
+Turning to revenue.
+In the first quarter, International generated revenue of $4.5 billion, up 3.8% from last year, driven by strong revenue per piece growth.
+Operating profit in the International segment was $551 million, down $103 million year-over-year, primarily due to trade policy changes.
+International operating margin in the first quarter was 12.1%.
+Looking at Supply Chain Solutions.
+Supply Chain Solutions made strong progress during the first quarter, highlighted by the doubling of operating profit year-over-year, driven by improvements across business units.
+In the first quarter, revenue was $2.5 billion, lower than last year by $176 million.
+Logistics revenue was down year-over-year, driven by lower revenue in Mail Innovations.
+This was partially offset by revenue growth in healthcare logistics.
+Reflecting market conditions, air and ocean forwarding revenue was down year-over-year.
+UPS Digital, which includes Roadie and Happy Returns, delivered another consecutive quarter of revenue growth, with revenue up 19.9% compared to the first quarter of 2025.
+In the first quarter, Supply Chain Solutions generated operating profit of $206 million, an increase of $108 million year-over-year.
+Operating margin was 8.1%, up 450 basis points compared to last year.
+Lastly, looking at cash.
+In the first quarter, we generated $2.2 billion in cash from operations.
+Let me provide an update on our Amazon glide down, cost out, and network reconfiguration efforts from the first quarter.
+Starting with variable cost, total operational hours paced down with volume in the first quarter, and we're on track to reach our 2026 reduction target of 25 million hours versus last year.
+Looking at semi-variable costs, by the end of the quarter, we reduced operational positions by nearly 25,000 compared to the first quarter of last year.
+The Driver Choice Program that we initiated during the quarter is expected to reduce full-time driver positions by approximately 7,500 over time, putting us firmly on target to reach our reduction goal of 30,000 operational positions this year.
+Moving to our fixed cost bucket, we completed the closure of 23 buildings during the first quarter.
+We are planning to close an additional 27 buildings this year, most of which will be closed in the second quarter.
+We are pleased with the progress that we are making on our Amazon glide down and network reconfiguration initiative and are on track to achieve our targeted $3 billion in savings in 2026.
+Moving to our 2026 financial outlook.
+While the macroeconomic environment is different now compared to our expectations at the beginning of the year, we have been quick to adjust to the changing conditions, and we're continuing to closely monitor the broader impacts across the global economy.
+As Carol stated, we are reaffirming our full-year 2026 consolidated financial targets.
+We are on track to generate revenue of approximately $89.7 billion with an operating margin of approximately 9.6%.
+Diluted earnings per share are expected to be about flat to 2025.
+The conflict in the Middle East in March drove an immediate spike in fuel costs.
+Our fuel surcharges are linked to published fuel benchmarks and adjust with fuel prices on a weekly basis.
+We expect these surcharges to provide coverage as fuel prices continue to fluctuate.
+Now let me add color on the segments.
+Looking at U.S.
+Domestic, full year 2026 revenue is still expected to be approximately flat year-over-year.
+We expect ADV to be down mid-single digits year-over-year due to our actions with Amazon, which will be offset by a strong revenue per piece growth rate in the mid-single digits.
+Full year operating margin is still expected to be flat to 2025.
+Looking at the second quarter of this year compared to the first quarter, the USPS transition has been completed.
+The Amazon glide down and network reconfiguration will wrap up by the end of June.
+We are leasing fewer replacement aircraft as 767 deliveries continue, and premium volume is expected to further improve mix.
+As a result, we expect revenue to be up low single digits and operating margin to be between 7.5% and 8.5%.
+Moving to the International segment, starting with the full year.
+We still anticipate revenue growth in the low single digits year-over-year, driven by a solid increase in revenue per piece.
+Operating margin in the International segment is expected to be in the mid-teens.
+Looking specifically at International in the second quarter, we will lap tough comparisons from changes in trade policy, benefit from normal seasonal uplift, and continue to realize savings from our air network cost actions.
+As a result, we expect low single-digit revenue growth and an operating margin between 13% and 14%.
+In Supply Chain Solutions for the full year 2026, we still expect revenue to be up high single digits, which includes revenue from our Andlauer acquisition.
+Operating margin in SCS is expected to be in the low double digits.
+Looking at the second quarter, we expect momentum from the first quarter to continue, and we expect revenue in SCS to be up low single digits year-over-year and operating margin between 9.5% and 10.5%.
+Now let's turn to our expectations for cash and the balance sheet.
+Capital expenditures are still expected to be about $3 billion, and we plan to make our annual pension contribution of $1.3 billion.
+We expect free cash flow to be approximately $5.5 billion, including one-time payments for the Driver Choice Program.
+Lastly, we are still planning to pay out around $5.4 billion in dividends in 2026, subject to board approval.
+As we near completion of our Amazon glide down and network reconfiguration initiative, we will enter the second half of this year with a more agile and more automated network.
+Our focus is on premium volume and revenue quality, and we'll grow in the best parts of the market.
+Taken together, these actions set us up for operating margin expansion and greater operational agility.
+With that, operator, please open the lines for questions.
+Operator
+Thank you.
+We will now conduct a question and answer session.
+If you have any questions or comments, please press star one on your phone at this time.
+We do ask that while posing your question, please pick up your handset if you're listening on speakerphone to provide optimum sound quality.
+We do ask that participants please ask one question.
+Once again, if you have any questions or comments, please press star one on your phone.
+Our first question comes from the line of Tom Wadewitz from UBS.
+Your line is live.
+Tom Wadewitz
+Analyst, UBS
+Yeah, good morning.
+Thank you.
+I wanted to ask you a question about the kind of ramp from 1Q to 2Q.
+You were a bit, I think in early March, you pointed to kind of 4%-5%, 1Q margin.
+You were at the lower end of that.
+I know you identified that, I think, kind of $350 million total transitional costs.
+How do you think about that, the key pieces of that ramp and just visibility to that versus what you might have had in terms of visibility to that ramp a month ago or two months ago?
+I, you know, I don't know if that, you know, kind of a little lower margin in 1Q reduces visibility or if you say, hey, that was just kinda transitional.
+How does fuel factor into the kinda 2Q versus 1Q?
+Is there some tailwind that you consider or is that something you don't factor in but could give you a little support?
+Really just to kinda how do we think about the key levers, 2Q versus 1Q.
+Thank you.
+Brian Dykes
+CFO, UPS
+Sure.
+Good morning, Tom, and thanks for the question.
+Yeah, let me make a couple points on the impacts on the first quarter.
+First, if you think inside the quarter, right?
+Relative to the 4% margin, we incurred incremental weather and casualty costs that was more than what we had initially expected when we were setting the guide and where we were in March.
+That was about 70 basis points, which gets us, you know, kind of towards the higher end of the range that we laid out.
+Second, when you go from first quarter to second quarter, there's really two components, right?
+We have normal seasonal uplift, right, that from first quarter to second quarter.
+The other part is if you think about that weather and casualty, those are behind us, right?
+The aircraft leases, as Carol and I both mentioned, we continue to take deliveries, so the incremental cost associated with those is coming down.
+We've now completed the Ground Saver outsourcing, so a lot of that transitional cost that we incurred in the first quarter now comes out.
+That helps you bridge from first quarter to second quarter.
+On fuel, look, we reaffirmed our guide.
+We are not updating for fuel at this point.
+Fuel didn't have a material impact in the first quarter because really the ramp in prices happened late in the quarter and as we've gone into April.
+Look, fuel, we manage fuel through fuel surcharges.
+Even though we have a large airline, we're very different than passenger airlines, and our industry operates very differently.
+Our fuel surcharge indexes protect us from impacts to profit, right?
+There could be revenue impact to that, but there will also be offsetting expense.
+What we don't know is how long the high prices could persist and then what happens with relative to oil prices and commodity prices around the world where we actually procure.
+We feel confident in the profit number based on the protection our indexes will provide and our surcharges, but it's not appropriate for us to update until we have further clarity on how long this will last.
+Carol Tomé
+CEO, UPS
+It's just too early in terms of the conflict.
+Clearly there's a benefit right now to the top line, not so much on the bottom line because we're just covering our costs.
+It's too early in the conflict to predict what fuel might mean for the rest of the year.
+We're gonna stay close to it, and we're gonna manage through it as carefully as we can, but we didn't wanna lift because it's just too early.
+Tom Wadewitz
+Analyst, UBS
+Great.
+Thank you.
+Operator
+Thank you.
+Our next question's coming from Scott Group from Wolfe Research.
+Your line is live.
+Scott Group
+Analyst, Wolfe Research
+Hey, thanks.
+Good morning.
+Just following up there, I get we don't know where fuel's gonna end up, but, you know, in a, in a higher fuel price environment where you guys are also raising the surcharge schedules, like should we assume that there is some sort of profit benefit from the higher fuel environment?
+Maybe just Carol, like let's just take a step back, like big picture, like, you know, we're gonna end up in the 7%-8% range on U.S. margin this year.
+Help us think about where that can go over the next couple of years.
+Do we get through the Amazon, you know, guide down?
+Maybe we start to see a little bit of wage inflation start to kick in again next year.
+Where do you think margins can start to go over the next couple of years here?
+Brian Dykes
+CFO, UPS
+Sure.
+Let me talk quickly about the fuel.
+Scott, as I mentioned before, look, the prices have spiked very quickly.
+It will have a revenue impact, but we also have associated costs.
+We don't see this as a windfall in the near term.
+Again, depending on how long it lasts, it could have a revenue impact, but there could also ultimately be a demand impact.
+Again, as Carol said, it's just too early to speculate on what the ultimate implications could be.
+We'll monitor it, and as we know more, we'll update.
+Carol Tomé
+CEO, UPS
+Scott, we've brought you all through a lot over the past almost 18 months.
+But we did it deliberately because it frees us to focus in on the markets that we wanna serve and serve them better than anybody else.
+That includes SMB and B2B and Healthcare.
+With those premium markets and the productivity that Nando and his team are driving in our business, there's an opportunity for continued margin expansion.
+This is the year of inflection, so the back half of the year will look considerably different than the first half of the year.
+As we exit this year, we have an opportunity to grow U.S. margins in a meaningful way with the spread between RPP and CPP.
+At the end of the year, we'll give you a sense of what we think 2027 will look like, but it's gonna be much better than 2026 based on what we're seeing and the underlying health of the business.
+We're winning in the right markets.
+Our churn is declining, all of this leads to stickiness with the customers that we wanna serve, with the right revenue quality, coupled with great productivity.
+You know, our hub productivity is the best it's been in 20 years, just to put a point on it.
+We now have automated the 67.5% of our buildings, almost on our way to 68%.
+We know the cost per piece in an automated building is 28% lower than the cost per piece in non-automated buildings.
+There's some really good underlying trends here. In the domestic business.
+Outside the United States, we can't, we can't ignore that because our business performed better than we thought in the 1st quarter due to the great work by Kate and her team, who also are leaning into the premium segments of the market.
+Brian called out that we grew SMB penetration in the international business.
+We did.
+It's now 62%.
+We also grew our B2B penetration outside the United States, now about 71%.
+Kate and team are gonna continue to lean into the premium part of our international small package business.
+We won't forget healthcare ever because healthcare is such a important part of our growth engine.
+It is in every segment of our business with double-digit operating margins, and we're going to continue to lean into that space in a meaningful way.
+With just one more comment on that, to put a pin on it, with just the changes that we're seeing in pharmaceutical companies with GLP-1 drugs and how they're going direct to consumer, rather than through distributors, that's such an opportunity for us, and I'm proud to say that we lead the market in that area.
+Operator
+Thank you.
+Our next question comes from Chris Wetherbee from Wells Fargo & Company.
+Your line is live.
+Chris Wetherbee
+Analyst, Wells Fargo & Company
+Thanks.
+Good morning.
+Maybe just a quick clarification question, then maybe bigger picture, I guess, for the driver buyout in the second quarter.
+Can you just give a sense of what the impact will be, if there will be a benefit in 2Q from that?
+Maybe, you know, zooming out a little bit, as we're about a quarter away or maybe a couple of months away from the end of the Amazon glide down, there still is a significant amount of revenue associated with that customer.
+I think there's been some changes, and they're always doing various things in the market.
+I guess the question is, Carol, is this sort of where you want the portfolio?
+Do you think there is incremental work that needs to be done around that, how defensible it is?
+Just sort of give us a sense of how you think about that customer exposure.
+Carol Tomé
+CEO, UPS
+On the driver buyout, 77% of the drivers are leaving in April, so there will absolutely be a benefit in the second quarter.
+I don't know, Brian, if you want to dimensionalize that.
+Brian Dykes
+CFO, UPS
+Well, and that's part of the step up that we've got, right?
+We had a, you know, roughly $150 million in transitional costs in the first quarter that starts to go away as we go to the second quarter, and it helps us with the margin improvement that we see in the second quarter and then going into the second half.
+Carol Tomé
+CEO, UPS
+As it relates to the Amazon question, at the end of the first quarter, Amazon made up 8.8% of our total revenue.
+That's down from, gosh, it was north of 13% not very long ago.
+Really pleased with how we've partnered with Amazon on this glide down.
+We hold that company in very high regard.
+For the volume that we have remaining with Amazon, I think we're gonna get to where we wanna be.
+We have a great return network.
+As you know, returns are the nemesis of anybody who's in the e-commerce space.
+In fact, 19% of all e-commerce sales are returned.
+With our great reverse network, and the capabilities that we have for boxless, labeless returns, that relationship with Amazon is just gonna continue to grow.
+It's not just returns, but that certainly is a key part of it.
+Give a shout out to the team at Amazon for working with us.
+We're pleased where we are and wanna continue our relationship in the remunerative way that it's turning out to be.
+Operator
+Thank you.
+Your next question's coming from Jonathan Chappell from Evercore ISI.
+Your line is live.
+Jonathan Chappell
+Analyst, Evercore ISI
+Thank you.
+Good morning.
+Brian, I want to take Tom's question and flip it to International.
+As Carol noted, you did much better there.
+You were looking for flat revenue.
+You did up almost 4%.
+Your margin was over 12%.
+The range was 10%-11%.
+Yet the 2Q guide is exactly the same.
+Was there something temporary in 1Q that enabled you to beat by so much relative to what you were expecting in the first week of March?
+Why wouldn't that upside across both margin and revenue be extrapolated going forward?
+Brian Dykes
+CFO, UPS
+Thanks.
+And yeah, we were very pleased with the performance in International.
+I think when you there's a couple things that drove it in the first quarter.
+As Carol mentioned, leaning into premium segments in Europe are helping us to drive revenue quality.
+As well as I would say that, you know, we mentioned the decline in the China to U.S. trade lane.
+While it's down, it's not as bad as what it has been, right?
+I would say things were not as bad as what we, what we expected or what they could have been.
+We are starting to see some recovery in certain trade lanes.
+As we roll into the second quarter, remember, we're still lapping the May will be the lap of the Labor Day and the China de minimis elimination, which will provide some improvement and step up.
+Then we'll have another lap in September of the full de minimis elimination.
+We do expect the improvement to persist.
+The other thing that's going on in International is we are seeing some incremental costs associated with the network reconfiguration around the Middle East conflict.
+It has impacted flight and block hours in some of the lanes.
+While it's not a large demand area or delivery area, it has impacted some of the network flows that we're managing through.
+Carol Tomé
+CEO, UPS
+Thanks for making that point.
+I think that's an important point.
+If you look at our exposure in the Middle East, it's pretty small.
+Job number one was to keep our people safe.
+We have about 2,000 people there, and they're safe, I'm happy to say.
+In the first quarter, the export and import revenue was about $130 million.
+It's not a lot of exposure, but we can't fly over the airspace.
+Because we can't fly over the airspace, that is putting cost into the network because we wanna continue to serve our customers.
+The other thing we're taking a cautious outlook on is just the elimination of de minimis in Europe.
+That happens this summer.
+We don't know if it'll be disruptive or not, but it's a change.
+We saw the disruption that happened last year with the elimination of de minimis here in the United States.
+We're just watching that.
+I couldn't be more happy about actually the work that our international team is doing to drive really great revenue quality and growth.
+Jonathan Chappell
+Analyst, Evercore ISI
+Yeah. Thank you.
+Operator
+Thank you.
+Your next question's coming from David Vernon from Bernstein.
+Your line is live.
+David Vernon
+Analyst, Bernstein
+Hey, good morning, guys.
+I'd like to kind of maybe understand the pace of cost takeout.
+Has there been any shift in timing caused by the discussions you have with the unions around the driver buyout?
+Brian, when you're thinking about the overall message you're trying to give us with guidance here, you know, it does seem like what first quarter domestic, if you give you credit for the $350 and International is performing really well, but we're not changing the full year.
+Like, is this just, well, you know what?
+We put the numbers out in the first quarter, and we're gonna see how the year plays out, and we'll update it later.
+Is something getting worse in the business that we can't see?
+Cause I think the market's kind of hearing a beat and no raise as a beat and maybe core worse for the last half of the year.
+I'm just wondering if you could help me, kind of understand what the messaging is here.
+Carol Tomé
+CEO, UPS
+Maybe I'll start, and then Brian, you can come in.
+It is early in the year to raise.
+The underlying business is better than we thought.
+If I look at the results in April, we're gonna exceed the plan that we put in place.
+If I look at the results outside the United States, we have moved from red in certain trade lanes to orange.
+Everything's moving in the right direction.
+David, it's early in the year, and there is a war in the Middle East.
+High gasoline prices could potentially impact demand towards the end of the year.
+We don't know.
+Instead, we wanna stay with our plan, but I couldn't be more pleased with how our company is performing.
+There's nothing on the underlying trend that should be concerning here.
+It's just too early in the year to raise.
+Brian Dykes
+CFO, UPS
+Yeah.
+David , I would just add to that.
+On the guide, Carol is absolutely right.
+We feel very good about the health of the underlying business.
+If you remember, we said SMB grew in the first quarter.
+We expect that to continue.
+We'll lap some of the actions that we took on the enterprise customers as we go through the second quarter and see growth ex Amazon in volume in the back half.
+We expect revenue ex Amazon to grow every quarter this year.
+Health of the underlying business is strong.
+Rev per piece is strong.
+Base pricing is strong.
+We feel really good about that.
+Carol  hit on International.
+On the pace of cost takeout, nothing's changed, right?
+I think if you look at the actions that we took in the first quarter, they actually set us up to do exactly what we said we were gonna do, right?
+We transitioned UPS Ground Saver.
+We executed on the DCP.
+As Carol said, nearly 80% of those positions will be eliminated by the end of this month.
+We're replacing the MD-11 capacity as we take delivery of the 767s.
+We're moving in the right direction.
+We're getting things behind us that are gonna help us drive the margin inflection as we go into the second half.
+Carol Tomé
+CEO, UPS
+Brian, isn't the shape of the cost out much like the shape of the cost out last year?
+Brian Dykes
+CFO, UPS
+It is, very, very much so.
+Right?
+You'll continue to see that improvement as we go through the course of the year.
+Carol Tomé
+CEO, UPS
+It accelerates as we head to the back.
+Yeah.
+Operator
+Thank you.
+Your next question's coming from Stephanie Moore from Jefferies.
+Your line is live.
+Stephanie Moore
+Analyst, Jefferies
+Great.
+Good morning.
+Thank you.
+I wanted to maybe ask a clarification on the Driver Choice Program.
+It sounds like it ended up coming in or the involvement is either in line or slightly better than what you expected.
+Admittedly, there are a lot of articles out there in the news that are kind of discussing maybe a little bit less willingness to move forward with that program on the driver side.
+It'd be helpful if you could maybe separate fact from fiction, what you're seeing, help align expectations.
+Any clarification there would be helpful.
+Thank you.
+Carol Tomé
+CEO, UPS
+Yeah, happy to.
+When we laid out our internal plans for the driver buyout, we wanted to land on 7,500 positions.
+Our program was oversubscribed, perhaps that's the basis for some of the articles.
+We had more drivers applying than we could accept.
+We accepted the 7,500.
+We couldn't be more happy.
+Brian Dykes
+CFO, UPS
+Stephanie, I would say that aligns with the pace of the, of the cost, the cost takeout that we had laid out at the beginning of the year.
+We feel very comfortable that we're gonna get to the $3 billion as we laid out.
+The actions that I articulated earlier are how we're gonna get there.
+Carol Tomé
+CEO, UPS
+You might say, w ell, why don't you take more in?
+Well, we have to run the business.
+This is what we needed to run our business.
+Operator
+Thank you.
+Your next question's coming from Jordan Alliger from Goldman Sachs.
+Jordan Alliger
+Analyst, Goldman Sachs Group, Inc.
+Yeah, hi, morning.
+I wanted to come back to International.
+You know, obviously with all the trade lane shifts and everything that's gone on, margins are below what had historically been the long-term trend.
+I'm just sort of wondering, over time, you know, can we push back into a high teens margin level?
+What will it take to get that margin uplift again coming from International?
+Thanks.
+Carol Tomé
+CEO, UPS
+Well, if you look at the international business, there's been a lot of movement in the trade lanes.
+As we've talked to you, our China-U.S. trade lane is our most profitable trade lane.
+We saw the margin in our APAC region down 500 basis points year-on-year.
+This is a moment in time because of the impact of the tariffs.
+This is gonna normalize over time.
+In fact, with the elimination of the IEEPA tariff and going back now to the 122 tariff of 10%, we're actually seeing trade lanes move from red to orange to yellow, and in some cases green.
+Things are starting to normalize.
+That means the margin will get back up.
+Jordan Alliger
+Analyst, Goldman Sachs Group, Inc.
+Thank you.
+Operator
+Thank you.
+Your next question comes from  Bruce Chan from Stifel.
+Your line is live.
+Bruce Chan
+Analyst, Stifel
+Hi, thanks, and good morning, everybody.
+Maybe just wanted to zoom out here and get some high-level thoughts on, you know, demand and maybe what's assumed in your outlook here.
+You know, heard from a few companies this quarter that, you know, maybe got some early indications of industrial demand recovery.
+Maybe you can just give us some high-level macro thoughts and talk about what you're seeing, in terms of, you know, maybe any pockets of emerging strength by, you know, segment or geography or end market or whatever.
+Brian Dykes
+CFO, UPS
+Sure.
+Sure.
+Good morning, Bruce.
+As I mentioned in my earlier remarks, look, we've seen some puts and takes on the macros, right?
+GDP ticked down a little bit.
+Industrial production ticked up a little bit.
+I think you're right.
+We do see pockets of strength in the places where we're really leaning in, right?
+We mentioned automotive, high-tech, healthcare, industrial, where we are seeing our ability to win more and take share.
+We haven't seen a material shift in what we would expect for the addressable market growth on small package in the U.S., still low single digits, but we are winning where it matters to us.
+As Carol mentioned, healthcare in particular, we grew across all segments of the business, and we continue to see strong uptake in there, which is higher than the average market growth rate.
+On the International side, Carol hit on it, right?
+I would say that while we're still down on certain trade lanes, they are moving in the right direction, right?
+In particular, we are seeing, you know, International to International origin destinations growing, right?
+Trade is moving in places that don't touch the U.S., and it's improving in places that do touch the U.S.
+Overall, I would say not a, like, a robust improvement, but incremental progress.
+Carol Tomé
+CEO, UPS
+If you look at China, rest of the world, it's up 14% year-on-year.
+Brian Dykes
+CFO, UPS
+Yeah.
+Carol Tomé
+CEO, UPS
+It's a small portion of our business, that's an encouraging sign to see that growth rate.
+Operator
+Thank you.
+Your next question's coming from Ariel Rosa from Citigroup.
+Your line is live.
+Ariel Rosa
+Analyst, Citigroup
+Hi.
+Good morning.
+Carol, you mentioned the CPP versus RPP spread.
+We've seen RPP grow pretty nicely, but we've also seen CPP obviously take a pretty big step up.
+I'm wondering how you think about that normalizing and when we get to a more normal level, what that can look like.
+Specifically, you know, in terms of what's driving up CPP, how much of that are fixed costs that start to go away?
+And then on RPP, how much is the pricing environment helping you versus the mixed benefit that you might be realizing from this shift towards higher yielding packages?
+Thanks.
+Carol Tomé
+CEO, UPS
+Well, I'll let Brian take that.
+Brian Dykes
+CFO, UPS
+Sure.
+Thanks, Ariel.
+I think, you know, getting back to this, call it 50 to 100 basis points spread is healthy, right, for our business.
+We'll be back there by the end of this year, right?
+Is the way the year kind of sets out.
+When you think about what's going to drive that, one, we're taking actions to bring the network capacity in the U.S. back in line with the volume level.
+That's DCP.
+That's Amazon building consolidation.
+That's all the things that we've outlined, and those, for the most part now are done or are in progress.
+We feel really comfortable at our ability to get the capacity lined up in the back half.
+On the revenue side, look, we've talked about this 250-350 basis points kind of range of base pricing improvement, and we've been in that range, right?
+That's, we've been very clear about what's mix versus fuel versus base pricing.
+I think we'll continue to get that kind of base pricing increase.
+You do that, right, through making sure that you're selling into the segments of the market that where we can, where we can deliver value to our customers, right?
+SMB, B2B, healthcare, that's where we're really leaning in, and that's where we're winning.
+I think we do have the ability to get there in the near term and then manage that and grow in a more accretive manner with a more efficient network as we go into the fourth quarter this year in 2027.
+Carol Tomé
+CEO, UPS
+I know Brian Dykes called this out in his prepared remarks, but in the U.S., the RPP growth was driven by base rate improvement, 340 basis points.
+Mix improvement, 200 basis points, and then about 110 basis points from fuel.
+That mix improvement is coming through this leaning into the premium segments, leaning into SMBs, and leaning away from, well, volume that was related to China e-commerce retailers, mostly UPS Ground Saver.
+That's been moved out of the network.
+We've offered that volume to the market so that we can focus on the premium side.
+Ariel Rosa
+Analyst, Citigroup
+Very helpful.
+Thank you.
+Operator
+Your next question's coming from Ken Hoexter from Bank of America.
+Your line is live.
+Ken Hoexter
+Analyst, Bank of America Corporation
+Hey, great.
+Good morning.
+Carol, I guess your competitor noted it posted the strongest quarter of profitable U.S. share gain in 20 years.
+You noted your churn is declining.
+You're seeing favorable mix improvements here, especially on the target audience SMB B2B.
+You know, it sounded like your or Brian's answer to Bruce earlier that there's not that underlying strength that you're really seeing run away here.
+I just want to understand, given what we're seeing in truck market, on some of the rail volumes, that underlying, is there just a delay typically in what you see economically?
+Are you seeing some of that pop up?
+I just want to understand maybe that mix, or is it just what you're chasing is just different than the market now?
+Carol Tomé
+CEO, UPS
+Well, let's talk about market share for a moment.
+If we ignore the volume that we have made available to the market, and that includes Amazon and volume from e-commerce, Chinese retailers.
+If we ignore that volume, we actually gained 1.2% market share growth.
+We have made volume available to the market that has gone to other carriers, including our largest competitor.
+It has, because we deliberately moved that, made that volume available.
+If I look at the underlying business, I'm really pleased with the share that we're getting in terms of trends.
+Brian Dykes
+CFO, UPS
+Yeah.
+Ken, I think you're right.
+There is a slight delay in how things move through the supply chain, through the ports, through the TL, the LTLs and the rails.
+Like I said, Bruce, I would say we see incremental momentum in our B2B business, in the industrial business.
+Part of that's through capabilities, right, that we've been investing in, but part of it is through momentum.
+I would just say it has not been runaway growth that would cause us to fundamentally change our market growth assumption for the year yet. Thanks, Brian.
+Thanks, Carol.
+Ken Hoexter
+Analyst, Bank of America Corporation
+Thank you.
+Operator
+Thank you.
+Your next question is coming from Richa Harnain from Deutsche Bank.
+Richa Harnain
+Analyst, Deutsche Bank
+trajectory look in light of maybe more cost efficiency from automation, things to offset the step up that we're gonna see in your contract, I believe, next year, if that's right.
+Trying to just, you know, add more to Carol , your point that 2027 should look a lot better than 2026.
+I'm just trying to understand, like, puts and takes on the CPP line.
+Then, you know, in the spirit of the longer term potential, I just want to clarify one thing.
+Carol, I think you said you think margins will be back to high teens in International.
+Are you assuming U.S.
+China business that wasn't structurally impaired from de minimis, and it should return to where it was prior in terms of overall volume?
+You know, how do you get back to high teens?
+I'm just trying to understand.
+Thank you.
+Carol Tomé
+CEO, UPS
+Well, clearly, as the trade lanes normalize and we see more volume flowing through the China-U.S. trade lane, that will help our margin.
+It's not just that.
+We are investing in the premium opportunities where we're under penetrated in Europe, moving away from e-commerce, which is low margin, into premium opportunities, and that's going to significantly improve our domestic margins in Europe.
+It's a combination of actions that we are driving to drive us back to mid to high teens in our international business.
+On the CPP potential, Brian, I'll let you take that.
+Brian Dykes
+CFO, UPS
+Sure.
+I think even if you look into the back half of this year, our CPP gets down into the low single digits, right?
+That's, you know, as Carol said, while we've been going through the network reconfiguration, we have been eliminating some of the less productive older buildings that require more maintenance.
+We have been heavily investing in automation that drives a much more efficient and agile network.
+That should allow us to keep low CPP in the low single digits and then have that 50 to 100 basis point spread because we've got a more healthy customer mix and grow from there.
+That's a healthy business that can drive growth and profit improvements for us.
+Carol Tomé
+CEO, UPS
+With our new outsource relationship with the USPS, we'll be able to drive density upon the delivery.
+That's a real way to lower the cost per piece, is to improve the density per delivery.
+As you know, we've just kinda completed the ramp up, so now we're gonna start to see some benefits from that move.
+Richa Harnain
+Analyst, Deutsche Bank
+Okay.
+Just any offset from the contract with the Teamsters, how is that gonna influence CPP in the back half and into 2027?
+Carol Tomé
+CEO, UPS
+Well, I'll tell you one thing.
+We have a lot fewer employees in our company than we had when we started this work.
+That helps on the CPP management next year.
+Richa Harnain
+Analyst, Deutsche Bank
+Yeah.
+Thank you so much.
+Operator
+Thank you.
+Your next question's coming from Brian Ossenbeck from JP Morgan.
+Your line is live.
+Brian Ossenbeck
+Analyst, JPMorgan Chase & Co.
+Hey, good morning.
+Thanks for taking the questions.
+Maybe just two sorta quick follow-ups.
+Just on the mix shift, you know, I understand the increasing percentage of mix for SMB and B2B, but looks like B2B volume in absolutes was down 5%.
+Don't know if you can provide some color as to why that occurred and what might be moving forward here.
+Then, Carol, just on the transition for the USPS, sounds like it's done.
+Maybe not everything went back to them in terms of final mile delivery.
+Can you give a little bit more color on that and also just how you expect to manage their own fuel surcharge, which was kind of a big headline.
+You know, they never really had one in the past.
+I don't know if that's something you can pass through as well with that program.
+Thanks very much.
+Carol Tomé
+CEO, UPS
+In the first quarter, we tendered about 977,000 ADV to the USPS, which is about 44% of our Ground Saver product.
+It was a wrap because we had to get work through dual labeling and some work that we had to do to transition.
+It was a wrap up.
+Really pleased with how we exited.
+As we look to the second quarter, we'll be tendering around 1.5 million, something like that.
+That's moving the way we thought it would.
+In terms of their interesting surcharge that they put in, which appears to be a temporary surcharge, I'm not entirely sure, you know, it's not appropriate for us to talk about how we manage pricing by customer, but I will say the postal system tends to set the floor for the economy product, which is actually pretty good for the whole industry if they're raising prices.
+Brian Dykes
+CFO, UPS
+That's right.
+Brian, on your question around B2B, the B2B volume decline is really driven by some of the intentional actions that we took last year.
+Part of it is Amazon.
+Part of the Amazon volume that we're exiting through AFN is delivered to commercial addresses.
+There's other stuff that was returns for Chinese e-commerce and some other things that we're moving through.
+We'll cycle through that as we go through the second quarter.
+Again, you know, we see strength in the underlying B2B business where we're winning on capability.
+Carol Tomé
+CEO, UPS
+That may sound a little curious that a retailer would be a B2B, but it's the way that we think about our customer segmentation.
+If it's a return to store or a return to a physical building, we're gonna do that as a business transaction even though the payee, if you will, the customer who's paying us, might be a retailer.
+Brian Dykes
+CFO, UPS
+That's right.
+Matthew, we have time for one more question.
+Operator
+Certainly.
+Our final question comes from the line of Ravi Shanker from Morgan Stanley.
+Your line is live.
+Ravi Shanker
+Analyst, Morgan Stanley
+Great.
+Thanks.
+Morning, everyone.
+Carol, there's reports that you and your peer have applied for tariff refunds through the portal.
+Can you just tell us your understanding of how that will work, kind of when that might come through?
+Also what happens next?
+Do you get to keep the tariffs, or do you have to pass them through to the end customers?
+Carol Tomé
+CEO, UPS
+Well, thanks for the question, Ravi.
+This is a complicated matter for sure.
+I'm gonna zoom out just to talk about the IEEPA tariff in total.
+Last year, well, since the tariffs have been initiated, the Customs Border Protection processed 53 million IEEPA related entries and collected $166 billion in tariffs.
+For us, we processed 16 million IEEPA related entries and remitted over $5 billion to the U.S.
+Treasury.
+Ravi, we are just a pass-through.
+We collect, and we remit to the government.
+Now that the tariffs have been deemed refundable, we are working with the Customs Border Protection to apply for those refunds.
+Our approach is to work with the U.S. government and not to sue the U.S. government.
+We have applied for the refunds pursuant to the guidelines from the U.S.
+Customs and Border Protection.
+They are not going first in, first out, but actually last in.
+It's for the tariffs that have happened this year.
+It means applying for tariffs for 2.5 million entries, a little under $500 million.
+We are making those applications started on April 20.
+We are making those applications today.
+We think it's going to take some time before the Treasury remits money to us, but as soon as we get that money, we are going to remit it right back to our customer.
+Ravi Shanker
+Analyst, Morgan Stanley
+Very helpful.
+Thank you.
+Brian Dykes
+CFO, UPS
+Yeah, that's a really important point.
+I think, as Carol mentioned, we are purely a pass-through, so we don't expect that this will have an impact on our financial statement.
+Ravi Shanker
+Analyst, Morgan Stanley
+Understood.
+Thank you, Brian.
+Operator
+Thank you.
+I will now turn the floor over to your host, Mr. PJ Guido.
+PJ Guido
+Investor Relations Officer, UPS
+Thank you, Matthew.
+This concludes our call.
+Thank you for joining, and have a good day.
+Data Source:
+Quartr
+Last updated:
+Apr 28, 2026
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (17)
+Quarterly report
+Slides
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.

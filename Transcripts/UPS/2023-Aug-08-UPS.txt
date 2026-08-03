@@ -1,0 +1,908 @@
+UPS (UPS) Q2 2023 Earnings Call Transcript & Audio
+Skip to main content
+/
+Help
+Log In
+Sign Up
+Home
+Watchlist
+Stocks
+Stock Screener
+Stock Exchanges
+Comparison Tool
+Earnings Calendar
+By Industry
+Stock Lists
+Top Analysts
+Top Stocks
+Corporate Actions
+IPOs
+Recent IPOs
+IPO Calendar
+IPO Statistics
+IPO News
+IPO Screener
+ETFs
+ETF Screener
+Comparison Tool
+New Launches
+ETF Providers
+News
+Trending
+Private Companies
+Technical Chart
+Fundamental Chart
+Market Movers
+Top Gainers
+Top Losers
+Most Active
+Premarket
+After Hours
+Market Heatmap
+Market Newsletter
+Stock Analysis Pro
+Tools
+Collapse
+Follow Stock Analysis
+United Parcel Service, Inc. (UPS)
+NYSE: UPS · Real-Time Price · USD
+Full Chart
+Watchlist
+Alerts
+Compare
+104.22
+-1.05 (-1.00%)
+At close:
+Jul 31, 2026, 4:00 PM EDT
+105.11
++0.89 (0.85%)
+Pre-market:
+Aug 3, 2026, 7:46 AM EDT
+Overview
+Financials
+Forecast
+Statistics
+Metrics
+Dividends
+History
+Profile
+Chart
+Profile
+Transcripts
+Filings
+Employees
+← View all transcripts
+Earnings Call: Q2 2023
+Aug 8, 2023
+Quarterly report
+Slides
+Earnings release
+Play Audio
+Download Transcript
+Operator
+Good morning.
+My name is Steven, and I will be your facilitator today.
+I would like to welcome everyone to the UPS Investor Relations Second Quarter 2023 Earnings Conference Call.
+All lines have been placed on mute to prevent any background noise, and after the speaker's remarks, there will be a question-and-answer period.
+Any analyst that wants to ask a question, now is the time to press the 1, then 0 on your telephone keypad.
+It is now my pleasure to turn the floor over to your host, Mr. Ken Cook, Investor Relations Officer.
+Sir, the floor is yours.
+Ken Cook
+Vice President, Investor Relations, UPS
+Good morning, welcome to the UPS second quarter 2023 earnings call.
+Joining me today are Carol Tomé, our CEO, Brian Newman, our CFO, and a few additional members of our executive leadership team.
+Before we begin, I want to remind you that some of the comments we'll make today are forward-looking statements within the federal securities laws and address our expectations for the future performance or operating results of our company.
+These statements are subject to risks and uncertainties, which are described in our 2022 Form 10-K and other reports we file with or furnish to the Securities and Exchange Commission.
+These reports, when filed, are available on the UPS Investor Relations website and from the SEC.
+Unless stated otherwise, our discussion refers to adjusted results.
+For the second quarter of 2023, GAAP results include after-tax transformation and other charges of $106 million or $0.12 per diluted share.
+A reconciliation to GAAP financial results is available on the UPS Investor Relations website, along with the webcast of today's call.
+Following our prepared remarks, we will take questions from those joining us via the teleconference.
+If you wish to ask a question, press one and then zero on your phone to enter the queue.
+Please ask only one question so that we may allow as many as possible to participate.
+You may rejoin the queue for the opportunity to ask an additional question.
+Now I'll turn the call over to Carol.
+Carol Tomé
+CEO, UPS
+Thank you, Ken.
+Good morning.
+Let me begin by commenting on our agreement with the Teamsters.
+We believe this contract is a win, win, win.
+Together, we reached agreements on the issues that were important to Teamster leadership, to our employees, and to UPS.
+We have the best people.
+Our new contract continues to reward our employees with the best pay and benefits in our industry.
+I'll share some highlights of the new contract in a moment.
+The second quarter was challenging, and I'd like to recognize the more than 500,000 UPSers around the world for their hard work and effort, and for doing what they do better than anyone, and that's deliver industry-leading service.
+I'd also like to give a special shout-out to our salespeople for their dedication to our customers.
+Most importantly, I want to thank our customers for putting their trust and their business with us during our labor negotiations.
+For those customers who diverted, we look forward to bringing you back to our network.
+Moving to our second quarter results, we expected negotiations with the Teamsters to be late and loud, and they were.
+As the noise level increased throughout the second quarter, we experienced more volume diversion than we anticipated.
+When faced with volume declines, some companies might go off strategy or chase unprofitable business, but that is not today's UPS.
+Today's UPS is focused on the long term.
+During the quarter, we stayed on strategy and continued to invest in the business.
+We also maintained our pricing discipline.
+Further, the investments we've made in our automated facilities and technology, like network planning tools, or NPP, have enabled greater agility than ever before.
+As volume levels declined, we demonstrated that agility by quickly adjusting our integrated network and maintaining high levels of productivity.
+Looking at our second quarter results, versus last year, consolidated revenue declined 10.9%- $22.1 billion, under our expectations due to lower volume.
+By controlling what we could control, we quickly took cost out of the network and delivered $2.9 billion of operating profit in line with our expectations.
+Consolidated operating margin was 13.2%, which exceeded our expectations.
+Over the past three years, we've executed several initiatives in support of our customer-first, people-led, innovation-driven strategy.
+Let me highlight some recent accomplishments.
+Starting with customer first, during the labor negotiation, communication and transparency with customers was a top priority.
+During the quarter, over 500 UPS executives had regular contact with many, many customers.
+Our approach with these customers was to keep volume from diverting, or if it diverted, win it back after the labor negotiation was settled.
+This approach brought us closer to our customers, and we've gained an even better understanding of their end-to-end supply chain, which will allow us to better serve them.
+We are now laser-focused on executing our win-back initiatives and pulling through the more than $7 billion of opportunity in our sales pipeline.
+To do so, we will leverage our superior service and capabilities and the investments we've made in the digital customer experience.
+While all win back and new volume won't happen immediately, we are already seeing some volume return.
+On the digital front, our Digital Access Program, or DAP, continues to grow.
+We've introduced new plug-and-play technology to make it even easier for e-commerce platforms to connect.
+In the second quarter, we added 7 new platforms to DAP, including 4 international platforms.
+In the first 6 months of this year, DAP generated more than $1.4 billion in revenue, putting us on our way to achieving our 2023 DAP revenue target of around $3 billion.
+One of our strategic objectives is to become the number one complex healthcare logistics provider in the world.
+In the second quarter, we further expanded our European footprint by opening our first dedicated healthcare distribution facility in Ireland, giving us certified healthcare facilities in 35 countries.
+For the first 6 months of 2023, revenue from our healthcare portfolio reached $4.7 billion.
+For the full year, we expect to generate $10 billion in healthcare revenue.
+On the international small package front, we've been quickly expanding in India, which is one of the fastest growing economies in the world.
+In May of last year, we launched MOVIN, our asset-light domestic joint venture, and we recently expanded from 3 cities to 49 of the largest cities in India, now covering approximately 90% of the B2B market opportunity.
+Turning to people, Ed, we expect our new labor contract to be ratified in 2 weeks.
+Today, I'll just share some highlights, and we will provide more details after ratification.
+Let's start with weekend delivery.
+The new contract converts all 22.4 employees, who are our weekend delivery drivers, to regular full-time package car drivers.
+This gives us the flexibility we need to schedule delivery drivers Tuesday through Saturday and provides more work-life balance for our drivers.
+Further, we kept our Sunday delivery service by maintaining our SurePost products.
+Moving to working conditions, we will be improving the working conditions for all employees, including air conditioning in every new U.S. package car starting in January 2024.
+We retained our ability to introduce new technology and the flexibility to use seasonal support during the peak holiday season.
+For our Teamster employees, this contract further strengthens the industry-leading pay and benefits they already enjoy.
+When you look at total compensation, by the end of the new contract, the average UPS full-time driver will make about $170,000 annually in pay and benefits.
+For all part-time union employees that are already working at UPS, by the end of this contract, they will be making at least $25.75 per hour while receiving full healthcare and pension benefits.
+In fact, our part-timers are among only 7% of all U.S. part-time workers in the private sector to enjoy these benefits.
+There's much, much more.
+The last point I would like to highlight is the addition of a new paid holiday on Martin Luther King Jr. Day, which will be a benefit for all U.S. employees.
+UPS has a long history of honoring Dr. King.
+This additional paid holiday aligns with our values.
+All of this and more helps to make UPS the best place to work, which brings me to Innovation-Driven.
+We run the most efficient integrated network in the world, powered by technology developed by UPS engineers.
+In the quarter, we leveraged the agility of our network to match capacity with volume levels.
+Key to this agility was NPT, which is a set of technologies that use AI and machine learning to harness the value of our data to quickly make changes to load planning, scheduling, and volume flows across the network.
+This technology is powerful.
+In fact, NPT can do in an afternoon what used to take a team of engineers months to do.
+By using NPT with our Total Service Plan, we quickly matched the network to volume levels.
+This resulted in a nearly 10% reduction in hours in the U.S., in line with the decline in volume.
+Additionally, NPT enabled us to further reduce semi-variable and fixed costs, which Brian will detail in a moment.
+Importantly, we did all of this while continuing to provide industry-leading service to our customers.
+There is no finish line when it comes to driving efficiency.
+For example, we've made great progress in rolling out Smart Package, Smart Facility, our RFID initiative.
+At the end of the second quarter, almost 50% of our U.S. buildings were operating with this technology, and we expect to complete the U.S. deployment by the end of October.
+Quickly touching on our outlook.
+Now that labor negotiations are behind us, we've updated our guidance for the full year, primarily to reflect the volume impact from labor negotiations and the costs associated with the tentative agreement.
+Brian will share more detail in a moment. Let me close by talking about our future.
+Customer First, People-Led, Innovation-Driven, under our Better and Bolder framework is a winning strategy.
+We are winning in the best parts of the market and making our integrated network even more agile and efficient.
+Now, for the People-Led part of our strategy, our new contract establishes a platform for the future.
+Our company is stronger than ever, and we will move even faster to execute our strategy and continue delivering industry-leading service for our customers.
+I'm excited about what the future holds and what UPSers will accomplish together.
+I truly believe our best days are ahead of us.
+With that, thank you for listening.
+Now I'll turn the call over to Brian.
+Brian Newman
+CFO, UPS
+Thanks, Carol, and good morning.
+Let me begin by echoing Carol's comments on how pleased we are on achieving a win-win-win labor agreement covering our more than 300,000 Teamster employees.
+This contract provides UPS a significant measure of certainty around labor, gives us operational flexibility to increase productivity, and continue providing industry-leading service to our customers, and it will help us attract and retain the best employees in the industry.
+Now, in my comments today, I'll cover four areas.
+I'll start with the macro, followed by our 2Q results.
+Next, I'll cover cash and shareowner returns, and lastly, I'll provide some comments on the 2H of the year.
+In the 2Q, the overall macro conditions in the U.S. were in line with our expectations.
+Internationally, conditions were a little worse than we expected due to lower growth in both real exports and industrial production.
+Moving to our financial results, for the quarter, consolidated revenue was $22.1 billion, down 10.9% from last year.
+All three of our segments demonstrated agility and on a combined basis, drove down total expense by $2.1 billion in the second quarter year-over-year.
+This enabled us to deliver $2.9 billion in operating profit, which is the target we communicated to you last quarter, and was a decrease of 18.4% compared to last year.
+Consolidated operating margin was 13.2%, a decline of 120 basis points compared to the same period last year, with all three segments achieving double-digit operating margins.
+For the second quarter, diluted earnings per share was $2.54, down 22.8% from the same period last year.
+Let's look at our business segments.
+In U.S.
+Domestic, our disciplined approach to revenue quality partially offset the decrease in volume.
+As volume declined throughout the quarter, the team did an excellent job adjusting the network to match demand and drive out cost in real time, all while maintaining industry-leading service levels.
+We expected volume to decline in the second quarter, and it did, but we saw more volume diversion than anticipated as noise levels around our labor negotiations increased.
+We estimate the impact of volume diversion, combined with a slowdown in our sales pipeline pull-through, reduced volume in the second quarter by approximately 1.2 million packages per day.
+For the quarter, total average daily volume was down 9.9%, with June down 12.2%.
+Moving to mix, in the second quarter, we saw lower volumes across all industry sectors, with the largest declines from retail and high tech.
+B2C average daily volume declined 11.5% compared to last year.
+B2B average daily volume was down 7.7%.
+In the second quarter, B2B represented 43.7% of our volume, which was an increase of 100 basis points from a year ago.
+In the second quarter, we continued to see customers shift volume out of the air onto the ground.
+Total air average daily volume was down 16.5% year-over-year.
+Ground average daily volume declined 8.6%.
+In terms of customer mix, in the second quarter, SMB average daily volume declined less than volume from our enterprise customers.
+SMBs, US Domestic generated revenue of $14.4 billion, down 6.9%.
+Revenue per piece increased 3.3%, partially offsetting the decline in volume.
+The combination of strong base rates and improved customer mix increased the revenue per piece growth rate by 670 basis points.
+Changes in fuel prices decreased the revenue per piece growth rate by 220 basis points.
+The remaining 120 basis point decline was due to multiple factors, including package characteristics and product mix.
+Turning to costs, the US Domestic team took out $889 million of expense year-over-year, which is the largest year-over-year cost reduction in our history.
+How did we do it?
+We leveraged our technology and the agility of our integrated network.
+Let me walk you through some of the levers we pulled.
+We continued to execute our Total Service Plan and reduced labor hours by nearly 10% to maintain our high levels of productivity.
+We leveraged the power of our Network Planning Tools to optimize package flows and pull volume out of smaller, non-automated buildings and flow it into our larger, automated facilities.
+While total volume was down 9.9%, we reduced the volume in our non-automated buildings by 18%....This enabled us to close sort and reduce operations headcount by 7% compared to last year.
+We reduced feeder movements by continuing to manage cube utilization in our trailers and brought on more UPS feeder drivers to support our Fastest Ground Ever lanes.
+Looking at air volumes, we pulled more activity into Worldport, our global air hub in Louisville.
+This enabled us to move more volume via our next day flight and reduce second day flights.
+As a result, domestic block hours were lower by 6.5% versus last year, and we exited the second quarter with block hours down more than 10%.
+Lastly, we reduced management headcount by over 2,500 positions year-over-year.
+All of these actions helped us reduce U.S.
+Domestic expense in the second quarter.
+Specifically, compensation and benefits was down $205 million year-over-year, despite 6.5% increase in average union wage rates.
+Purchase transportation declined $207 million.
+Fuel expense was lower by $394 million, and there were multiple factors that drove the remaining $83 million reduction in expense.
+Our results are proof of our agility.
+In the second quarter, we took out a record amount of costs and held the cost per piece growth rate to 3.7%, while volume was down nearly 10%.
+The U.S.
+Domestic segment delivered $1.7 billion in operating profit, in line with our expectations, down 9.4% compared to the second quarter of 2022.
+Operating margin was 11.7%, an increase of 180 basis points from the first quarter of this year.
+Moving to our international segment, macro conditions remained sluggish in the second quarter.
+In Europe, persistent high inflation and tight financial conditions weighed on the consumer.
+In Asia, the slow recovery we experienced in the first quarter stalled in the second quarter.
+In the quarter, international total average daily volume was down 6.6% year-over-year.
+About two-thirds of the decline came from lower domestic average daily volume, which was down 8.7%, driven primarily by declines in Europe.
+On the export side, average daily volume declined 4.5% on a year-over-year basis.
+Looking at Asia, export average daily volume was down 10.1%.
+Export volume on the China to U.S. lane was down 7% year-over-year, which was an improvement from the first quarter.
+In the second quarter, international revenue was $4.4 billion, which was down 13% from last year due to the decline in volume and a 5.7% reduction in revenue per piece.
+The decline in revenue per piece was primarily driven by a 570 basis point decrease from fuel surcharge revenue.
+Additionally, a reduction in demand-related surcharge revenue contributed 240 basis points to the decline, and there was an 80 basis point decline in revenue per piece due to a stronger US dollar.
+Partially offsetting the decline, multiple factors increased the revenue per piece growth rate by 320 basis points, including strong base rates and favorable volume mix as export volume outperformed domestic volume.
+Moving to cost.
+In the second quarter, total international cost was down $356 million, primarily driven by lower fuel expense.
+We leveraged the agility of our integrated network to match capacity with demand and focused on controlling what we could control.
+These actions included flight reduction, which drove international block hours down 9.4% compared to last year, which includes a 15.5% block hour reduction on Asia outbound transcontinental flights.
+We also reduced headcount in operations and overhead functions by a total of more than 1,700 positions, and we did all of this while continuing to deliver excellent service to our customers.
+Operating profit in the international segment was $902 million, down $302 million year-over-year, which included a $123 million reduction in demand-related surcharge revenue.
+Operating margin in the second quarter was 20.4%, in line with our expectations.
+Now, looking at supply chain solutions, our teams continued to navigate a challenging macro environment and executed our plans to reduce costs.
+In the second quarter, revenue was $3.2 billion, down $990 million year-over-year.
+Looking at the key drivers, forwarding continued to be impacted by softer global demand, especially out of Asia, which drove market rates and volume lower.
+This resulted in a decline in revenue and operating profit.
+In response, we cut operating costs and are continuing to manage buy-sell spreads.
+Logistics delivered revenue and operating profit growth, including gains in our healthcare business.
+In the second quarter, supply chain solutions generated operating profit of $336 million and an operating margin of 10.4%.
+Walking through the rest of the income statement, we had $190 million of interest expense, our other pension income was $66 million, our effective tax rate for the second quarter was 23.5%.
+Now let's turn to cash and share owner returns.
+Year to date, we generated $5.6 billion in cash from operations, and free cash flow was $3.8 billion, including our annual pension contribution of $1.2 billion that we made in the first quarter.
+Also this year, in the first quarter, we issued $2.5 billion in long-term debt.
+We've used $1.6 billion to pay off debt maturities in the second quarter, and we plan to use $900 million to pay off debt maturing in the second half of this year.
+In the first half of 2023, UPS paid $2.7 billion in dividends.
+We also completed $1.5 billion in share buybacks at an average price of around $178 per share.
+I'll share a few comments about our outlook.
+As Carol mentioned, with the contract out for ratification, we have updated our consolidated revenue and adjusted operating margin guidance.
+For the full year 2023, we expect consolidated revenue of about $93 billion and consolidated operating margin of around 11.8%.
+Let me provide some color to help you update your models for the second half of the year.
+The U.S.
+Domestic segment is navigating a couple of unique factors in the back half of the year.
+First, in the second quarter and into July, we experienced more volume diversion than we anticipated.
+Because of this, our volume ramp up for the second half of the year is starting from a lower base.
+We're already executing our initiatives to win back diverted volume and accelerate the pull-through from our sales pipeline while remaining disciplined on revenue quality.
+As a result of our efforts, by the end of the year, we expect our average daily volume levels to be about even with December of last year.
+Overall, for the second half of 2023, we expect U.S. average daily volume to be down by a mid-single digit % year-over-year.
+Second, looking at expense in the U.S.
+Domestic segment, the union wage rate increases, including in our new labor agreement for the 1st year, are higher than we originally planned.
+We started to accrue for the terms of the tentative agreement on August 1st, while the contract is out for ratification.
+Further, we will address wage compression that resulted from the new labor contract.
+These additional labor costs in the back half of the year will be partially offset by the network adjustments we made in the second quarter.
+Turning to the international segment, in the second half of the year, we expect the year-over-year volume growth rate to be similar to what we saw in the second quarter, and revenue per piece growth to be flattish compared to the same period last year.
+In Supply Chain Solutions, we expect second half revenue to be down by a high single-digit % year-over-year, with full year revenue approaching $14 billion.
+Moving to capital allocation, our 2023 full year targets have not changed.
+We will continue to stay on strategy and invest in both efficiency and growth opportunities.
+Capital expenditures are still expected to be about $5.3 billion, which includes completing the deployment of the first phase Smart Package Smart Facility in the U.S., continuing to expand our healthcare logistics footprint globally, expanding DAP internationally, and investing in our logistics as a service platform.
+We are still planning to pay out around $5.4 billion in dividends in 2023, subject to board approval.
+For the full year, we still plan to buy back around $3 billion of our shares.
+With negotiations behind us, we are moving our business forward.
+For our people, we have a platform for the future that continues to reward our employees, which helps us to deliver industry-leading service to our customers and enables us to win back volume and drive revenue quality.
+We will control what we can control, which means continuing to manage costs as we scale up the network with volume.
+We are staying on strategy and investing through this cycle, which will enable us to grow in the most attractive parts of the market, make our integrated network even more efficient, and continue to reward our shareowners.
+Thank you, and operator, please open the lines.
+Operator
+Thank you.
+We'll conduct a question-and-answer session.
+Our first question will come from the line of David Vernon of Bernstein.
+Please go ahead.
+David Vernon
+Analyst, Bernstein
+Question.
+Brian or Carol, I'd love to understand kind of at a high level, you know, what we should be expecting about the shape of inflation over the, the, the course of the contract.
+I know we're probably not going to get into too many of the details today, but I'd love to understand kind of from a CAGR perspective, how you're set up for inflation over the life of this contract?
+Carol Tomé
+CEO, UPS
+Well, maybe I'll just start with some observations about the contract, then Brian, you can provide details on, on the shape of the curve.
+You know, as we got into the negotiations, David, it became very clear to me that we were negotiating on behalf of a number of stakeholders.
+We were negotiating on behalf of our people, we were negotiating on behalf of our customer, we were negotiating on behalf of our country, we were negotiating on behalf of our shareowners, we were negotiating on behalf of UPS.
+As I look at the handshake agreement that we achieved, I think we have a win-win-win for all stakeholders.
+I'll make that real for you.
+First, in terms of our people, they will continue to be paid the highest wage and benefits in the industry.
+They'll have better work-life balance, and the working conditions will also be improved, as we'll be adding air conditioning to all package cars starting January.
+For our customers, we avoided a work stoppage, and that would have been disruptive for them and for their customers, so I think that's a win.
+For our country, as you know, we move 6% of U.S.
+GDP every day, and there was no place for this volume to go, so we avoided a disruption to the economy with this handshake agreement.
+For our shareowners, I would say we also have a win, because as I look at the economic package over the 5 years, the compounded annual growth rate of this economic package is 3.3%.
+I say that's a win.
+For UPS, we retain the flexibility we need to take care of our customers, to provide seasonal help during the holidays, to add technology to drive productivity and efficiency.
+I think it's a win-win-win.
+Maybe, Brian, you can talk about the shape.
+Brian Newman
+CFO, UPS
+Yeah, Carol, I'm gonna host a call, Dave, and go a bit deeper on it, but it's sort of a barbell type effect.
+We've got a majority of the increase, well, not majority, over 40% in year 1, and then years 2, 3, 4, quite reasonable from an inflation standpoint, and then with another step up in year 5.
+I'll go into more details on that when we host a call following the ratification.
+David Vernon
+Analyst, Bernstein
+All right, thanks for that.
+Maybe just as a quick follow-up, can you talk about what you need to do to win back some of the volume that you might have lost to contract uncertainty?
+I'm just wondering, you know, kind of how quickly you guys are expecting that to come back as we look into the, what's, what's baked into guidance.
+Carol Tomé
+CEO, UPS
+It's all hands on deck to win back the volume that was diverted as a result of the labor negotiations.
+The first thing we did is that we stood up a control tower.
+This is the same kind of control tower that we use during peak to ensure that we can onboard this volume coming back without disruption.
+That is up and running, and I'm very pleased with what I'm seeing in that regard.
+We have, of course, mitigated all the risk that was still remaining because we didn't know the outcome of the contract, so that those high-risk customers are now shipping with us without any risk.
+From a marketing perspective, we're doing a number of things.
+The first thing we're doing is we're amplifying our service message because we do have the best service in the industry.
+We are also amplifying our UPS SurePost advantage because this is a very attractive product if you're shipping low weight packages.
+We are expanding our speed campaign because we are faster than our largest competitor in many, many markets.
+We are amplifying our speed campaign.
+We are also expanding our weekend pickup to 4 markets.
+We are expanding our Saturday delivery by 890 postal codes, and we are launching new offerings inside Deal Manager, which is a tool that we use to win new small and medium-sized businesses.
+There's a lot of effort underway to bring back this business that we lost and to win new business.
+Now, I will tell you, it's not all gonna happen at once.
+We understand that.
+We're working with our customers to bring it in as quickly as we can, but also as smoothly as we can for them as they've diverted.
+I'm looking at our volume in July.
+I will say that it was still down year-over-year, but not as much as the decline that we saw in June.
+David Vernon
+Analyst, Bernstein
+All right.
+Thanks very much.
+Operator
+Our next question will come from the line of Ken Hoexter of Bank of America.
+Please go ahead.
+Ken Hoexter
+Analyst, Bank of America
+Great.
+Good morning.
+Maybe just a little bit, Carol Tomé, your thoughts into the peak season here, you know, maybe outside of the diversion, what, what was underlying in your, your, your thoughts here?
+I think Brian Newman mentioned still expecting negative all the way through the end of December.
+Maybe just a little bit of thoughts on, on the backdrop and, and, and the, the differences between the, the contract and, and what's going on economically.
+Carol Tomé
+CEO, UPS
+Yeah.
+We'll, we'll still have a peak.
+Even though we're winning back the volume that was diverted over time, we'll still have a peak.
+We are collaborating with the top 100 in customers that represent 87% of our peak surge.
+We're already starting to work with them on their operating plans for peak.
+Peak will be 21 days this year, the same as it was last year.
+We expect to see, you know, surge in the 60% area this year.
+It's still gonna peak up.
+It's just from a different volume level, and we're well prepared to have another peak.
+For us, it's just another day with more volume.
+Operator
+Our next question will come from the line of Mahit, Amit Mehrotra of Deutsche Bank.
+Please go ahead.
+Amit Mehrotra
+Equity Research Analyst, Deutsche Bank
+Thanks, operator.
+Hi, everyone.
+Brian, can you help us, you know, on the guidance change, just attribute that guidance change to volume diversion and then maybe the difference in terms of what you accrued on the wages?
+I don't know if you provided this in your prepared remarks, but the monthly cadence of domestic volumes in June and July.
+Lastly, Carol, you know, the, we started the year at 12% margin expectations for domestic.
+We went down to 11, now we're probably around 10.
+Obviously, we're in a completely different world, and you have a new wage deal.
+Just provide your thoughts around 3.3% inflation doesn't seem like a enormous hurdle.
+When do you like, has what's happened over the next last seven months changed kind of your view on, on what you think the, the, the return profile of this business is from an operating margin perspective of the domestic business, and, and when we can get back to like a positive trajectory in that?
+Thank you.
+Brian Newman
+CFO, UPS
+Hey, Amit, thanks for the question.
+From a guide perspective, we went from $97 billion- $93 billion in revenue.
+That's a $4 billion change.
+About $1 billion of that is from the softer volume Carol Tomé talked about in the second quarter, the higher diversion, and about $3 billion is coming from the, the second half.
+As we think about volume exiting the second quarter, down 12.
+You'll remember, in March and April, we were down 7, but June exited at -12.
+If we take that -12 exit and you get to flat by the end of the year, that glide over the balance of the year is about, it's down mid-single digit, down about 6%.
+From a profit standpoint, we went from, we dropped about $1.4 billion in profit to $11 billion or 11.8% margin.
+Most of that is coming from the domestic side, about $1 billion.
+That $1 billion, Amit, is split fairly evenly between wages and then also the lower volume I just referenced.
+There was a $400 million piece related to some inconsistent recovery in the euro, inflation and interest rates.
+Germany's in a recession and a bit of Asia, the vast majority is, is really split 50/50 between wages and volume.
+Carol Tomé
+CEO, UPS
+On the monthly cadence, we were down 12% in June.
+Brian Newman
+CFO, UPS
+Right.
+Carol Tomé
+CEO, UPS
+down double-digit in July, but better than 12%.
+Brian Newman
+CFO, UPS
+Right.
+Right.
+Carol Tomé
+CEO, UPS
+On your question about margin, you know, as we got into the negotiation with Teamsters, this is true for any negotiation, there are some things that are very important.
+One thing that was very important for Teamster leadership was to front load some of the wage inflation, and we agreed to do that.
+That does put a little pressure on the margin, as Brian pointed out.
+That doesn't change the destination, it just changes the journey.
+We'll have a bit of pressure for the next year through to August of next year, but then the inflation is very manageable.
+I see a path back to 12% or higher margins in the U.S., because of all the investments that we're making to drive productivity.
+A good proof point of that is what we did in the second quarter.
+Let me give you an example of just one of our initiatives, which is Smart Package Smart Facility.
+We're now in over about 50% of the buildings in the United States, and 50% of those buildings have misload improvements from 1 in 400 to now 1 in 1,000.
+As the buildings mature, they get better and more productive.
+As we think about the next phase of Smart Package Smart Facility, we're moving from where the preloaders are scanning the package to where the car is going to scan the package.
+Think about the productivity that we will enjoy then.
+It doesn't change the destination, just the journey.
+We plan to have an investor conference in the spring of 2024.
+We haven't landed on the date yet, but during that investor conference, we will lay out three-year targets, so you can understand the journey to get to a 12% or higher margin in the U.S.
+Amit Mehrotra
+Equity Research Analyst, Deutsche Bank
+Okay, very good.
+Thank you very much.
+Brian Newman
+CFO, UPS
+Thanks.
+Operator
+Our next question will come from the line of Allison Poliniak of Wells Fargo.
+Please go ahead.
+Allison Poliniak
+Equity Research Analyst, Wells Fargo Securities
+Thanks.
+Carol, I just want to see if you can expand a little bit on that productivity effort, you know, smart, you know, Smart Hub, Smart Package.
+You know, how we should think about that?
+You know, I know a lot of the investment was going into this year.
+You, you're talking about 900 facilities in, by the end of October.
+You know, does that productivity start to accelerate from here?
+You know, how should we think about that in terms of an offset to some of the wage inflation going forward?
+Thanks.
+Carol Tomé
+CEO, UPS
+Yeah.
+Smart Package Smart Facility is just one of the levers in our productivity toolkit.
+Our network planning tools are powerful tools.
+They are powered by machine learning and AR.
+If you think about it, we've just really completed the rollout of network planning tools in 2020.
+Every year we get better because the tools get better.
+Think about what the tools enabled us to do in the second quarter.
+When we saw volume starting to slow down and actually divert, we were able, through our tools, to move volume away from unautomated hubs to automated hubs.
+Let me make that real for you.
+Last year, of the volume that was sorted by our hubs in the United States, about 53% went through an automated hub.
+This year, 57% of the volume went through an automated hub.
+The tools are making us more effective.
+Then we are introducing new technology inside of our buildings to make us more effective, like automated label application and automated bagging and robotic small sort induction.
+I could go on and on, kind of geek out on the tools, but it's a, it's a complement of tools that will help offset some of the wage pressure that we will see over the next year.
+Allison Poliniak
+Equity Research Analyst, Wells Fargo Securities
+Thank you.
+That's helpful.
+Operator
+Our next question will come from the line of Brian Ossenbeck of JPMorgan.
+Please go ahead.
+Brian Ossenbeck
+Analyst, JPMorgan
+Hey, good morning.
+Thanks for taking the question.
+Just wanted to see if this agreement, now it's behind you and now for ratification, has that changed any of your thinking about the timing and magnitude of GRI or, or pricing in general?
+Maybe, Brian, you can give a little more detail on RPP trends and mix in, in the U.S.
+Carol, I wanted to see, you mentioned the SurePost advantage.
+Please give some context around the USPS Ground Advantage product that just launched, and if you see that as a competitive threat now that it's been out there for a month or so, maybe some initial impressions of that service and what they're able to deliver, and what it means for you.
+Thanks.
+Brian Newman
+CFO, UPS
+Yeah, Brian, thanks for the question.
+Look, every year we evaluate the GRI to provide the right service at the right price for our customers.
+This year, we had guided to roughly 500 basis point improvement in rate, and then we had expected about 200 basis point headwind in fuel to land at about 3%.
+We're staying with that guide for this year.
+Brian, coming up here in the fall, we'll take a look at next year, but the thing I would leave you with is we remain very disciplined on revenue management, and we'll continue to deliver value for the service we provide.
+Carol Tomé
+CEO, UPS
+On our SurePost product, it compares very favorably to the Post Office product, and we're gonna continue to invest in that product.
+We like it a lot because of the delivery density associated with that product.
+Operator
+Our next question will come from the line of Ravi Shanker of Morgan Stanley.
+Please go ahead.
+Ravi Shanker
+Analyst, Morgan Stanley
+Thanks.
+Morning, everyone.
+Carol, can you give us a little more color on the $7 billion sales pipeline?
+Kind of what kind of customers, what kind of end markets?
+Kind of, I, I haven't heard you guys talk about a sales pipeline before too often, so kind of how, how is that kind of building up or kind of expected to, to, to come through over time?
+Also, can you give us an update on your largest customer, please, and kind of any changes to that relationship slash volumes there over the course of the potential kind of union talks?
+Thank you.
+Carol Tomé
+CEO, UPS
+The sales pipeline is across all customer segments, with a real focus in the commercial area: small and medium-sized business supporters, healthcare, and enterprise.
+You name it, we're going after it.
+Our sales team are really excited about selling the thought- value that we have to offer, which is just the best service in the industry.
+We've also identified about 50 customers that are target customers for our new pricing architecture, which we call Architecture of Tomorrow.
+This new pricing architecture doesn't fit everybody, but it does fit some, where if based on their shipping needs, we could add pricing modifiers like day of week or cube or zip code plus four.
+These pricing modifiers are very interesting to these targeted customers, and it won't be for everybody, but for some, so we're gonna lean into that in a big way.
+As it relates to our largest customer, we have a very good relationship with our largest customer, and the business is operating as we would expect it to be.
+We're on a glide path, but not a glide out.
+Ravi Shanker
+Analyst, Morgan Stanley
+Thank you.
+Operator
+Our next question will come from the line of Chris Wetherbee of Citi.
+Please go ahead.
+Chris Wetherbee
+Equity Research Analyst, Citi
+Hey, thanks.
+Good morning.
+I was wondering if you could comment on the 1.2 million packages per day, and how you think that comes back.
+I guess maybe the bigger question is, does all of it come back?
+Maybe how long does it take to get there?
+Then, you know, Brian, you've given us some help in the past on sort of quarter-to-quarter margin dynamics as we think about getting towards that full year number.
+Is there anything you should be thinking about 3Q versus 4Q?
+I know wall-to-wall volumes will be a little bit better in the second part of the back half of the year, but just curious about how that cadence might look.
+Carol Tomé
+CEO, UPS
+Well, the 1.2 million packages per day is about 1 million of diverted volume.
+In other words, volume that we had got diverted elsewhere, and about $200 million of sales that we couldn't pull through because of concerns about the outcome of the labor negotiation.
+As Brian commented, we think by the end of the year, we will pull back everything that diverted, and I think we're gonna win that extra 200,000 packages as well.
+It doesn't happen overnight, of course.
+It's already starting to flow back in, but we think by the end of the year, we'll win it all back.
+Brian Newman
+CFO, UPS
+Chris, just with respect to the phasing, we're really focused on the second half and the full-year guide, but, I, I, I would say both top line and profitability, Q3 will be more challenged than Q4, due to the ADV growth rates and seasonality, and we've got some one-time costs in the third quarter.
+I would just think of Q4 being a bit stronger than Q3.
+Carol Tomé
+CEO, UPS
+You might ask, "Well, where did that volume go?" We don't have great intelligence there, but we do have some market share intelligence through a tool that we use from NielsenIQ, pardon me.
+What that would tell us, it's not perfect, but what it would tell us, is that a third went to the Post Office, a third went to FedEx, and a third went to the regionals.
+That actually directs our activities as when we think about how to win that, that volume back.
+Operator
+Our next question will come from the line of Jordan Alliger of Goldman Sachs.
+Please go ahead.
+Jordan Alliger
+Equity Research Analyst, Goldman Sachs
+Morning.
+I was wondering if you could give a little more color.
+I think you have a good sense on, on domestic margin, and it looks like there's a small piece of your profitability guide that's supply chain and international.
+Can you maybe talk about or unpack a little bit, sort of, the margins expectation of the full year on that, and if indeed, you know, the U.S. margin should be at or around the 10% level, give or take?
+Thanks.
+Brian Newman
+CFO, UPS
+From a margin perspective, Jordan, we'd expect international full year to be 19%-20%.
+SCS should be at 10.
+As you think about the international business, the second half ADV, we're expecting to be down around 6.5%.
+RPP should be flattish.
+Really, it, it, it stems from some of the challenging macro situation.
+We've got weak real export growth.
+Germany is in a recession.
+I, I would say Europe and Asia, ADV growth would bottom in Q3.
+Kate and the team are very focused on controlling what we control, both on the air side, and the, the headcount side to protect that.
+You saw she printed north of a 20% margin in the second quarter.
+SCS, I would expect full year revenue to approach $14 billion with a margin of about 10%.
+Forwarding rates and volume is stabilizing but down year-over-year.
+The team does a good job of managing the buy, sell spreads, as you saw.
+Obviously, expanding healthcare is a strategic priority for the company, and they're also executing the cost initiatives.
+Jordan Alliger
+Equity Research Analyst, Goldman Sachs
+Thank you.
+Operator
+Our next question will come from the line of Jeff Kaufman of Vertical Research Partners.
+Please go ahead.
+Jeff Kaufman
+Equity Research Analyst, Vertical Research Partners
+I just wanted to ask a little bit about the labor contract economics.
+I know you said we'll have a call on this after ratification, but you noted a number of about 3.3% CAGR on the economic benefits.
+Just off the wage, we're calculating a little higher than that.
+Could you do your best to break down the components that help us get to that 3.3%?
+Brian Newman
+CFO, UPS
+Hey, Jeff. 3.3 is an all-in number, so it includes wages and benefits, so the two net together.
+Rather than, go into a lot of detail on this call, I'm gonna host a call shortly after ratification, and I'll take you through all the details at that point.
+Carol Tomé
+CEO, UPS
+We can go line by line at that point.
+Brian Newman
+CFO, UPS
+Yeah, we can.
+I can go very deep then.
+Carol Tomé
+CEO, UPS
+We want to respect the ratification process.
+Brian Newman
+CFO, UPS
+Yeah.
+Carol Tomé
+CEO, UPS
+Yeah.
+Jeff Kaufman
+Equity Research Analyst, Vertical Research Partners
+All right, well, that's my one.
+Thank you.
+Brian Newman
+CFO, UPS
+Thanks, Jeff.
+Carol Tomé
+CEO, UPS
+Thank you.
+Operator
+Our next question comes from the line of Tom Wadewitz of UBS.
+Please go ahead.
+Tom Wadewitz
+Analyst, UBS
+Yeah, good morning. wanted to see if you could help us to think about, you know, kind of volume versus price.
+It seems like both are-
+... important, but, you know, they're kind of related, right?
+If you go for more price offs at higher inflation, then, you know, could be a headwind to what you do on volume.
+How do you think about managing between those two?
+Then I guess that feeds into, you know, you, you've given us a lot to work with for 2023, but I think there's probably a lack of visibility for 2024, whether, you know, should earnings be up in 2024?
+Obviously, we'd like to see that.
+You know, you've got through August, that headwind.
+Any broad commentary about how optimistic you might be on 2024, in terms of domestic margin or earnings overall?
+Thank you.
+Carol Tomé
+CEO, UPS
+We run the business as a portfolio, so we want both.
+We want volume, and we want price.
+Price doesn't necessarily mean price increases.
+It means moving into segments that value our end-to-end network and pay-- have different products.
+We run it as a portfolio.
+We want both.
+That's the easy answer to that question.
+Brian Newman
+CFO, UPS
+Just on shaping the multiyear, Tom, well, as Carol mentioned, we'll come back in the spring and give you multiyear targets.
+Obviously, year 1 of the labor contract is the most expensive piece.
+That's an August to August, so 1H of 2024 would expect to be under some pressure, the back half, less inflation.
+So we'll, we'll walk that for you in the early part of next year.
+Tom Wadewitz
+Analyst, UBS
+Okay, great.
+Thank you.
+Brian Newman
+CFO, UPS
+Thanks, Tom.
+Operator
+Our next question will come from the line of Bruce Chan of Stifel.
+Please go ahead.
+Bruce Chan
+Equity Research Analyst, Stifel
+Great, thanks, operator.
+Appreciate the time here.
+Carol, the DAP rollout has been, you know, very successful this year, and I know it's early to start thinking about 2024, but as far as, you know, what the longer opportunity is, you know, does growth start to slow for that channel now that you've kind of reached critical mass, or do you still see quite a bit of opportunity there?
+Then, Brian, you know, just to follow up broadly on e-commerce demand trends, have we kind of turned the corner there, or are we still seeing a bit of an air pocket in terms of spending?
+Thank you.
+Carol Tomé
+CEO, UPS
+Thanks for your comments about DAP.
+We're very pleased with that, product, and we see nothing but growth ahead, global growth.
+We are just scratching the surface when we think about DAP outside of the United States, and we continue to add new partners here in the United States, now up to 27 partners.
+One thing we're doing to continue to grow DAP is to make it easier to onboard the platforms.
+We are introducing widgets, which are just basically, preprogrammed applications that a DAP partner can put into its website and avoid the user interface and API onboarding that can slow things down.
+The first widget that we introduced is a locator widget, so our DAP partner can put the locator widget into its, website, and then you push a button, and up pops the closest UPS Store to ship that package.
+We're gonna continue to make it easier to do business with as we continue to grow this important part of our business.
+Bruce Chan
+Equity Research Analyst, Stifel
+Brian, just on the, the e-commerce demand trends, any broad commentary there?
+Brian Newman
+CFO, UPS
+Yeah, we, you know, we're looking at ESMO improving in the back end of the year.
+From a macro standpoint, I, I, I think the trends are, are, are stable to improving in the U.S., obviously under some more pressure internationally.
+Carol Tomé
+CEO, UPS
+I mean, clearly, what happened with e-commerce is it blew up during COVID.
+Brian Newman
+CFO, UPS
+Right.
+Carol Tomé
+CEO, UPS
+It blew up, and so now, you know, everything's kind of reverting back to where it was.
+Brian Newman
+CFO, UPS
+Right
+Carol Tomé
+CEO, UPS
+before COVID.
+We see that around the globe, which makes sense, and so this is a great place to think about growth from here on out.
+Bruce Chan
+Equity Research Analyst, Stifel
+Great.
+Thanks for the time.
+Brian Newman
+CFO, UPS
+Thanks, Bruce.
+Operator
+Our next question will come from the line of Scott Schneeberger of Oppenheimer.
+Please go ahead.
+Scott Schneeberger
+Equity Research Analyst, Oppenheimer
+Thanks very much.
+Brian, I believe you said, you're expecting a bottoming in Europe and Asia in, in the third quarter.
+Just, want to get a sense of cadence of, and your optimism that it will improve in fourth quarter, just what you're seeing in trajectory on both there.
+Then also, if you could put into perspective just, domestic cost per piece, how you see that trajectory on that metric, specifically.
+Thanks.
+Brian Newman
+CFO, UPS
+ing, we had thought we would've seen the bottom in Asia in Q2, which I would say it didn't recover, it stalled.
+In Europe, we think the bottom will be more in Q3, but there could be an elongated period here.
+So we're not putting in a lot of recovery into the international business going forward.
+On the CPP basis, we're still calling for from a U.S. basis, we would look from a full year standpoint to be about 11.24, which is about a 1.4% change from the 11.08 that we had previously
+Scott Schneeberger
+Equity Research Analyst, Oppenheimer
+Thanks.
+Brian Newman
+CFO, UPS
+Yep.
+Operator
+Our next question will come from the line of Stephanie Moore of Jefferies.
+Please go ahead.
+Stephanie Moore
+Equity Research Analyst, Jefferies
+Hi, good morning.
+Thank you.
+I want to touch a little bit on your, kind of your automation efforts as part of your, your ongoing productivity, tools.
+You know, I think you said last year it was about 53% went through, you know, some form of an automated hub.
+This year at 57.
+Do you have kind of a line of sight on where that can go, you know, over time?
+Carol Tomé
+CEO, UPS
+We do.
+We're gonna come back in the spring at our investor conference and give you our sense of what we're calling Network of the Future.
+It's a very exciting opportunity for us to really automate this business.
+The good thing is we don't have to integrate our network because we're integrated, but we can do a better job of automating, and so we'll come back and give you all that in the spring of next year.
+Stephanie Moore
+Equity Research Analyst, Jefferies
+All right.
+I'll leave it at that, then.
+Thank you.
+Operator
+Our next question will come from the line of Brandon Oglenski of Barclays.
+Please go ahead.
+Eric Morgan
+Equity Research Analyst, Barclays
+Hey, good morning.
+This is Eric Morgan on for Brandon.
+Thanks for taking my question.
+I just wanted to ask a follow-up on SurePost.
+Maybe could you give us an update on how much you're redirecting in the network today?
+And maybe could fill us in if this was a topic at the labor negotiations, and if you did need to start insourcing more, kind of on an accelerated basis, what kind of, you know, potential cost implications or inefficiencies there could be, and maybe some offsets there as well?
+Thank you.
+Carol Tomé
+CEO, UPS
+Sure.
+We're redirecting a little under 40% at the end of the second quarter.
+It was a point of the negotiations.
+We've agreed to redirect 50%.
+No problem at all with that.
+No concern about cost because the delivery density with SurePost is really, really good.
+Eric Morgan
+Equity Research Analyst, Barclays
+Thank you.
+Carol Tomé
+CEO, UPS
+Yeah.
+Eric Morgan
+Equity Research Analyst, Barclays
+Thanks.
+Operator
+Our next question comes from the line of Amit Mehrotra of Deutsche Bank.
+Please go ahead.
+Amit Mehrotra
+Equity Research Analyst, Deutsche Bank
+Hey, thank, thanks for letting me have a follow-up.
+I just a couple quick ones.
+Brian, I think you said the labor deal is $500 million headwind in the back half relative to what you accrued for estimated in the prior guidance.
+I, I wasn't sure if that was a gross number or there was some productivity in against that.
+Carol, you know, I wanted to ask about M&A because it doesn't get enough attention, but I think you guys have done some interesting strategic acquisitions from, you know, Delivery Solutions.
+You also took a stake or a board seat on, on CommerceHub.
+These are small, but I, I view kind of as important deals, kind of long term in view.
+Can you just talk about what they give you, and, and is there more in the pipeline because you're generating oodles of, of cash flow and wondering if there's an opportunity to, to tack on more deals, even on the healthcare vertical, which is such a big vertical for you guys?
+If you could just expand on that.
+Thank you.
+Brian Newman
+CFO, UPS
+Hey, Amit.
+The barbell shape of, of the contract, the 500 is a gross number.
+We had assumed originally about 500, so it's actually 2x what we thought.
+Carol Tomé
+CEO, UPS
+On the acquisitions that we've made, we couldn't be happier because they are giving us enabling capabilities from a Delivery Solutions, creating product from us to Bomi Group, which is creating cold chain logistics for us in parts of the world that we didn't have that.
+I couldn't be happier.
+I should- I don't want to miss out any of the companies that we've acquired, so we're pleased with Roadie and what it's providing for us as well.
+They're enabling capabilities.
+As we look ahead, expect us to continue to acquire enabling capabilities, particularly in those areas that we really wanna own.
+Healthcare logistics would certainly be one of those.
+Technology investments that give us platforms to accelerate the digital experience for our customers, absolutely expect us to lean into that space, and we'll be giving you updates as we go.
+Brian Newman
+CFO, UPS
+Stephen, we have time for one more question.
+Operator
+Our last question will come from the line of John Chappell of Evercore ISI.
+Please go ahead.
+John Chappell
+Equity Research Analyst, Evercore ISI
+Thank you.
+Good morning.
+I just want to tie together a couple things from before.
+As you think about regaining that 1 million packages that was diverted, and you think about your pricing path going forward, do you have to lead with price in the next 6 months to win the diverted traffic and then think about pricing, you know, from a, a new starting point in 2024?
+Or do you think it's strictly service, your relationships, and that package flow will come back to you without adjusting the way you think about the revenue management?
+Carol Tomé
+CEO, UPS
+We don't think we have to lead with price.
+Our customers did what they thought they had to do to protect their customers, but they're very happy with us.
+It's about operating plans, making sure they come back to us without disruption to their business.
+That doesn't happen overnight.
+It's gonna take a while, but we can bring that business back because of what we provide to them.
+John Chappell
+Equity Research Analyst, Evercore ISI
+Thank you, Carol.
+Carol Tomé
+CEO, UPS
+Thank you.
+Brian Newman
+CFO, UPS
+Thanks.
+Operator
+All right.
+I want to thank everybody for joining us this morning.
+We look forward to talking to you soon.
+That concludes our call.
+Data Source:
+Quartr
+Last updated:
+Aug 8, 2023
+Earnings call transcripts are provided by
+Quartr
+and are published within hours after each earnings call.
+Update frequency:
+Quarterly
+Data Sources
+Report a data error
+Play Audio
+Download Transcript
+Speakers (19)
+Quarterly report
+Slides
+Earnings release
+Install The App
+4.9
+5.6K
+4.9
+5.9K
+Sections
+Stocks
+IPOs
+ETFs
+Blog
+Services
+Stock Analysis Pro
+Free Newsletter
+Get Support
+Install The App
+Website
+Login
+Create Account
+Changelog
+Sitemap
+Advertise
+Help Center
+Company
+About
+Contact Us
+Terms of Use
+Privacy Policy
+Data Sources
+Affiliate Program
+Market Newsletter
+Daily market news in bullet point format.
+Subscribe
+Site Theme
+Light
+Dark
+© 2026 StockAnalysis.com. All rights reserved.
