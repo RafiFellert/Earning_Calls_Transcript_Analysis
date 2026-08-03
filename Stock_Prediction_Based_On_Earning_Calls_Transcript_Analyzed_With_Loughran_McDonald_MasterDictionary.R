@@ -79,9 +79,9 @@ model_data <- transcripts_df %>%
 # 4. Train/Test Split
 # ==============================================================================
 
-set.seed(42)
+set.seed(1)
 
-data_split <- initial_split(model_data, prop = 0.80, strata = Target_Factor)
+data_split <- initial_split(model_data, prop = 0.6, strata = Target_Factor)
 train_data <- training(data_split)
 test_data  <- testing(data_split)
 
