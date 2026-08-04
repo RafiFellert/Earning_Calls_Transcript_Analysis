@@ -1,5 +1,5 @@
 # ==========================================
-# Models: 
+# Algorithms: 
 #   1. LASSO  
 #   2. SVM
 # Feature Sets:
@@ -74,14 +74,14 @@ categorial_param <- factor(df$`Is.Price.UP`, levels = c("NO", "YES"))
 # 4. Construct Feature Sets
 # ------------------------------------------
 # Feature 1: Unigrams
-dtm_uni_sparse <- removeSparseTerms(dtm_unigram, 0.95)
+dtm_uni_sparse <- removeSparseTerms(dtm_unigram, 0.98)
 X_unigram      <- as.matrix(dtm_uni_sparse)
 
 # Feature 2: Bigrams
-dtm_bi_sparse <- removeSparseTerms(dtm_bigram, 0.95)
+dtm_bi_sparse <- removeSparseTerms(dtm_bigram, 0.98)
 X_bigram      <- as.matrix(dtm_bi_sparse)
 
-# Feature 3: LDA Topics (10 Topics)
+# Feature 3: LDA Topics (20 Topics)
 lda_model  <- LDA(dtm_unigram, k = 10, method = "Gibbs", 
                   control = list(seed = 1, burnin = 500, iter = 1000))
 
@@ -106,7 +106,7 @@ X_sentiment_unigram_topics <- cbind(X_unigram_topics, X_sentiment)
 
 # Feature 7: TF-IDF (Built directly from row-filtered dtm_unigram)
 dtm_tfidf        <- weightTfIdf(dtm_unigram)
-dtm_tfidf_sparse <- removeSparseTerms(dtm_tfidf, 0.95)
+dtm_tfidf_sparse <- removeSparseTerms(dtm_tfidf, 0.98)
 X_tfidf          <- as.matrix(dtm_tfidf_sparse)
 
 feature_sets <- list(
