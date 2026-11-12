@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://stockanalysis.com"
 # Add the ticker name you are looking for
-TICKER = "CSCO"
+TICKER = "<TICKET_NAME>"
 
 INDEX_URL = (
     f"{BASE_URL}/stocks/{TICKER.lower()}/transcripts/"
